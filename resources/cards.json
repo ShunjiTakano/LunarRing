@@ -1,0 +1,6465 @@
+{
+  "familiar-face": {
+    "id": "familiar-face",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Familiar Face"
+        },
+        "type": "Acolyte",
+        "cost": 1,
+        "image": "https://example.com/cards/familiar-face.webp"
+      },
+      "back": {
+        "name": {
+          "name": "Complete Stranger"
+        },
+        "type": "Acolyte",
+        "cost": 1,
+        "image": "https://example.com/cards/familiar-face-back.webp"
+      }
+    },
+    "name": "Familiar Face",
+    "type": "Acolyte",
+    "cost": 1,
+    "effect": "Whenever a Familiar Face enters your armoury, I Distort. / \nAt your recovery, return me to my owners hand.",
+    "attack": 1,
+    "health": 1,
+    "covenant": "Igon",
+    "_legal": {
+      "IGO": true
+    }
+  },
+  "heliana-dictator-of-recollection": {
+    "id": "heliana-dictator-of-recollection",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Heliana, Dictator of Recollection"
+        },
+        "type": "Acolyte",
+        "cost": 10,
+        "image": "https://example.com/cards/heliana-dictator-of-recollection.webp"
+      }
+    },
+    "name": "Heliana, Dictator of Recollection",
+    "type": "Acolyte",
+    "cost": 10,
+    "effect": "Brandish: For each Hazed Memory your opponent wields, Shatter an armament. For the rest of the game, players cannot play cards with the same name as armaments shattered this way.",
+    "attack": 1,
+    "health": 4,
+    "covenant": "Igon",
+    "_legal": {
+      "IGO": true
+    }
+  },
+  "madness-clairvoyant": {
+    "id": "madness-clairvoyant",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Madness Clairvoyant"
+        },
+        "type": "Acolyte",
+        "cost": 2,
+        "image": "https://example.com/cards/madness-clairvoyant.webp"
+      }
+    },
+    "name": "Madness Clairvoyant",
+    "type": "Acolyte",
+    "cost": 2,
+    "effect": "Test 2 Resolve, Exhaust: Your opponent creates a Hazed Memory. Crescent Moon: Your opponent creates 2 instead.",
+    "attack": 2,
+    "health": 2,
+    "covenant": "Igon",
+    "_legal": {
+      "IGO": true
+    }
+  },
+  "memory-of-relief": {
+    "id": "memory-of-relief",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Memory of Relief"
+        },
+        "type": "Acolyte",
+        "cost": 2,
+        "image": "https://example.com/cards/memory-of-relief.webp"
+      },
+      "back": {
+        "name": {
+          "name": "Memory of Anguish"
+        },
+        "type": "Acolyte",
+        "cost": 2,
+        "image": "https://example.com/cards/memory-of-relief-back.webp"
+      }
+    },
+    "name": "Memory of Relief",
+    "type": "Acolyte",
+    "cost": 2,
+    "effect": "At your recovery, restore 2 health. If your condition worsens, I Distort. / \nAt your recovery deal 1 damage to all acolytes and you lose 1 health.",
+    "attack": 1,
+    "health": 3,
+    "covenant": "Igon",
+    "_legal": {
+      "IGO": true
+    }
+  },
+  "pora-mind-s-guardian": {
+    "id": "pora-mind-s-guardian",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Pora, Mind's Guardian"
+        },
+        "type": "Acolyte",
+        "cost": 3,
+        "image": "https://example.com/cards/pora-mind-s-guardian.webp"
+      }
+    },
+    "name": "Pora, Mind's Guardian",
+    "type": "Acolyte",
+    "cost": 3,
+    "effect": "Whenever an armament you wield would Distort, you may exhaust me instead. Whenever I exhaust, your opponent loses 1 health.",
+    "attack": 2,
+    "health": 4,
+    "covenant": "Igon",
+    "_legal": {
+      "IGO": true
+    }
+  },
+  "proud-child": {
+    "id": "proud-child",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Proud Child"
+        },
+        "type": "Acolyte",
+        "cost": 2,
+        "image": "https://example.com/cards/proud-child.webp"
+      },
+      "back": {
+        "name": {
+          "name": "Haunting Reminder"
+        },
+        "type": "Acolyte",
+        "cost": 2,
+        "image": "https://example.com/cards/proud-child-back.webp"
+      }
+    },
+    "name": "Proud Child",
+    "type": "Acolyte",
+    "cost": 2,
+    "effect": "Whenever you play a card, I deal 1 damage to your oppponent. If you have 3 or less cards in hand, I Distort / \nExhaust: Both players put the top card of their deck into their scrapyard.",
+    "attack": 1,
+    "health": 2,
+    "covenant": "Igon",
+    "_legal": {
+      "IGO": true
+    }
+  },
+  "scribe-of-igon": {
+    "id": "scribe-of-igon",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Scribe of Igon"
+        },
+        "type": "Acolyte",
+        "cost": 2,
+        "image": "https://example.com/cards/scribe-of-igon.webp"
+      },
+      "back": {
+        "name": {
+          "name": "Warrior of Igon"
+        },
+        "type": "Acolyte",
+        "cost": 2,
+        "image": "https://example.com/cards/scribe-of-igon-back.webp"
+      }
+    },
+    "name": "Scribe of Igon",
+    "type": "Acolyte",
+    "cost": 2,
+    "effect": "Whenever I Distort, your opponent creates a Hazed Memory. If your opponent plays 2 cards in 1 turn, I Distort. / Whenever I Distort, your opponent loses 2 health. If your opponent wields 3 or more armaments, I Distort.",
+    "attack": 1,
+    "health": 1,
+    "covenant": "Igon",
+    "_legal": {
+      "IGO": true
+    }
+  },
+  "unsettling-prescence": {
+    "id": "unsettling-prescence",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Unsettling Prescence"
+        },
+        "type": "Acolyte",
+        "cost": 5,
+        "image": "https://example.com/cards/unsettling-prescence.webp"
+      },
+      "back": {
+        "name": {
+          "name": "Scion of the Pale Stare"
+        },
+        "type": "Acolyte",
+        "cost": 5,
+        "image": "https://example.com/cards/unsettling-prescence-back.webp"
+      }
+    },
+    "name": "Unsettling Prescence",
+    "type": "Acolyte",
+    "cost": 5,
+    "effect": "Sacrifice. When I break, I Distort instead. /\n At your recovery, gain 3 Dread.",
+    "attack": 1,
+    "health": 5,
+    "covenant": "Igon",
+    "_legal": {
+      "IGO": true
+    }
+  },
+  "wisp-of-remembrance": {
+    "id": "wisp-of-remembrance",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Wisp of Remembrance"
+        },
+        "type": "Acolyte",
+        "cost": 2,
+        "image": "https://example.com/cards/wisp-of-remembrance.webp"
+      }
+    },
+    "name": "Wisp of Remembrance",
+    "type": "Acolyte",
+    "cost": 2,
+    "effect": "Sacrifice. Half Moon: As long as your opponent wields a Hazed Memory, I cannot break or lose health.",
+    "attack": 1,
+    "health": 1,
+    "covenant": "Igon",
+    "_legal": {
+      "IGO": true
+    }
+  },
+  "hunt-untruth": {
+    "id": "hunt-untruth",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Hunt Untruth"
+        },
+        "type": "Edict",
+        "cost": 2,
+        "image": "https://example.com/cards/hunt-untruth.webp"
+      }
+    },
+    "name": "Hunt Untruth",
+    "type": "Edict",
+    "cost": 2,
+    "effect": "Whenever an armament you wield distorts, Draw 1. Then you may discard 1. If you don't, break this and put the top 2 cards of your deck into your scrapyard.",
+    "covenant": "Igon",
+    "_legal": {
+      "IGO": true
+    }
+  },
+  "frayed-recollection": {
+    "id": "frayed-recollection",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Frayed Recollection"
+        },
+        "type": "Edict",
+        "cost": 3,
+        "image": "https://example.com/cards/frayed-recollection.webp"
+      }
+    },
+    "name": "Frayed Recollection",
+    "type": "Edict",
+    "cost": 3,
+    "effect": "You may look at the top card of your deck at any time. You may play cards from the top of your deck. If you play a card with Distort this way, it Distorts when it enters your armoury.",
+    "covenant": "Igon",
+    "_legal": {
+      "IGO": true
+    }
+  },
+  "spreading-distortion": {
+    "id": "spreading-distortion",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Spreading Distortion"
+        },
+        "type": "Edict",
+        "cost": 2,
+        "image": "https://example.com/cards/spreading-distortion.webp"
+      }
+    },
+    "name": "Spreading Distortion",
+    "type": "Edict",
+    "cost": 2,
+    "effect": "Whenever an armament you wield Distorts, your opponent may put the top card of their deck into their scrapyard. If they don't, your opponent loses 1 life instead.",
+    "covenant": "Igon",
+    "_legal": {
+      "IGO": true
+    }
+  },
+  "grasp-at-truth": {
+    "id": "grasp-at-truth",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Grasp At Truth"
+        },
+        "type": "Edict",
+        "cost": 4,
+        "image": "https://example.com/cards/grasp-at-truth.webp"
+      }
+    },
+    "name": "Grasp At Truth",
+    "type": "Edict",
+    "cost": 4,
+    "effect": "Whenever an armament you wield Distorts, Scavenge a card with the same name. If you don't, lose 2 health. Eclipse: You can only play cards with Distort.",
+    "covenant": "Igon",
+    "_legal": {
+      "IGO": true
+    }
+  },
+  "erroneous-slaughter": {
+    "id": "erroneous-slaughter",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Erroneous Slaughter"
+        },
+        "type": "Edict",
+        "cost": 5,
+        "image": "https://example.com/cards/erroneous-slaughter.webp"
+      }
+    },
+    "name": "Erroneous Slaughter",
+    "type": "Edict",
+    "cost": 5,
+    "effect": "At your recovery, your opponent creates 2 Hazed Memories. Full Moon: Hazed Memories your opponent wield cannot be broken.",
+    "covenant": "Igon",
+    "_legal": {
+      "IGO": true
+    }
+  },
+  "thoughts-collapse": {
+    "id": "thoughts-collapse",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Thoughts Collapse"
+        },
+        "type": "Edict",
+        "cost": 7,
+        "image": "https://example.com/cards/thoughts-collapse.webp"
+      }
+    },
+    "name": "Thoughts Collapse",
+    "type": "Edict",
+    "cost": 7,
+    "effect": "At you recovery, Distort any number of armaments you wield. For each one not distorted this way put the top 2 cards of your deck into your scrapyard.",
+    "covenant": "Igon",
+    "_legal": {
+      "IGO": true
+    }
+  },
+  "pale-disruption": {
+    "id": "pale-disruption",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Pale Disruption"
+        },
+        "type": "Riposte",
+        "cost": 2,
+        "image": "https://example.com/cards/pale-disruption.webp"
+      }
+    },
+    "name": "Pale Disruption",
+    "type": "Riposte",
+    "cost": 2,
+    "effect": "Break an armament your opponent wields that entered their armoury this turn.",
+    "covenant": "Igon",
+    "_legal": {
+      "IGO": true
+    }
+  },
+  "existential-dread": {
+    "id": "existential-dread",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Existential Dread"
+        },
+        "type": "Riposte",
+        "cost": 2,
+        "image": "https://example.com/cards/existential-dread.webp"
+      }
+    },
+    "name": "Existential Dread",
+    "type": "Riposte",
+    "cost": 2,
+    "effect": "Distort an armament you wield. It cannot break or shatter this turn.",
+    "covenant": "Igon",
+    "_legal": {
+      "IGO": true
+    }
+  },
+  "memories-washed": {
+    "id": "memories-washed",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Memories Washed"
+        },
+        "type": "Riposte",
+        "cost": 4,
+        "image": "https://example.com/cards/memories-washed.webp"
+      }
+    },
+    "name": "Memories Washed",
+    "type": "Riposte",
+    "cost": 4,
+    "effect": "Break 2 armaments your opponent wields. Half Moon: Break all armaments instead.",
+    "covenant": "Igon",
+    "_legal": {
+      "IGO": true
+    }
+  },
+  "igon-s-oath-sigil": {
+    "id": "igon-s-oath-sigil",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Igon's Oath Sigil"
+        },
+        "type": "Tactic",
+        "cost": 0,
+        "image": "https://example.com/cards/igon-s-oath-sigil.webp"
+      }
+    },
+    "name": "Igon's Oath Sigil",
+    "type": "Tactic",
+    "cost": 0,
+    "effect": "Gain 1 resolve this turn. Distort an armament you wield.",
+    "covenant": "Igon",
+    "_legal": {
+      "IGO": true
+    }
+  },
+  "heliana-s-fragments": {
+    "id": "heliana-s-fragments",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Heliana’s Fragments"
+        },
+        "type": "Tactic",
+        "cost": 2,
+        "image": "https://example.com/cards/heliana-s-fragments.webp"
+      }
+    },
+    "name": "Heliana’s Fragments",
+    "type": "Tactic",
+    "cost": 2,
+    "effect": "Witness a card with Distort.",
+    "covenant": "Igon",
+    "_legal": {
+      "IGO": true
+    }
+  },
+  "igon-s-timepiece": {
+    "id": "igon-s-timepiece",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Igon's Timepiece"
+        },
+        "type": "Tactic",
+        "cost": 2,
+        "image": "https://example.com/cards/igon-s-timepiece.webp"
+      }
+    },
+    "name": "Igon's Timepiece",
+    "type": "Tactic",
+    "cost": 2,
+    "effect": "Draw 1 and discard 1. You may play this from your scrapyard if an armament you wield distorted this turn.",
+    "covenant": "Igon",
+    "_legal": {
+      "IGO": true
+    }
+  },
+  "fragments-of-being": {
+    "id": "fragments-of-being",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Fragments of Being"
+        },
+        "type": "Tactic",
+        "cost": 6,
+        "image": "https://example.com/cards/fragments-of-being.webp"
+      }
+    },
+    "name": "Fragments of Being",
+    "type": "Tactic",
+    "cost": 6,
+    "effect": "Play up to 4 armaments with Distort from your scrapyard without testing resolve. Then Shatter your hand.",
+    "covenant": "Igon",
+    "_legal": {
+      "IGO": true
+    }
+  },
+  "reality-dissolves": {
+    "id": "reality-dissolves",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Reality Dissolves"
+        },
+        "type": "Tactic",
+        "cost": 2,
+        "image": "https://example.com/cards/reality-dissolves.webp"
+      }
+    },
+    "name": "Reality Dissolves",
+    "type": "Tactic",
+    "cost": 2,
+    "effect": "Distort an armamnent you wield. Crescent Moon: If that armament was a weapon give it +1 attack as well.",
+    "covenant": "Igon",
+    "_legal": {
+      "IGO": true
+    }
+  },
+  "everything-all-at-once": {
+    "id": "everything-all-at-once",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Everything All At Once"
+        },
+        "type": "Tactic",
+        "cost": 2,
+        "image": "https://example.com/cards/everything-all-at-once.webp"
+      }
+    },
+    "name": "Everything All At Once",
+    "type": "Tactic",
+    "cost": 2,
+    "effect": "Your opponent creates a Hazed Memory. If you are Thriving, draw 1 as well.",
+    "attack": "n.a",
+    "covenant": "Igon",
+    "_legal": {
+      "IGO": true
+    }
+  },
+  "clairvoyance-in-chaos": {
+    "id": "clairvoyance-in-chaos",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Clairvoyance In Chaos"
+        },
+        "type": "Tactic",
+        "cost": 6,
+        "image": "https://example.com/cards/clairvoyance-in-chaos.webp"
+      }
+    },
+    "name": "Clairvoyance In Chaos",
+    "type": "Tactic",
+    "cost": 6,
+    "effect": "Your opponent creates 5 Hazed Memories. Put the top 10 cards of your deck into your scrapyard. Full Moon: Put the top 2 cards of your deck into your scrapyard instead.",
+    "covenant": "Igon",
+    "_legal": {
+      "IGO": true
+    }
+  },
+  "shape-of-memory": {
+    "id": "shape-of-memory",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Shape of Memory"
+        },
+        "type": "Tactic",
+        "cost": 2,
+        "image": "https://example.com/cards/shape-of-memory.webp"
+      }
+    },
+    "name": "Shape of Memory",
+    "type": "Tactic",
+    "cost": 2,
+    "effect": "Draw 1. You may Distort an armament you wield. If you do, draw 3 instead. Crescent Moon: Look at the top 3 cards of your deck and put them on the top or bottom of your deck in any order first.",
+    "covenant": "Igon",
+    "_legal": {
+      "IGO": true
+    }
+  },
+  "temporary-judgement": {
+    "id": "temporary-judgement",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Temporary Judgement"
+        },
+        "type": "Tactic",
+        "cost": 1,
+        "image": "https://example.com/cards/temporary-judgement.webp"
+      }
+    },
+    "name": "Temporary Judgement",
+    "type": "Tactic",
+    "cost": 1,
+    "effect": "Shatter an armament your opponent wields. Return it to their armoury at their next recovery.",
+    "covenant": "Igon",
+    "_legal": {
+      "IGO": true
+    }
+  },
+  "leaking-possibility": {
+    "id": "leaking-possibility",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Leaking Possibility"
+        },
+        "type": "Tactic",
+        "cost": 1,
+        "image": "https://example.com/cards/leaking-possibility.webp"
+      }
+    },
+    "name": "Leaking Possibility",
+    "type": "Tactic",
+    "cost": 1,
+    "effect": "Distort an armament you wield. At your recovery, Distort it again. Crescent Moon: Look at the top 3 cards instead and put them back in any order.",
+    "covenant": "Igon",
+    "_legal": {
+      "IGO": true
+    }
+  },
+  "distortion-empowerment": {
+    "id": "distortion-empowerment",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Distortion Empowerment"
+        },
+        "type": "Tactic",
+        "cost": 4,
+        "image": "https://example.com/cards/distortion-empowerment.webp"
+      }
+    },
+    "name": "Distortion Empowerment",
+    "type": "Tactic",
+    "cost": 4,
+    "effect": "Give an armament that Distorted this turn +3 Attack.",
+    "covenant": "Igon",
+    "_legal": {
+      "IGO": true
+    }
+  },
+  "correction": {
+    "id": "correction",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Correction"
+        },
+        "type": "Tactic",
+        "cost": 8,
+        "image": "https://example.com/cards/correction.webp"
+      }
+    },
+    "name": "Correction",
+    "type": "Tactic",
+    "cost": 8,
+    "effect": "Shatter all armaments your opponent wields.",
+    "covenant": "Igon",
+    "_legal": {
+      "IGO": true
+    }
+  },
+  "hazed-memory": {
+    "id": "hazed-memory",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Hazed Memory"
+        },
+        "type": "Token Edict",
+        "cost": 0,
+        "image": "https://example.com/cards/hazed-memory.webp"
+      }
+    },
+    "name": "Hazed Memory",
+    "type": "Token Edict",
+    "cost": 0,
+    "effect": "Test 1 Resolve: Break me. You take an additional damage from your opponent.",
+    "attack": 0,
+    "health": 1,
+    "covenant": "Igon",
+    "isToken": true,
+    "_legal": {
+      "IGO": true
+    }
+  },
+  "edge-of-consciousness": {
+    "id": "edge-of-consciousness",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Edge of Consciousness"
+        },
+        "type": "Weapon",
+        "cost": 8,
+        "image": "https://example.com/cards/edge-of-consciousness.webp"
+      }
+    },
+    "name": "Edge of Consciousness",
+    "type": "Weapon",
+    "cost": 8,
+    "effect": "On Attack: Distort all armaments you wield. For each one Distorted this way, I gain +2 attack this turn. Full Moon: Gain +5 Attack instead.",
+    "attack": 0,
+    "health": 2,
+    "covenant": "Igon",
+    "_legal": {
+      "IGO": true
+    }
+  },
+  "glory": {
+    "id": "glory",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Glory"
+        },
+        "type": "Weapon",
+        "cost": 3,
+        "image": "https://example.com/cards/glory.webp"
+      },
+      "back": {
+        "name": {
+          "name": "Shame"
+        },
+        "type": "Weapon",
+        "cost": 3,
+        "image": "https://example.com/cards/glory-back.webp"
+      }
+    },
+    "name": "Glory",
+    "type": "Weapon",
+    "cost": 3,
+    "effect": "On Strike: If you opponent has 3 or more health, I Distort.",
+    "attack": 5,
+    "health": 1,
+    "covenant": "Igon",
+    "_legal": {
+      "IGO": true
+    }
+  },
+  "murmuring-deja-vu": {
+    "id": "murmuring-deja-vu",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Murmuring Deja Vu"
+        },
+        "type": "Weapon",
+        "cost": 4,
+        "image": "https://example.com/cards/murmuring-deja-vu.webp"
+      }
+    },
+    "name": "Murmuring Deja Vu",
+    "type": "Weapon",
+    "cost": 4,
+    "effect": "Brandish: Distort an armament you wield. Crescent Moon: On Strike: Draw 1.",
+    "attack": 2,
+    "health": 3,
+    "covenant": "Igon",
+    "_legal": {
+      "IGO": true
+    }
+  },
+  "bow-of-igon": {
+    "id": "bow-of-igon",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Bow of Igon"
+        },
+        "type": "Weapon",
+        "cost": 3,
+        "image": "https://example.com/cards/bow-of-igon.webp"
+      },
+      "back": {
+        "name": {
+          "name": "Blade of Igon?"
+        },
+        "type": "Weapon",
+        "cost": 3,
+        "image": "https://example.com/cards/bow-of-igon-back.webp"
+      }
+    },
+    "name": "Bow of Igon",
+    "type": "Weapon",
+    "cost": 3,
+    "effect": "Lose 1 Temper: Deal 1 Damage to your opponent and all acolytes they wield then I Distort. / On Strike: I lose 1 attack permanently.",
+    "attack": 0,
+    "health": 3,
+    "covenant": "Igon",
+    "_legal": {
+      "IGO": true
+    }
+  },
+  "infinite-epochs": {
+    "id": "infinite-epochs",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Infinite Epochs"
+        },
+        "type": "Weapon",
+        "cost": 6,
+        "image": "https://example.com/cards/infinite-epochs.webp"
+      },
+      "back": {
+        "name": {
+          "name": "Infinite Epochs"
+        },
+        "type": "Weapon",
+        "cost": 6,
+        "image": "https://example.com/cards/infinite-epochs-back.webp"
+      }
+    },
+    "name": "Infinite Epochs",
+    "type": "Weapon",
+    "cost": 6,
+    "effect": "At your preparation, if I am in your scrapyard, put me into your armoury, then I Distort.",
+    "attack": 3,
+    "health": 3,
+    "covenant": "Igon",
+    "_legal": {
+      "IGO": true
+    }
+  },
+  "unstable-glaive": {
+    "id": "unstable-glaive",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Unstable Glaive"
+        },
+        "type": "Weapon",
+        "cost": 4,
+        "image": "https://example.com/cards/unstable-glaive.webp"
+      }
+    },
+    "name": "Unstable Glaive",
+    "type": "Weapon",
+    "cost": 4,
+    "effect": "Brandish: Draw 2 and your opponent creates a Hazed Memory. Half Moon: Your opponent creates 3 Hazed Memories instead.",
+    "attack": 3,
+    "health": 2,
+    "covenant": "Igon",
+    "_legal": {
+      "IGO": true
+    }
+  },
+  "gauntlet-of-thought": {
+    "id": "gauntlet-of-thought",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Gauntlet of Thought"
+        },
+        "type": "Weapon",
+        "cost": 1,
+        "image": "https://example.com/cards/gauntlet-of-thought.webp"
+      },
+      "back": {
+        "name": {
+          "name": "Gauntlet of Horizon"
+        },
+        "type": "Weapon",
+        "cost": 1,
+        "image": "https://example.com/cards/gauntlet-of-thought-back.webp"
+      }
+    },
+    "name": "Gauntlet of Thought",
+    "type": "Weapon",
+    "cost": 1,
+    "effect": "On Strike: Draw 1 and then I Distort",
+    "attack": 1,
+    "health": 4,
+    "covenant": "Igon",
+    "_legal": {
+      "IGO": true
+    }
+  },
+  "oozing-dagger": {
+    "id": "oozing-dagger",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Oozing Dagger"
+        },
+        "type": "Weapon",
+        "cost": 3,
+        "image": "https://example.com/cards/oozing-dagger.webp"
+      }
+    },
+    "name": "Oozing Dagger",
+    "type": "Weapon",
+    "cost": 3,
+    "effect": "On Strike: Break an armament that tests resolve equal to the damage I dealt. If your opponent is desperate, break any armament instead.",
+    "attack": 1,
+    "health": 1,
+    "covenant": "Igon",
+    "_legal": {
+      "IGO": true
+    }
+  },
+  "blade-of-abberation": {
+    "id": "blade-of-abberation",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Blade of Abberation"
+        },
+        "type": "Weapon",
+        "cost": 3,
+        "image": "https://example.com/cards/blade-of-abberation.webp"
+      },
+      "back": {
+        "name": {
+          "name": "Blade of Collapse"
+        },
+        "type": "Weapon",
+        "cost": 3,
+        "image": "https://example.com/cards/blade-of-abberation-back.webp"
+      }
+    },
+    "name": "Blade of Abberation",
+    "type": "Weapon",
+    "cost": 3,
+    "effect": "On Strike:  Your opponent creates a Hazed Memory. If your opponent wields 2 or less Hazed Memories I Distort.",
+    "attack": 1,
+    "health": 3,
+    "covenant": "Igon",
+    "_legal": {
+      "IGO": true
+    }
+  },
+  "bow-of-every-possibility": {
+    "id": "bow-of-every-possibility",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Bow of Every Possibility"
+        },
+        "type": "Weapon",
+        "cost": 3,
+        "image": "https://example.com/cards/bow-of-every-possibility.webp"
+      }
+    },
+    "name": "Bow of Every Possibility",
+    "type": "Weapon",
+    "cost": 3,
+    "effect": "Brandish: Distort all armaments you wield. At your recovery, Distort all armaments that you Distorted this way.",
+    "attack": 1,
+    "health": 2,
+    "covenant": "Igon",
+    "_legal": {
+      "IGO": true
+    }
+  },
+  "ritual-attendent": {
+    "id": "ritual-attendent",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Ritual Attendent"
+        },
+        "type": "Acolyte",
+        "cost": 1,
+        "image": "https://example.com/cards/ritual-attendent.webp"
+      }
+    },
+    "name": "Ritual Attendent",
+    "type": "Acolyte",
+    "cost": 1,
+    "effect": "Sacrifice. Brandish: Lose 1 health.",
+    "attack": 1,
+    "health": 1,
+    "covenant": "Yandari",
+    "_legal": {
+      "YAN": true
+    }
+  },
+  "pallbearer": {
+    "id": "pallbearer",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Pallbearer"
+        },
+        "type": "Acolyte",
+        "cost": 5,
+        "image": "https://example.com/cards/pallbearer.webp"
+      }
+    },
+    "name": "Pallbearer",
+    "type": "Acolyte",
+    "cost": 5,
+    "effect": "Your health cannot be reduced below 1 as long as this is exhausted. You take double damage if this is Roused.",
+    "attack": 1,
+    "health": 1,
+    "covenant": "Yandari",
+    "_legal": {
+      "YAN": true
+    }
+  },
+  "blood-is-a-reminder": {
+    "id": "blood-is-a-reminder",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Blood Is A Reminder"
+        },
+        "type": "Edict",
+        "cost": 1,
+        "image": "https://example.com/cards/blood-is-a-reminder.webp"
+      }
+    },
+    "name": "Blood Is A Reminder",
+    "type": "Edict",
+    "cost": 1,
+    "effect": "Exhaust: Lose 1 health and Draw 1. Break this. Crescent Moon: Lose 1 health and Draw 2 instead.",
+    "covenant": "Yandari",
+    "_legal": {
+      "YAN": true
+    }
+  },
+  "make-it-quick": {
+    "id": "make-it-quick",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Make It Quick"
+        },
+        "type": "Edict",
+        "cost": 5,
+        "image": "https://example.com/cards/make-it-quick.webp"
+      }
+    },
+    "name": "Make It Quick",
+    "type": "Edict",
+    "cost": 5,
+    "effect": "Whenever your Show Mercy, gain 2 mercy stacks instead. At your recovery, if you do not Show Mercy, lose 2 health.",
+    "covenant": "Yandari",
+    "_legal": {
+      "YAN": true
+    }
+  },
+  "regret": {
+    "id": "regret",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Regret"
+        },
+        "type": "Edict",
+        "cost": 3,
+        "image": "https://example.com/cards/regret.webp"
+      }
+    },
+    "name": "Regret",
+    "type": "Edict",
+    "cost": 3,
+    "effect": "Whenever you deal damage to your opponent, if you dealt 3 or less damage, prevent that damage and Show Mercy.",
+    "covenant": "Yandari",
+    "_legal": {
+      "YAN": true
+    }
+  },
+  "personal-creed": {
+    "id": "personal-creed",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Personal Creed"
+        },
+        "type": "Edict",
+        "cost": 3,
+        "image": "https://example.com/cards/personal-creed.webp"
+      }
+    },
+    "name": "Personal Creed",
+    "type": "Edict",
+    "cost": 3,
+    "effect": "Your Mercy gives 1 additional damage. You cannot have more than 5 Mercy. If you have no Mercy, break this.",
+    "covenant": "Yandari",
+    "_legal": {
+      "YAN": true
+    }
+  },
+  "beg-for-forgiveness": {
+    "id": "beg-for-forgiveness",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Beg for Forgiveness"
+        },
+        "type": "Edict",
+        "cost": 2,
+        "image": "https://example.com/cards/beg-for-forgiveness.webp"
+      }
+    },
+    "name": "Beg for Forgiveness",
+    "type": "Edict",
+    "cost": 2,
+    "effect": "Whenever a player's condition worsens, draw 2 cards and lose 2 health and break this.",
+    "covenant": "Yandari",
+    "_legal": {
+      "YAN": true
+    }
+  },
+  "remember-the-dead": {
+    "id": "remember-the-dead",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Remember the Dead"
+        },
+        "type": "Edict",
+        "cost": 5,
+        "image": "https://example.com/cards/remember-the-dead.webp"
+      }
+    },
+    "name": "Remember the Dead",
+    "type": "Edict",
+    "cost": 5,
+    "effect": "Exhaust: Give a weapon you wield +X this turn where X is equal to the number of Acolytes in your opponents scrapyard.",
+    "covenant": "Yandari",
+    "_legal": {
+      "YAN": true
+    }
+  },
+  "sacred-ichor": {
+    "id": "sacred-ichor",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Sacred Ichor"
+        },
+        "type": "Edict",
+        "cost": 5,
+        "image": "https://example.com/cards/sacred-ichor.webp"
+      }
+    },
+    "name": "Sacred Ichor",
+    "type": "Edict",
+    "cost": 5,
+    "effect": "The first time you lose health each turn, create 2 Sacred Blood's. At your recovery, if you wield no Sacred Bloods, break this.",
+    "covenant": "Yandari",
+    "_legal": {
+      "YAN": true
+    }
+  },
+  "suffer-so-that-no-one-else-does": {
+    "id": "suffer-so-that-no-one-else-does",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Suffer So That No One Else Does"
+        },
+        "type": "Edict",
+        "cost": 9,
+        "image": "https://example.com/cards/suffer-so-that-no-one-else-does.webp"
+      }
+    },
+    "name": "Suffer So That No One Else Does",
+    "type": "Edict",
+    "cost": 9,
+    "effect": "Cards you play cost health instead of testing resolve.",
+    "covenant": "Yandari",
+    "_legal": {
+      "YAN": true
+    }
+  },
+  "ritual": {
+    "id": "ritual",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Ritual"
+        },
+        "type": "Riposte",
+        "cost": 3,
+        "image": "https://example.com/cards/ritual.webp"
+      }
+    },
+    "name": "Ritual",
+    "type": "Riposte",
+    "cost": 3,
+    "effect": "Show Mercy twice.",
+    "covenant": "Yandari",
+    "_legal": {
+      "YAN": true
+    }
+  },
+  "earned-your-rest": {
+    "id": "earned-your-rest",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Earned Your Rest"
+        },
+        "type": "Riposte",
+        "cost": 2,
+        "image": "https://example.com/cards/earned-your-rest.webp"
+      }
+    },
+    "name": "Earned Your Rest",
+    "type": "Riposte",
+    "cost": 2,
+    "effect": "Break an acolyte your opponent wields. Half Moon: Break all Acolytes your opponent wields instead.",
+    "covenant": "Yandari",
+    "_legal": {
+      "YAN": true
+    }
+  },
+  "iron-will": {
+    "id": "iron-will",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Iron Will"
+        },
+        "type": "Riposte",
+        "cost": 2,
+        "image": "https://example.com/cards/iron-will.webp"
+      }
+    },
+    "name": "Iron Will",
+    "type": "Riposte",
+    "cost": 2,
+    "effect": "Your health cannot be reduced below 1 this turn. Eclipse: This cannot be played.",
+    "covenant": "Yandari",
+    "_legal": {
+      "YAN": true
+    }
+  },
+  "laced-in-pity": {
+    "id": "laced-in-pity",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Laced in Pity"
+        },
+        "type": "Riposte",
+        "cost": 3,
+        "image": "https://example.com/cards/laced-in-pity.webp"
+      }
+    },
+    "name": "Laced in Pity",
+    "type": "Riposte",
+    "cost": 3,
+    "effect": "Restore X health where X is equal to your Mercy.",
+    "covenant": "Yandari",
+    "_legal": {
+      "YAN": true
+    }
+  },
+  "hope-in-blood": {
+    "id": "hope-in-blood",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Hope in Blood"
+        },
+        "type": "Riposte",
+        "cost": 5,
+        "image": "https://example.com/cards/hope-in-blood.webp"
+      }
+    },
+    "name": "Hope in Blood",
+    "type": "Riposte",
+    "cost": 5,
+    "effect": "Create 4 Sacred Blood. Full Moon: For the rest of the game your Sacred Blood restore 3 health instead.",
+    "covenant": "Yandari",
+    "_legal": {
+      "YAN": true
+    }
+  },
+  "yandari-s-oath-sigil": {
+    "id": "yandari-s-oath-sigil",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Yandari's Oath Sigil"
+        },
+        "type": "Tactic",
+        "cost": 0,
+        "image": "https://example.com/cards/yandari-s-oath-sigil.webp"
+      }
+    },
+    "name": "Yandari's Oath Sigil",
+    "type": "Tactic",
+    "cost": 0,
+    "effect": "Gain 1 resolve this turn. Show Mercy.",
+    "covenant": "Yandari",
+    "_legal": {
+      "YAN": true
+    }
+  },
+  "prick-of-sacrifice": {
+    "id": "prick-of-sacrifice",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Prick of Sacrifice"
+        },
+        "type": "Tactic",
+        "cost": 2,
+        "image": "https://example.com/cards/prick-of-sacrifice.webp"
+      }
+    },
+    "name": "Prick of Sacrifice",
+    "type": "Tactic",
+    "cost": 2,
+    "effect": "Lose 1 health and draw 1. Crescent Moon: Draw 2 and discard 1 instead.",
+    "covenant": "Yandari",
+    "_legal": {
+      "YAN": true
+    }
+  },
+  "savour-pain": {
+    "id": "savour-pain",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Savour Pain"
+        },
+        "type": "Tactic",
+        "cost": 3,
+        "image": "https://example.com/cards/savour-pain.webp"
+      }
+    },
+    "name": "Savour Pain",
+    "type": "Tactic",
+    "cost": 3,
+    "effect": "Lose 2 health and create a “Sacred Blood”. Full Moon: Create 4 Sacred Bloods instead.",
+    "covenant": "Yandari",
+    "_legal": {
+      "YAN": true
+    }
+  },
+  "relinquish": {
+    "id": "relinquish",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Relinquish"
+        },
+        "type": "Tactic",
+        "cost": 2,
+        "image": "https://example.com/cards/relinquish.webp"
+      }
+    },
+    "name": "Relinquish",
+    "type": "Tactic",
+    "cost": 2,
+    "effect": "Lose 2 health and break an armament that tests 2 or less resolve. Half Moon: Break any armament instead.",
+    "covenant": "Yandari",
+    "_legal": {
+      "YAN": true
+    }
+  },
+  "symbol-of-yandari": {
+    "id": "symbol-of-yandari",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Symbol of Yandari"
+        },
+        "type": "Tactic",
+        "cost": 4,
+        "image": "https://example.com/cards/symbol-of-yandari.webp"
+      }
+    },
+    "name": "Symbol of Yandari",
+    "type": "Tactic",
+    "cost": 4,
+    "effect": "Show Mercy X times where X is equal to the attack of a weapon you wield. Crescent Moon: Repeat this effect.",
+    "covenant": "Yandari",
+    "_legal": {
+      "YAN": true
+    }
+  },
+  "necessary-pain": {
+    "id": "necessary-pain",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Necessary Pain"
+        },
+        "type": "Tactic",
+        "cost": 2,
+        "image": "https://example.com/cards/necessary-pain.webp"
+      }
+    },
+    "name": "Necessary Pain",
+    "type": "Tactic",
+    "cost": 2,
+    "effect": "Give a weapon you wield +1 attack. If you have lost 3 or more health this turn, give a weapon you wield +3 attack instead.",
+    "covenant": "Yandari",
+    "_legal": {
+      "YAN": true
+    }
+  },
+  "embrace-death": {
+    "id": "embrace-death",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Embrace Death"
+        },
+        "type": "Tactic",
+        "cost": 1,
+        "image": "https://example.com/cards/embrace-death.webp"
+      }
+    },
+    "name": "Embrace Death",
+    "type": "Tactic",
+    "cost": 1,
+    "effect": "Show Mercy.",
+    "covenant": "Yandari",
+    "_legal": {
+      "YAN": true
+    }
+  },
+  "call-of-blood": {
+    "id": "call-of-blood",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Call of Blood"
+        },
+        "type": "Tactic",
+        "cost": 2,
+        "image": "https://example.com/cards/call-of-blood.webp"
+      }
+    },
+    "name": "Call of Blood",
+    "type": "Tactic",
+    "cost": 2,
+    "effect": "If you lost 2 or more health this turn, give a weapon you wield +1 temper. Crescent Moon: Give a weapon you wield +1 attack as well.",
+    "covenant": "Yandari",
+    "_legal": {
+      "YAN": true
+    }
+  },
+  "memento-mori": {
+    "id": "memento-mori",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Memento Mori"
+        },
+        "type": "Tactic",
+        "cost": 2,
+        "image": "https://example.com/cards/memento-mori.webp"
+      }
+    },
+    "name": "Memento Mori",
+    "type": "Tactic",
+    "cost": 2,
+    "effect": "Lose 1 health. If your condition is worse than your opponent, draw 2. Crescent Moon: Draw 2 regardless.",
+    "covenant": "Yandari",
+    "_legal": {
+      "YAN": true
+    }
+  },
+  "end-suffering": {
+    "id": "end-suffering",
+    "face": {
+      "front": {
+        "name": {
+          "name": "End Suffering"
+        },
+        "type": "Tactic",
+        "cost": 3,
+        "image": "https://example.com/cards/end-suffering.webp"
+      }
+    },
+    "name": "End Suffering",
+    "type": "Tactic",
+    "cost": 3,
+    "effect": "Break an acolyte your opponent wields. If you lost 5 or more health this turn, break all armaments your opponent wields instead.",
+    "covenant": "Yandari",
+    "_legal": {
+      "YAN": true
+    }
+  },
+  "goad-death": {
+    "id": "goad-death",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Goad Death"
+        },
+        "type": "Tactic",
+        "cost": 4,
+        "image": "https://example.com/cards/goad-death.webp"
+      }
+    },
+    "name": "Goad Death",
+    "type": "Tactic",
+    "cost": 4,
+    "effect": "Lose 3 health and draw 3. Half Moon: Lose 4 health, and draw 4 instead.",
+    "covenant": "Yandari",
+    "_legal": {
+      "YAN": true
+    }
+  },
+  "bloody-tribute": {
+    "id": "bloody-tribute",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Bloody Tribute"
+        },
+        "type": "Tactic",
+        "cost": 7,
+        "image": "https://example.com/cards/bloody-tribute.webp"
+      }
+    },
+    "name": "Bloody Tribute",
+    "type": "Tactic",
+    "cost": 7,
+    "effect": "Your weapons deal double damage this turn. After a weapon strikes this turn, shatter it and lose 2 health.",
+    "covenant": "Yandari",
+    "_legal": {
+      "YAN": true
+    }
+  },
+  "a-better-death": {
+    "id": "a-better-death",
+    "face": {
+      "front": {
+        "name": {
+          "name": "A Better Death"
+        },
+        "type": "Tactic",
+        "cost": 6,
+        "image": "https://example.com/cards/a-better-death.webp"
+      }
+    },
+    "name": "A Better Death",
+    "type": "Tactic",
+    "cost": 6,
+    "effect": "Break all acolytes your opponent wields. Give a weapon +X attack where X is equal to the number of Acolytes broken this way.",
+    "covenant": "Yandari",
+    "_legal": {
+      "YAN": true
+    }
+  },
+  "sacred-blood": {
+    "id": "sacred-blood",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Sacred Blood"
+        },
+        "type": "Token Edict",
+        "cost": 0,
+        "image": "https://example.com/cards/sacred-blood.webp"
+      }
+    },
+    "name": "Sacred Blood",
+    "type": "Token Edict",
+    "cost": 0,
+    "effect": "Exhaust: Restore 2 health and break this.",
+    "covenant": "Yandari",
+    "isToken": true,
+    "_legal": {
+      "YAN": true
+    }
+  },
+  "promise": {
+    "id": "promise",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Promise"
+        },
+        "type": "Weapon",
+        "cost": 2,
+        "image": "https://example.com/cards/promise.webp"
+      }
+    },
+    "name": "Promise",
+    "type": "Weapon",
+    "cost": 2,
+    "effect": "On Strike: If I dealt 3 or more damage, draw 1.",
+    "attack": 1,
+    "health": 2,
+    "covenant": "Yandari",
+    "_legal": {
+      "YAN": true
+    }
+  },
+  "undying-oath": {
+    "id": "undying-oath",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Undying Oath"
+        },
+        "type": "Weapon",
+        "cost": 3,
+        "image": "https://example.com/cards/undying-oath.webp"
+      }
+    },
+    "name": "Undying Oath",
+    "type": "Weapon",
+    "cost": 3,
+    "effect": "Whenever I would lose Temper, you may lose 2 health instead.",
+    "attack": 2,
+    "health": 1,
+    "covenant": "Yandari",
+    "_legal": {
+      "YAN": true
+    }
+  },
+  "life": {
+    "id": "life",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Life"
+        },
+        "type": "Weapon",
+        "cost": 2,
+        "image": "https://example.com/cards/life.webp"
+      }
+    },
+    "name": "Life",
+    "type": "Weapon",
+    "cost": 2,
+    "effect": "Brandish: If you do not wield “Death”, you may play it from your hand without testing resolve. If you do, lose 3 health.",
+    "attack": 1,
+    "health": 2,
+    "covenant": "Yandari",
+    "_legal": {
+      "YAN": true
+    }
+  },
+  "peaceful-sting": {
+    "id": "peaceful-sting",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Peaceful Sting"
+        },
+        "type": "Weapon",
+        "cost": 3,
+        "image": "https://example.com/cards/peaceful-sting.webp"
+      }
+    },
+    "name": "Peaceful Sting",
+    "type": "Weapon",
+    "cost": 3,
+    "effect": "On Strike: Show Mercy twice.",
+    "attack": 2,
+    "health": 2,
+    "covenant": "Yandari",
+    "_legal": {
+      "YAN": true
+    }
+  },
+  "rest": {
+    "id": "rest",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Rest"
+        },
+        "type": "Weapon",
+        "cost": 3,
+        "image": "https://example.com/cards/rest.webp"
+      }
+    },
+    "name": "Rest",
+    "type": "Weapon",
+    "cost": 3,
+    "effect": "On Strike: Break an acolyte your opponent wields that tests X resolve, where X is equal to the damage I dealt.",
+    "attack": 2,
+    "health": 2,
+    "covenant": "Yandari",
+    "_legal": {
+      "YAN": true
+    }
+  },
+  "death": {
+    "id": "death",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Death"
+        },
+        "type": "Weapon",
+        "cost": 4,
+        "image": "https://example.com/cards/death.webp"
+      }
+    },
+    "name": "Death",
+    "type": "Weapon",
+    "cost": 4,
+    "effect": "If you are desperate, I have +3 attack.",
+    "attack": 3,
+    "health": 2,
+    "covenant": "Yandari",
+    "_legal": {
+      "YAN": true
+    }
+  },
+  "vermillion-edge": {
+    "id": "vermillion-edge",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Vermillion Edge"
+        },
+        "type": "Weapon",
+        "cost": 6,
+        "image": "https://example.com/cards/vermillion-edge.webp"
+      }
+    },
+    "name": "Vermillion Edge",
+    "type": "Weapon",
+    "cost": 6,
+    "effect": "Full Moon: This has +5 attack.",
+    "attack": 5,
+    "health": 2,
+    "covenant": "Yandari",
+    "_legal": {
+      "YAN": true
+    }
+  },
+  "liberation": {
+    "id": "liberation",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Liberation"
+        },
+        "type": "Weapon",
+        "cost": 1,
+        "image": "https://example.com/cards/liberation.webp"
+      }
+    },
+    "name": "Liberation",
+    "type": "Weapon",
+    "cost": 1,
+    "effect": "At your recovery, if this is Roused, Show Mercy.",
+    "attack": 1,
+    "health": 2,
+    "covenant": "Yandari",
+    "_legal": {
+      "YAN": true
+    }
+  },
+  "uldes-atonement": {
+    "id": "uldes-atonement",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Uldes' Atonement"
+        },
+        "type": "Weapon",
+        "cost": 3,
+        "image": "https://example.com/cards/uldes-atonement.webp"
+      }
+    },
+    "name": "Uldes' Atonement",
+    "type": "Weapon",
+    "cost": 3,
+    "effect": "At your recovery, if you lost 3 or more health this turn, this gains +1 attack and +1 Temper.",
+    "attack": 1,
+    "health": 2,
+    "covenant": "Yandari",
+    "_legal": {
+      "YAN": true
+    }
+  },
+  "thirsting-steel": {
+    "id": "thirsting-steel",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Thirsting Steel"
+        },
+        "type": "Weapon",
+        "cost": 5,
+        "image": "https://example.com/cards/thirsting-steel.webp"
+      }
+    },
+    "name": "Thirsting Steel",
+    "type": "Weapon",
+    "cost": 5,
+    "effect": "On Attack: Mercy is not consumed this turn. Lose 1 health for each Mercy you have.",
+    "attack": 1,
+    "health": 2,
+    "covenant": "Yandari",
+    "_legal": {
+      "YAN": true
+    }
+  },
+  "mourning-glory": {
+    "id": "mourning-glory",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Mourning Glory"
+        },
+        "type": "Weapon",
+        "cost": 7,
+        "image": "https://example.com/cards/mourning-glory.webp"
+      }
+    },
+    "name": "Mourning Glory",
+    "type": "Weapon",
+    "cost": 7,
+    "effect": "On Strike: If this dealt 8 or more damage, Rouse this and lose half your health. Eclipse: I must attack each turn if able.",
+    "attack": 4,
+    "health": 3,
+    "covenant": "Yandari",
+    "_legal": {
+      "YAN": true
+    }
+  },
+  "worship": {
+    "id": "worship",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Worship"
+        },
+        "type": "Weapon",
+        "cost": 10,
+        "image": "https://example.com/cards/worship.webp"
+      }
+    },
+    "name": "Worship",
+    "type": "Weapon",
+    "cost": 10,
+    "effect": "This has +X attack where X is equal to your opponents health. When this breaks, you lose the game.",
+    "attack": 0,
+    "health": 1,
+    "covenant": "Yandari",
+    "_legal": {
+      "YAN": true
+    }
+  },
+  "bleeding-boulder": {
+    "id": "bleeding-boulder",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Bleeding Boulder"
+        },
+        "type": "Acolyte",
+        "cost": 3,
+        "image": "https://example.com/cards/bleeding-boulder.webp"
+      }
+    },
+    "name": "Bleeding Boulder",
+    "type": "Acolyte",
+    "cost": 3,
+    "effect": "Graft 5. On Attack: Create a Parasitic Pebble. Eclipse: Parasitic Pebbles grant +0 instead.",
+    "attack": 1,
+    "health": 2,
+    "covenant": "Kuran",
+    "_legal": {
+      "KUR": true
+    }
+  },
+  "jin-blazing-serpent": {
+    "id": "jin-blazing-serpent",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Jin, Blazing Serpent"
+        },
+        "type": "Acolyte",
+        "cost": 2,
+        "image": "https://example.com/cards/jin-blazing-serpent.webp"
+      }
+    },
+    "name": "Jin, Blazing Serpent",
+    "type": "Acolyte",
+    "cost": 2,
+    "effect": "Graft 2. On Strike: Deal 2 damage. Crescent Moon: On Strike: Witness Feng, Tempest Serpent.",
+    "attack": 1,
+    "health": 1,
+    "covenant": "Kuran",
+    "_legal": {
+      "KUR": true
+    }
+  },
+  "feng-tempest-serpent": {
+    "id": "feng-tempest-serpent",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Feng, Tempest Serpent"
+        },
+        "type": "Acolyte",
+        "cost": 2,
+        "image": "https://example.com/cards/feng-tempest-serpent.webp"
+      }
+    },
+    "name": "Feng, Tempest Serpent",
+    "type": "Acolyte",
+    "cost": 2,
+    "effect": "Graft 2. On Strike: Draw 1. Crescent Moon: On Strike: Witness Jin, Blazing Serpent.",
+    "attack": 1,
+    "health": 1,
+    "covenant": "Kuran",
+    "_legal": {
+      "KUR": true
+    }
+  },
+  "dread-breeze": {
+    "id": "dread-breeze",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Dread Breeze"
+        },
+        "type": "Acolyte",
+        "cost": 3,
+        "image": "https://example.com/cards/dread-breeze.webp"
+      }
+    },
+    "name": "Dread Breeze",
+    "type": "Acolyte",
+    "cost": 3,
+    "effect": "Graft 1. When this grafts, put the top card of your deck into your scrapyard. As long as this is grafted, whenever you would restore health, prevent that restoration instead.",
+    "attack": 4,
+    "health": 1,
+    "covenant": "Kuran",
+    "_legal": {
+      "KUR": true
+    }
+  },
+  "turbulent-ember": {
+    "id": "turbulent-ember",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Turbulent Ember"
+        },
+        "type": "Acolyte",
+        "cost": 1,
+        "image": "https://example.com/cards/turbulent-ember.webp"
+      }
+    },
+    "name": "Turbulent Ember",
+    "type": "Acolyte",
+    "cost": 1,
+    "effect": "Graft 0.  On Strike: Break me and deal 1 damage.",
+    "attack": 0,
+    "health": 1,
+    "covenant": "Kuran",
+    "_legal": {
+      "KUR": true
+    }
+  },
+  "cornered-mountain": {
+    "id": "cornered-mountain",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Cornered Mountain"
+        },
+        "type": "Acolyte",
+        "cost": 3,
+        "image": "https://example.com/cards/cornered-mountain.webp"
+      }
+    },
+    "name": "Cornered Mountain",
+    "type": "Acolyte",
+    "cost": 3,
+    "effect": "Graft 9. On Attack: Gain +1 Attack and +1 Temper.",
+    "attack": 0,
+    "health": 1,
+    "covenant": "Kuran",
+    "_legal": {
+      "KUR": true
+    }
+  },
+  "it-that-heralds-ruin": {
+    "id": "it-that-heralds-ruin",
+    "face": {
+      "front": {
+        "name": {
+          "name": "It That Heralds Ruin"
+        },
+        "type": "Acolyte",
+        "cost": 9,
+        "image": "https://example.com/cards/it-that-heralds-ruin.webp"
+      }
+    },
+    "name": "It That Heralds Ruin",
+    "type": "Acolyte",
+    "cost": 9,
+    "effect": "Graft 3. On Strike: Break all armaments your opponent wields.",
+    "attack": 2,
+    "health": 2,
+    "covenant": "Kuran",
+    "_legal": {
+      "KUR": true
+    }
+  },
+  "endless-slate": {
+    "id": "endless-slate",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Endless Slate"
+        },
+        "type": "Acolyte",
+        "cost": 3,
+        "image": "https://example.com/cards/endless-slate.webp"
+      }
+    },
+    "name": "Endless Slate",
+    "type": "Acolyte",
+    "cost": 3,
+    "effect": "Graft 2. Sacrifice.  This enters exhausted. When this breaks, return this to your hand instead.",
+    "attack": 1,
+    "health": 3,
+    "covenant": "Kuran",
+    "_legal": {
+      "KUR": true
+    }
+  },
+  "caress": {
+    "id": "caress",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Caress"
+        },
+        "type": "Acolyte",
+        "cost": 4,
+        "image": "https://example.com/cards/caress.webp"
+      }
+    },
+    "name": "Caress",
+    "type": "Acolyte",
+    "cost": 4,
+    "effect": "Graft 2. On Attack: Restore 2 health.",
+    "attack": 1,
+    "health": 2,
+    "covenant": "Kuran",
+    "_legal": {
+      "KUR": true
+    }
+  },
+  "the-flame-that-devours": {
+    "id": "the-flame-that-devours",
+    "face": {
+      "front": {
+        "name": {
+          "name": "The Flame That Devours"
+        },
+        "type": "Acolyte",
+        "cost": 3,
+        "image": "https://example.com/cards/the-flame-that-devours.webp"
+      }
+    },
+    "name": "The Flame That Devours",
+    "type": "Acolyte",
+    "cost": 3,
+    "effect": "Graft 3. At your recovery, Deal X damage to your opponent where X is equal to my attack.",
+    "attack": 2,
+    "health": 1,
+    "covenant": "Kuran",
+    "_legal": {
+      "KUR": true
+    }
+  },
+  "breathing-tide": {
+    "id": "breathing-tide",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Breathing Tide"
+        },
+        "type": "Acolyte",
+        "cost": 5,
+        "image": "https://example.com/cards/breathing-tide.webp"
+      }
+    },
+    "name": "Breathing Tide",
+    "type": "Acolyte",
+    "cost": 5,
+    "effect": "Graft 4. On Strike: Rouse 2 resolve.",
+    "attack": 2,
+    "health": 2,
+    "covenant": "Kuran",
+    "_legal": {
+      "KUR": true
+    }
+  },
+  "stillwater": {
+    "id": "stillwater",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Stillwater"
+        },
+        "type": "Acolyte",
+        "cost": 1,
+        "image": "https://example.com/cards/stillwater.webp"
+      }
+    },
+    "name": "Stillwater",
+    "type": "Acolyte",
+    "cost": 1,
+    "effect": "Graft 1. As long as this is exhausted, your opponent cannot rouse 1 resolve during their preparation.",
+    "attack": 1,
+    "health": 3,
+    "covenant": "Kuran",
+    "_legal": {
+      "KUR": true
+    }
+  },
+  "boiling-rain": {
+    "id": "boiling-rain",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Boiling Rain"
+        },
+        "type": "Acolyte",
+        "cost": 3,
+        "image": "https://example.com/cards/boiling-rain.webp"
+      }
+    },
+    "name": "Boiling Rain",
+    "type": "Acolyte",
+    "cost": 3,
+    "effect": "Graft 2. On Strike: This turn, your resolve gain \"Exhaust: Deal 1 damage\".",
+    "attack": 1,
+    "health": 1,
+    "covenant": "Kuran",
+    "_legal": {
+      "KUR": true
+    }
+  },
+  "cacophony-of-fauna": {
+    "id": "cacophony-of-fauna",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Cacophony of Fauna"
+        },
+        "type": "Edict",
+        "cost": 5,
+        "image": "https://example.com/cards/cacophony-of-fauna.webp"
+      }
+    },
+    "name": "Cacophony of Fauna",
+    "type": "Edict",
+    "cost": 5,
+    "effect": "Your cards test 1 less resolve for each grafted armament you wield. Whenever you play a card, break an acolyte you wield.",
+    "covenant": "Kuran",
+    "_legal": {
+      "KUR": true
+    }
+  },
+  "cowering-roots": {
+    "id": "cowering-roots",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Cowering Roots"
+        },
+        "type": "Edict",
+        "cost": 4,
+        "image": "https://example.com/cards/cowering-roots.webp"
+      }
+    },
+    "name": "Cowering Roots",
+    "type": "Edict",
+    "cost": 4,
+    "effect": "Whenever you play a weapon, You may Graft an ungrafted acolyte you wield to it without resting resolve. At your preparation, if you do not wield a weapon, break this and put the top 5 cards of your deck into your scrapyard.",
+    "covenant": "Kuran",
+    "_legal": {
+      "KUR": true
+    }
+  },
+  "gro-s-conviction": {
+    "id": "gro-s-conviction",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Gro's Conviction"
+        },
+        "type": "Edict",
+        "cost": 3,
+        "image": "https://example.com/cards/gro-s-conviction.webp"
+      }
+    },
+    "name": "Gro's Conviction",
+    "type": "Edict",
+    "cost": 3,
+    "effect": "Whenever you Graft to a weapon you wield, you may give that weapon +1 temper. If you do, break me.",
+    "covenant": "Kuran",
+    "_legal": {
+      "KUR": true
+    }
+  },
+  "leeching-elements": {
+    "id": "leeching-elements",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Leeching Elements"
+        },
+        "type": "Edict",
+        "cost": 2,
+        "image": "https://example.com/cards/leeching-elements.webp"
+      }
+    },
+    "name": "Leeching Elements",
+    "type": "Edict",
+    "cost": 2,
+    "effect": "At your recovery, if you wield a grafted weapon, draw 1. Crescent Moon: This cannot break.",
+    "covenant": "Kuran",
+    "_legal": {
+      "KUR": true
+    }
+  },
+  "anointed-host": {
+    "id": "anointed-host",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Anointed Host"
+        },
+        "type": "Riposte",
+        "cost": 2,
+        "image": "https://example.com/cards/anointed-host.webp"
+      }
+    },
+    "name": "Anointed Host",
+    "type": "Riposte",
+    "cost": 2,
+    "effect": "Return up to 2 acolytes from your scrapyard to your hand.",
+    "covenant": "Kuran",
+    "_legal": {
+      "KUR": true
+    }
+  },
+  "embrace-the-elements": {
+    "id": "embrace-the-elements",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Embrace the Elements"
+        },
+        "type": "Riposte",
+        "cost": 2,
+        "image": "https://example.com/cards/embrace-the-elements.webp"
+      }
+    },
+    "name": "Embrace the Elements",
+    "type": "Riposte",
+    "cost": 2,
+    "effect": "Restore X health, where X is equal to the number of acolytes you wield.",
+    "covenant": "Kuran",
+    "_legal": {
+      "KUR": true
+    }
+  },
+  "kuranic-rebirth": {
+    "id": "kuranic-rebirth",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Kuranic Rebirth"
+        },
+        "type": "Riposte",
+        "cost": 1,
+        "image": "https://example.com/cards/kuranic-rebirth.webp"
+      }
+    },
+    "name": "Kuranic Rebirth",
+    "type": "Riposte",
+    "cost": 1,
+    "effect": "Return a weapon or acolyte from your scrapyard to your hand.",
+    "covenant": "Kuran",
+    "_legal": {
+      "KUR": true
+    }
+  },
+  "unwavered-verdance": {
+    "id": "unwavered-verdance",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Unwavered Verdance"
+        },
+        "type": "Riposte",
+        "cost": 2,
+        "image": "https://example.com/cards/unwavered-verdance.webp"
+      }
+    },
+    "name": "Unwavered Verdance",
+    "type": "Riposte",
+    "cost": 2,
+    "effect": "Choose a grafted armament. It cannot be broken this turn. Crescent Moon: This tests 1 less resolve.",
+    "covenant": "Kuran",
+    "_legal": {
+      "KUR": true
+    }
+  },
+  "devoured-nature": {
+    "id": "devoured-nature",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Devoured Nature"
+        },
+        "type": "Riposte",
+        "cost": 2,
+        "image": "https://example.com/cards/devoured-nature.webp"
+      }
+    },
+    "name": "Devoured Nature",
+    "type": "Riposte",
+    "cost": 2,
+    "effect": "If you wield a weapon with 3 or more grafts attached, break an armament. Full Moon: Break all armaments your opponent wields instead.",
+    "covenant": "Kuran",
+    "_legal": {
+      "KUR": true
+    }
+  },
+  "kuran-s-oath-sigil": {
+    "id": "kuran-s-oath-sigil",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Kuran's Oath Sigil"
+        },
+        "type": "Tactic",
+        "cost": 0,
+        "image": "https://example.com/cards/kuran-s-oath-sigil.webp"
+      }
+    },
+    "name": "Kuran's Oath Sigil",
+    "type": "Tactic",
+    "cost": 0,
+    "effect": "Gain 1 resolve this turn only. Witness an Acolyte with Graft.",
+    "covenant": "Kuran",
+    "_legal": {
+      "KUR": true
+    }
+  },
+  "omen-fruit": {
+    "id": "omen-fruit",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Omen Fruit"
+        },
+        "type": "Tactic",
+        "cost": 4,
+        "image": "https://example.com/cards/omen-fruit.webp"
+      }
+    },
+    "name": "Omen Fruit",
+    "type": "Tactic",
+    "cost": 4,
+    "effect": "You may play an Acolyte from your hand without testing resolve, if you do, Graft it to weapon you wield.",
+    "covenant": "Kuran",
+    "_legal": {
+      "KUR": true
+    }
+  },
+  "burning-adaptation": {
+    "id": "burning-adaptation",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Burning Adaptation"
+        },
+        "type": "Tactic",
+        "cost": 3,
+        "image": "https://example.com/cards/burning-adaptation.webp"
+      }
+    },
+    "name": "Burning Adaptation",
+    "type": "Tactic",
+    "cost": 3,
+    "effect": "Give a weapon +1 For each graft attached to it. Half Moon: Then doublt it's attack this turn.",
+    "covenant": "Kuran",
+    "_legal": {
+      "KUR": true
+    }
+  },
+  "palesoaked-petal": {
+    "id": "palesoaked-petal",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Palesoaked Petal"
+        },
+        "type": "Tactic",
+        "cost": 3,
+        "image": "https://example.com/cards/palesoaked-petal.webp"
+      }
+    },
+    "name": "Palesoaked Petal",
+    "type": "Tactic",
+    "cost": 3,
+    "effect": "Crescent Moon: Restore 3 Health. Half Moon: Witness an Acolyte. Full Moon: Restore 5 Health and return an Acolyte from your scrapyard to your hand.",
+    "covenant": "Kuran",
+    "_legal": {
+      "KUR": true
+    }
+  },
+  "encroaching-stampede": {
+    "id": "encroaching-stampede",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Encroaching Stampede"
+        },
+        "type": "Tactic",
+        "cost": 2,
+        "image": "https://example.com/cards/encroaching-stampede.webp"
+      }
+    },
+    "name": "Encroaching Stampede",
+    "type": "Tactic",
+    "cost": 2,
+    "effect": "Witness an Acolyte that tests 2 or less resolve. Eclipse: Your opponent may do the same.",
+    "covenant": "Kuran",
+    "_legal": {
+      "KUR": true
+    }
+  },
+  "a-tainted-rumble": {
+    "id": "a-tainted-rumble",
+    "face": {
+      "front": {
+        "name": {
+          "name": "A Tainted Rumble"
+        },
+        "type": "Tactic",
+        "cost": 3,
+        "image": "https://example.com/cards/a-tainted-rumble.webp"
+      }
+    },
+    "name": "A Tainted Rumble",
+    "type": "Tactic",
+    "cost": 3,
+    "effect": "The next time a grafted weapon you wield strikes this turn, deal damage equal to the number of grafts attached to it.",
+    "covenant": "Kuran",
+    "_legal": {
+      "KUR": true
+    }
+  },
+  "melded-soul": {
+    "id": "melded-soul",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Melded Soul"
+        },
+        "type": "Tactic",
+        "cost": 2,
+        "image": "https://example.com/cards/melded-soul.webp"
+      }
+    },
+    "name": "Melded Soul",
+    "type": "Tactic",
+    "cost": 2,
+    "effect": "Graft an acolyte to a weapon you wield without testing resolve. Half Moon: Give it +1 Temper as well.",
+    "covenant": "Kuran",
+    "_legal": {
+      "KUR": true
+    }
+  },
+  "unending-cycle": {
+    "id": "unending-cycle",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Unending Cycle"
+        },
+        "type": "Tactic",
+        "cost": 1,
+        "image": "https://example.com/cards/unending-cycle.webp"
+      }
+    },
+    "name": "Unending Cycle",
+    "type": "Tactic",
+    "cost": 1,
+    "effect": "Witness a weapon.",
+    "covenant": "Kuran",
+    "_legal": {
+      "KUR": true
+    }
+  },
+  "elemental-outburst": {
+    "id": "elemental-outburst",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Elemental Outburst"
+        },
+        "type": "Tactic",
+        "cost": 5,
+        "image": "https://example.com/cards/elemental-outburst.webp"
+      }
+    },
+    "name": "Elemental Outburst",
+    "type": "Tactic",
+    "cost": 5,
+    "effect": "Witness up to 2 weapons or acolytes that test a total of 4 or less resolve and play them.",
+    "covenant": "Kuran",
+    "_legal": {
+      "KUR": true
+    }
+  },
+  "dissonant-wilderness": {
+    "id": "dissonant-wilderness",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Dissonant Wilderness"
+        },
+        "type": "Tactic",
+        "cost": 6,
+        "image": "https://example.com/cards/dissonant-wilderness.webp"
+      }
+    },
+    "name": "Dissonant Wilderness",
+    "type": "Tactic",
+    "cost": 6,
+    "effect": "Give a weapon you wield the attack of all acolytes grafted to it, then break all Acolytes Grafted to it.",
+    "covenant": "Kuran",
+    "_legal": {
+      "KUR": true
+    }
+  },
+  "parasitic-pebble": {
+    "id": "parasitic-pebble",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Parasitic Pebble"
+        },
+        "type": "Token Acolyte",
+        "cost": 0,
+        "image": "https://example.com/cards/parasitic-pebble.webp"
+      }
+    },
+    "name": "Parasitic Pebble",
+    "type": "Token Acolyte",
+    "cost": 0,
+    "effect": "Graft 2. This is permanently exhausted. Your weapons have +1 attack.",
+    "attack": 0,
+    "health": 1,
+    "covenant": "Kuran",
+    "isToken": true,
+    "_legal": {
+      "KUR": true
+    }
+  },
+  "one-s-self": {
+    "id": "one-s-self",
+    "face": {
+      "front": {
+        "name": {
+          "name": "One's Self"
+        },
+        "type": "Token Weapon",
+        "cost": 0,
+        "image": "https://example.com/cards/one-s-self.webp"
+      }
+    },
+    "name": "One's Self",
+    "type": "Token Weapon",
+    "cost": 0,
+    "effect": "This cannot be removed from your armoury. On Strike: Gain +1 Temper.",
+    "attack": 1,
+    "health": 1,
+    "covenant": "Kuran",
+    "isToken": true,
+    "_legal": {
+      "KUR": true
+    }
+  },
+  "kreena-s-staff-of-connection": {
+    "id": "kreena-s-staff-of-connection",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Kreena's Staff of Connection"
+        },
+        "type": "Weapon",
+        "cost": 2,
+        "image": "https://example.com/cards/kreena-s-staff-of-connection.webp"
+      }
+    },
+    "name": "Kreena's Staff of Connection",
+    "type": "Weapon",
+    "cost": 2,
+    "effect": "Whenever an Acolyte is grafted to me, Rouse me. Crescent Moon: Grafting to me tests 1 less resolve.",
+    "attack": 1,
+    "health": 3,
+    "covenant": "Kuran",
+    "_legal": {
+      "KUR": true
+    }
+  },
+  "amalgamation": {
+    "id": "amalgamation",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Amalgamation"
+        },
+        "type": "Weapon",
+        "cost": 5,
+        "image": "https://example.com/cards/amalgamation.webp"
+      }
+    },
+    "name": "Amalgamation",
+    "type": "Weapon",
+    "cost": 5,
+    "effect": "I have the attack of all acolytes grafted to me.",
+    "attack": 2,
+    "health": 2,
+    "covenant": "Kuran",
+    "_legal": {
+      "KUR": true
+    }
+  },
+  "haven": {
+    "id": "haven",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Haven"
+        },
+        "type": "Weapon",
+        "cost": 3,
+        "image": "https://example.com/cards/haven.webp"
+      }
+    },
+    "name": "Haven",
+    "type": "Weapon",
+    "cost": 3,
+    "effect": "At your preparation and recovery, if I am not grafted, graft an acolyte you wield to me without testing resolve.",
+    "attack": 1,
+    "health": 2,
+    "covenant": "Kuran",
+    "_legal": {
+      "KUR": true
+    }
+  },
+  "ashen-wood-bow": {
+    "id": "ashen-wood-bow",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Ashen Wood Bow"
+        },
+        "type": "Weapon",
+        "cost": 4,
+        "image": "https://example.com/cards/ashen-wood-bow.webp"
+      }
+    },
+    "name": "Ashen Wood Bow",
+    "type": "Weapon",
+    "cost": 4,
+    "effect": "Lose 1 Temper: Deal 1 damage (this counts as striking). Half Moon: I deal 2 damage instead.",
+    "attack": 1,
+    "health": 5,
+    "covenant": "Kuran",
+    "_legal": {
+      "KUR": true
+    }
+  },
+  "lashing-vines": {
+    "id": "lashing-vines",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Lashing Vines"
+        },
+        "type": "Weapon",
+        "cost": 3,
+        "image": "https://example.com/cards/lashing-vines.webp"
+      }
+    },
+    "name": "Lashing Vines",
+    "type": "Weapon",
+    "cost": 3,
+    "effect": "On Strike: Deal 1 damage for every graft attached to this. Whenever this would lose temper, you may break an acolyte grafted to this instead.",
+    "attack": 1,
+    "health": 2,
+    "covenant": "Kuran",
+    "_legal": {
+      "KUR": true
+    }
+  },
+  "menagerie": {
+    "id": "menagerie",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Menagerie"
+        },
+        "type": "Weapon",
+        "cost": 2,
+        "image": "https://example.com/cards/menagerie.webp"
+      }
+    },
+    "name": "Menagerie",
+    "type": "Weapon",
+    "cost": 2,
+    "effect": "This has +1 Attack for each acolyte grafted to this.",
+    "attack": 0,
+    "health": 3,
+    "covenant": "Kuran",
+    "_legal": {
+      "KUR": true
+    }
+  },
+  "cadaver-bloom": {
+    "id": "cadaver-bloom",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Cadaver Bloom"
+        },
+        "type": "Weapon",
+        "cost": 3,
+        "image": "https://example.com/cards/cadaver-bloom.webp"
+      }
+    },
+    "name": "Cadaver Bloom",
+    "type": "Weapon",
+    "cost": 3,
+    "effect": "You may Graft acolytes from the scrapyard to this.",
+    "attack": 2,
+    "health": 2,
+    "covenant": "Kuran",
+    "_legal": {
+      "KUR": true
+    }
+  },
+  "budding-blade": {
+    "id": "budding-blade",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Budding Blade"
+        },
+        "type": "Weapon",
+        "cost": 2,
+        "image": "https://example.com/cards/budding-blade.webp"
+      }
+    },
+    "name": "Budding Blade",
+    "type": "Weapon",
+    "cost": 2,
+    "effect": "Brandish: Graft an Acolyte you wield to this.",
+    "attack": 1,
+    "health": 2,
+    "covenant": "Kuran",
+    "_legal": {
+      "KUR": true
+    }
+  },
+  "thrill-seeker": {
+    "id": "thrill-seeker",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Thrill Seeker"
+        },
+        "type": "Acolyte",
+        "cost": 3,
+        "image": "https://example.com/cards/thrill-seeker.webp"
+      }
+    },
+    "name": "Thrill Seeker",
+    "type": "Acolyte",
+    "cost": 3,
+    "effect": "On Strike: Lose 1 health and Rouse this.",
+    "attack": 2,
+    "health": 3,
+    "covenant": "Niorr",
+    "_legal": {
+      "NIO": true
+    }
+  },
+  "endless-hedonists": {
+    "id": "endless-hedonists",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Endless Hedonists"
+        },
+        "type": "Acolyte",
+        "cost": 2,
+        "image": "https://example.com/cards/endless-hedonists.webp"
+      }
+    },
+    "name": "Endless Hedonists",
+    "type": "Acolyte",
+    "cost": 2,
+    "effect": "If you are thriving, my health cannot reduce below 0.",
+    "attack": 2,
+    "health": 2,
+    "covenant": "Niorr",
+    "_legal": {
+      "NIO": true
+    }
+  },
+  "existential-gambler": {
+    "id": "existential-gambler",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Existential Gambler"
+        },
+        "type": "Acolyte",
+        "cost": 2,
+        "image": "https://example.com/cards/existential-gambler.webp"
+      }
+    },
+    "name": "Existential Gambler",
+    "type": "Acolyte",
+    "cost": 2,
+    "effect": "Whenever you draw, draw an additional 1 card and this loses 1 health. When this breaks create 1 Apathy.",
+    "attack": 1,
+    "health": 4,
+    "covenant": "Niorr",
+    "_legal": {
+      "NIO": true
+    }
+  },
+  "pain-enjoyer": {
+    "id": "pain-enjoyer",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Pain Enjoyer"
+        },
+        "type": "Acolyte",
+        "cost": 2,
+        "image": "https://example.com/cards/pain-enjoyer.webp"
+      }
+    },
+    "name": "Pain Enjoyer",
+    "type": "Acolyte",
+    "cost": 2,
+    "effect": "Sacrifice. Half Moon: I can only lose 1 health at a time.",
+    "attack": 1,
+    "health": 3,
+    "covenant": "Niorr",
+    "_legal": {
+      "NIO": true
+    }
+  },
+  "lecherous-pair": {
+    "id": "lecherous-pair",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Lecherous Pair"
+        },
+        "type": "Acolyte",
+        "cost": 4,
+        "image": "https://example.com/cards/lecherous-pair.webp"
+      }
+    },
+    "name": "Lecherous Pair",
+    "type": "Acolyte",
+    "cost": 4,
+    "effect": "On Attack: Both players lose 1 health.",
+    "attack": 2,
+    "health": 4,
+    "covenant": "Niorr",
+    "_legal": {
+      "NIO": true
+    }
+  },
+  "lil-finch": {
+    "id": "lil-finch",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Lil Finch"
+        },
+        "type": "Acolyte",
+        "cost": 2,
+        "image": "https://example.com/cards/lil-finch.webp"
+      }
+    },
+    "name": "Lil Finch",
+    "type": "Acolyte",
+    "cost": 2,
+    "effect": "Brandish: Draw 1. On Strike: Deal 1 damage. Then you may discard 1 card, if you don't create 1 insignificance.",
+    "attack": 1,
+    "health": 2,
+    "covenant": "Niorr",
+    "_legal": {
+      "NIO": true
+    }
+  },
+  "masochist": {
+    "id": "masochist",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Masochist"
+        },
+        "type": "Acolyte",
+        "cost": 4,
+        "image": "https://example.com/cards/masochist.webp"
+      }
+    },
+    "name": "Masochist",
+    "type": "Acolyte",
+    "cost": 4,
+    "effect": "On Attack: Draw 1. Then you may have your opponent draw 1 as well. If you don't, create 1 Loneliness.",
+    "attack": 1,
+    "health": 5,
+    "covenant": "Niorr",
+    "_legal": {
+      "NIO": true
+    }
+  },
+  "exhiliration": {
+    "id": "exhiliration",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Exhiliration"
+        },
+        "type": "Acolyte",
+        "cost": 6,
+        "image": "https://example.com/cards/exhiliration.webp"
+      }
+    },
+    "name": "Exhiliration",
+    "type": "Acolyte",
+    "cost": 6,
+    "effect": "The first time an acolyte you wield attacks each turn, you may Indulge. If you do, lose 1 health and Rouse it. If you don't, create 1 Apathy.",
+    "attack": 0,
+    "health": 3,
+    "covenant": "Niorr",
+    "_legal": {
+      "NIO": true
+    }
+  },
+  "lust": {
+    "id": "lust",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Lust"
+        },
+        "type": "Acolyte",
+        "cost": 5,
+        "image": "https://example.com/cards/lust.webp"
+      }
+    },
+    "name": "Lust",
+    "type": "Acolyte",
+    "cost": 5,
+    "effect": "Brandish: Choose an acolyte you wield. At your preparation, the chosen acolyte gains +1 attack and you put the top card of your deck into your scrapyard. When this breaks, create 1 Loneliness.",
+    "attack": 0,
+    "health": 4,
+    "covenant": "Niorr",
+    "_legal": {
+      "NIO": true
+    }
+  },
+  "pleasure-seeker": {
+    "id": "pleasure-seeker",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Pleasure Seeker"
+        },
+        "type": "Acolyte",
+        "cost": 2,
+        "image": "https://example.com/cards/pleasure-seeker.webp"
+      }
+    },
+    "name": "Pleasure Seeker",
+    "type": "Acolyte",
+    "cost": 2,
+    "effect": "On Strike: Your opponent cannot play ripostes this turn. Crescent Moon: I enter ready.",
+    "attack": 1,
+    "health": 1,
+    "covenant": "Niorr",
+    "_legal": {
+      "NIO": true
+    }
+  },
+  "exhillerated-brawler": {
+    "id": "exhillerated-brawler",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Exhillerated Brawler"
+        },
+        "type": "Acolyte",
+        "cost": 5,
+        "image": "https://example.com/cards/exhillerated-brawler.webp"
+      }
+    },
+    "name": "Exhillerated Brawler",
+    "type": "Acolyte",
+    "cost": 5,
+    "effect": "On Attack: Gain +1 Attack this turn. Then you may put the top 1 card(s) of your deck into your scrapyard. If you don't create 1 Apathy.",
+    "attack": 2,
+    "health": 4,
+    "covenant": "Niorr",
+    "_legal": {
+      "NIO": true
+    }
+  },
+  "greed": {
+    "id": "greed",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Greed"
+        },
+        "type": "Acolyte",
+        "cost": 2,
+        "image": "https://example.com/cards/greed.webp"
+      }
+    },
+    "name": "Greed",
+    "type": "Acolyte",
+    "cost": 2,
+    "effect": "The first time an acolyte you wield attacks, draw 1. If you would draw a card while your hand is full, put that card into your scrapyard instead and create 1 Insignificance.",
+    "attack": 0,
+    "health": 3,
+    "covenant": "Niorr",
+    "_legal": {
+      "NIO": true
+    }
+  },
+  "comforter": {
+    "id": "comforter",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Comforter"
+        },
+        "type": "Acolyte",
+        "cost": 3,
+        "image": "https://example.com/cards/comforter.webp"
+      }
+    },
+    "name": "Comforter",
+    "type": "Acolyte",
+    "cost": 3,
+    "effect": "Sacrifice. If an acolyte you wield would break, you may break this instead. Full Moon: Your opponent cannot target acolytes you wield.",
+    "attack": 1,
+    "health": 3,
+    "covenant": "Niorr",
+    "_legal": {
+      "NIO": true
+    }
+  },
+  "decadence": {
+    "id": "decadence",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Decadence"
+        },
+        "type": "Acolyte",
+        "cost": 9,
+        "image": "https://example.com/cards/decadence.webp"
+      }
+    },
+    "name": "Decadence",
+    "type": "Acolyte",
+    "cost": 9,
+    "effect": "As long as you wield this, your resolve have \"Test: Indulge\". When this breaks create 1 Despair.",
+    "attack": 0,
+    "health": 8,
+    "covenant": "Niorr",
+    "_legal": {
+      "NIO": true
+    }
+  },
+  "give-in-to-temptation": {
+    "id": "give-in-to-temptation",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Give In to Temptation"
+        },
+        "type": "Edict",
+        "cost": 4,
+        "image": "https://example.com/cards/give-in-to-temptation.webp"
+      }
+    },
+    "name": "Give In to Temptation",
+    "type": "Edict",
+    "cost": 4,
+    "effect": "At your preparation Indulge. If you put indulgence counters on 3 or less armaments you wield, break this. Crescent Moon: Put an extra indulgence counter on 1 of your armanents.",
+    "covenant": "Niorr",
+    "_legal": {
+      "NIO": true
+    }
+  },
+  "blind-indulgence": {
+    "id": "blind-indulgence",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Blind Indulgence"
+        },
+        "type": "Edict",
+        "cost": 7,
+        "image": "https://example.com/cards/blind-indulgence.webp"
+      }
+    },
+    "name": "Blind Indulgence",
+    "type": "Edict",
+    "cost": 7,
+    "effect": "At your preapration, you may Indulge 1 time. If you don't break this and create 1 Despair, Apathy, Lonliness, and Insignicance.",
+    "covenant": "Niorr",
+    "_legal": {
+      "NIO": true
+    }
+  },
+  "demand-of-luxury": {
+    "id": "demand-of-luxury",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Demand of Luxury"
+        },
+        "type": "Edict",
+        "cost": 3,
+        "image": "https://example.com/cards/demand-of-luxury.webp"
+      }
+    },
+    "name": "Demand of Luxury",
+    "type": "Edict",
+    "cost": 3,
+    "effect": "At your preparation draw 1 and put the top card of your deck into your scrapyard. Then if your scrapyard has 15 or more cards in it, break this and create 1 Insiginifcance.",
+    "covenant": "Niorr",
+    "_legal": {
+      "NIO": true
+    }
+  },
+  "bloody-desires": {
+    "id": "bloody-desires",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Bloody Desires"
+        },
+        "type": "Edict",
+        "cost": 2,
+        "image": "https://example.com/cards/bloody-desires.webp"
+      }
+    },
+    "name": "Bloody Desires",
+    "type": "Edict",
+    "cost": 2,
+    "effect": "Your acolytes can attack your opponent directly. If they do, they lose 1 health. If an acolyte you wield breaks, break this.",
+    "covenant": "Niorr",
+    "_legal": {
+      "NIO": true
+    }
+  },
+  "kiss-stained-handkerchief": {
+    "id": "kiss-stained-handkerchief",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Kiss Stained Handkerchief"
+        },
+        "type": "Riposte",
+        "cost": 3,
+        "image": "https://example.com/cards/kiss-stained-handkerchief.webp"
+      }
+    },
+    "name": "Kiss Stained Handkerchief",
+    "type": "Riposte",
+    "cost": 3,
+    "effect": "Choose an acolyte you wield, your opponent must attack it this turn.",
+    "covenant": "Niorr",
+    "_legal": {
+      "NIO": true
+    }
+  },
+  "seduction": {
+    "id": "seduction",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Seduction"
+        },
+        "type": "Riposte",
+        "cost": 2,
+        "image": "https://example.com/cards/seduction.webp"
+      }
+    },
+    "name": "Seduction",
+    "type": "Riposte",
+    "cost": 2,
+    "effect": "Weapons your opponent wields cannot be exhausted this turn. Indulge. Eclipse: This cannot be played.",
+    "covenant": "Niorr",
+    "_legal": {
+      "NIO": true
+    }
+  },
+  "numb": {
+    "id": "numb",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Numb"
+        },
+        "type": "Riposte",
+        "cost": 1,
+        "image": "https://example.com/cards/numb.webp"
+      }
+    },
+    "name": "Numb",
+    "type": "Riposte",
+    "cost": 1,
+    "effect": "Acolytes you wield with 3 or more indulgence counters on them cannot be broken this turn.",
+    "covenant": "Niorr",
+    "_legal": {
+      "NIO": true
+    }
+  },
+  "worth-its-weight": {
+    "id": "worth-its-weight",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Worth Its Weight"
+        },
+        "type": "Riposte",
+        "cost": 3,
+        "image": "https://example.com/cards/worth-its-weight.webp"
+      }
+    },
+    "name": "Worth Its Weight",
+    "type": "Riposte",
+    "cost": 3,
+    "effect": "Break an armament your opponent wields. Draw X cards where X is half the broken armament's resolve. Half Moon: X is equal to the max resolve instead.",
+    "covenant": "Niorr",
+    "_legal": {
+      "NIO": true
+    }
+  },
+  "niorr-s-oath-sigil": {
+    "id": "niorr-s-oath-sigil",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Niorr's Oath Sigil"
+        },
+        "type": "Tactic",
+        "cost": 0,
+        "image": "https://example.com/cards/niorr-s-oath-sigil.webp"
+      }
+    },
+    "name": "Niorr's Oath Sigil",
+    "type": "Tactic",
+    "cost": 0,
+    "effect": "Gain 1 resolve this turn and Indulge.",
+    "covenant": "Niorr",
+    "_legal": {
+      "NIO": true
+    }
+  },
+  "dissonant-dice": {
+    "id": "dissonant-dice",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Dissonant Dice"
+        },
+        "type": "Tactic",
+        "cost": 1,
+        "image": "https://example.com/cards/dissonant-dice.webp"
+      }
+    },
+    "name": "Dissonant Dice",
+    "type": "Tactic",
+    "cost": 1,
+    "effect": "Draw 1, discard 1, and Indulge. Crescent Moon: Draw 2 discard 2 at random.",
+    "covenant": "Niorr",
+    "_legal": {
+      "NIO": true
+    }
+  },
+  "murmurs-of-aggression": {
+    "id": "murmurs-of-aggression",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Murmurs of Aggression"
+        },
+        "type": "Tactic",
+        "cost": 2,
+        "image": "https://example.com/cards/murmurs-of-aggression.webp"
+      }
+    },
+    "name": "Murmurs of Aggression",
+    "type": "Tactic",
+    "cost": 2,
+    "effect": "Give an acolyte you wield +2 Attack. Full Moon: Give an acolyte +5 Attack instead.",
+    "covenant": "Niorr",
+    "_legal": {
+      "NIO": true
+    }
+  },
+  "do-it": {
+    "id": "do-it",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Do it"
+        },
+        "type": "Tactic",
+        "cost": 2,
+        "image": "https://example.com/cards/do-it.webp"
+      }
+    },
+    "name": "Do it",
+    "type": "Tactic",
+    "cost": 2,
+    "effect": "Indulge. Full Moon: Indulge 3 times instead and put the top 5 cards of your deck into your scrapyard.",
+    "covenant": "Niorr",
+    "_legal": {
+      "NIO": true
+    }
+  },
+  "craving-senesation": {
+    "id": "craving-senesation",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Craving Senesation"
+        },
+        "type": "Tactic",
+        "cost": 4,
+        "image": "https://example.com/cards/craving-senesation.webp"
+      }
+    },
+    "name": "Craving Senesation",
+    "type": "Tactic",
+    "cost": 4,
+    "effect": "Ready all acolytes you wield and give them +1 attack this turn for each indulgence counter on them.",
+    "covenant": "Niorr",
+    "_legal": {
+      "NIO": true
+    }
+  },
+  "strange-affection": {
+    "id": "strange-affection",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Strange Affection"
+        },
+        "type": "Tactic",
+        "cost": 2,
+        "image": "https://example.com/cards/strange-affection.webp"
+      }
+    },
+    "name": "Strange Affection",
+    "type": "Tactic",
+    "cost": 2,
+    "effect": "Reveal the top card of your deck. If it is an Acolyte that tests 3 or less resolve, you may play it without testing resolve. Otherwise, your opponent draws 1.",
+    "covenant": "Niorr",
+    "_legal": {
+      "NIO": true
+    }
+  },
+  "unbound-craving": {
+    "id": "unbound-craving",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Unbound Craving"
+        },
+        "type": "Tactic",
+        "cost": 1,
+        "image": "https://example.com/cards/unbound-craving.webp"
+      }
+    },
+    "name": "Unbound Craving",
+    "type": "Tactic",
+    "cost": 1,
+    "effect": "Break a weapon your opponent wields that tests less than 2 resolve. Half Moon: Break any weapon instead.",
+    "covenant": "Niorr",
+    "_legal": {
+      "NIO": true
+    }
+  },
+  "nothing-to-live-for": {
+    "id": "nothing-to-live-for",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Nothing To Live For"
+        },
+        "type": "Tactic",
+        "cost": 7,
+        "image": "https://example.com/cards/nothing-to-live-for.webp"
+      }
+    },
+    "name": "Nothing To Live For",
+    "type": "Tactic",
+    "cost": 7,
+    "effect": "Deal 1 damage to your opponent. Repeat this for each withdrawal you wield. Put the top 2 cards of your deck into your scrapyard for each damage dealt this way.",
+    "covenant": "Niorr",
+    "_legal": {
+      "NIO": true
+    }
+  },
+  "toxic-intimacy": {
+    "id": "toxic-intimacy",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Toxic Intimacy"
+        },
+        "type": "Tactic",
+        "cost": 2,
+        "image": "https://example.com/cards/toxic-intimacy.webp"
+      }
+    },
+    "name": "Toxic Intimacy",
+    "type": "Tactic",
+    "cost": 2,
+    "effect": "Your opponent draws 2 cards and loses 2 health.",
+    "covenant": "Niorr",
+    "_legal": {
+      "NIO": true
+    }
+  },
+  "sheira-s-obessission": {
+    "id": "sheira-s-obessission",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Sheira's Obessission"
+        },
+        "type": "Tactic",
+        "cost": 3,
+        "image": "https://example.com/cards/sheira-s-obessission.webp"
+      }
+    },
+    "name": "Sheira's Obessission",
+    "type": "Tactic",
+    "cost": 3,
+    "effect": "Rouse an acolyte you wield.",
+    "covenant": "Niorr",
+    "_legal": {
+      "NIO": true
+    }
+  },
+  "gleeful-wrath": {
+    "id": "gleeful-wrath",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Gleeful Wrath"
+        },
+        "type": "Weapon",
+        "cost": 3,
+        "image": "https://example.com/cards/gleeful-wrath.webp"
+      }
+    },
+    "name": "Gleeful Wrath",
+    "type": "Weapon",
+    "cost": 3,
+    "effect": "On Attack: I copy the attack of an acolyte you wield.",
+    "attack": 1,
+    "health": 2,
+    "covenant": "Niorr",
+    "_legal": {
+      "NIO": true
+    }
+  },
+  "glistening": {
+    "id": "glistening",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Glistening"
+        },
+        "type": "Weapon",
+        "cost": 3,
+        "image": "https://example.com/cards/glistening.webp"
+      }
+    },
+    "name": "Glistening",
+    "type": "Weapon",
+    "cost": 3,
+    "effect": "On Attack: Draw 1. Then you may put the top 1 card of your deck into your scrapyard. If you don't, create a Insignificance.",
+    "attack": 2,
+    "health": 2,
+    "covenant": "Niorr",
+    "_legal": {
+      "NIO": true
+    }
+  },
+  "whispering-gold": {
+    "id": "whispering-gold",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Whispering Gold"
+        },
+        "type": "Weapon",
+        "cost": 1,
+        "image": "https://example.com/cards/whispering-gold.webp"
+      }
+    },
+    "name": "Whispering Gold",
+    "type": "Weapon",
+    "cost": 1,
+    "effect": "On Attack: I gain +1 Attack this turn. When this breaks draw 1 card and create 1 random withdrawal.",
+    "attack": 0,
+    "health": 2,
+    "covenant": "Niorr",
+    "_legal": {
+      "NIO": true
+    }
+  },
+  "addiction": {
+    "id": "addiction",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Addiction"
+        },
+        "type": "Weapon",
+        "cost": 3,
+        "image": "https://example.com/cards/addiction.webp"
+      }
+    },
+    "name": "Addiction",
+    "type": "Weapon",
+    "cost": 3,
+    "effect": "I have +1 Attack for each armament you wield with an indulgence counter on it. I do not gain effects from Indulgence counters.",
+    "attack": 0,
+    "health": 2,
+    "covenant": "Niorr",
+    "_legal": {
+      "NIO": true
+    }
+  },
+  "bloodied-knuckles": {
+    "id": "bloodied-knuckles",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Bloodied Knuckles"
+        },
+        "type": "Weapon",
+        "cost": 4,
+        "image": "https://example.com/cards/bloodied-knuckles.webp"
+      }
+    },
+    "name": "Bloodied Knuckles",
+    "type": "Weapon",
+    "cost": 4,
+    "effect": "Whenever I kill an acolyte, I gain +2 Attack. Crescent Moon: I gain +3 Attack instead.",
+    "attack": 1,
+    "health": 3,
+    "covenant": "Niorr",
+    "_legal": {
+      "NIO": true
+    }
+  },
+  "velvet-chain": {
+    "id": "velvet-chain",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Velvet Chain"
+        },
+        "type": "Weapon",
+        "cost": 2,
+        "image": "https://example.com/cards/velvet-chain.webp"
+      }
+    },
+    "name": "Velvet Chain",
+    "type": "Weapon",
+    "cost": 2,
+    "effect": "On Attack: Indulge. Your Opponent may draw 1.",
+    "attack": 1,
+    "health": 3,
+    "covenant": "Niorr",
+    "_legal": {
+      "NIO": true
+    }
+  },
+  "pleasure-lash": {
+    "id": "pleasure-lash",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Pleasure Lash"
+        },
+        "type": "Weapon",
+        "cost": 4,
+        "image": "https://example.com/cards/pleasure-lash.webp"
+      }
+    },
+    "name": "Pleasure Lash",
+    "type": "Weapon",
+    "cost": 4,
+    "effect": "Whenever your opponent plays a card, I gain +1 attack.",
+    "attack": 1,
+    "health": 3,
+    "covenant": "Niorr",
+    "_legal": {
+      "NIO": true
+    }
+  },
+  "staff-of-craving": {
+    "id": "staff-of-craving",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Staff of Craving"
+        },
+        "type": "Weapon",
+        "cost": 6,
+        "image": "https://example.com/cards/staff-of-craving.webp"
+      }
+    },
+    "name": "Staff of Craving",
+    "type": "Weapon",
+    "cost": 6,
+    "effect": "On Strike: If you have 8 or more cards in hand, I have +3 Attack and cannot lose Temper this turn. If you have an empty hand, break me and create 1 Insignificance.",
+    "attack": 3,
+    "health": 1,
+    "covenant": "Niorr",
+    "_legal": {
+      "NIO": true
+    }
+  },
+  "apathy": {
+    "id": "apathy",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Apathy"
+        },
+        "type": "Token Withdrawal",
+        "cost": 0,
+        "image": "https://example.com/cards/apathy.webp"
+      }
+    },
+    "name": "Apathy",
+    "type": "Token Withdrawal",
+    "cost": 0,
+    "effect": "At the start of your turn give a weapon you wield -1 Attack.",
+    "covenant": "Niorr",
+    "isToken": true,
+    "_legal": {
+      "NIO": true
+    }
+  },
+  "loneliness": {
+    "id": "loneliness",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Loneliness"
+        },
+        "type": "Token Withdrawal",
+        "cost": 0,
+        "image": "https://example.com/cards/loneliness.webp"
+      }
+    },
+    "name": "Loneliness",
+    "type": "Token Withdrawal",
+    "cost": 0,
+    "effect": "At your preparation break an acolyte you wield.",
+    "covenant": "Niorr",
+    "isToken": true,
+    "_legal": {
+      "NIO": true
+    }
+  },
+  "insignificance": {
+    "id": "insignificance",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Insignificance"
+        },
+        "type": "Token Withdrawal",
+        "cost": 0,
+        "image": "https://example.com/cards/insignificance.webp"
+      }
+    },
+    "name": "Insignificance",
+    "type": "Token Withdrawal",
+    "cost": 0,
+    "effect": "The first time you take damage each turn, you take 1 additional damage.",
+    "covenant": "Niorr",
+    "isToken": true,
+    "_legal": {
+      "NIO": true
+    }
+  },
+  "despair": {
+    "id": "despair",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Despair"
+        },
+        "type": "Token Withdrawal",
+        "cost": 0,
+        "image": "https://example.com/cards/despair.webp"
+      }
+    },
+    "name": "Despair",
+    "type": "Token Withdrawal",
+    "cost": 0,
+    "effect": "Your resolve maximum is reduced by 1.",
+    "covenant": "Niorr",
+    "isToken": true,
+    "_legal": {
+      "NIO": true
+    }
+  },
+  "essence-carver": {
+    "id": "essence-carver",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Essence Carver"
+        },
+        "type": "1-Handed Weapon",
+        "cost": 3,
+        "image": "https://example.com/cards/essence-carver.webp"
+      }
+    },
+    "name": "Essence Carver",
+    "type": "1-Handed Weapon",
+    "cost": 3,
+    "effect": "If you wield 2 or more exhausted Tomes, this has +2.",
+    "attack": 1,
+    "covenant": "Qirune",
+    "_legal": {
+      "QIR": true
+    }
+  },
+  "budding-romance": {
+    "id": "budding-romance",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Budding Romance"
+        },
+        "type": "2-Handed Weapon",
+        "cost": 4,
+        "image": "https://example.com/cards/budding-romance.webp"
+      }
+    },
+    "name": "Budding Romance",
+    "type": "2-Handed Weapon",
+    "cost": 4,
+    "effect": "Strike: Your opponent creates a \"Love Letter\" and disarm this.",
+    "attack": 2,
+    "covenant": "Qirune",
+    "_legal": {
+      "QIR": true
+    }
+  },
+  "jireth-s-burning-hatred": {
+    "id": "jireth-s-burning-hatred",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Jireth's Burning Hatred"
+        },
+        "type": "2-Handed Weapon",
+        "cost": 2,
+        "image": "https://example.com/cards/jireth-s-burning-hatred.webp"
+      }
+    },
+    "name": "Jireth's Burning Hatred",
+    "type": "2-Handed Weapon",
+    "cost": 2,
+    "effect": "Attack: Deal 1 damage. If you are Jireth, repeat this. Eclipse: This restores health instead.",
+    "attack": 1,
+    "covenant": "Qirune",
+    "_legal": {
+      "QIR": true
+    }
+  },
+  "taviq-s-staff": {
+    "id": "taviq-s-staff",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Taviq's Staff"
+        },
+        "type": "2-Handed Weapon",
+        "cost": 2,
+        "image": "https://example.com/cards/taviq-s-staff.webp"
+      }
+    },
+    "name": "Taviq's Staff",
+    "type": "2-Handed Weapon",
+    "cost": 2,
+    "effect": "Attack: Cast a spell from an exhausted tome you wield. If you are Taviq, this does not drain essence.",
+    "attack": 1,
+    "covenant": "Qirune",
+    "_legal": {
+      "QIR": true
+    }
+  },
+  "vengeful-ichor": {
+    "id": "vengeful-ichor",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Vengeful Ichor"
+        },
+        "type": "2-Handed Weapon",
+        "cost": 3,
+        "image": "https://example.com/cards/vengeful-ichor.webp"
+      }
+    },
+    "name": "Vengeful Ichor",
+    "type": "2-Handed Weapon",
+    "cost": 3,
+    "effect": "Attack: If you are Hateful, your next tactic tests 1 less resolve. Crescent Moon: This inflicts Poison.",
+    "attack": 1,
+    "covenant": "Qirune",
+    "_legal": {
+      "QIR": true
+    }
+  },
+  "drain-emotion": {
+    "id": "drain-emotion",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Drain Emotion"
+        },
+        "type": "Ability",
+        "cost": 3,
+        "image": "https://example.com/cards/drain-emotion.webp"
+      }
+    },
+    "name": "Drain Emotion",
+    "type": "Ability",
+    "cost": 3,
+    "effect": "At preparation, if you triggered love or hate 2 or more times since your last preparation, your opponent loses 1 health, then channel Love or Hate. (Become Loving or Hateful. For the remainder of the turn whenever you whenever you play a card, If you are Loving restore 1 health. If you are Hateful deal 1 damage).",
+    "covenant": "Qirune",
+    "_legal": {
+      "QIR": true
+    }
+  },
+  "esoteric-whispers": {
+    "id": "esoteric-whispers",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Esoteric Whispers"
+        },
+        "type": "Ability",
+        "cost": 2,
+        "image": "https://example.com/cards/esoteric-whispers.webp"
+      }
+    },
+    "name": "Esoteric Whispers",
+    "type": "Ability",
+    "cost": 2,
+    "effect": "The first time you cast a spell each turn, draw 1.",
+    "covenant": "Qirune",
+    "_legal": {
+      "QIR": true
+    }
+  },
+  "hollow-love": {
+    "id": "hollow-love",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Hollow Love"
+        },
+        "type": "Ability",
+        "cost": 3,
+        "image": "https://example.com/cards/hollow-love.webp"
+      }
+    },
+    "name": "Hollow Love",
+    "type": "Ability",
+    "cost": 3,
+    "effect": "Whenever your opponent would restore health during your turn, they lose 1 health instead.",
+    "covenant": "Qirune",
+    "_legal": {
+      "QIR": true
+    }
+  },
+  "body-given": {
+    "id": "body-given",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Body Given"
+        },
+        "type": "Ability",
+        "cost": 4,
+        "image": "https://example.com/cards/body-given.webp"
+      }
+    },
+    "name": "Body Given",
+    "type": "Ability",
+    "cost": 4,
+    "effect": "You are always Loving. At preparation, your opponent restores 1 health. Crescent Moon: Repeat this.",
+    "covenant": "Qirune",
+    "_legal": {
+      "QIR": true
+    }
+  },
+  "nourishing-devotion": {
+    "id": "nourishing-devotion",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Nourishing Devotion"
+        },
+        "type": "Ability",
+        "cost": 4,
+        "image": "https://example.com/cards/nourishing-devotion.webp"
+      }
+    },
+    "name": "Nourishing Devotion",
+    "type": "Ability",
+    "cost": 4,
+    "effect": "After exhausting a Tome, discard 1 at random. If you are Loving, you may cast 2 spells from that tome. If you are Hateful, your next tactic tests 2 less resolve.",
+    "covenant": "Qirune",
+    "_legal": {
+      "QIR": true
+    }
+  },
+  "qirune-s-gift-to-her-child": {
+    "id": "qirune-s-gift-to-her-child",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Qirune's Gift to Her Child"
+        },
+        "type": "Act of Desperation",
+        "cost": 10,
+        "image": "https://example.com/cards/qirune-s-gift-to-her-child.webp"
+      }
+    },
+    "name": "Qirune's Gift to Her Child",
+    "type": "Act of Desperation",
+    "cost": 10,
+    "effect": "Gain 10 resolve this turn. Hateful and Loving effects are doubled this turn. At your recovery, if you did not play 5 or more cards this turn, you lose the game.",
+    "covenant": "Qirune",
+    "_legal": {
+      "QIR": true
+    }
+  },
+  "tome-of-qirune": {
+    "id": "tome-of-qirune",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Tome of Qirune"
+        },
+        "type": "Act of Desperation: Tome",
+        "cost": 10,
+        "image": "https://example.com/cards/tome-of-qirune.webp"
+      }
+    },
+    "name": "Tome of Qirune",
+    "type": "Act of Desperation: Tome",
+    "cost": 10,
+    "effect": "3 Essence. You must use this every turn. When this breaks, you lose the game.\nSun - Draw 5. Gain 4 resolve this turn.\nMoon - Your opponent scraps 5.\nStars -  Show Mercy, Fight Dirty, Divine, Channel, Evolve, Breathe.",
+    "covenant": "Qirune",
+    "_legal": {
+      "QIR": true
+    }
+  },
+  "blackened-page": {
+    "id": "blackened-page",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Blackened Page"
+        },
+        "type": "Item",
+        "cost": 3,
+        "image": "https://example.com/cards/blackened-page.webp"
+      }
+    },
+    "name": "Blackened Page",
+    "type": "Item",
+    "cost": 3,
+    "effect": "Use: Deal 2 damage and draw 1. Channel Hate. Half Moon: Dead 4 damage, draw 2 and lose 2 health.",
+    "covenant": "Qirune",
+    "_legal": {
+      "QIR": true
+    }
+  },
+  "etchings-of-qirune": {
+    "id": "etchings-of-qirune",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Etchings of Qirune"
+        },
+        "type": "Item",
+        "cost": 2,
+        "image": "https://example.com/cards/etchings-of-qirune.webp"
+      }
+    },
+    "name": "Etchings of Qirune",
+    "type": "Item",
+    "cost": 2,
+    "effect": "Use: Play a tome from the scrapyard. It has 1 essensce.",
+    "covenant": "Qirune",
+    "_legal": {
+      "QIR": true
+    }
+  },
+  "offering": {
+    "id": "offering",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Offering"
+        },
+        "type": "Item",
+        "cost": 2,
+        "image": "https://example.com/cards/offering.webp"
+      }
+    },
+    "name": "Offering",
+    "type": "Item",
+    "cost": 2,
+    "effect": "This enters exhausted. Use: Create a “Gift of Qirune” or \"Charm\" and draw 1.",
+    "covenant": "Qirune",
+    "_legal": {
+      "QIR": true
+    }
+  },
+  "qirunes-s-charm-of-hope": {
+    "id": "qirunes-s-charm-of-hope",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Qirunes's Charm of Hope"
+        },
+        "type": "Item",
+        "cost": 2,
+        "image": "https://example.com/cards/qirunes-s-charm-of-hope.webp"
+      }
+    },
+    "name": "Qirunes's Charm of Hope",
+    "type": "Item",
+    "cost": 2,
+    "effect": "Use: Both players draw 1. If you are Loving, you Witness as well. Crescent Moon: Channel Love first. (Become Loving and for the remainder of the turn whenever you play a card, restore 1 health).",
+    "covenant": "Qirune",
+    "_legal": {
+      "QIR": true
+    }
+  },
+  "bubble-of-hope": {
+    "id": "bubble-of-hope",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Bubble of Hope"
+        },
+        "type": "Riposte",
+        "cost": 2,
+        "image": "https://example.com/cards/bubble-of-hope.webp"
+      }
+    },
+    "name": "Bubble of Hope",
+    "type": "Riposte",
+    "cost": 2,
+    "effect": "Gain 3 guard. At your next preparation, Channel Love. (Become Loving and for the remainder of the turn whenever you play a card, restore 1 health).",
+    "covenant": "Qirune",
+    "_legal": {
+      "QIR": true
+    }
+  },
+  "toxic-positivity": {
+    "id": "toxic-positivity",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Toxic Positivity"
+        },
+        "type": "Riposte",
+        "cost": 1,
+        "image": "https://example.com/cards/toxic-positivity.webp"
+      }
+    },
+    "name": "Toxic Positivity",
+    "type": "Riposte",
+    "cost": 1,
+    "effect": "If you are loving, inflict poison.",
+    "covenant": "Qirune",
+    "_legal": {
+      "QIR": true
+    }
+  },
+  "magician-s-love": {
+    "id": "magician-s-love",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Magician's Love"
+        },
+        "type": "Riposte",
+        "cost": 7,
+        "image": "https://example.com/cards/magician-s-love.webp"
+      }
+    },
+    "name": "Magician's Love",
+    "type": "Riposte",
+    "cost": 7,
+    "effect": "Recover your condition. At your recovery, reduce your health to 1. Full Moon: Do not reduce your health to 1.",
+    "covenant": "Qirune",
+    "_legal": {
+      "QIR": true
+    }
+  },
+  "hatred": {
+    "id": "hatred",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Hatred"
+        },
+        "type": "Riposte",
+        "cost": 1,
+        "image": "https://example.com/cards/hatred.webp"
+      }
+    },
+    "name": "Hatred",
+    "type": "Riposte",
+    "cost": 1,
+    "effect": "Deal 1 damage. If you are Hateful, Your next tactic tests1 less resolve.",
+    "covenant": "Qirune",
+    "_legal": {
+      "QIR": true
+    }
+  },
+  "how-dare-you": {
+    "id": "how-dare-you",
+    "face": {
+      "front": {
+        "name": {
+          "name": "How Dare You"
+        },
+        "type": "Riposte",
+        "cost": 2,
+        "image": "https://example.com/cards/how-dare-you.webp"
+      }
+    },
+    "name": "How Dare You",
+    "type": "Riposte",
+    "cost": 2,
+    "effect": "Channel Hate. (Become Hateful and for the remainder of the turn whenever you play a card, deal 1 damage). You may play a card that tests 1 or less resolve or draw 1.",
+    "covenant": "Qirune",
+    "_legal": {
+      "QIR": true
+    }
+  },
+  "illusions-of-peace": {
+    "id": "illusions-of-peace",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Illusions of Peace"
+        },
+        "type": "Riposte",
+        "cost": 3,
+        "image": "https://example.com/cards/illusions-of-peace.webp"
+      }
+    },
+    "name": "Illusions of Peace",
+    "type": "Riposte",
+    "cost": 3,
+    "effect": "Gain 4 guard. Then you may cast a spell from a Tome you wield without exhausting it or draining essence.",
+    "covenant": "Qirune",
+    "_legal": {
+      "QIR": true
+    }
+  },
+  "emotional-mending": {
+    "id": "emotional-mending",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Emotional Mending"
+        },
+        "type": "Tactic",
+        "cost": 1,
+        "image": "https://example.com/cards/emotional-mending.webp"
+      }
+    },
+    "name": "Emotional Mending",
+    "type": "Tactic",
+    "cost": 1,
+    "effect": "Cure all of your ailments and Channel Love. (Become Loving and for the remainder of the turn whenever you play a card, restore 1 health). Half Moon: Both players return a card from the scrapyard to their hand.",
+    "covenant": "Qirune",
+    "_legal": {
+      "QIR": true
+    }
+  },
+  "emotional-overload": {
+    "id": "emotional-overload",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Emotional Overload"
+        },
+        "type": "Tactic",
+        "cost": 4,
+        "image": "https://example.com/cards/emotional-overload.webp"
+      }
+    },
+    "name": "Emotional Overload",
+    "type": "Tactic",
+    "cost": 4,
+    "effect": "Deal damage equal to the amount of health you restored this turn. Discard 2. Then, if you are loving, both players gain 2 guard.",
+    "covenant": "Qirune",
+    "_legal": {
+      "QIR": true
+    }
+  },
+  "gentle-warning": {
+    "id": "gentle-warning",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Gentle Warning"
+        },
+        "type": "Tactic",
+        "cost": 1,
+        "image": "https://example.com/cards/gentle-warning.webp"
+      }
+    },
+    "name": "Gentle Warning",
+    "type": "Tactic",
+    "cost": 1,
+    "effect": "Disarm an armament that tests 2 or less resolve. If you are Loving, both players draw 1 or restore 1 health.",
+    "covenant": "Qirune",
+    "_legal": {
+      "QIR": true
+    }
+  },
+  "her-magic-empowers-me": {
+    "id": "her-magic-empowers-me",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Her Magic Empowers Me"
+        },
+        "type": "Tactic",
+        "cost": 3,
+        "image": "https://example.com/cards/her-magic-empowers-me.webp"
+      }
+    },
+    "name": "Her Magic Empowers Me",
+    "type": "Tactic",
+    "cost": 3,
+    "effect": "Cast a spell from an exhausted Tome you wield or break a Tome you wield and give a weapon you wield +2.",
+    "covenant": "Qirune",
+    "_legal": {
+      "QIR": true
+    }
+  },
+  "hex": {
+    "id": "hex",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Hex"
+        },
+        "type": "Tactic",
+        "cost": 1,
+        "image": "https://example.com/cards/hex.webp"
+      }
+    },
+    "name": "Hex",
+    "type": "Tactic",
+    "cost": 1,
+    "effect": "If you are Hateful, draw 1. Otherwise, Channel Hate. (Become Hateful and for the remainder of the turn whenever you play a card, deal 1 damage). Half Moon: This tests 0 resolve to play.",
+    "covenant": "Qirune",
+    "_legal": {
+      "QIR": true
+    }
+  },
+  "joyous-return": {
+    "id": "joyous-return",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Joyous Return"
+        },
+        "type": "Tactic",
+        "cost": 2,
+        "image": "https://example.com/cards/joyous-return.webp"
+      }
+    },
+    "name": "Joyous Return",
+    "type": "Tactic",
+    "cost": 2,
+    "effect": "Play an armament from the scrapyard that tests 2 or less resolve. If you are Loving, both players restore 2 health. Crescent Moon: Play an armament that tests 3 or less resolve instead.",
+    "covenant": "Qirune",
+    "_legal": {
+      "QIR": true
+    }
+  },
+  "misery-loves-company": {
+    "id": "misery-loves-company",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Misery Loves Company"
+        },
+        "type": "Tactic",
+        "cost": 3,
+        "image": "https://example.com/cards/misery-loves-company.webp"
+      }
+    },
+    "name": "Misery Loves Company",
+    "type": "Tactic",
+    "cost": 3,
+    "effect": "Until your next recovery, whenever you deal damage with Hate, deal 1 additional damage. Crescent Moon: This tests 1 less resolve.",
+    "covenant": "Qirune",
+    "_legal": {
+      "QIR": true
+    }
+  },
+  "painful-memories": {
+    "id": "painful-memories",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Painful Memories"
+        },
+        "type": "Tactic",
+        "cost": 2,
+        "image": "https://example.com/cards/painful-memories.webp"
+      }
+    },
+    "name": "Painful Memories",
+    "type": "Tactic",
+    "cost": 2,
+    "effect": "The next tactic you play this turn tests 2 less resolve. Draw 1. If you are hateful, draw 2. Crescent Moon: Channel Hate First. (Become Hateful and for the remainder of the turn whenever you play a card, deal 1 damage).",
+    "covenant": "Qirune",
+    "_legal": {
+      "QIR": true
+    }
+  },
+  "playful-mood": {
+    "id": "playful-mood",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Playful Mood"
+        },
+        "type": "Tactic",
+        "cost": 2,
+        "image": "https://example.com/cards/playful-mood.webp"
+      }
+    },
+    "name": "Playful Mood",
+    "type": "Tactic",
+    "cost": 2,
+    "effect": "Disarm an armament your opponent wields that tests 3 or less resolve. If you are loving, both players draw 1.",
+    "covenant": "Qirune",
+    "_legal": {
+      "QIR": true
+    }
+  },
+  "rage": {
+    "id": "rage",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Rage"
+        },
+        "type": "Tactic",
+        "cost": 3,
+        "image": "https://example.com/cards/rage.webp"
+      }
+    },
+    "name": "Rage",
+    "type": "Tactic",
+    "cost": 3,
+    "effect": "Deal 2 damage. If you are hateful, your next tactic you play this turn tests 2 less resolve . Full Moon: This tests 2 less resolve.",
+    "covenant": "Qirune",
+    "_legal": {
+      "QIR": true
+    }
+  },
+  "shadows-of-magic": {
+    "id": "shadows-of-magic",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Shadows of Magic"
+        },
+        "type": "Tactic",
+        "cost": 3,
+        "image": "https://example.com/cards/shadows-of-magic.webp"
+      }
+    },
+    "name": "Shadows of Magic",
+    "type": "Tactic",
+    "cost": 3,
+    "effect": "Deal 1 damage. Repeat this for each time you have dealt damage with Hate this turn. Crescent Moon: Deal 2 damage.",
+    "covenant": "Qirune",
+    "_legal": {
+      "QIR": true
+    }
+  },
+  "two-sides-of-qirune": {
+    "id": "two-sides-of-qirune",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Two Sides of Qirune"
+        },
+        "type": "Tactic",
+        "cost": 1,
+        "image": "https://example.com/cards/two-sides-of-qirune.webp"
+      }
+    },
+    "name": "Two Sides of Qirune",
+    "type": "Tactic",
+    "cost": 1,
+    "effect": "Draw 1. If you are Loving, restore 1 health. If you are Hateful, deal 1 damage.",
+    "covenant": "Qirune",
+    "_legal": {
+      "QIR": true
+    }
+  },
+  "charm": {
+    "id": "charm",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Charm"
+        },
+        "type": "Token Item",
+        "cost": 0,
+        "image": "https://example.com/cards/charm.webp"
+      }
+    },
+    "name": "Charm",
+    "type": "Token Item",
+    "cost": 0,
+    "effect": "Use: Witness. If you are Loving, both players also restore 1 health.",
+    "covenant": "Qirune",
+    "isToken": true,
+    "_legal": {
+      "QIR": true
+    }
+  },
+  "ember": {
+    "id": "ember",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Ember"
+        },
+        "type": "Token Item",
+        "cost": 0,
+        "image": "https://example.com/cards/ember.webp"
+      }
+    },
+    "name": "Ember",
+    "type": "Token Item",
+    "cost": 0,
+    "effect": "Use: Restore 1 health.",
+    "covenant": "Qirune",
+    "isToken": true,
+    "_legal": {
+      "QIR": true
+    }
+  },
+  "gift-of-qirune": {
+    "id": "gift-of-qirune",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Gift of Qirune"
+        },
+        "type": "Token Item",
+        "cost": 0,
+        "image": "https://example.com/cards/gift-of-qirune.webp"
+      }
+    },
+    "name": "Gift of Qirune",
+    "type": "Token Item",
+    "cost": 0,
+    "effect": "Use: Channel Love or Hate. If you are already loving or hateful, using this counts as playing a card.",
+    "covenant": "Qirune",
+    "isToken": true,
+    "_legal": {
+      "QIR": true
+    }
+  },
+  "hardened-essence": {
+    "id": "hardened-essence",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Hardened Essence"
+        },
+        "type": "Token Item",
+        "cost": 0,
+        "image": "https://example.com/cards/hardened-essence.webp"
+      }
+    },
+    "name": "Hardened Essence",
+    "type": "Token Item",
+    "cost": 0,
+    "effect": "Use: Your next tactic tests 1 less resolve or both players draw 1.",
+    "covenant": "Qirune",
+    "isToken": true,
+    "_legal": {
+      "QIR": true
+    }
+  },
+  "hollow-feeling": {
+    "id": "hollow-feeling",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Hollow Feeling"
+        },
+        "type": "Token Item",
+        "cost": 0,
+        "image": "https://example.com/cards/hollow-feeling.webp"
+      }
+    },
+    "name": "Hollow Feeling",
+    "type": "Token Item",
+    "cost": 0,
+    "effect": "Use: You cannot be loving or hateful this turn.",
+    "covenant": "Qirune",
+    "isToken": true,
+    "_legal": {
+      "QIR": true
+    }
+  },
+  "love-letter": {
+    "id": "love-letter",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Love Letter"
+        },
+        "type": "Token Item",
+        "cost": 0,
+        "image": "https://example.com/cards/love-letter.webp"
+      }
+    },
+    "name": "Love Letter",
+    "type": "Token Item",
+    "cost": 0,
+    "effect": "Use: Both players draw 1 or restore 1 health. Your opponent creates a \"Love Letter\".",
+    "covenant": "Qirune",
+    "isToken": true,
+    "_legal": {
+      "QIR": true
+    }
+  },
+  "seething-hate": {
+    "id": "seething-hate",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Seething Hate"
+        },
+        "type": "Token Item",
+        "cost": 0,
+        "image": "https://example.com/cards/seething-hate.webp"
+      }
+    },
+    "name": "Seething Hate",
+    "type": "Token Item",
+    "cost": 0,
+    "effect": "Use: Tactics you play this turn test 1 less resolve. Lose 2 health.",
+    "covenant": "Qirune",
+    "isToken": true,
+    "_legal": {
+      "QIR": true
+    }
+  },
+  "tome-of-anger": {
+    "id": "tome-of-anger",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Tome of Anger"
+        },
+        "type": "Tome",
+        "cost": 4,
+        "image": "https://example.com/cards/tome-of-anger.webp"
+      }
+    },
+    "name": "Tome of Anger",
+    "type": "Tome",
+    "cost": 4,
+    "effect": "3 Essence.\nForge - Create a “Hardened Essence”. Discard 2.\nRaze - Break a weapon and lose 3 health.\nMold - Create a copy of a weapon you wield. Break all non weapon armaments you wield.",
+    "covenant": "Qirune",
+    "_legal": {
+      "QIR": true
+    }
+  },
+  "tome-of-benevolence": {
+    "id": "tome-of-benevolence",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Tome of Benevolence"
+        },
+        "type": "Tome",
+        "cost": 5,
+        "image": "https://example.com/cards/tome-of-benevolence.webp"
+      }
+    },
+    "name": "Tome of Benevolence",
+    "type": "Tome",
+    "cost": 5,
+    "effect": "1 Essence. If you are Loving, after casting a spell from this, draw 2.\nEuphoria - Restore 5 health to both players.\nDivine Protection - Both players gain 5 GUARD.",
+    "covenant": "Qirune",
+    "_legal": {
+      "QIR": true
+    }
+  },
+  "tome-of-greed": {
+    "id": "tome-of-greed",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Tome of Greed"
+        },
+        "type": "Tome",
+        "cost": 2,
+        "image": "https://example.com/cards/tome-of-greed.webp"
+      }
+    },
+    "name": "Tome of Greed",
+    "type": "Tome",
+    "cost": 2,
+    "effect": "2 Essence. Full Moon: Brandish: This gains +3 Essence.\nSwallow - Your opponent loses 1 health and you restore 1 health. \nSpit -  Deal 1 damage for each health restored this turn.",
+    "covenant": "Qirune",
+    "_legal": {
+      "QIR": true
+    }
+  },
+  "tome-of-joy": {
+    "id": "tome-of-joy",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Tome of Joy"
+        },
+        "type": "Tome",
+        "cost": 3,
+        "image": "https://example.com/cards/tome-of-joy.webp"
+      }
+    },
+    "name": "Tome of Joy",
+    "type": "Tome",
+    "cost": 3,
+    "effect": "2 Essence. Half Moon: Whenever you cast a spell from this, restore 2 health.\nRelax - Cure an ailment.\nDream - Witness",
+    "covenant": "Qirune",
+    "_legal": {
+      "QIR": true
+    }
+  },
+  "tome-of-loathing": {
+    "id": "tome-of-loathing",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Tome of Loathing"
+        },
+        "type": "Tome",
+        "cost": 5,
+        "image": "https://example.com/cards/tome-of-loathing.webp"
+      }
+    },
+    "name": "Tome of Loathing",
+    "type": "Tome",
+    "cost": 5,
+    "effect": "2 Essence. If you are Hateful, this Tome’s spell cast twice and you discard 2.\nAbhorrent Thoughts - Your opponent loses 1 health for every ailment they are afflicted with.  Eclipse: Cure all ailments.\nMalice - The next time you deal damage with Hate, inflict an ailment. Eclipse: The next time you deal damage with hate restore that much health instead.",
+    "covenant": "Qirune",
+    "_legal": {
+      "QIR": true
+    }
+  },
+  "tome-of-mischief": {
+    "id": "tome-of-mischief",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Tome of Mischief"
+        },
+        "type": "Tome",
+        "cost": 3,
+        "image": "https://example.com/cards/tome-of-mischief.webp"
+      }
+    },
+    "name": "Tome of Mischief",
+    "type": "Tome",
+    "cost": 3,
+    "effect": "2 Essence.\nHide -  You cannot be attacked until your next preparation.\nSeek - Draw 1 and discard 1.",
+    "covenant": "Qirune",
+    "_legal": {
+      "QIR": true
+    }
+  },
+  "tome-of-serenity": {
+    "id": "tome-of-serenity",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Tome of Serenity"
+        },
+        "type": "Tome",
+        "cost": 2,
+        "image": "https://example.com/cards/tome-of-serenity.webp"
+      }
+    },
+    "name": "Tome of Serenity",
+    "type": "Tome",
+    "cost": 2,
+    "effect": "2 Essence.\nDirt - Gain 2 GUARD. Eclipse: Break your opponents guard.\nHearth - Create an “Ember”. Eclipse: Create a \"Hollow Feeling\"\nBreeze - Disarm an armament that tests 2 or less resolve. Eclipse: Lose 2 health.",
+    "covenant": "Qirune",
+    "_legal": {
+      "QIR": true
+    }
+  },
+  "tome-of-encumbering-love": {
+    "id": "tome-of-encumbering-love",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Tome of Encumbering Love"
+        },
+        "type": "Tome",
+        "cost": 4,
+        "image": "https://example.com/cards/tome-of-encumbering-love.webp"
+      }
+    },
+    "name": "Tome of Encumbering Love",
+    "type": "Tome",
+    "cost": 4,
+    "effect": "2 Essence.\nCourtship - Restore 2 health to your opponent. \nOffering - Your opponents next card tests 1 less resolve.\nDevotion - Your opponent draws 1. \nIf you have cast 20 or more spells from this, You win the game.",
+    "covenant": "Qirune",
+    "_legal": {
+      "QIR": true
+    }
+  },
+  "claws-to-tear": {
+    "id": "claws-to-tear",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Claws to Tear"
+        },
+        "type": "1-Handed Weapon",
+        "cost": 3,
+        "image": "https://example.com/cards/claws-to-tear.webp"
+      }
+    },
+    "name": "Claws to Tear",
+    "type": "1-Handed Weapon",
+    "cost": 3,
+    "effect": "Attack: If this has 3 or more mutation counters on it, this inflicts Bleed.",
+    "attack": 2,
+    "covenant": "Xurdos",
+    "_legal": {
+      "XUR": true
+    }
+  },
+  "oozing-point": {
+    "id": "oozing-point",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Oozing Point"
+        },
+        "type": "1-Handed Weapon",
+        "cost": 3,
+        "image": "https://example.com/cards/oozing-point.webp"
+      }
+    },
+    "name": "Oozing Point",
+    "type": "1-Handed Weapon",
+    "cost": 3,
+    "effect": "Attack: If this has 3 or more Mutation counters, this also inflicts Poison.",
+    "attack": 1,
+    "covenant": "Xurdos",
+    "_legal": {
+      "XUR": true
+    }
+  },
+  "automatic-brewer": {
+    "id": "automatic-brewer",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Automatic Brewer"
+        },
+        "type": "2-Handed Weapon",
+        "cost": 1,
+        "image": "https://example.com/cards/automatic-brewer.webp"
+      }
+    },
+    "name": "Automatic Brewer",
+    "type": "2-Handed Weapon",
+    "cost": 1,
+    "effect": "Brandish: Shatter a concoction you wield. Attack: Repeat the effect of the concoction shattered by this.",
+    "attack": 1,
+    "covenant": "Xurdos",
+    "_legal": {
+      "XUR": true
+    }
+  },
+  "evolution-s-peak": {
+    "id": "evolution-s-peak",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Evolution's Peak"
+        },
+        "type": "2-Handed Weapon",
+        "cost": 8,
+        "image": "https://example.com/cards/evolution-s-peak.webp"
+      }
+    },
+    "name": "Evolution's Peak",
+    "type": "2-Handed Weapon",
+    "cost": 8,
+    "effect": "If this has 5 or more mutation counters on it, this gains +5 and \"Strike: Break an armament and your opponent scraps 5\". At your recovery, if this has 4 or less mutation counters on it, lose 5 health.",
+    "attack": 2,
+    "covenant": "Xurdos",
+    "_legal": {
+      "XUR": true
+    }
+  },
+  "reactive-mutation": {
+    "id": "reactive-mutation",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Reactive Mutation"
+        },
+        "type": "2-Handed Weapon",
+        "cost": 4,
+        "image": "https://example.com/cards/reactive-mutation.webp"
+      }
+    },
+    "name": "Reactive Mutation",
+    "type": "2-Handed Weapon",
+    "cost": 4,
+    "effect": "After you use a concoction. This has +X where X is equal to the dice result this turn. If you roll a 6, break this and lose 5 health. If this has 5 or more mutation counters on it, you dice result cannot be less than 3.",
+    "attack": 0,
+    "covenant": "Xurdos",
+    "_legal": {
+      "XUR": true
+    }
+  },
+  "become-perfect": {
+    "id": "become-perfect",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Become Perfect"
+        },
+        "type": "Ability",
+        "cost": 3,
+        "image": "https://example.com/cards/become-perfect.webp"
+      }
+    },
+    "name": "Become Perfect",
+    "type": "Ability",
+    "cost": 3,
+    "effect": "After you Evolve, if this has 20 or more mutation counters on it, you win the game.",
+    "covenant": "Xurdos",
+    "_legal": {
+      "XUR": true
+    }
+  },
+  "coated-skin": {
+    "id": "coated-skin",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Coated Skin"
+        },
+        "type": "Ability",
+        "cost": 3,
+        "image": "https://example.com/cards/coated-skin.webp"
+      }
+    },
+    "name": "Coated Skin",
+    "type": "Ability",
+    "cost": 3,
+    "effect": "Test 3 Resolve: Evolve. If your opponent deals attack damage to you and this has 3 or more mutation counters on it, inflict your opponent with a random ailment.",
+    "covenant": "Xurdos",
+    "_legal": {
+      "XUR": true
+    }
+  },
+  "bone-extension-defensive": {
+    "id": "bone-extension-defensive",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Bone Extension: Defensive"
+        },
+        "type": "Ability",
+        "cost": 5,
+        "image": "https://example.com/cards/bone-extension-defensive.webp"
+      }
+    },
+    "name": "Bone Extension: Defensive",
+    "type": "Ability",
+    "cost": 5,
+    "effect": "At your preparation gain 1 guard and scrap 1. This effect is increased by 1 for each armament you wield with a mutation counter.",
+    "covenant": "Xurdos",
+    "_legal": {
+      "XUR": true
+    }
+  },
+  "skin-like-steel": {
+    "id": "skin-like-steel",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Skin Like Steel"
+        },
+        "type": "Ability",
+        "cost": 4,
+        "image": "https://example.com/cards/skin-like-steel.webp"
+      }
+    },
+    "name": "Skin Like Steel",
+    "type": "Ability",
+    "cost": 4,
+    "effect": "After you Evolve, gain 2 guard and discard 1. If this has 3 or more mutation counters, this cannot be broken as long as you have guard.",
+    "covenant": "Xurdos",
+    "_legal": {
+      "XUR": true
+    }
+  },
+  "made-for-this": {
+    "id": "made-for-this",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Made For This"
+        },
+        "type": "Ability",
+        "cost": 2,
+        "image": "https://example.com/cards/made-for-this.webp"
+      }
+    },
+    "name": "Made For This",
+    "type": "Ability",
+    "cost": 2,
+    "effect": "At your preparation if you wield an armament without a mutation counter on it, Evolve.",
+    "covenant": "Xurdos",
+    "_legal": {
+      "XUR": true
+    }
+  },
+  "self-testing": {
+    "id": "self-testing",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Self Testing"
+        },
+        "type": "Ability",
+        "cost": 5,
+        "image": "https://example.com/cards/self-testing.webp"
+      }
+    },
+    "name": "Self Testing",
+    "type": "Ability",
+    "cost": 5,
+    "effect": "The first time you use a concoction each turn, you may lose health equal to the dice result. If you do, roll again. If this has 3 or more mutation counters on it, you may repeat this 1 additional time.",
+    "covenant": "Xurdos",
+    "_legal": {
+      "XUR": true
+    }
+  },
+  "victim-of-science": {
+    "id": "victim-of-science",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Victim of Science"
+        },
+        "type": "Ability",
+        "cost": 5,
+        "image": "https://example.com/cards/victim-of-science.webp"
+      }
+    },
+    "name": "Victim of Science",
+    "type": "Ability",
+    "cost": 5,
+    "effect": "After you use a concoction, you may discard 1 at random. If you do, Evolve twice. If this has 2 or more mutations counters on it, do not discard at random.",
+    "covenant": "Xurdos",
+    "_legal": {
+      "XUR": true
+    }
+  },
+  "zyxa-s-presence": {
+    "id": "zyxa-s-presence",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Zyxa's Presence"
+        },
+        "type": "Ability",
+        "cost": 3,
+        "image": "https://example.com/cards/zyxa-s-presence.webp"
+      }
+    },
+    "name": "Zyxa's Presence",
+    "type": "Ability",
+    "cost": 3,
+    "effect": "After you Evolve, Break an armament that tests X resolve where X is equal to the number of mutation counters on this. If you are Zyxa, armaments you wield with 4 or more mutation counters on them can't be disarmed or broken.",
+    "covenant": "Xurdos",
+    "_legal": {
+      "XUR": true
+    }
+  },
+  "killer-instinct": {
+    "id": "killer-instinct",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Killer Instinct"
+        },
+        "type": "Act of Desperation",
+        "cost": 10,
+        "image": "https://example.com/cards/killer-instinct.webp"
+      }
+    },
+    "name": "Killer Instinct",
+    "type": "Act of Desperation",
+    "cost": 10,
+    "effect": "Evolve 10 times. Then if you wield a weapon with 15 or more mutation counters on it give it +10 and \"When I break you lose the game\".",
+    "covenant": "Xurdos",
+    "_legal": {
+      "XUR": true
+    }
+  },
+  "xurdos-gift-of-ambition": {
+    "id": "xurdos-gift-of-ambition",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Xurdos' Gift of Ambition"
+        },
+        "type": "Act of Desperation: Eternal",
+        "cost": 10,
+        "image": "https://example.com/cards/xurdos-gift-of-ambition.webp"
+      }
+    },
+    "name": "Xurdos' Gift of Ambition",
+    "type": "Act of Desperation: Eternal",
+    "cost": 10,
+    "effect": "Brandish: Play all concoctions from the scrapyard.  You may wield any number of concoctions. At recovery, if you did not use at least 3 concoctions, you lose the game.",
+    "covenant": "Xurdos",
+    "_legal": {
+      "XUR": true
+    }
+  },
+  "bubbling-brew": {
+    "id": "bubbling-brew",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Bubbling Brew"
+        },
+        "type": "Concoction",
+        "cost": 1,
+        "image": "https://example.com/cards/bubbling-brew.webp"
+      }
+    },
+    "name": "Bubbling Brew",
+    "type": "Concoction",
+    "cost": 1,
+    "effect": "Use: Roll a dice and inflict: Half Moon: Repeat this.\n1-2: Poison.\n3-4: Bleed\n5-6: Fear",
+    "covenant": "Xurdos",
+    "_legal": {
+      "XUR": true
+    }
+  },
+  "crystalised-veil-potion": {
+    "id": "crystalised-veil-potion",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Crystalised Veil Potion"
+        },
+        "type": "Concoction",
+        "cost": 2,
+        "image": "https://example.com/cards/crystalised-veil-potion.webp"
+      }
+    },
+    "name": "Crystalised Veil Potion",
+    "type": "Concoction",
+    "cost": 2,
+    "effect": "Use: Roll a dice. Crescent Moon: If you roll a 2-5 gain 4 guard instead.\n1: Deal 2 damage to yourself\n2-5: Gain 3 guard\n6: Gain 8 guard it cannot break until your next preparation.",
+    "covenant": "Xurdos",
+    "_legal": {
+      "XUR": true
+    }
+  },
+  "exquiste-moonlight": {
+    "id": "exquiste-moonlight",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Exquiste Moonlight"
+        },
+        "type": "Concoction",
+        "cost": 5,
+        "image": "https://example.com/cards/exquiste-moonlight.webp"
+      }
+    },
+    "name": "Exquiste Moonlight",
+    "type": "Concoction",
+    "cost": 5,
+    "effect": "Use: Roll a dice , lose 2 health and scrap 2. Crescent Moon: Lose 1 and scrap 1 instead.\nChoose any number of effects below, equal to the result.\n- Give a weapon you wield +2\n- Draw 1\n- Restore 1 Health\n-Evolve",
+    "covenant": "Xurdos",
+    "_legal": {
+      "XUR": true
+    }
+  },
+  "malice-of-the-pale-stare": {
+    "id": "malice-of-the-pale-stare",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Malice of the Pale Stare"
+        },
+        "type": "Concoction",
+        "cost": 2,
+        "image": "https://example.com/cards/malice-of-the-pale-stare.webp"
+      }
+    },
+    "name": "Malice of the Pale Stare",
+    "type": "Concoction",
+    "cost": 2,
+    "effect": "Use: Roll a dice. Crescent Moon: If you roll a 2-5 give a weapon you wield +3 instead.\n1: You cannot attack for 2 turns.\n2-5: Give a weapon you wield +2\n6: Your next attack inflicts Bleed 3.",
+    "covenant": "Xurdos",
+    "_legal": {
+      "XUR": true
+    }
+  },
+  "xurdos-s-ichor": {
+    "id": "xurdos-s-ichor",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Xurdos's Ichor"
+        },
+        "type": "Concoction",
+        "cost": 2,
+        "image": "https://example.com/cards/xurdos-s-ichor.webp"
+      }
+    },
+    "name": "Xurdos's Ichor",
+    "type": "Concoction",
+    "cost": 2,
+    "effect": "Use: Roll a dice. Crescent Moon: If you roll a 2-5 also cure an ailment.\n1: Lose 5 health.\n2-5: Restore 3 health\n6: Your condition recovers. Set your health to 1.",
+    "covenant": "Xurdos",
+    "_legal": {
+      "XUR": true
+    }
+  },
+  "mimicing-muck": {
+    "id": "mimicing-muck",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Mimicing Muck"
+        },
+        "type": "Concoction",
+        "cost": 2,
+        "image": "https://example.com/cards/mimicing-muck.webp"
+      }
+    },
+    "name": "Mimicing Muck",
+    "type": "Concoction",
+    "cost": 2,
+    "effect": "Use: Roll a dice. Play an armament from the scrapyard that tests X resolve where X is equal to the dice result. Half Moon: Play 2 instead.",
+    "covenant": "Xurdos",
+    "_legal": {
+      "XUR": true
+    }
+  },
+  "pale-miasma": {
+    "id": "pale-miasma",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Pale Miasma"
+        },
+        "type": "Concoction",
+        "cost": 6,
+        "image": "https://example.com/cards/pale-miasma.webp"
+      }
+    },
+    "name": "Pale Miasma",
+    "type": "Concoction",
+    "cost": 6,
+    "effect": "Use: Roll a dice: Half Moon: This tests 2 less resolve to play.\n1: Lose 5 health and inflict yourself with Poison. \n2-5: Inflict all ailments on your opponent.\n6: Inflict all ailments on your opponent and they lose 3 health.",
+    "covenant": "Xurdos",
+    "_legal": {
+      "XUR": true
+    }
+  },
+  "pale-potion": {
+    "id": "pale-potion",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Pale Potion"
+        },
+        "type": "Concoction",
+        "cost": 2,
+        "image": "https://example.com/cards/pale-potion.webp"
+      }
+    },
+    "name": "Pale Potion",
+    "type": "Concoction",
+    "cost": 2,
+    "effect": "Use: Roll a dice. Full Moon: If you roll a 1, roll again.\n1: Discard 2.\n2-5: Witness a card that tests 3 or less resolve .\n6: Draw 3.",
+    "covenant": "Xurdos",
+    "_legal": {
+      "XUR": true
+    }
+  },
+  "potion-of-phases": {
+    "id": "potion-of-phases",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Potion of Phases"
+        },
+        "type": "Concoction",
+        "cost": 3,
+        "image": "https://example.com/cards/potion-of-phases.webp"
+      }
+    },
+    "name": "Potion of Phases",
+    "type": "Concoction",
+    "cost": 3,
+    "effect": "Use: Roll a dice. Eclipse: This always rolls 5.\n1: Restore 3 health.\n2: Gain 2 Resolve this turn.\n3: Draw 2 and discard 1.\n4: Evolve twice.\n5: Lose 3 health.\n6: Give a weapon you wield +3.",
+    "covenant": "Xurdos",
+    "_legal": {
+      "XUR": true
+    }
+  },
+  "explosive-ingredient": {
+    "id": "explosive-ingredient",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Explosive Ingredient"
+        },
+        "type": "Item",
+        "cost": 4,
+        "image": "https://example.com/cards/explosive-ingredient.webp"
+      }
+    },
+    "name": "Explosive Ingredient",
+    "type": "Item",
+    "cost": 4,
+    "effect": "Use: The next time you use a concoction, if the result is 3 or more  both players create 2 “Puddles”. Otherwise, discard 2 and scrap 2.",
+    "covenant": "Xurdos",
+    "_legal": {
+      "XUR": true
+    }
+  },
+  "illicit-substance": {
+    "id": "illicit-substance",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Illicit Substance"
+        },
+        "type": "Item",
+        "cost": 3,
+        "image": "https://example.com/cards/illicit-substance.webp"
+      }
+    },
+    "name": "Illicit Substance",
+    "type": "Item",
+    "cost": 3,
+    "effect": "Use: The next time you Evolve, Evolve an additional time.",
+    "covenant": "Xurdos",
+    "_legal": {
+      "XUR": true
+    }
+  },
+  "lost-child-s-toy": {
+    "id": "lost-child-s-toy",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Lost Child's Toy"
+        },
+        "type": "Item",
+        "cost": 1,
+        "image": "https://example.com/cards/lost-child-s-toy.webp"
+      }
+    },
+    "name": "Lost Child's Toy",
+    "type": "Item",
+    "cost": 1,
+    "effect": "Use: Evolve or play a concoction from the scrapyard that tests 2 or less resolve. If this has 5 or more mutation counters, you may play an additional armament from the scrapyard.",
+    "covenant": "Xurdos",
+    "_legal": {
+      "XUR": true
+    }
+  },
+  "potion-belt": {
+    "id": "potion-belt",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Potion Belt"
+        },
+        "type": "Item",
+        "cost": 1,
+        "image": "https://example.com/cards/potion-belt.webp"
+      }
+    },
+    "name": "Potion Belt",
+    "type": "Item",
+    "cost": 1,
+    "effect": "Use: Witness a concoction that costs 2 or less. If you don’t, this does not break.",
+    "covenant": "Xurdos",
+    "_legal": {
+      "XUR": true
+    }
+  },
+  "destructive-reaction": {
+    "id": "destructive-reaction",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Destructive Reaction"
+        },
+        "type": "Riposte",
+        "cost": 3,
+        "image": "https://example.com/cards/destructive-reaction.webp"
+      }
+    },
+    "name": "Destructive Reaction",
+    "type": "Riposte",
+    "cost": 3,
+    "effect": "You may play and use a concoction that tests 3 or less resolve. Break an armament that tests X resolve where X is equal to the dice result.",
+    "covenant": "Xurdos",
+    "_legal": {
+      "XUR": true
+    }
+  },
+  "lo-s-mad-science": {
+    "id": "lo-s-mad-science",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Lo's Mad Science"
+        },
+        "type": "Riposte",
+        "cost": 4,
+        "image": "https://example.com/cards/lo-s-mad-science.webp"
+      }
+    },
+    "name": "Lo's Mad Science",
+    "type": "Riposte",
+    "cost": 4,
+    "effect": "Lose 2 health. Play a concoction from the scrapyard without testing resolve. You may repeat this process. If you are Lo, this tests1 less resolve.",
+    "covenant": "Xurdos",
+    "_legal": {
+      "XUR": true
+    }
+  },
+  "progress-to-perfection": {
+    "id": "progress-to-perfection",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Progress to Perfection"
+        },
+        "type": "Riposte",
+        "cost": 2,
+        "image": "https://example.com/cards/progress-to-perfection.webp"
+      }
+    },
+    "name": "Progress to Perfection",
+    "type": "Riposte",
+    "cost": 2,
+    "effect": "Evolve. Break an armament you wield that tests X resolve where X is equal to the number of mutation counters on the armament you wield with the most mutation counters.",
+    "covenant": "Xurdos",
+    "_legal": {
+      "XUR": true
+    }
+  },
+  "puddles-everywhere": {
+    "id": "puddles-everywhere",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Puddles Everywhere"
+        },
+        "type": "Riposte",
+        "cost": 1,
+        "image": "https://example.com/cards/puddles-everywhere.webp"
+      }
+    },
+    "name": "Puddles Everywhere",
+    "type": "Riposte",
+    "cost": 1,
+    "effect": "You and your opponent both create a “Puddle”.",
+    "covenant": "Xurdos",
+    "_legal": {
+      "XUR": true
+    }
+  },
+  "unready-test": {
+    "id": "unready-test",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Unready Test"
+        },
+        "type": "Riposte",
+        "cost": 1,
+        "image": "https://example.com/cards/unready-test.webp"
+      }
+    },
+    "name": "Unready Test",
+    "type": "Riposte",
+    "cost": 1,
+    "effect": "If your opponent is attacking, play a concoction without testing resolve and use it. Give it's result -2.",
+    "covenant": "Xurdos",
+    "_legal": {
+      "XUR": true
+    }
+  },
+  "nothing-can-stop-us": {
+    "id": "nothing-can-stop-us",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Nothing Can Stop Us"
+        },
+        "type": "Tactic",
+        "cost": 6,
+        "image": "https://example.com/cards/nothing-can-stop-us.webp"
+      }
+    },
+    "name": "Nothing Can Stop Us",
+    "type": "Tactic",
+    "cost": 6,
+    "effect": "Break all armaments without mutation counters on them. Discard 2.",
+    "covenant": "Xurdos",
+    "_legal": {
+      "XUR": true
+    }
+  },
+  "adapt-and-survive": {
+    "id": "adapt-and-survive",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Adapt and Survive"
+        },
+        "type": "Tactic",
+        "cost": 3,
+        "image": "https://example.com/cards/adapt-and-survive.webp"
+      }
+    },
+    "name": "Adapt and Survive",
+    "type": "Tactic",
+    "cost": 3,
+    "effect": "Evolve. If you have less health than your opponent, Evolve again.",
+    "covenant": "Xurdos",
+    "_legal": {
+      "XUR": true
+    }
+  },
+  "agonizing-progress": {
+    "id": "agonizing-progress",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Agonizing Progress"
+        },
+        "type": "Tactic",
+        "cost": 5,
+        "image": "https://example.com/cards/agonizing-progress.webp"
+      }
+    },
+    "name": "Agonizing Progress",
+    "type": "Tactic",
+    "cost": 5,
+    "effect": "Discard your hand. Evolve for each card discarded this way.",
+    "covenant": "Xurdos",
+    "_legal": {
+      "XUR": true
+    }
+  },
+  "evolutionary": {
+    "id": "evolutionary",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Evolutionary"
+        },
+        "type": "Tactic",
+        "cost": 1,
+        "image": "https://example.com/cards/evolutionary.webp"
+      }
+    },
+    "name": "Evolutionary",
+    "type": "Tactic",
+    "cost": 1,
+    "effect": "Evolve.",
+    "covenant": "Xurdos",
+    "_legal": {
+      "XUR": true
+    }
+  },
+  "maniacal-testing": {
+    "id": "maniacal-testing",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Maniacal Testing"
+        },
+        "type": "Tactic",
+        "cost": 4,
+        "image": "https://example.com/cards/maniacal-testing.webp"
+      }
+    },
+    "name": "Maniacal Testing",
+    "type": "Tactic",
+    "cost": 4,
+    "effect": "Use all concoctions you wield and disarm them. If you roll a 4 or more this turn, Scrap 2.",
+    "covenant": "Xurdos",
+    "_legal": {
+      "XUR": true
+    }
+  },
+  "personal-development": {
+    "id": "personal-development",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Personal Development"
+        },
+        "type": "Tactic",
+        "cost": 2,
+        "image": "https://example.com/cards/personal-development.webp"
+      }
+    },
+    "name": "Personal Development",
+    "type": "Tactic",
+    "cost": 2,
+    "effect": "Evolve. If you wield an armament with 3 or more mutation counters on it, draw 1.",
+    "covenant": "Xurdos",
+    "_legal": {
+      "XUR": true
+    }
+  },
+  "survival-of-the-fittest": {
+    "id": "survival-of-the-fittest",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Survival of the Fittest"
+        },
+        "type": "Tactic",
+        "cost": 3,
+        "image": "https://example.com/cards/survival-of-the-fittest.webp"
+      }
+    },
+    "name": "Survival of the Fittest",
+    "type": "Tactic",
+    "cost": 3,
+    "effect": "Evolve and break an armament that tests 3 or less resolve.",
+    "covenant": "Xurdos",
+    "_legal": {
+      "XUR": true
+    }
+  },
+  "traumatic-rage": {
+    "id": "traumatic-rage",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Traumatic Rage"
+        },
+        "type": "Tactic",
+        "cost": 2,
+        "image": "https://example.com/cards/traumatic-rage.webp"
+      }
+    },
+    "name": "Traumatic Rage",
+    "type": "Tactic",
+    "cost": 2,
+    "effect": "Give a weapon you wield +1 for each mutation counter on it.",
+    "covenant": "Xurdos",
+    "_legal": {
+      "XUR": true
+    }
+  },
+  "vicious-vapour": {
+    "id": "vicious-vapour",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Vicious Vapour"
+        },
+        "type": "Tactic",
+        "cost": 4,
+        "image": "https://example.com/cards/vicious-vapour.webp"
+      }
+    },
+    "name": "Vicious Vapour",
+    "type": "Tactic",
+    "cost": 4,
+    "effect": "Inflict a random ailment for each \"Puddle\" your opponent wields.",
+    "covenant": "Xurdos",
+    "_legal": {
+      "XUR": true
+    }
+  },
+  "puddle": {
+    "id": "puddle",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Puddle"
+        },
+        "type": "Token Item",
+        "cost": 0,
+        "image": "https://example.com/cards/puddle.webp"
+      }
+    },
+    "name": "Puddle",
+    "type": "Token Item",
+    "cost": 0,
+    "effect": "Test 1 Resolve: Break this.\nAt each Recovery, repeat a random effect of the last concoction used this turn. If neither player has used a concoction this turn, do nothing. This does not count as using a concoction.",
+    "covenant": "Xurdos",
+    "isToken": true,
+    "_legal": {
+      "XUR": true
+    }
+  },
+  "heliana-yade-thriving": {
+    "id": "heliana-yade-thriving",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Heliana Yade"
+        },
+        "type": "Devotee",
+        "cost": 3,
+        "image": "https://example.com/cards/heliana-yade-thriving.webp"
+      }
+    },
+    "name": "Heliana Yade",
+    "type": "Devotee",
+    "cost": 3,
+    "effect": "Whenever an armament you wield Distorts, your opponent creates a \"Hazed Memory\"",
+    "health": 10,
+    "covenant": "Igon",
+    "_legal": {
+      "IGO": true
+    },
+    "devotee": "heliana-yade",
+    "condition": "Thriving"
+  },
+  "heliana-yade-wounded": {
+    "id": "heliana-yade-wounded",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Heliana Yade"
+        },
+        "type": "Devotee",
+        "cost": 5,
+        "image": "https://example.com/cards/heliana-yade-wounded.webp"
+      }
+    },
+    "name": "Heliana Yade",
+    "type": "Devotee",
+    "cost": 5,
+    "effect": "At your preparation If your opponent has 3 or more Hazed Memories, draw 2 and discard 1.",
+    "health": 10,
+    "covenant": "Igon",
+    "_legal": {
+      "IGO": true
+    },
+    "devotee": "heliana-yade",
+    "condition": "Wounded"
+  },
+  "heliana-yade-desperate": {
+    "id": "heliana-yade-desperate",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Heliana Yade"
+        },
+        "type": "Devotee",
+        "cost": 10,
+        "image": "https://example.com/cards/heliana-yade-desperate.webp"
+      }
+    },
+    "name": "Heliana Yade",
+    "type": "Devotee",
+    "cost": 10,
+    "effect": "On Strike: If your opponent wields 10 or more Hazed Memories, that player loses the game.",
+    "health": 15,
+    "covenant": "Igon",
+    "_legal": {
+      "IGO": true
+    },
+    "devotee": "heliana-yade",
+    "condition": "Desperate"
+  },
+  "pora-aliestrad-thriving": {
+    "id": "pora-aliestrad-thriving",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Pora Aliestrad"
+        },
+        "type": "Devotee",
+        "cost": 3,
+        "image": "https://example.com/cards/pora-aliestrad-thriving.webp"
+      }
+    },
+    "name": "Pora Aliestrad",
+    "type": "Devotee",
+    "cost": 3,
+    "effect": "Whenever an armament you wield would Distort, you may exhaust me instead. At your recovery, if I am exhausted, discard 1.",
+    "health": 10,
+    "covenant": "Igon",
+    "_legal": {
+      "IGO": true
+    },
+    "devotee": "pora-aliestrad",
+    "condition": "Thriving"
+  },
+  "pora-aliestrad-wounded": {
+    "id": "pora-aliestrad-wounded",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Pora Aliestrad"
+        },
+        "type": "Devotee",
+        "cost": 5,
+        "image": "https://example.com/cards/pora-aliestrad-wounded.webp"
+      }
+    },
+    "name": "Pora Aliestrad",
+    "type": "Devotee",
+    "cost": 5,
+    "effect": "Whenever an armament you wield would Distort, you may test 2 resolve and discard 1. If you do, return it to your hand instead.",
+    "health": 15,
+    "covenant": "Igon",
+    "_legal": {
+      "IGO": true
+    },
+    "devotee": "pora-aliestrad",
+    "condition": "Wounded"
+  },
+  "pora-aliestrad-desperate": {
+    "id": "pora-aliestrad-desperate",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Pora Aliestrad"
+        },
+        "type": "Devotee",
+        "cost": 10,
+        "image": "https://example.com/cards/pora-aliestrad-desperate.webp"
+      }
+    },
+    "name": "Pora Aliestrad",
+    "type": "Devotee",
+    "cost": 10,
+    "effect": "Whenever an armament you wield would distort, put the top 3 cards of your deck into your scrapyard and your opponent loses 1 health instead.",
+    "health": 10,
+    "covenant": "Igon",
+    "_legal": {
+      "IGO": true
+    },
+    "devotee": "pora-aliestrad",
+    "condition": "Desperate"
+  },
+  "gro-thriving": {
+    "id": "gro-thriving",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Gro'"
+        },
+        "type": "Devotee",
+        "cost": 3,
+        "image": "https://example.com/cards/gro-thriving.webp"
+      }
+    },
+    "name": "Gro'",
+    "type": "Devotee",
+    "cost": 3,
+    "effect": "If your opponent would break a weapon you wield, if it is grafted, you may break an acolyte grafted to it instead.",
+    "health": 10,
+    "covenant": "Kuran",
+    "_legal": {
+      "KUR": true
+    },
+    "devotee": "gro",
+    "condition": "Thriving"
+  },
+  "gro-wounded": {
+    "id": "gro-wounded",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Gro'"
+        },
+        "type": "Devotee",
+        "cost": 6,
+        "image": "https://example.com/cards/gro-wounded.webp"
+      }
+    },
+    "name": "Gro'",
+    "type": "Devotee",
+    "cost": 6,
+    "effect": "Weapons you wield cannot be broken as long as they have 3 or more acolytes grafted to it.",
+    "health": 10,
+    "covenant": "Kuran",
+    "_legal": {
+      "KUR": true
+    },
+    "devotee": "gro",
+    "condition": "Wounded"
+  },
+  "gro-desperate": {
+    "id": "gro-desperate",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Gro'"
+        },
+        "type": "Devotee",
+        "cost": 10,
+        "image": "https://example.com/cards/gro-desperate.webp"
+      }
+    },
+    "name": "Gro'",
+    "type": "Devotee",
+    "cost": 10,
+    "effect": "You can Graft acolytes to me.",
+    "health": 10,
+    "covenant": "Kuran",
+    "_legal": {
+      "KUR": true
+    },
+    "devotee": "gro",
+    "condition": "Desperate"
+  },
+  "kreena-eldervyre-thriving": {
+    "id": "kreena-eldervyre-thriving",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Kreena Eldervyre"
+        },
+        "type": "Devotee",
+        "cost": 3,
+        "image": "https://example.com/cards/kreena-eldervyre-thriving.webp"
+      }
+    },
+    "name": "Kreena Eldervyre",
+    "type": "Devotee",
+    "cost": 3,
+    "effect": "Whenever you graft, deal 1 damage to your opponent.",
+    "health": 15,
+    "covenant": "Kuran",
+    "_legal": {
+      "KUR": true
+    },
+    "devotee": "kreena-eldervyre",
+    "condition": "Thriving"
+  },
+  "kreena-eldervyre-wounded": {
+    "id": "kreena-eldervyre-wounded",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Kreena Eldervyre"
+        },
+        "type": "Devotee",
+        "cost": 4,
+        "image": "https://example.com/cards/kreena-eldervyre-wounded.webp"
+      }
+    },
+    "name": "Kreena Eldervyre",
+    "type": "Devotee",
+    "cost": 4,
+    "effect": "Your first graft each turn tests 0 resolve. Whenever you graft, discard 1.",
+    "health": 15,
+    "covenant": "Kuran",
+    "_legal": {
+      "KUR": true
+    },
+    "devotee": "kreena-eldervyre",
+    "condition": "Wounded"
+  },
+  "kreena-eldervyre-desperate": {
+    "id": "kreena-eldervyre-desperate",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Kreena Eldervyre"
+        },
+        "type": "Devotee",
+        "cost": 10,
+        "image": "https://example.com/cards/kreena-eldervyre-desperate.webp"
+      }
+    },
+    "name": "Kreena Eldervyre",
+    "type": "Devotee",
+    "cost": 10,
+    "effect": "At your preparation, Graft all acolytes you wield to a weapon you wield without testing resolve. At your recovery, Shatter that weapon.",
+    "health": 15,
+    "covenant": "Kuran",
+    "_legal": {
+      "KUR": true
+    },
+    "devotee": "kreena-eldervyre",
+    "condition": "Desperate"
+  },
+  "shiera-silkthroat-thriving": {
+    "id": "shiera-silkthroat-thriving",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Shiera Silkthroat"
+        },
+        "type": "Devotee",
+        "cost": 3,
+        "image": "https://example.com/cards/shiera-silkthroat-thriving.webp"
+      }
+    },
+    "name": "Shiera Silkthroat",
+    "type": "Devotee",
+    "cost": 3,
+    "effect": "At your recovery, Indulge.",
+    "health": 15,
+    "covenant": "Niorr",
+    "_legal": {
+      "NIO": true
+    },
+    "devotee": "shiera-silkthroat",
+    "condition": "Thriving"
+  },
+  "shiera-silkthroat-wounded": {
+    "id": "shiera-silkthroat-wounded",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Shiera Silkthroat"
+        },
+        "type": "Devotee",
+        "cost": 5,
+        "image": "https://example.com/cards/shiera-silkthroat-wounded.webp"
+      }
+    },
+    "name": "Shiera Silkthroat",
+    "type": "Devotee",
+    "cost": 5,
+    "effect": "Acolytes with 2 or more indulgence counters on them can attack your opponent directly.",
+    "health": 10,
+    "covenant": "Niorr",
+    "_legal": {
+      "NIO": true
+    },
+    "devotee": "shiera-silkthroat",
+    "condition": "Wounded"
+  },
+  "shiera-silkthroat-desperate": {
+    "id": "shiera-silkthroat-desperate",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Shiera Silkthroat"
+        },
+        "type": "Devotee",
+        "cost": 10,
+        "image": "https://example.com/cards/shiera-silkthroat-desperate.webp"
+      }
+    },
+    "name": "Shiera Silkthroat",
+    "type": "Devotee",
+    "cost": 10,
+    "effect": "Break an acolyte you wield: Give all Indulgence counters it had to another acolyte you wield.",
+    "health": 10,
+    "covenant": "Niorr",
+    "_legal": {
+      "NIO": true
+    },
+    "devotee": "shiera-silkthroat",
+    "condition": "Desperate"
+  },
+  "nine-lives-thriving": {
+    "id": "nine-lives-thriving",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Nine Lives"
+        },
+        "type": "Devotee",
+        "cost": 3,
+        "image": "https://example.com/cards/nine-lives-thriving.webp"
+      }
+    },
+    "name": "Nine Lives",
+    "type": "Devotee",
+    "cost": 3,
+    "effect": "Whenever you indulge, also put a counter on me.",
+    "health": 15,
+    "covenant": "Niorr",
+    "_legal": {
+      "NIO": true
+    },
+    "devotee": "nine-lives",
+    "condition": "Thriving"
+  },
+  "nine-lives-wounded": {
+    "id": "nine-lives-wounded",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Nine Lives"
+        },
+        "type": "Devotee",
+        "cost": 6,
+        "image": "https://example.com/cards/nine-lives-wounded.webp"
+      }
+    },
+    "name": "Nine Lives",
+    "type": "Devotee",
+    "cost": 6,
+    "effect": "At your preparation, draw 1 and put the top 1 card(s) of your deck into your scrapyard.",
+    "health": 15,
+    "covenant": "Niorr",
+    "_legal": {
+      "NIO": true
+    },
+    "devotee": "nine-lives",
+    "condition": "Wounded"
+  },
+  "nine-lives-desperate": {
+    "id": "nine-lives-desperate",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Nine Lives"
+        },
+        "type": "Devotee",
+        "cost": 10,
+        "image": "https://example.com/cards/nine-lives-desperate.webp"
+      }
+    },
+    "name": "Nine Lives",
+    "type": "Devotee",
+    "cost": 10,
+    "effect": "The first time your health is reduced to 0, Set your health to 1 instead.",
+    "health": 10,
+    "covenant": "Niorr",
+    "_legal": {
+      "NIO": true
+    },
+    "devotee": "nine-lives",
+    "condition": "Desperate"
+  },
+  "kakandi-bloodbrood-thriving": {
+    "id": "kakandi-bloodbrood-thriving",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Kakandi Bloodbrood"
+        },
+        "type": "Devotee",
+        "cost": 3,
+        "image": "https://example.com/cards/kakandi-bloodbrood-thriving.webp"
+      }
+    },
+    "name": "Kakandi Bloodbrood",
+    "type": "Devotee",
+    "cost": 3,
+    "effect": "At your preparation, Show Mercy.",
+    "health": 15,
+    "covenant": "Yandari",
+    "_legal": {
+      "YAN": true
+    },
+    "devotee": "kakandi-bloodbrood",
+    "condition": "Thriving"
+  },
+  "kakandi-bloodbrood-wounded": {
+    "id": "kakandi-bloodbrood-wounded",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Kakandi Bloodbrood"
+        },
+        "type": "Devotee",
+        "cost": 5,
+        "image": "https://example.com/cards/kakandi-bloodbrood-wounded.webp"
+      }
+    },
+    "name": "Kakandi Bloodbrood",
+    "type": "Devotee",
+    "cost": 5,
+    "effect": "You may spend Mercy to help pay resolve cost of armaments you play.",
+    "health": 10,
+    "covenant": "Yandari",
+    "_legal": {
+      "YAN": true
+    },
+    "devotee": "kakandi-bloodbrood",
+    "condition": "Wounded"
+  },
+  "kakandi-bloodbrood-desperate": {
+    "id": "kakandi-bloodbrood-desperate",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Kakandi Bloodbrood"
+        },
+        "type": "Devotee",
+        "cost": 10,
+        "image": "https://example.com/cards/kakandi-bloodbrood-desperate.webp"
+      }
+    },
+    "name": "Kakandi Bloodbrood",
+    "type": "Devotee",
+    "cost": 10,
+    "effect": "At your prepartion, If your opponent is desperate and your Mercy is equal to your opponent's health,  they lose the game.",
+    "health": 15,
+    "covenant": "Yandari",
+    "_legal": {
+      "YAN": true
+    },
+    "devotee": "kakandi-bloodbrood",
+    "condition": "Desperate"
+  },
+  "uldes-var-thriving": {
+    "id": "uldes-var-thriving",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Uldes Var"
+        },
+        "type": "Devotee",
+        "cost": 3,
+        "image": "https://example.com/cards/uldes-var-thriving.webp"
+      }
+    },
+    "name": "Uldes Var",
+    "type": "Devotee",
+    "cost": 3,
+    "effect": "The first time you lose health during your turn, ready a weapon you wield.",
+    "health": 10,
+    "covenant": "Yandari",
+    "_legal": {
+      "YAN": true
+    },
+    "devotee": "uldes-var",
+    "condition": "Thriving"
+  },
+  "uldes-var-wounded": {
+    "id": "uldes-var-wounded",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Uldes Var"
+        },
+        "type": "Devotee",
+        "cost": 6,
+        "image": "https://example.com/cards/uldes-var-wounded.webp"
+      }
+    },
+    "name": "Uldes Var",
+    "type": "Devotee",
+    "cost": 6,
+    "effect": "Whenever you lose health during your turn, give a weapon you wield +1 attack this turn.",
+    "health": 15,
+    "covenant": "Yandari",
+    "_legal": {
+      "YAN": true
+    },
+    "devotee": "uldes-var",
+    "condition": "Wounded"
+  },
+  "uldes-var-desperate": {
+    "id": "uldes-var-desperate",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Uldes Var"
+        },
+        "type": "Devotee",
+        "cost": 10,
+        "image": "https://example.com/cards/uldes-var-desperate.webp"
+      }
+    },
+    "name": "Uldes Var",
+    "type": "Devotee",
+    "cost": 10,
+    "effect": "As long as you have 3 or less health, all weapons deal double damage.",
+    "health": 10,
+    "covenant": "Yandari",
+    "_legal": {
+      "YAN": true
+    },
+    "devotee": "uldes-var",
+    "condition": "Desperate"
+  },
+  "fleeting-visions": {
+    "id": "fleeting-visions",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Fleeting Visions"
+        },
+        "type": "Presence",
+        "cost": 0,
+        "image": "https://example.com/cards/fleeting-visions.webp"
+      }
+    },
+    "name": "Fleeting Visions",
+    "type": "Presence",
+    "cost": 0,
+    "effect": "Each player draws an additional card during their draw phase. At each players recovery, that player discards 1.",
+    "phase": "Crescent Moon"
+  },
+  "pale-glow": {
+    "id": "pale-glow",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Pale Glow"
+        },
+        "type": "Presence",
+        "cost": 0,
+        "image": "https://example.com/cards/pale-glow.webp"
+      }
+    },
+    "name": "Pale Glow",
+    "type": "Presence",
+    "cost": 0,
+    "effect": "Each player's maximum resolve is increased by 1.",
+    "phase": "Crescent Moon"
+  },
+  "death-with-no-meaning": {
+    "id": "death-with-no-meaning",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Death With No Meaning"
+        },
+        "type": "Presence",
+        "cost": 0,
+        "image": "https://example.com/cards/death-with-no-meaning.webp"
+      }
+    },
+    "name": "Death With No Meaning",
+    "type": "Presence",
+    "cost": 0,
+    "effect": "At any time a player may test 3 resolve to return a card from their scrapyard to their hand.",
+    "phase": "Crescent Moon"
+  },
+  "temptation-of-chaos": {
+    "id": "temptation-of-chaos",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Temptation of Chaos"
+        },
+        "type": "Presence",
+        "cost": 0,
+        "image": "https://example.com/cards/temptation-of-chaos.webp"
+      }
+    },
+    "name": "Temptation of Chaos",
+    "type": "Presence",
+    "cost": 0,
+    "effect": "All Weapons and Acolytes have +1 Attack.",
+    "phase": "Half Moon"
+  },
+  "unraveling": {
+    "id": "unraveling",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Unraveling"
+        },
+        "type": "Presence",
+        "cost": 0,
+        "image": "https://example.com/cards/unraveling.webp"
+      }
+    },
+    "name": "Unraveling",
+    "type": "Presence",
+    "cost": 0,
+    "effect": "At the end of each players recovery, all armaments that player wields lose 1 health and 1 Temper.",
+    "phase": "Half Moon"
+  },
+  "promise-of-everything": {
+    "id": "promise-of-everything",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Promise of Everything"
+        },
+        "type": "Presence",
+        "cost": 0,
+        "image": "https://example.com/cards/promise-of-everything.webp"
+      }
+    },
+    "name": "Promise of Everything",
+    "type": "Presence",
+    "cost": 0,
+    "effect": "Players have no maximum handsize",
+    "phase": "Half Moon"
+  },
+  "stinging-madness": {
+    "id": "stinging-madness",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Stinging Madness"
+        },
+        "type": "Presence",
+        "cost": 0,
+        "image": "https://example.com/cards/stinging-madness.webp"
+      }
+    },
+    "name": "Stinging Madness",
+    "type": "Presence",
+    "cost": 0,
+    "effect": "Whenever a player draws a card outside of their draw phase, they lose 1 health.",
+    "phase": "Full Moon"
+  },
+  "overwhelming-dread": {
+    "id": "overwhelming-dread",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Overwhelming Dread"
+        },
+        "type": "Presence",
+        "cost": 0,
+        "image": "https://example.com/cards/overwhelming-dread.webp"
+      }
+    },
+    "name": "Overwhelming Dread",
+    "type": "Presence",
+    "cost": 0,
+    "effect": "All Damage is Dealt as Dread instead.",
+    "phase": "Full Moon"
+  },
+  "existential-permanence": {
+    "id": "existential-permanence",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Existential Permanence"
+        },
+        "type": "Presence",
+        "cost": 0,
+        "image": "https://example.com/cards/existential-permanence.webp"
+      }
+    },
+    "name": "Existential Permanence",
+    "type": "Presence",
+    "cost": 0,
+    "effect": "Whenever an armament is broken, shatter it instead.",
+    "phase": "Full Moon"
+  }
+}

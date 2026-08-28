@@ -1,0 +1,60 @@
+{
+  "deckBuilding": {
+    "mainFilters": ["type", "cost", "covenant"],
+    "costCurveIgnoredTypes": ["Devotee", "Presence", "Token Withdrawal", "Token Item", "Token Edict", "Token Acolyte", "Token Weapon"],
+    "formats": [
+      {
+        "title": "Igon Standard",
+        "customCategories": ["Devotee", "Pale Stare Presence"],
+        "legalityCode": "IGO",
+        "gameplay": "Standard",
+        "deckRuleset": "Standard"
+      },
+      {
+        "title": "Yandari Standard",
+        "customCategories": ["Devotee", "Pale Stare Presence"],
+        "legalityCode": "YAN",
+        "gameplay": "Standard",
+        "deckRuleset": "Standard"
+      },
+      {
+        "title": "Kuran Standard",
+        "customCategories": ["Devotee", "Pale Stare Presence"],
+        "legalityCode": "KUR",
+        "gameplay": "Standard",
+        "deckRuleset": "Standard"
+      },
+      {
+        "title": "Niorr Standard",
+        "customCategories": ["Devotee", "Pale Stare Presence"],
+        "legalityCode": "NIO",
+        "gameplay": "Standard",
+        "deckRuleset": "Standard"
+      },
+      {
+        "title": "Qirune Standard",
+        "customCategories": ["Devotee", "Pale Stare Presence"],
+        "legalityCode": "QIR",
+        "gameplay": "Standard",
+        "deckRuleset": "Standard"
+      },
+      {
+        "title": "Xurdos Standard",
+        "customCategories": ["Devotee", "Pale Stare Presence"],
+        "legalityCode": "XUR",
+        "gameplay": "Standard",
+        "deckRuleset": "Standard"
+      }
+    ],
+    "deckRulesets": {
+      "Standard": {
+        "checkCardLegality": true,
+        "general": { "min": 40, "max": 40, "maxPerCard": 3 },
+        "categories": [
+          { "category": "Devotee", "min": 3, "max": 3 },
+          { "category": "Pale Stare Presence", "min": 3, "max": 3 }
+        ]
+      }
+    }
+  }
+}
