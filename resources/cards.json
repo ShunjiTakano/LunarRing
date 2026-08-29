@@ -26,7 +26,7 @@
     "attack": 1,
     "health": 1,
     "covenant": "Igon",
-    "_legal": {
+    "legality": {
       "IGO": true
     }
   },
@@ -49,7 +49,7 @@
     "attack": 1,
     "health": 4,
     "covenant": "Igon",
-    "_legal": {
+    "legality": {
       "IGO": true
     }
   },
@@ -72,7 +72,7 @@
     "attack": 2,
     "health": 2,
     "covenant": "Igon",
-    "_legal": {
+    "legality": {
       "IGO": true
     }
   },
@@ -103,7 +103,7 @@
     "attack": 1,
     "health": 3,
     "covenant": "Igon",
-    "_legal": {
+    "legality": {
       "IGO": true
     }
   },
@@ -126,7 +126,7 @@
     "attack": 2,
     "health": 4,
     "covenant": "Igon",
-    "_legal": {
+    "legality": {
       "IGO": true
     }
   },
@@ -157,7 +157,7 @@
     "attack": 1,
     "health": 2,
     "covenant": "Igon",
-    "_legal": {
+    "legality": {
       "IGO": true
     }
   },
@@ -188,7 +188,7 @@
     "attack": 1,
     "health": 1,
     "covenant": "Igon",
-    "_legal": {
+    "legality": {
       "IGO": true
     }
   },
@@ -219,7 +219,7 @@
     "attack": 1,
     "health": 5,
     "covenant": "Igon",
-    "_legal": {
+    "legality": {
       "IGO": true
     }
   },
@@ -242,7 +242,7 @@
     "attack": 1,
     "health": 1,
     "covenant": "Igon",
-    "_legal": {
+    "legality": {
       "IGO": true
     }
   },
@@ -263,7 +263,7 @@
     "cost": 2,
     "effect": "Whenever an armament you wield distorts, Draw 1. Then you may discard 1. If you don't, break this and put the top 2 cards of your deck into your scrapyard.",
     "covenant": "Igon",
-    "_legal": {
+    "legality": {
       "IGO": true
     }
   },
@@ -284,7 +284,7 @@
     "cost": 3,
     "effect": "You may look at the top card of your deck at any time. You may play cards from the top of your deck. If you play a card with Distort this way, it Distorts when it enters your armoury.",
     "covenant": "Igon",
-    "_legal": {
+    "legality": {
       "IGO": true
     }
   },
@@ -305,7 +305,7 @@
     "cost": 2,
     "effect": "Whenever an armament you wield Distorts, your opponent may put the top card of their deck into their scrapyard. If they don't, your opponent loses 1 life instead.",
     "covenant": "Igon",
-    "_legal": {
+    "legality": {
       "IGO": true
     }
   },
@@ -326,7 +326,7 @@
     "cost": 4,
     "effect": "Whenever an armament you wield Distorts, Scavenge a card with the same name. If you don't, lose 2 health. Eclipse: You can only play cards with Distort.",
     "covenant": "Igon",
-    "_legal": {
+    "legality": {
       "IGO": true
     }
   },
@@ -347,7 +347,7 @@
     "cost": 5,
     "effect": "At your recovery, your opponent creates 2 Hazed Memories. Full Moon: Hazed Memories your opponent wield cannot be broken.",
     "covenant": "Igon",
-    "_legal": {
+    "legality": {
       "IGO": true
     }
   },
@@ -368,7 +368,7 @@
     "cost": 7,
     "effect": "At you recovery, Distort any number of armaments you wield. For each one not distorted this way put the top 2 cards of your deck into your scrapyard.",
     "covenant": "Igon",
-    "_legal": {
+    "legality": {
       "IGO": true
     }
   },
@@ -389,7 +389,7 @@
     "cost": 2,
     "effect": "Break an armament your opponent wields that entered their armoury this turn.",
     "covenant": "Igon",
-    "_legal": {
+    "legality": {
       "IGO": true
     }
   },
@@ -410,7 +410,7 @@
     "cost": 2,
     "effect": "Distort an armament you wield. It cannot break or shatter this turn.",
     "covenant": "Igon",
-    "_legal": {
+    "legality": {
       "IGO": true
     }
   },
@@ -431,7 +431,7 @@
     "cost": 4,
     "effect": "Break 2 armaments your opponent wields. Half Moon: Break all armaments instead.",
     "covenant": "Igon",
-    "_legal": {
+    "legality": {
       "IGO": true
     }
   },
@@ -452,7 +452,7 @@
     "cost": 0,
     "effect": "Gain 1 resolve this turn. Distort an armament you wield.",
     "covenant": "Igon",
-    "_legal": {
+    "legality": {
       "IGO": true
     }
   },
@@ -461,19 +461,19 @@
     "face": {
       "front": {
         "name": {
-          "name": "Heliana’s Fragments"
+          "name": "Heliana\u2019s Fragments"
         },
         "type": "Tactic",
         "cost": 2,
         "image": "https://shunjitakano.github.io/LunarRing/images/heliana-s-fragments.webp"
       }
     },
-    "name": "Heliana’s Fragments",
+    "name": "Heliana\u2019s Fragments",
     "type": "Tactic",
     "cost": 2,
     "effect": "Witness a card with Distort.",
     "covenant": "Igon",
-    "_legal": {
+    "legality": {
       "IGO": true
     }
   },
@@ -494,7 +494,7 @@
     "cost": 2,
     "effect": "Draw 1 and discard 1. You may play this from your scrapyard if an armament you wield distorted this turn.",
     "covenant": "Igon",
-    "_legal": {
+    "legality": {
       "IGO": true
     }
   },
@@ -515,7 +515,7 @@
     "cost": 6,
     "effect": "Play up to 4 armaments with Distort from your scrapyard without testing resolve. Then Shatter your hand.",
     "covenant": "Igon",
-    "_legal": {
+    "legality": {
       "IGO": true
     }
   },
@@ -536,7 +536,7 @@
     "cost": 2,
     "effect": "Distort an armamnent you wield. Crescent Moon: If that armament was a weapon give it +1 attack as well.",
     "covenant": "Igon",
-    "_legal": {
+    "legality": {
       "IGO": true
     }
   },
@@ -558,7 +558,7 @@
     "effect": "Your opponent creates a Hazed Memory. If you are Thriving, draw 1 as well.",
     "attack": "n.a",
     "covenant": "Igon",
-    "_legal": {
+    "legality": {
       "IGO": true
     }
   },
@@ -579,7 +579,7 @@
     "cost": 6,
     "effect": "Your opponent creates 5 Hazed Memories. Put the top 10 cards of your deck into your scrapyard. Full Moon: Put the top 2 cards of your deck into your scrapyard instead.",
     "covenant": "Igon",
-    "_legal": {
+    "legality": {
       "IGO": true
     }
   },
@@ -600,7 +600,7 @@
     "cost": 2,
     "effect": "Draw 1. You may Distort an armament you wield. If you do, draw 3 instead. Crescent Moon: Look at the top 3 cards of your deck and put them on the top or bottom of your deck in any order first.",
     "covenant": "Igon",
-    "_legal": {
+    "legality": {
       "IGO": true
     }
   },
@@ -621,7 +621,7 @@
     "cost": 1,
     "effect": "Shatter an armament your opponent wields. Return it to their armoury at their next recovery.",
     "covenant": "Igon",
-    "_legal": {
+    "legality": {
       "IGO": true
     }
   },
@@ -642,7 +642,7 @@
     "cost": 1,
     "effect": "Distort an armament you wield. At your recovery, Distort it again. Crescent Moon: Look at the top 3 cards instead and put them back in any order.",
     "covenant": "Igon",
-    "_legal": {
+    "legality": {
       "IGO": true
     }
   },
@@ -663,7 +663,7 @@
     "cost": 4,
     "effect": "Give an armament that Distorted this turn +3 Attack.",
     "covenant": "Igon",
-    "_legal": {
+    "legality": {
       "IGO": true
     }
   },
@@ -684,7 +684,7 @@
     "cost": 8,
     "effect": "Shatter all armaments your opponent wields.",
     "covenant": "Igon",
-    "_legal": {
+    "legality": {
       "IGO": true
     }
   },
@@ -708,7 +708,7 @@
     "health": 1,
     "covenant": "Igon",
     "isToken": true,
-    "_legal": {
+    "legality": {
       "IGO": true
     }
   },
@@ -731,7 +731,7 @@
     "attack": 0,
     "health": 2,
     "covenant": "Igon",
-    "_legal": {
+    "legality": {
       "IGO": true
     }
   },
@@ -762,7 +762,7 @@
     "attack": 5,
     "health": 1,
     "covenant": "Igon",
-    "_legal": {
+    "legality": {
       "IGO": true
     }
   },
@@ -785,7 +785,7 @@
     "attack": 2,
     "health": 3,
     "covenant": "Igon",
-    "_legal": {
+    "legality": {
       "IGO": true
     }
   },
@@ -816,7 +816,7 @@
     "attack": 0,
     "health": 3,
     "covenant": "Igon",
-    "_legal": {
+    "legality": {
       "IGO": true
     }
   },
@@ -847,7 +847,7 @@
     "attack": 3,
     "health": 3,
     "covenant": "Igon",
-    "_legal": {
+    "legality": {
       "IGO": true
     }
   },
@@ -870,7 +870,7 @@
     "attack": 3,
     "health": 2,
     "covenant": "Igon",
-    "_legal": {
+    "legality": {
       "IGO": true
     }
   },
@@ -901,7 +901,7 @@
     "attack": 1,
     "health": 4,
     "covenant": "Igon",
-    "_legal": {
+    "legality": {
       "IGO": true
     }
   },
@@ -924,7 +924,7 @@
     "attack": 1,
     "health": 1,
     "covenant": "Igon",
-    "_legal": {
+    "legality": {
       "IGO": true
     }
   },
@@ -955,7 +955,7 @@
     "attack": 1,
     "health": 3,
     "covenant": "Igon",
-    "_legal": {
+    "legality": {
       "IGO": true
     }
   },
@@ -978,7 +978,7 @@
     "attack": 1,
     "health": 2,
     "covenant": "Igon",
-    "_legal": {
+    "legality": {
       "IGO": true
     }
   },
@@ -1001,7 +1001,7 @@
     "attack": 1,
     "health": 1,
     "covenant": "Yandari",
-    "_legal": {
+    "legality": {
       "YAN": true
     }
   },
@@ -1024,7 +1024,7 @@
     "attack": 1,
     "health": 1,
     "covenant": "Yandari",
-    "_legal": {
+    "legality": {
       "YAN": true
     }
   },
@@ -1045,7 +1045,7 @@
     "cost": 1,
     "effect": "Exhaust: Lose 1 health and Draw 1. Break this. Crescent Moon: Lose 1 health and Draw 2 instead.",
     "covenant": "Yandari",
-    "_legal": {
+    "legality": {
       "YAN": true
     }
   },
@@ -1066,7 +1066,7 @@
     "cost": 5,
     "effect": "Whenever your Show Mercy, gain 2 mercy stacks instead. At your recovery, if you do not Show Mercy, lose 2 health.",
     "covenant": "Yandari",
-    "_legal": {
+    "legality": {
       "YAN": true
     }
   },
@@ -1087,7 +1087,7 @@
     "cost": 3,
     "effect": "Whenever you deal damage to your opponent, if you dealt 3 or less damage, prevent that damage and Show Mercy.",
     "covenant": "Yandari",
-    "_legal": {
+    "legality": {
       "YAN": true
     }
   },
@@ -1108,7 +1108,7 @@
     "cost": 3,
     "effect": "Your Mercy gives 1 additional damage. You cannot have more than 5 Mercy. If you have no Mercy, break this.",
     "covenant": "Yandari",
-    "_legal": {
+    "legality": {
       "YAN": true
     }
   },
@@ -1129,7 +1129,7 @@
     "cost": 2,
     "effect": "Whenever a player's condition worsens, draw 2 cards and lose 2 health and break this.",
     "covenant": "Yandari",
-    "_legal": {
+    "legality": {
       "YAN": true
     }
   },
@@ -1150,7 +1150,7 @@
     "cost": 5,
     "effect": "Exhaust: Give a weapon you wield +X this turn where X is equal to the number of Acolytes in your opponents scrapyard.",
     "covenant": "Yandari",
-    "_legal": {
+    "legality": {
       "YAN": true
     }
   },
@@ -1171,7 +1171,7 @@
     "cost": 5,
     "effect": "The first time you lose health each turn, create 2 Sacred Blood's. At your recovery, if you wield no Sacred Bloods, break this.",
     "covenant": "Yandari",
-    "_legal": {
+    "legality": {
       "YAN": true
     }
   },
@@ -1192,7 +1192,7 @@
     "cost": 9,
     "effect": "Cards you play cost health instead of testing resolve.",
     "covenant": "Yandari",
-    "_legal": {
+    "legality": {
       "YAN": true
     }
   },
@@ -1213,7 +1213,7 @@
     "cost": 3,
     "effect": "Show Mercy twice.",
     "covenant": "Yandari",
-    "_legal": {
+    "legality": {
       "YAN": true
     }
   },
@@ -1234,7 +1234,7 @@
     "cost": 2,
     "effect": "Break an acolyte your opponent wields. Half Moon: Break all Acolytes your opponent wields instead.",
     "covenant": "Yandari",
-    "_legal": {
+    "legality": {
       "YAN": true
     }
   },
@@ -1255,7 +1255,7 @@
     "cost": 2,
     "effect": "Your health cannot be reduced below 1 this turn. Eclipse: This cannot be played.",
     "covenant": "Yandari",
-    "_legal": {
+    "legality": {
       "YAN": true
     }
   },
@@ -1276,7 +1276,7 @@
     "cost": 3,
     "effect": "Restore X health where X is equal to your Mercy.",
     "covenant": "Yandari",
-    "_legal": {
+    "legality": {
       "YAN": true
     }
   },
@@ -1297,7 +1297,7 @@
     "cost": 5,
     "effect": "Create 4 Sacred Blood. Full Moon: For the rest of the game your Sacred Blood restore 3 health instead.",
     "covenant": "Yandari",
-    "_legal": {
+    "legality": {
       "YAN": true
     }
   },
@@ -1318,7 +1318,7 @@
     "cost": 0,
     "effect": "Gain 1 resolve this turn. Show Mercy.",
     "covenant": "Yandari",
-    "_legal": {
+    "legality": {
       "YAN": true
     }
   },
@@ -1339,7 +1339,7 @@
     "cost": 2,
     "effect": "Lose 1 health and draw 1. Crescent Moon: Draw 2 and discard 1 instead.",
     "covenant": "Yandari",
-    "_legal": {
+    "legality": {
       "YAN": true
     }
   },
@@ -1358,9 +1358,9 @@
     "name": "Savour Pain",
     "type": "Tactic",
     "cost": 3,
-    "effect": "Lose 2 health and create a “Sacred Blood”. Full Moon: Create 4 Sacred Bloods instead.",
+    "effect": "Lose 2 health and create a \u201cSacred Blood\u201d. Full Moon: Create 4 Sacred Bloods instead.",
     "covenant": "Yandari",
-    "_legal": {
+    "legality": {
       "YAN": true
     }
   },
@@ -1381,7 +1381,7 @@
     "cost": 2,
     "effect": "Lose 2 health and break an armament that tests 2 or less resolve. Half Moon: Break any armament instead.",
     "covenant": "Yandari",
-    "_legal": {
+    "legality": {
       "YAN": true
     }
   },
@@ -1402,7 +1402,7 @@
     "cost": 4,
     "effect": "Show Mercy X times where X is equal to the attack of a weapon you wield. Crescent Moon: Repeat this effect.",
     "covenant": "Yandari",
-    "_legal": {
+    "legality": {
       "YAN": true
     }
   },
@@ -1423,7 +1423,7 @@
     "cost": 2,
     "effect": "Give a weapon you wield +1 attack. If you have lost 3 or more health this turn, give a weapon you wield +3 attack instead.",
     "covenant": "Yandari",
-    "_legal": {
+    "legality": {
       "YAN": true
     }
   },
@@ -1444,7 +1444,7 @@
     "cost": 1,
     "effect": "Show Mercy.",
     "covenant": "Yandari",
-    "_legal": {
+    "legality": {
       "YAN": true
     }
   },
@@ -1465,7 +1465,7 @@
     "cost": 2,
     "effect": "If you lost 2 or more health this turn, give a weapon you wield +1 temper. Crescent Moon: Give a weapon you wield +1 attack as well.",
     "covenant": "Yandari",
-    "_legal": {
+    "legality": {
       "YAN": true
     }
   },
@@ -1486,7 +1486,7 @@
     "cost": 2,
     "effect": "Lose 1 health. If your condition is worse than your opponent, draw 2. Crescent Moon: Draw 2 regardless.",
     "covenant": "Yandari",
-    "_legal": {
+    "legality": {
       "YAN": true
     }
   },
@@ -1507,7 +1507,7 @@
     "cost": 3,
     "effect": "Break an acolyte your opponent wields. If you lost 5 or more health this turn, break all armaments your opponent wields instead.",
     "covenant": "Yandari",
-    "_legal": {
+    "legality": {
       "YAN": true
     }
   },
@@ -1528,7 +1528,7 @@
     "cost": 4,
     "effect": "Lose 3 health and draw 3. Half Moon: Lose 4 health, and draw 4 instead.",
     "covenant": "Yandari",
-    "_legal": {
+    "legality": {
       "YAN": true
     }
   },
@@ -1549,7 +1549,7 @@
     "cost": 7,
     "effect": "Your weapons deal double damage this turn. After a weapon strikes this turn, shatter it and lose 2 health.",
     "covenant": "Yandari",
-    "_legal": {
+    "legality": {
       "YAN": true
     }
   },
@@ -1570,7 +1570,7 @@
     "cost": 6,
     "effect": "Break all acolytes your opponent wields. Give a weapon +X attack where X is equal to the number of Acolytes broken this way.",
     "covenant": "Yandari",
-    "_legal": {
+    "legality": {
       "YAN": true
     }
   },
@@ -1592,7 +1592,7 @@
     "effect": "Exhaust: Restore 2 health and break this.",
     "covenant": "Yandari",
     "isToken": true,
-    "_legal": {
+    "legality": {
       "YAN": true
     }
   },
@@ -1615,7 +1615,7 @@
     "attack": 1,
     "health": 2,
     "covenant": "Yandari",
-    "_legal": {
+    "legality": {
       "YAN": true
     }
   },
@@ -1638,7 +1638,7 @@
     "attack": 2,
     "health": 1,
     "covenant": "Yandari",
-    "_legal": {
+    "legality": {
       "YAN": true
     }
   },
@@ -1657,11 +1657,11 @@
     "name": "Life",
     "type": "Weapon",
     "cost": 2,
-    "effect": "Brandish: If you do not wield “Death”, you may play it from your hand without testing resolve. If you do, lose 3 health.",
+    "effect": "Brandish: If you do not wield \u201cDeath\u201d, you may play it from your hand without testing resolve. If you do, lose 3 health.",
     "attack": 1,
     "health": 2,
     "covenant": "Yandari",
-    "_legal": {
+    "legality": {
       "YAN": true
     }
   },
@@ -1684,7 +1684,7 @@
     "attack": 2,
     "health": 2,
     "covenant": "Yandari",
-    "_legal": {
+    "legality": {
       "YAN": true
     }
   },
@@ -1707,7 +1707,7 @@
     "attack": 2,
     "health": 2,
     "covenant": "Yandari",
-    "_legal": {
+    "legality": {
       "YAN": true
     }
   },
@@ -1730,7 +1730,7 @@
     "attack": 3,
     "health": 2,
     "covenant": "Yandari",
-    "_legal": {
+    "legality": {
       "YAN": true
     }
   },
@@ -1753,7 +1753,7 @@
     "attack": 5,
     "health": 2,
     "covenant": "Yandari",
-    "_legal": {
+    "legality": {
       "YAN": true
     }
   },
@@ -1776,7 +1776,7 @@
     "attack": 1,
     "health": 2,
     "covenant": "Yandari",
-    "_legal": {
+    "legality": {
       "YAN": true
     }
   },
@@ -1799,7 +1799,7 @@
     "attack": 1,
     "health": 2,
     "covenant": "Yandari",
-    "_legal": {
+    "legality": {
       "YAN": true
     }
   },
@@ -1822,7 +1822,7 @@
     "attack": 1,
     "health": 2,
     "covenant": "Yandari",
-    "_legal": {
+    "legality": {
       "YAN": true
     }
   },
@@ -1845,7 +1845,7 @@
     "attack": 4,
     "health": 3,
     "covenant": "Yandari",
-    "_legal": {
+    "legality": {
       "YAN": true
     }
   },
@@ -1868,7 +1868,7 @@
     "attack": 0,
     "health": 1,
     "covenant": "Yandari",
-    "_legal": {
+    "legality": {
       "YAN": true
     }
   },
@@ -1891,7 +1891,7 @@
     "attack": 1,
     "health": 2,
     "covenant": "Kuran",
-    "_legal": {
+    "legality": {
       "KUR": true
     }
   },
@@ -1914,7 +1914,7 @@
     "attack": 1,
     "health": 1,
     "covenant": "Kuran",
-    "_legal": {
+    "legality": {
       "KUR": true
     }
   },
@@ -1937,7 +1937,7 @@
     "attack": 1,
     "health": 1,
     "covenant": "Kuran",
-    "_legal": {
+    "legality": {
       "KUR": true
     }
   },
@@ -1960,7 +1960,7 @@
     "attack": 4,
     "health": 1,
     "covenant": "Kuran",
-    "_legal": {
+    "legality": {
       "KUR": true
     }
   },
@@ -1983,7 +1983,7 @@
     "attack": 0,
     "health": 1,
     "covenant": "Kuran",
-    "_legal": {
+    "legality": {
       "KUR": true
     }
   },
@@ -2006,7 +2006,7 @@
     "attack": 0,
     "health": 1,
     "covenant": "Kuran",
-    "_legal": {
+    "legality": {
       "KUR": true
     }
   },
@@ -2029,7 +2029,7 @@
     "attack": 2,
     "health": 2,
     "covenant": "Kuran",
-    "_legal": {
+    "legality": {
       "KUR": true
     }
   },
@@ -2052,7 +2052,7 @@
     "attack": 1,
     "health": 3,
     "covenant": "Kuran",
-    "_legal": {
+    "legality": {
       "KUR": true
     }
   },
@@ -2075,7 +2075,7 @@
     "attack": 1,
     "health": 2,
     "covenant": "Kuran",
-    "_legal": {
+    "legality": {
       "KUR": true
     }
   },
@@ -2098,7 +2098,7 @@
     "attack": 2,
     "health": 1,
     "covenant": "Kuran",
-    "_legal": {
+    "legality": {
       "KUR": true
     }
   },
@@ -2121,7 +2121,7 @@
     "attack": 2,
     "health": 2,
     "covenant": "Kuran",
-    "_legal": {
+    "legality": {
       "KUR": true
     }
   },
@@ -2144,7 +2144,7 @@
     "attack": 1,
     "health": 3,
     "covenant": "Kuran",
-    "_legal": {
+    "legality": {
       "KUR": true
     }
   },
@@ -2167,7 +2167,7 @@
     "attack": 1,
     "health": 1,
     "covenant": "Kuran",
-    "_legal": {
+    "legality": {
       "KUR": true
     }
   },
@@ -2188,7 +2188,7 @@
     "cost": 5,
     "effect": "Your cards test 1 less resolve for each grafted armament you wield. Whenever you play a card, break an acolyte you wield.",
     "covenant": "Kuran",
-    "_legal": {
+    "legality": {
       "KUR": true
     }
   },
@@ -2209,7 +2209,7 @@
     "cost": 4,
     "effect": "Whenever you play a weapon, You may Graft an ungrafted acolyte you wield to it without resting resolve. At your preparation, if you do not wield a weapon, break this and put the top 5 cards of your deck into your scrapyard.",
     "covenant": "Kuran",
-    "_legal": {
+    "legality": {
       "KUR": true
     }
   },
@@ -2230,7 +2230,7 @@
     "cost": 3,
     "effect": "Whenever you Graft to a weapon you wield, you may give that weapon +1 temper. If you do, break me.",
     "covenant": "Kuran",
-    "_legal": {
+    "legality": {
       "KUR": true
     }
   },
@@ -2251,7 +2251,7 @@
     "cost": 2,
     "effect": "At your recovery, if you wield a grafted weapon, draw 1. Crescent Moon: This cannot break.",
     "covenant": "Kuran",
-    "_legal": {
+    "legality": {
       "KUR": true
     }
   },
@@ -2272,7 +2272,7 @@
     "cost": 2,
     "effect": "Return up to 2 acolytes from your scrapyard to your hand.",
     "covenant": "Kuran",
-    "_legal": {
+    "legality": {
       "KUR": true
     }
   },
@@ -2293,7 +2293,7 @@
     "cost": 2,
     "effect": "Restore X health, where X is equal to the number of acolytes you wield.",
     "covenant": "Kuran",
-    "_legal": {
+    "legality": {
       "KUR": true
     }
   },
@@ -2314,7 +2314,7 @@
     "cost": 1,
     "effect": "Return a weapon or acolyte from your scrapyard to your hand.",
     "covenant": "Kuran",
-    "_legal": {
+    "legality": {
       "KUR": true
     }
   },
@@ -2335,7 +2335,7 @@
     "cost": 2,
     "effect": "Choose a grafted armament. It cannot be broken this turn. Crescent Moon: This tests 1 less resolve.",
     "covenant": "Kuran",
-    "_legal": {
+    "legality": {
       "KUR": true
     }
   },
@@ -2356,7 +2356,7 @@
     "cost": 2,
     "effect": "If you wield a weapon with 3 or more grafts attached, break an armament. Full Moon: Break all armaments your opponent wields instead.",
     "covenant": "Kuran",
-    "_legal": {
+    "legality": {
       "KUR": true
     }
   },
@@ -2377,7 +2377,7 @@
     "cost": 0,
     "effect": "Gain 1 resolve this turn only. Witness an Acolyte with Graft.",
     "covenant": "Kuran",
-    "_legal": {
+    "legality": {
       "KUR": true
     }
   },
@@ -2398,7 +2398,7 @@
     "cost": 4,
     "effect": "You may play an Acolyte from your hand without testing resolve, if you do, Graft it to weapon you wield.",
     "covenant": "Kuran",
-    "_legal": {
+    "legality": {
       "KUR": true
     }
   },
@@ -2419,7 +2419,7 @@
     "cost": 3,
     "effect": "Give a weapon +1 For each graft attached to it. Half Moon: Then doublt it's attack this turn.",
     "covenant": "Kuran",
-    "_legal": {
+    "legality": {
       "KUR": true
     }
   },
@@ -2440,7 +2440,7 @@
     "cost": 3,
     "effect": "Crescent Moon: Restore 3 Health. Half Moon: Witness an Acolyte. Full Moon: Restore 5 Health and return an Acolyte from your scrapyard to your hand.",
     "covenant": "Kuran",
-    "_legal": {
+    "legality": {
       "KUR": true
     }
   },
@@ -2461,7 +2461,7 @@
     "cost": 2,
     "effect": "Witness an Acolyte that tests 2 or less resolve. Eclipse: Your opponent may do the same.",
     "covenant": "Kuran",
-    "_legal": {
+    "legality": {
       "KUR": true
     }
   },
@@ -2482,7 +2482,7 @@
     "cost": 3,
     "effect": "The next time a grafted weapon you wield strikes this turn, deal damage equal to the number of grafts attached to it.",
     "covenant": "Kuran",
-    "_legal": {
+    "legality": {
       "KUR": true
     }
   },
@@ -2503,7 +2503,7 @@
     "cost": 2,
     "effect": "Graft an acolyte to a weapon you wield without testing resolve. Half Moon: Give it +1 Temper as well.",
     "covenant": "Kuran",
-    "_legal": {
+    "legality": {
       "KUR": true
     }
   },
@@ -2524,7 +2524,7 @@
     "cost": 1,
     "effect": "Witness a weapon.",
     "covenant": "Kuran",
-    "_legal": {
+    "legality": {
       "KUR": true
     }
   },
@@ -2545,7 +2545,7 @@
     "cost": 5,
     "effect": "Witness up to 2 weapons or acolytes that test a total of 4 or less resolve and play them.",
     "covenant": "Kuran",
-    "_legal": {
+    "legality": {
       "KUR": true
     }
   },
@@ -2566,7 +2566,7 @@
     "cost": 6,
     "effect": "Give a weapon you wield the attack of all acolytes grafted to it, then break all Acolytes Grafted to it.",
     "covenant": "Kuran",
-    "_legal": {
+    "legality": {
       "KUR": true
     }
   },
@@ -2590,7 +2590,7 @@
     "health": 1,
     "covenant": "Kuran",
     "isToken": true,
-    "_legal": {
+    "legality": {
       "KUR": true
     }
   },
@@ -2614,7 +2614,7 @@
     "health": 1,
     "covenant": "Kuran",
     "isToken": true,
-    "_legal": {
+    "legality": {
       "KUR": true
     }
   },
@@ -2637,7 +2637,7 @@
     "attack": 1,
     "health": 3,
     "covenant": "Kuran",
-    "_legal": {
+    "legality": {
       "KUR": true
     }
   },
@@ -2660,7 +2660,7 @@
     "attack": 2,
     "health": 2,
     "covenant": "Kuran",
-    "_legal": {
+    "legality": {
       "KUR": true
     }
   },
@@ -2683,7 +2683,7 @@
     "attack": 1,
     "health": 2,
     "covenant": "Kuran",
-    "_legal": {
+    "legality": {
       "KUR": true
     }
   },
@@ -2706,7 +2706,7 @@
     "attack": 1,
     "health": 5,
     "covenant": "Kuran",
-    "_legal": {
+    "legality": {
       "KUR": true
     }
   },
@@ -2729,7 +2729,7 @@
     "attack": 1,
     "health": 2,
     "covenant": "Kuran",
-    "_legal": {
+    "legality": {
       "KUR": true
     }
   },
@@ -2752,7 +2752,7 @@
     "attack": 0,
     "health": 3,
     "covenant": "Kuran",
-    "_legal": {
+    "legality": {
       "KUR": true
     }
   },
@@ -2775,7 +2775,7 @@
     "attack": 2,
     "health": 2,
     "covenant": "Kuran",
-    "_legal": {
+    "legality": {
       "KUR": true
     }
   },
@@ -2798,7 +2798,7 @@
     "attack": 1,
     "health": 2,
     "covenant": "Kuran",
-    "_legal": {
+    "legality": {
       "KUR": true
     }
   },
@@ -2821,7 +2821,7 @@
     "attack": 2,
     "health": 3,
     "covenant": "Niorr",
-    "_legal": {
+    "legality": {
       "NIO": true
     }
   },
@@ -2844,7 +2844,7 @@
     "attack": 2,
     "health": 2,
     "covenant": "Niorr",
-    "_legal": {
+    "legality": {
       "NIO": true
     }
   },
@@ -2867,7 +2867,7 @@
     "attack": 1,
     "health": 4,
     "covenant": "Niorr",
-    "_legal": {
+    "legality": {
       "NIO": true
     }
   },
@@ -2890,7 +2890,7 @@
     "attack": 1,
     "health": 3,
     "covenant": "Niorr",
-    "_legal": {
+    "legality": {
       "NIO": true
     }
   },
@@ -2913,7 +2913,7 @@
     "attack": 2,
     "health": 4,
     "covenant": "Niorr",
-    "_legal": {
+    "legality": {
       "NIO": true
     }
   },
@@ -2936,7 +2936,7 @@
     "attack": 1,
     "health": 2,
     "covenant": "Niorr",
-    "_legal": {
+    "legality": {
       "NIO": true
     }
   },
@@ -2959,7 +2959,7 @@
     "attack": 1,
     "health": 5,
     "covenant": "Niorr",
-    "_legal": {
+    "legality": {
       "NIO": true
     }
   },
@@ -2982,7 +2982,7 @@
     "attack": 0,
     "health": 3,
     "covenant": "Niorr",
-    "_legal": {
+    "legality": {
       "NIO": true
     }
   },
@@ -3005,7 +3005,7 @@
     "attack": 0,
     "health": 4,
     "covenant": "Niorr",
-    "_legal": {
+    "legality": {
       "NIO": true
     }
   },
@@ -3028,7 +3028,7 @@
     "attack": 1,
     "health": 1,
     "covenant": "Niorr",
-    "_legal": {
+    "legality": {
       "NIO": true
     }
   },
@@ -3051,7 +3051,7 @@
     "attack": 2,
     "health": 4,
     "covenant": "Niorr",
-    "_legal": {
+    "legality": {
       "NIO": true
     }
   },
@@ -3074,7 +3074,7 @@
     "attack": 0,
     "health": 3,
     "covenant": "Niorr",
-    "_legal": {
+    "legality": {
       "NIO": true
     }
   },
@@ -3097,7 +3097,7 @@
     "attack": 1,
     "health": 3,
     "covenant": "Niorr",
-    "_legal": {
+    "legality": {
       "NIO": true
     }
   },
@@ -3120,7 +3120,7 @@
     "attack": 0,
     "health": 8,
     "covenant": "Niorr",
-    "_legal": {
+    "legality": {
       "NIO": true
     }
   },
@@ -3141,7 +3141,7 @@
     "cost": 4,
     "effect": "At your preparation Indulge. If you put indulgence counters on 3 or less armaments you wield, break this. Crescent Moon: Put an extra indulgence counter on 1 of your armanents.",
     "covenant": "Niorr",
-    "_legal": {
+    "legality": {
       "NIO": true
     }
   },
@@ -3162,7 +3162,7 @@
     "cost": 7,
     "effect": "At your preapration, you may Indulge 1 time. If you don't break this and create 1 Despair, Apathy, Lonliness, and Insignicance.",
     "covenant": "Niorr",
-    "_legal": {
+    "legality": {
       "NIO": true
     }
   },
@@ -3183,7 +3183,7 @@
     "cost": 3,
     "effect": "At your preparation draw 1 and put the top card of your deck into your scrapyard. Then if your scrapyard has 15 or more cards in it, break this and create 1 Insiginifcance.",
     "covenant": "Niorr",
-    "_legal": {
+    "legality": {
       "NIO": true
     }
   },
@@ -3204,7 +3204,7 @@
     "cost": 2,
     "effect": "Your acolytes can attack your opponent directly. If they do, they lose 1 health. If an acolyte you wield breaks, break this.",
     "covenant": "Niorr",
-    "_legal": {
+    "legality": {
       "NIO": true
     }
   },
@@ -3225,7 +3225,7 @@
     "cost": 3,
     "effect": "Choose an acolyte you wield, your opponent must attack it this turn.",
     "covenant": "Niorr",
-    "_legal": {
+    "legality": {
       "NIO": true
     }
   },
@@ -3246,7 +3246,7 @@
     "cost": 2,
     "effect": "Weapons your opponent wields cannot be exhausted this turn. Indulge. Eclipse: This cannot be played.",
     "covenant": "Niorr",
-    "_legal": {
+    "legality": {
       "NIO": true
     }
   },
@@ -3267,7 +3267,7 @@
     "cost": 1,
     "effect": "Acolytes you wield with 3 or more indulgence counters on them cannot be broken this turn.",
     "covenant": "Niorr",
-    "_legal": {
+    "legality": {
       "NIO": true
     }
   },
@@ -3288,7 +3288,7 @@
     "cost": 3,
     "effect": "Break an armament your opponent wields. Draw X cards where X is half the broken armament's resolve. Half Moon: X is equal to the max resolve instead.",
     "covenant": "Niorr",
-    "_legal": {
+    "legality": {
       "NIO": true
     }
   },
@@ -3309,7 +3309,7 @@
     "cost": 0,
     "effect": "Gain 1 resolve this turn and Indulge.",
     "covenant": "Niorr",
-    "_legal": {
+    "legality": {
       "NIO": true
     }
   },
@@ -3330,7 +3330,7 @@
     "cost": 1,
     "effect": "Draw 1, discard 1, and Indulge. Crescent Moon: Draw 2 discard 2 at random.",
     "covenant": "Niorr",
-    "_legal": {
+    "legality": {
       "NIO": true
     }
   },
@@ -3351,7 +3351,7 @@
     "cost": 2,
     "effect": "Give an acolyte you wield +2 Attack. Full Moon: Give an acolyte +5 Attack instead.",
     "covenant": "Niorr",
-    "_legal": {
+    "legality": {
       "NIO": true
     }
   },
@@ -3372,7 +3372,7 @@
     "cost": 2,
     "effect": "Indulge. Full Moon: Indulge 3 times instead and put the top 5 cards of your deck into your scrapyard.",
     "covenant": "Niorr",
-    "_legal": {
+    "legality": {
       "NIO": true
     }
   },
@@ -3393,7 +3393,7 @@
     "cost": 4,
     "effect": "Ready all acolytes you wield and give them +1 attack this turn for each indulgence counter on them.",
     "covenant": "Niorr",
-    "_legal": {
+    "legality": {
       "NIO": true
     }
   },
@@ -3414,7 +3414,7 @@
     "cost": 2,
     "effect": "Reveal the top card of your deck. If it is an Acolyte that tests 3 or less resolve, you may play it without testing resolve. Otherwise, your opponent draws 1.",
     "covenant": "Niorr",
-    "_legal": {
+    "legality": {
       "NIO": true
     }
   },
@@ -3435,7 +3435,7 @@
     "cost": 1,
     "effect": "Break a weapon your opponent wields that tests less than 2 resolve. Half Moon: Break any weapon instead.",
     "covenant": "Niorr",
-    "_legal": {
+    "legality": {
       "NIO": true
     }
   },
@@ -3456,7 +3456,7 @@
     "cost": 7,
     "effect": "Deal 1 damage to your opponent. Repeat this for each withdrawal you wield. Put the top 2 cards of your deck into your scrapyard for each damage dealt this way.",
     "covenant": "Niorr",
-    "_legal": {
+    "legality": {
       "NIO": true
     }
   },
@@ -3477,7 +3477,7 @@
     "cost": 2,
     "effect": "Your opponent draws 2 cards and loses 2 health.",
     "covenant": "Niorr",
-    "_legal": {
+    "legality": {
       "NIO": true
     }
   },
@@ -3498,7 +3498,7 @@
     "cost": 3,
     "effect": "Rouse an acolyte you wield.",
     "covenant": "Niorr",
-    "_legal": {
+    "legality": {
       "NIO": true
     }
   },
@@ -3521,7 +3521,7 @@
     "attack": 1,
     "health": 2,
     "covenant": "Niorr",
-    "_legal": {
+    "legality": {
       "NIO": true
     }
   },
@@ -3544,7 +3544,7 @@
     "attack": 2,
     "health": 2,
     "covenant": "Niorr",
-    "_legal": {
+    "legality": {
       "NIO": true
     }
   },
@@ -3567,7 +3567,7 @@
     "attack": 0,
     "health": 2,
     "covenant": "Niorr",
-    "_legal": {
+    "legality": {
       "NIO": true
     }
   },
@@ -3590,7 +3590,7 @@
     "attack": 0,
     "health": 2,
     "covenant": "Niorr",
-    "_legal": {
+    "legality": {
       "NIO": true
     }
   },
@@ -3613,7 +3613,7 @@
     "attack": 1,
     "health": 3,
     "covenant": "Niorr",
-    "_legal": {
+    "legality": {
       "NIO": true
     }
   },
@@ -3636,7 +3636,7 @@
     "attack": 1,
     "health": 3,
     "covenant": "Niorr",
-    "_legal": {
+    "legality": {
       "NIO": true
     }
   },
@@ -3659,7 +3659,7 @@
     "attack": 1,
     "health": 3,
     "covenant": "Niorr",
-    "_legal": {
+    "legality": {
       "NIO": true
     }
   },
@@ -3682,7 +3682,7 @@
     "attack": 3,
     "health": 1,
     "covenant": "Niorr",
-    "_legal": {
+    "legality": {
       "NIO": true
     }
   },
@@ -3704,7 +3704,7 @@
     "effect": "At the start of your turn give a weapon you wield -1 Attack.",
     "covenant": "Niorr",
     "isToken": true,
-    "_legal": {
+    "legality": {
       "NIO": true
     }
   },
@@ -3726,7 +3726,7 @@
     "effect": "At your preparation break an acolyte you wield.",
     "covenant": "Niorr",
     "isToken": true,
-    "_legal": {
+    "legality": {
       "NIO": true
     }
   },
@@ -3748,7 +3748,7 @@
     "effect": "The first time you take damage each turn, you take 1 additional damage.",
     "covenant": "Niorr",
     "isToken": true,
-    "_legal": {
+    "legality": {
       "NIO": true
     }
   },
@@ -3770,7 +3770,7 @@
     "effect": "Your resolve maximum is reduced by 1.",
     "covenant": "Niorr",
     "isToken": true,
-    "_legal": {
+    "legality": {
       "NIO": true
     }
   },
@@ -3792,7 +3792,7 @@
     "effect": "If you wield 2 or more exhausted Tomes, this has +2.",
     "attack": 1,
     "covenant": "Qirune",
-    "_legal": {
+    "legality": {
       "QIR": true
     }
   },
@@ -3814,7 +3814,7 @@
     "effect": "Strike: Your opponent creates a \"Love Letter\" and disarm this.",
     "attack": 2,
     "covenant": "Qirune",
-    "_legal": {
+    "legality": {
       "QIR": true
     }
   },
@@ -3836,7 +3836,7 @@
     "effect": "Attack: Deal 1 damage. If you are Jireth, repeat this. Eclipse: This restores health instead.",
     "attack": 1,
     "covenant": "Qirune",
-    "_legal": {
+    "legality": {
       "QIR": true
     }
   },
@@ -3858,7 +3858,7 @@
     "effect": "Attack: Cast a spell from an exhausted tome you wield. If you are Taviq, this does not drain essence.",
     "attack": 1,
     "covenant": "Qirune",
-    "_legal": {
+    "legality": {
       "QIR": true
     }
   },
@@ -3880,7 +3880,7 @@
     "effect": "Attack: If you are Hateful, your next tactic tests 1 less resolve. Crescent Moon: This inflicts Poison.",
     "attack": 1,
     "covenant": "Qirune",
-    "_legal": {
+    "legality": {
       "QIR": true
     }
   },
@@ -3901,7 +3901,7 @@
     "cost": 3,
     "effect": "At preparation, if you triggered love or hate 2 or more times since your last preparation, your opponent loses 1 health, then channel Love or Hate. (Become Loving or Hateful. For the remainder of the turn whenever you whenever you play a card, If you are Loving restore 1 health. If you are Hateful deal 1 damage).",
     "covenant": "Qirune",
-    "_legal": {
+    "legality": {
       "QIR": true
     }
   },
@@ -3922,7 +3922,7 @@
     "cost": 2,
     "effect": "The first time you cast a spell each turn, draw 1.",
     "covenant": "Qirune",
-    "_legal": {
+    "legality": {
       "QIR": true
     }
   },
@@ -3943,7 +3943,7 @@
     "cost": 3,
     "effect": "Whenever your opponent would restore health during your turn, they lose 1 health instead.",
     "covenant": "Qirune",
-    "_legal": {
+    "legality": {
       "QIR": true
     }
   },
@@ -3964,7 +3964,7 @@
     "cost": 4,
     "effect": "You are always Loving. At preparation, your opponent restores 1 health. Crescent Moon: Repeat this.",
     "covenant": "Qirune",
-    "_legal": {
+    "legality": {
       "QIR": true
     }
   },
@@ -3985,7 +3985,7 @@
     "cost": 4,
     "effect": "After exhausting a Tome, discard 1 at random. If you are Loving, you may cast 2 spells from that tome. If you are Hateful, your next tactic tests 2 less resolve.",
     "covenant": "Qirune",
-    "_legal": {
+    "legality": {
       "QIR": true
     }
   },
@@ -4006,7 +4006,7 @@
     "cost": 10,
     "effect": "Gain 10 resolve this turn. Hateful and Loving effects are doubled this turn. At your recovery, if you did not play 5 or more cards this turn, you lose the game.",
     "covenant": "Qirune",
-    "_legal": {
+    "legality": {
       "QIR": true
     }
   },
@@ -4027,7 +4027,7 @@
     "cost": 10,
     "effect": "3 Essence. You must use this every turn. When this breaks, you lose the game.\nSun - Draw 5. Gain 4 resolve this turn.\nMoon - Your opponent scraps 5.\nStars -  Show Mercy, Fight Dirty, Divine, Channel, Evolve, Breathe.",
     "covenant": "Qirune",
-    "_legal": {
+    "legality": {
       "QIR": true
     }
   },
@@ -4048,7 +4048,7 @@
     "cost": 3,
     "effect": "Use: Deal 2 damage and draw 1. Channel Hate. Half Moon: Dead 4 damage, draw 2 and lose 2 health.",
     "covenant": "Qirune",
-    "_legal": {
+    "legality": {
       "QIR": true
     }
   },
@@ -4069,7 +4069,7 @@
     "cost": 2,
     "effect": "Use: Play a tome from the scrapyard. It has 1 essensce.",
     "covenant": "Qirune",
-    "_legal": {
+    "legality": {
       "QIR": true
     }
   },
@@ -4088,9 +4088,9 @@
     "name": "Offering",
     "type": "Item",
     "cost": 2,
-    "effect": "This enters exhausted. Use: Create a “Gift of Qirune” or \"Charm\" and draw 1.",
+    "effect": "This enters exhausted. Use: Create a \u201cGift of Qirune\u201d or \"Charm\" and draw 1.",
     "covenant": "Qirune",
-    "_legal": {
+    "legality": {
       "QIR": true
     }
   },
@@ -4111,7 +4111,7 @@
     "cost": 2,
     "effect": "Use: Both players draw 1. If you are Loving, you Witness as well. Crescent Moon: Channel Love first. (Become Loving and for the remainder of the turn whenever you play a card, restore 1 health).",
     "covenant": "Qirune",
-    "_legal": {
+    "legality": {
       "QIR": true
     }
   },
@@ -4132,7 +4132,7 @@
     "cost": 2,
     "effect": "Gain 3 guard. At your next preparation, Channel Love. (Become Loving and for the remainder of the turn whenever you play a card, restore 1 health).",
     "covenant": "Qirune",
-    "_legal": {
+    "legality": {
       "QIR": true
     }
   },
@@ -4153,7 +4153,7 @@
     "cost": 1,
     "effect": "If you are loving, inflict poison.",
     "covenant": "Qirune",
-    "_legal": {
+    "legality": {
       "QIR": true
     }
   },
@@ -4174,7 +4174,7 @@
     "cost": 7,
     "effect": "Recover your condition. At your recovery, reduce your health to 1. Full Moon: Do not reduce your health to 1.",
     "covenant": "Qirune",
-    "_legal": {
+    "legality": {
       "QIR": true
     }
   },
@@ -4195,7 +4195,7 @@
     "cost": 1,
     "effect": "Deal 1 damage. If you are Hateful, Your next tactic tests1 less resolve.",
     "covenant": "Qirune",
-    "_legal": {
+    "legality": {
       "QIR": true
     }
   },
@@ -4216,7 +4216,7 @@
     "cost": 2,
     "effect": "Channel Hate. (Become Hateful and for the remainder of the turn whenever you play a card, deal 1 damage). You may play a card that tests 1 or less resolve or draw 1.",
     "covenant": "Qirune",
-    "_legal": {
+    "legality": {
       "QIR": true
     }
   },
@@ -4237,7 +4237,7 @@
     "cost": 3,
     "effect": "Gain 4 guard. Then you may cast a spell from a Tome you wield without exhausting it or draining essence.",
     "covenant": "Qirune",
-    "_legal": {
+    "legality": {
       "QIR": true
     }
   },
@@ -4258,7 +4258,7 @@
     "cost": 1,
     "effect": "Cure all of your ailments and Channel Love. (Become Loving and for the remainder of the turn whenever you play a card, restore 1 health). Half Moon: Both players return a card from the scrapyard to their hand.",
     "covenant": "Qirune",
-    "_legal": {
+    "legality": {
       "QIR": true
     }
   },
@@ -4279,7 +4279,7 @@
     "cost": 4,
     "effect": "Deal damage equal to the amount of health you restored this turn. Discard 2. Then, if you are loving, both players gain 2 guard.",
     "covenant": "Qirune",
-    "_legal": {
+    "legality": {
       "QIR": true
     }
   },
@@ -4300,7 +4300,7 @@
     "cost": 1,
     "effect": "Disarm an armament that tests 2 or less resolve. If you are Loving, both players draw 1 or restore 1 health.",
     "covenant": "Qirune",
-    "_legal": {
+    "legality": {
       "QIR": true
     }
   },
@@ -4321,7 +4321,7 @@
     "cost": 3,
     "effect": "Cast a spell from an exhausted Tome you wield or break a Tome you wield and give a weapon you wield +2.",
     "covenant": "Qirune",
-    "_legal": {
+    "legality": {
       "QIR": true
     }
   },
@@ -4342,7 +4342,7 @@
     "cost": 1,
     "effect": "If you are Hateful, draw 1. Otherwise, Channel Hate. (Become Hateful and for the remainder of the turn whenever you play a card, deal 1 damage). Half Moon: This tests 0 resolve to play.",
     "covenant": "Qirune",
-    "_legal": {
+    "legality": {
       "QIR": true
     }
   },
@@ -4363,7 +4363,7 @@
     "cost": 2,
     "effect": "Play an armament from the scrapyard that tests 2 or less resolve. If you are Loving, both players restore 2 health. Crescent Moon: Play an armament that tests 3 or less resolve instead.",
     "covenant": "Qirune",
-    "_legal": {
+    "legality": {
       "QIR": true
     }
   },
@@ -4384,7 +4384,7 @@
     "cost": 3,
     "effect": "Until your next recovery, whenever you deal damage with Hate, deal 1 additional damage. Crescent Moon: This tests 1 less resolve.",
     "covenant": "Qirune",
-    "_legal": {
+    "legality": {
       "QIR": true
     }
   },
@@ -4405,7 +4405,7 @@
     "cost": 2,
     "effect": "The next tactic you play this turn tests 2 less resolve. Draw 1. If you are hateful, draw 2. Crescent Moon: Channel Hate First. (Become Hateful and for the remainder of the turn whenever you play a card, deal 1 damage).",
     "covenant": "Qirune",
-    "_legal": {
+    "legality": {
       "QIR": true
     }
   },
@@ -4426,7 +4426,7 @@
     "cost": 2,
     "effect": "Disarm an armament your opponent wields that tests 3 or less resolve. If you are loving, both players draw 1.",
     "covenant": "Qirune",
-    "_legal": {
+    "legality": {
       "QIR": true
     }
   },
@@ -4447,7 +4447,7 @@
     "cost": 3,
     "effect": "Deal 2 damage. If you are hateful, your next tactic you play this turn tests 2 less resolve . Full Moon: This tests 2 less resolve.",
     "covenant": "Qirune",
-    "_legal": {
+    "legality": {
       "QIR": true
     }
   },
@@ -4468,7 +4468,7 @@
     "cost": 3,
     "effect": "Deal 1 damage. Repeat this for each time you have dealt damage with Hate this turn. Crescent Moon: Deal 2 damage.",
     "covenant": "Qirune",
-    "_legal": {
+    "legality": {
       "QIR": true
     }
   },
@@ -4489,7 +4489,7 @@
     "cost": 1,
     "effect": "Draw 1. If you are Loving, restore 1 health. If you are Hateful, deal 1 damage.",
     "covenant": "Qirune",
-    "_legal": {
+    "legality": {
       "QIR": true
     }
   },
@@ -4511,7 +4511,7 @@
     "effect": "Use: Witness. If you are Loving, both players also restore 1 health.",
     "covenant": "Qirune",
     "isToken": true,
-    "_legal": {
+    "legality": {
       "QIR": true
     }
   },
@@ -4533,7 +4533,7 @@
     "effect": "Use: Restore 1 health.",
     "covenant": "Qirune",
     "isToken": true,
-    "_legal": {
+    "legality": {
       "QIR": true
     }
   },
@@ -4555,7 +4555,7 @@
     "effect": "Use: Channel Love or Hate. If you are already loving or hateful, using this counts as playing a card.",
     "covenant": "Qirune",
     "isToken": true,
-    "_legal": {
+    "legality": {
       "QIR": true
     }
   },
@@ -4577,7 +4577,7 @@
     "effect": "Use: Your next tactic tests 1 less resolve or both players draw 1.",
     "covenant": "Qirune",
     "isToken": true,
-    "_legal": {
+    "legality": {
       "QIR": true
     }
   },
@@ -4599,7 +4599,7 @@
     "effect": "Use: You cannot be loving or hateful this turn.",
     "covenant": "Qirune",
     "isToken": true,
-    "_legal": {
+    "legality": {
       "QIR": true
     }
   },
@@ -4621,7 +4621,7 @@
     "effect": "Use: Both players draw 1 or restore 1 health. Your opponent creates a \"Love Letter\".",
     "covenant": "Qirune",
     "isToken": true,
-    "_legal": {
+    "legality": {
       "QIR": true
     }
   },
@@ -4643,7 +4643,7 @@
     "effect": "Use: Tactics you play this turn test 1 less resolve. Lose 2 health.",
     "covenant": "Qirune",
     "isToken": true,
-    "_legal": {
+    "legality": {
       "QIR": true
     }
   },
@@ -4662,9 +4662,9 @@
     "name": "Tome of Anger",
     "type": "Tome",
     "cost": 4,
-    "effect": "3 Essence.\nForge - Create a “Hardened Essence”. Discard 2.\nRaze - Break a weapon and lose 3 health.\nMold - Create a copy of a weapon you wield. Break all non weapon armaments you wield.",
+    "effect": "3 Essence.\nForge - Create a \u201cHardened Essence\u201d. Discard 2.\nRaze - Break a weapon and lose 3 health.\nMold - Create a copy of a weapon you wield. Break all non weapon armaments you wield.",
     "covenant": "Qirune",
-    "_legal": {
+    "legality": {
       "QIR": true
     }
   },
@@ -4685,7 +4685,7 @@
     "cost": 5,
     "effect": "1 Essence. If you are Loving, after casting a spell from this, draw 2.\nEuphoria - Restore 5 health to both players.\nDivine Protection - Both players gain 5 GUARD.",
     "covenant": "Qirune",
-    "_legal": {
+    "legality": {
       "QIR": true
     }
   },
@@ -4706,7 +4706,7 @@
     "cost": 2,
     "effect": "2 Essence. Full Moon: Brandish: This gains +3 Essence.\nSwallow - Your opponent loses 1 health and you restore 1 health. \nSpit -  Deal 1 damage for each health restored this turn.",
     "covenant": "Qirune",
-    "_legal": {
+    "legality": {
       "QIR": true
     }
   },
@@ -4727,7 +4727,7 @@
     "cost": 3,
     "effect": "2 Essence. Half Moon: Whenever you cast a spell from this, restore 2 health.\nRelax - Cure an ailment.\nDream - Witness",
     "covenant": "Qirune",
-    "_legal": {
+    "legality": {
       "QIR": true
     }
   },
@@ -4746,9 +4746,9 @@
     "name": "Tome of Loathing",
     "type": "Tome",
     "cost": 5,
-    "effect": "2 Essence. If you are Hateful, this Tome’s spell cast twice and you discard 2.\nAbhorrent Thoughts - Your opponent loses 1 health for every ailment they are afflicted with.  Eclipse: Cure all ailments.\nMalice - The next time you deal damage with Hate, inflict an ailment. Eclipse: The next time you deal damage with hate restore that much health instead.",
+    "effect": "2 Essence. If you are Hateful, this Tome\u2019s spell cast twice and you discard 2.\nAbhorrent Thoughts - Your opponent loses 1 health for every ailment they are afflicted with.  Eclipse: Cure all ailments.\nMalice - The next time you deal damage with Hate, inflict an ailment. Eclipse: The next time you deal damage with hate restore that much health instead.",
     "covenant": "Qirune",
-    "_legal": {
+    "legality": {
       "QIR": true
     }
   },
@@ -4769,7 +4769,7 @@
     "cost": 3,
     "effect": "2 Essence.\nHide -  You cannot be attacked until your next preparation.\nSeek - Draw 1 and discard 1.",
     "covenant": "Qirune",
-    "_legal": {
+    "legality": {
       "QIR": true
     }
   },
@@ -4788,9 +4788,9 @@
     "name": "Tome of Serenity",
     "type": "Tome",
     "cost": 2,
-    "effect": "2 Essence.\nDirt - Gain 2 GUARD. Eclipse: Break your opponents guard.\nHearth - Create an “Ember”. Eclipse: Create a \"Hollow Feeling\"\nBreeze - Disarm an armament that tests 2 or less resolve. Eclipse: Lose 2 health.",
+    "effect": "2 Essence.\nDirt - Gain 2 GUARD. Eclipse: Break your opponents guard.\nHearth - Create an \u201cEmber\u201d. Eclipse: Create a \"Hollow Feeling\"\nBreeze - Disarm an armament that tests 2 or less resolve. Eclipse: Lose 2 health.",
     "covenant": "Qirune",
-    "_legal": {
+    "legality": {
       "QIR": true
     }
   },
@@ -4811,7 +4811,7 @@
     "cost": 4,
     "effect": "2 Essence.\nCourtship - Restore 2 health to your opponent. \nOffering - Your opponents next card tests 1 less resolve.\nDevotion - Your opponent draws 1. \nIf you have cast 20 or more spells from this, You win the game.",
     "covenant": "Qirune",
-    "_legal": {
+    "legality": {
       "QIR": true
     }
   },
@@ -4833,7 +4833,7 @@
     "effect": "Attack: If this has 3 or more mutation counters on it, this inflicts Bleed.",
     "attack": 2,
     "covenant": "Xurdos",
-    "_legal": {
+    "legality": {
       "XUR": true
     }
   },
@@ -4855,7 +4855,7 @@
     "effect": "Attack: If this has 3 or more Mutation counters, this also inflicts Poison.",
     "attack": 1,
     "covenant": "Xurdos",
-    "_legal": {
+    "legality": {
       "XUR": true
     }
   },
@@ -4877,7 +4877,7 @@
     "effect": "Brandish: Shatter a concoction you wield. Attack: Repeat the effect of the concoction shattered by this.",
     "attack": 1,
     "covenant": "Xurdos",
-    "_legal": {
+    "legality": {
       "XUR": true
     }
   },
@@ -4899,7 +4899,7 @@
     "effect": "If this has 5 or more mutation counters on it, this gains +5 and \"Strike: Break an armament and your opponent scraps 5\". At your recovery, if this has 4 or less mutation counters on it, lose 5 health.",
     "attack": 2,
     "covenant": "Xurdos",
-    "_legal": {
+    "legality": {
       "XUR": true
     }
   },
@@ -4921,7 +4921,7 @@
     "effect": "After you use a concoction. This has +X where X is equal to the dice result this turn. If you roll a 6, break this and lose 5 health. If this has 5 or more mutation counters on it, you dice result cannot be less than 3.",
     "attack": 0,
     "covenant": "Xurdos",
-    "_legal": {
+    "legality": {
       "XUR": true
     }
   },
@@ -4942,7 +4942,7 @@
     "cost": 3,
     "effect": "After you Evolve, if this has 20 or more mutation counters on it, you win the game.",
     "covenant": "Xurdos",
-    "_legal": {
+    "legality": {
       "XUR": true
     }
   },
@@ -4963,7 +4963,7 @@
     "cost": 3,
     "effect": "Test 3 Resolve: Evolve. If your opponent deals attack damage to you and this has 3 or more mutation counters on it, inflict your opponent with a random ailment.",
     "covenant": "Xurdos",
-    "_legal": {
+    "legality": {
       "XUR": true
     }
   },
@@ -4984,7 +4984,7 @@
     "cost": 5,
     "effect": "At your preparation gain 1 guard and scrap 1. This effect is increased by 1 for each armament you wield with a mutation counter.",
     "covenant": "Xurdos",
-    "_legal": {
+    "legality": {
       "XUR": true
     }
   },
@@ -5005,7 +5005,7 @@
     "cost": 4,
     "effect": "After you Evolve, gain 2 guard and discard 1. If this has 3 or more mutation counters, this cannot be broken as long as you have guard.",
     "covenant": "Xurdos",
-    "_legal": {
+    "legality": {
       "XUR": true
     }
   },
@@ -5026,7 +5026,7 @@
     "cost": 2,
     "effect": "At your preparation if you wield an armament without a mutation counter on it, Evolve.",
     "covenant": "Xurdos",
-    "_legal": {
+    "legality": {
       "XUR": true
     }
   },
@@ -5047,7 +5047,7 @@
     "cost": 5,
     "effect": "The first time you use a concoction each turn, you may lose health equal to the dice result. If you do, roll again. If this has 3 or more mutation counters on it, you may repeat this 1 additional time.",
     "covenant": "Xurdos",
-    "_legal": {
+    "legality": {
       "XUR": true
     }
   },
@@ -5068,7 +5068,7 @@
     "cost": 5,
     "effect": "After you use a concoction, you may discard 1 at random. If you do, Evolve twice. If this has 2 or more mutations counters on it, do not discard at random.",
     "covenant": "Xurdos",
-    "_legal": {
+    "legality": {
       "XUR": true
     }
   },
@@ -5089,7 +5089,7 @@
     "cost": 3,
     "effect": "After you Evolve, Break an armament that tests X resolve where X is equal to the number of mutation counters on this. If you are Zyxa, armaments you wield with 4 or more mutation counters on them can't be disarmed or broken.",
     "covenant": "Xurdos",
-    "_legal": {
+    "legality": {
       "XUR": true
     }
   },
@@ -5110,7 +5110,7 @@
     "cost": 10,
     "effect": "Evolve 10 times. Then if you wield a weapon with 15 or more mutation counters on it give it +10 and \"When I break you lose the game\".",
     "covenant": "Xurdos",
-    "_legal": {
+    "legality": {
       "XUR": true
     }
   },
@@ -5131,7 +5131,7 @@
     "cost": 10,
     "effect": "Brandish: Play all concoctions from the scrapyard.  You may wield any number of concoctions. At recovery, if you did not use at least 3 concoctions, you lose the game.",
     "covenant": "Xurdos",
-    "_legal": {
+    "legality": {
       "XUR": true
     }
   },
@@ -5152,7 +5152,7 @@
     "cost": 1,
     "effect": "Use: Roll a dice and inflict: Half Moon: Repeat this.\n1-2: Poison.\n3-4: Bleed\n5-6: Fear",
     "covenant": "Xurdos",
-    "_legal": {
+    "legality": {
       "XUR": true
     }
   },
@@ -5173,7 +5173,7 @@
     "cost": 2,
     "effect": "Use: Roll a dice. Crescent Moon: If you roll a 2-5 gain 4 guard instead.\n1: Deal 2 damage to yourself\n2-5: Gain 3 guard\n6: Gain 8 guard it cannot break until your next preparation.",
     "covenant": "Xurdos",
-    "_legal": {
+    "legality": {
       "XUR": true
     }
   },
@@ -5194,7 +5194,7 @@
     "cost": 5,
     "effect": "Use: Roll a dice , lose 2 health and scrap 2. Crescent Moon: Lose 1 and scrap 1 instead.\nChoose any number of effects below, equal to the result.\n- Give a weapon you wield +2\n- Draw 1\n- Restore 1 Health\n-Evolve",
     "covenant": "Xurdos",
-    "_legal": {
+    "legality": {
       "XUR": true
     }
   },
@@ -5215,7 +5215,7 @@
     "cost": 2,
     "effect": "Use: Roll a dice. Crescent Moon: If you roll a 2-5 give a weapon you wield +3 instead.\n1: You cannot attack for 2 turns.\n2-5: Give a weapon you wield +2\n6: Your next attack inflicts Bleed 3.",
     "covenant": "Xurdos",
-    "_legal": {
+    "legality": {
       "XUR": true
     }
   },
@@ -5236,7 +5236,7 @@
     "cost": 2,
     "effect": "Use: Roll a dice. Crescent Moon: If you roll a 2-5 also cure an ailment.\n1: Lose 5 health.\n2-5: Restore 3 health\n6: Your condition recovers. Set your health to 1.",
     "covenant": "Xurdos",
-    "_legal": {
+    "legality": {
       "XUR": true
     }
   },
@@ -5257,7 +5257,7 @@
     "cost": 2,
     "effect": "Use: Roll a dice. Play an armament from the scrapyard that tests X resolve where X is equal to the dice result. Half Moon: Play 2 instead.",
     "covenant": "Xurdos",
-    "_legal": {
+    "legality": {
       "XUR": true
     }
   },
@@ -5278,7 +5278,7 @@
     "cost": 6,
     "effect": "Use: Roll a dice: Half Moon: This tests 2 less resolve to play.\n1: Lose 5 health and inflict yourself with Poison. \n2-5: Inflict all ailments on your opponent.\n6: Inflict all ailments on your opponent and they lose 3 health.",
     "covenant": "Xurdos",
-    "_legal": {
+    "legality": {
       "XUR": true
     }
   },
@@ -5299,7 +5299,7 @@
     "cost": 2,
     "effect": "Use: Roll a dice. Full Moon: If you roll a 1, roll again.\n1: Discard 2.\n2-5: Witness a card that tests 3 or less resolve .\n6: Draw 3.",
     "covenant": "Xurdos",
-    "_legal": {
+    "legality": {
       "XUR": true
     }
   },
@@ -5320,7 +5320,7 @@
     "cost": 3,
     "effect": "Use: Roll a dice. Eclipse: This always rolls 5.\n1: Restore 3 health.\n2: Gain 2 Resolve this turn.\n3: Draw 2 and discard 1.\n4: Evolve twice.\n5: Lose 3 health.\n6: Give a weapon you wield +3.",
     "covenant": "Xurdos",
-    "_legal": {
+    "legality": {
       "XUR": true
     }
   },
@@ -5339,9 +5339,9 @@
     "name": "Explosive Ingredient",
     "type": "Item",
     "cost": 4,
-    "effect": "Use: The next time you use a concoction, if the result is 3 or more  both players create 2 “Puddles”. Otherwise, discard 2 and scrap 2.",
+    "effect": "Use: The next time you use a concoction, if the result is 3 or more  both players create 2 \u201cPuddles\u201d. Otherwise, discard 2 and scrap 2.",
     "covenant": "Xurdos",
-    "_legal": {
+    "legality": {
       "XUR": true
     }
   },
@@ -5362,7 +5362,7 @@
     "cost": 3,
     "effect": "Use: The next time you Evolve, Evolve an additional time.",
     "covenant": "Xurdos",
-    "_legal": {
+    "legality": {
       "XUR": true
     }
   },
@@ -5383,7 +5383,7 @@
     "cost": 1,
     "effect": "Use: Evolve or play a concoction from the scrapyard that tests 2 or less resolve. If this has 5 or more mutation counters, you may play an additional armament from the scrapyard.",
     "covenant": "Xurdos",
-    "_legal": {
+    "legality": {
       "XUR": true
     }
   },
@@ -5402,9 +5402,9 @@
     "name": "Potion Belt",
     "type": "Item",
     "cost": 1,
-    "effect": "Use: Witness a concoction that costs 2 or less. If you don’t, this does not break.",
+    "effect": "Use: Witness a concoction that costs 2 or less. If you don\u2019t, this does not break.",
     "covenant": "Xurdos",
-    "_legal": {
+    "legality": {
       "XUR": true
     }
   },
@@ -5425,7 +5425,7 @@
     "cost": 3,
     "effect": "You may play and use a concoction that tests 3 or less resolve. Break an armament that tests X resolve where X is equal to the dice result.",
     "covenant": "Xurdos",
-    "_legal": {
+    "legality": {
       "XUR": true
     }
   },
@@ -5446,7 +5446,7 @@
     "cost": 4,
     "effect": "Lose 2 health. Play a concoction from the scrapyard without testing resolve. You may repeat this process. If you are Lo, this tests1 less resolve.",
     "covenant": "Xurdos",
-    "_legal": {
+    "legality": {
       "XUR": true
     }
   },
@@ -5467,7 +5467,7 @@
     "cost": 2,
     "effect": "Evolve. Break an armament you wield that tests X resolve where X is equal to the number of mutation counters on the armament you wield with the most mutation counters.",
     "covenant": "Xurdos",
-    "_legal": {
+    "legality": {
       "XUR": true
     }
   },
@@ -5486,9 +5486,9 @@
     "name": "Puddles Everywhere",
     "type": "Riposte",
     "cost": 1,
-    "effect": "You and your opponent both create a “Puddle”.",
+    "effect": "You and your opponent both create a \u201cPuddle\u201d.",
     "covenant": "Xurdos",
-    "_legal": {
+    "legality": {
       "XUR": true
     }
   },
@@ -5509,7 +5509,7 @@
     "cost": 1,
     "effect": "If your opponent is attacking, play a concoction without testing resolve and use it. Give it's result -2.",
     "covenant": "Xurdos",
-    "_legal": {
+    "legality": {
       "XUR": true
     }
   },
@@ -5530,7 +5530,7 @@
     "cost": 6,
     "effect": "Break all armaments without mutation counters on them. Discard 2.",
     "covenant": "Xurdos",
-    "_legal": {
+    "legality": {
       "XUR": true
     }
   },
@@ -5551,7 +5551,7 @@
     "cost": 3,
     "effect": "Evolve. If you have less health than your opponent, Evolve again.",
     "covenant": "Xurdos",
-    "_legal": {
+    "legality": {
       "XUR": true
     }
   },
@@ -5572,7 +5572,7 @@
     "cost": 5,
     "effect": "Discard your hand. Evolve for each card discarded this way.",
     "covenant": "Xurdos",
-    "_legal": {
+    "legality": {
       "XUR": true
     }
   },
@@ -5593,7 +5593,7 @@
     "cost": 1,
     "effect": "Evolve.",
     "covenant": "Xurdos",
-    "_legal": {
+    "legality": {
       "XUR": true
     }
   },
@@ -5614,7 +5614,7 @@
     "cost": 4,
     "effect": "Use all concoctions you wield and disarm them. If you roll a 4 or more this turn, Scrap 2.",
     "covenant": "Xurdos",
-    "_legal": {
+    "legality": {
       "XUR": true
     }
   },
@@ -5635,7 +5635,7 @@
     "cost": 2,
     "effect": "Evolve. If you wield an armament with 3 or more mutation counters on it, draw 1.",
     "covenant": "Xurdos",
-    "_legal": {
+    "legality": {
       "XUR": true
     }
   },
@@ -5656,7 +5656,7 @@
     "cost": 3,
     "effect": "Evolve and break an armament that tests 3 or less resolve.",
     "covenant": "Xurdos",
-    "_legal": {
+    "legality": {
       "XUR": true
     }
   },
@@ -5677,7 +5677,7 @@
     "cost": 2,
     "effect": "Give a weapon you wield +1 for each mutation counter on it.",
     "covenant": "Xurdos",
-    "_legal": {
+    "legality": {
       "XUR": true
     }
   },
@@ -5698,7 +5698,7 @@
     "cost": 4,
     "effect": "Inflict a random ailment for each \"Puddle\" your opponent wields.",
     "covenant": "Xurdos",
-    "_legal": {
+    "legality": {
       "XUR": true
     }
   },
@@ -5720,7 +5720,7 @@
     "effect": "Test 1 Resolve: Break this.\nAt each Recovery, repeat a random effect of the last concoction used this turn. If neither player has used a concoction this turn, do nothing. This does not count as using a concoction.",
     "covenant": "Xurdos",
     "isToken": true,
-    "_legal": {
+    "legality": {
       "XUR": true
     }
   },
@@ -5742,11 +5742,11 @@
     "effect": "Whenever an armament you wield Distorts, your opponent creates a \"Hazed Memory\"",
     "health": 10,
     "covenant": "Igon",
-    "_legal": {
-      "IGO": true
-    },
     "devotee": "heliana-yade",
-    "condition": "Thriving"
+    "condition": "Thriving",
+    "legality": {
+      "IGO": true
+    }
   },
   "heliana-yade-wounded": {
     "id": "heliana-yade-wounded",
@@ -5766,11 +5766,11 @@
     "effect": "At your preparation If your opponent has 3 or more Hazed Memories, draw 2 and discard 1.",
     "health": 10,
     "covenant": "Igon",
-    "_legal": {
-      "IGO": true
-    },
     "devotee": "heliana-yade",
-    "condition": "Wounded"
+    "condition": "Wounded",
+    "legality": {
+      "IGO": true
+    }
   },
   "heliana-yade-desperate": {
     "id": "heliana-yade-desperate",
@@ -5790,11 +5790,11 @@
     "effect": "On Strike: If your opponent wields 10 or more Hazed Memories, that player loses the game.",
     "health": 15,
     "covenant": "Igon",
-    "_legal": {
-      "IGO": true
-    },
     "devotee": "heliana-yade",
-    "condition": "Desperate"
+    "condition": "Desperate",
+    "legality": {
+      "IGO": true
+    }
   },
   "pora-aliestrad-thriving": {
     "id": "pora-aliestrad-thriving",
@@ -5814,11 +5814,11 @@
     "effect": "Whenever an armament you wield would Distort, you may exhaust me instead. At your recovery, if I am exhausted, discard 1.",
     "health": 10,
     "covenant": "Igon",
-    "_legal": {
-      "IGO": true
-    },
     "devotee": "pora-aliestrad",
-    "condition": "Thriving"
+    "condition": "Thriving",
+    "legality": {
+      "IGO": true
+    }
   },
   "pora-aliestrad-wounded": {
     "id": "pora-aliestrad-wounded",
@@ -5838,11 +5838,11 @@
     "effect": "Whenever an armament you wield would Distort, you may test 2 resolve and discard 1. If you do, return it to your hand instead.",
     "health": 15,
     "covenant": "Igon",
-    "_legal": {
-      "IGO": true
-    },
     "devotee": "pora-aliestrad",
-    "condition": "Wounded"
+    "condition": "Wounded",
+    "legality": {
+      "IGO": true
+    }
   },
   "pora-aliestrad-desperate": {
     "id": "pora-aliestrad-desperate",
@@ -5862,11 +5862,11 @@
     "effect": "Whenever an armament you wield would distort, put the top 3 cards of your deck into your scrapyard and your opponent loses 1 health instead.",
     "health": 10,
     "covenant": "Igon",
-    "_legal": {
-      "IGO": true
-    },
     "devotee": "pora-aliestrad",
-    "condition": "Desperate"
+    "condition": "Desperate",
+    "legality": {
+      "IGO": true
+    }
   },
   "gro-thriving": {
     "id": "gro-thriving",
@@ -5886,11 +5886,11 @@
     "effect": "If your opponent would break a weapon you wield, if it is grafted, you may break an acolyte grafted to it instead.",
     "health": 10,
     "covenant": "Kuran",
-    "_legal": {
-      "KUR": true
-    },
     "devotee": "gro",
-    "condition": "Thriving"
+    "condition": "Thriving",
+    "legality": {
+      "KUR": true
+    }
   },
   "gro-wounded": {
     "id": "gro-wounded",
@@ -5910,11 +5910,11 @@
     "effect": "Weapons you wield cannot be broken as long as they have 3 or more acolytes grafted to it.",
     "health": 10,
     "covenant": "Kuran",
-    "_legal": {
-      "KUR": true
-    },
     "devotee": "gro",
-    "condition": "Wounded"
+    "condition": "Wounded",
+    "legality": {
+      "KUR": true
+    }
   },
   "gro-desperate": {
     "id": "gro-desperate",
@@ -5934,11 +5934,11 @@
     "effect": "You can Graft acolytes to me.",
     "health": 10,
     "covenant": "Kuran",
-    "_legal": {
-      "KUR": true
-    },
     "devotee": "gro",
-    "condition": "Desperate"
+    "condition": "Desperate",
+    "legality": {
+      "KUR": true
+    }
   },
   "kreena-eldervyre-thriving": {
     "id": "kreena-eldervyre-thriving",
@@ -5958,11 +5958,11 @@
     "effect": "Whenever you graft, deal 1 damage to your opponent.",
     "health": 15,
     "covenant": "Kuran",
-    "_legal": {
-      "KUR": true
-    },
     "devotee": "kreena-eldervyre",
-    "condition": "Thriving"
+    "condition": "Thriving",
+    "legality": {
+      "KUR": true
+    }
   },
   "kreena-eldervyre-wounded": {
     "id": "kreena-eldervyre-wounded",
@@ -5982,11 +5982,11 @@
     "effect": "Your first graft each turn tests 0 resolve. Whenever you graft, discard 1.",
     "health": 15,
     "covenant": "Kuran",
-    "_legal": {
-      "KUR": true
-    },
     "devotee": "kreena-eldervyre",
-    "condition": "Wounded"
+    "condition": "Wounded",
+    "legality": {
+      "KUR": true
+    }
   },
   "kreena-eldervyre-desperate": {
     "id": "kreena-eldervyre-desperate",
@@ -6006,11 +6006,11 @@
     "effect": "At your preparation, Graft all acolytes you wield to a weapon you wield without testing resolve. At your recovery, Shatter that weapon.",
     "health": 15,
     "covenant": "Kuran",
-    "_legal": {
-      "KUR": true
-    },
     "devotee": "kreena-eldervyre",
-    "condition": "Desperate"
+    "condition": "Desperate",
+    "legality": {
+      "KUR": true
+    }
   },
   "shiera-silkthroat-thriving": {
     "id": "shiera-silkthroat-thriving",
@@ -6030,11 +6030,11 @@
     "effect": "At your recovery, Indulge.",
     "health": 15,
     "covenant": "Niorr",
-    "_legal": {
-      "NIO": true
-    },
     "devotee": "shiera-silkthroat",
-    "condition": "Thriving"
+    "condition": "Thriving",
+    "legality": {
+      "NIO": true
+    }
   },
   "shiera-silkthroat-wounded": {
     "id": "shiera-silkthroat-wounded",
@@ -6054,11 +6054,11 @@
     "effect": "Acolytes with 2 or more indulgence counters on them can attack your opponent directly.",
     "health": 10,
     "covenant": "Niorr",
-    "_legal": {
-      "NIO": true
-    },
     "devotee": "shiera-silkthroat",
-    "condition": "Wounded"
+    "condition": "Wounded",
+    "legality": {
+      "NIO": true
+    }
   },
   "shiera-silkthroat-desperate": {
     "id": "shiera-silkthroat-desperate",
@@ -6078,11 +6078,11 @@
     "effect": "Break an acolyte you wield: Give all Indulgence counters it had to another acolyte you wield.",
     "health": 10,
     "covenant": "Niorr",
-    "_legal": {
-      "NIO": true
-    },
     "devotee": "shiera-silkthroat",
-    "condition": "Desperate"
+    "condition": "Desperate",
+    "legality": {
+      "NIO": true
+    }
   },
   "nine-lives-thriving": {
     "id": "nine-lives-thriving",
@@ -6102,11 +6102,11 @@
     "effect": "Whenever you indulge, also put a counter on me.",
     "health": 15,
     "covenant": "Niorr",
-    "_legal": {
-      "NIO": true
-    },
     "devotee": "nine-lives",
-    "condition": "Thriving"
+    "condition": "Thriving",
+    "legality": {
+      "NIO": true
+    }
   },
   "nine-lives-wounded": {
     "id": "nine-lives-wounded",
@@ -6126,11 +6126,11 @@
     "effect": "At your preparation, draw 1 and put the top 1 card(s) of your deck into your scrapyard.",
     "health": 15,
     "covenant": "Niorr",
-    "_legal": {
-      "NIO": true
-    },
     "devotee": "nine-lives",
-    "condition": "Wounded"
+    "condition": "Wounded",
+    "legality": {
+      "NIO": true
+    }
   },
   "nine-lives-desperate": {
     "id": "nine-lives-desperate",
@@ -6150,11 +6150,11 @@
     "effect": "The first time your health is reduced to 0, Set your health to 1 instead.",
     "health": 10,
     "covenant": "Niorr",
-    "_legal": {
-      "NIO": true
-    },
     "devotee": "nine-lives",
-    "condition": "Desperate"
+    "condition": "Desperate",
+    "legality": {
+      "NIO": true
+    }
   },
   "kakandi-bloodbrood-thriving": {
     "id": "kakandi-bloodbrood-thriving",
@@ -6174,11 +6174,11 @@
     "effect": "At your preparation, Show Mercy.",
     "health": 15,
     "covenant": "Yandari",
-    "_legal": {
-      "YAN": true
-    },
     "devotee": "kakandi-bloodbrood",
-    "condition": "Thriving"
+    "condition": "Thriving",
+    "legality": {
+      "YAN": true
+    }
   },
   "kakandi-bloodbrood-wounded": {
     "id": "kakandi-bloodbrood-wounded",
@@ -6198,11 +6198,11 @@
     "effect": "You may spend Mercy to help pay resolve cost of armaments you play.",
     "health": 10,
     "covenant": "Yandari",
-    "_legal": {
-      "YAN": true
-    },
     "devotee": "kakandi-bloodbrood",
-    "condition": "Wounded"
+    "condition": "Wounded",
+    "legality": {
+      "YAN": true
+    }
   },
   "kakandi-bloodbrood-desperate": {
     "id": "kakandi-bloodbrood-desperate",
@@ -6222,11 +6222,11 @@
     "effect": "At your prepartion, If your opponent is desperate and your Mercy is equal to your opponent's health,  they lose the game.",
     "health": 15,
     "covenant": "Yandari",
-    "_legal": {
-      "YAN": true
-    },
     "devotee": "kakandi-bloodbrood",
-    "condition": "Desperate"
+    "condition": "Desperate",
+    "legality": {
+      "YAN": true
+    }
   },
   "uldes-var-thriving": {
     "id": "uldes-var-thriving",
@@ -6246,11 +6246,11 @@
     "effect": "The first time you lose health during your turn, ready a weapon you wield.",
     "health": 10,
     "covenant": "Yandari",
-    "_legal": {
-      "YAN": true
-    },
     "devotee": "uldes-var",
-    "condition": "Thriving"
+    "condition": "Thriving",
+    "legality": {
+      "YAN": true
+    }
   },
   "uldes-var-wounded": {
     "id": "uldes-var-wounded",
@@ -6270,11 +6270,11 @@
     "effect": "Whenever you lose health during your turn, give a weapon you wield +1 attack this turn.",
     "health": 15,
     "covenant": "Yandari",
-    "_legal": {
-      "YAN": true
-    },
     "devotee": "uldes-var",
-    "condition": "Wounded"
+    "condition": "Wounded",
+    "legality": {
+      "YAN": true
+    }
   },
   "uldes-var-desperate": {
     "id": "uldes-var-desperate",
@@ -6294,11 +6294,11 @@
     "effect": "As long as you have 3 or less health, all weapons deal double damage.",
     "health": 10,
     "covenant": "Yandari",
-    "_legal": {
-      "YAN": true
-    },
     "devotee": "uldes-var",
-    "condition": "Desperate"
+    "condition": "Desperate",
+    "legality": {
+      "YAN": true
+    }
   },
   "fleeting-visions": {
     "id": "fleeting-visions",
@@ -6316,7 +6316,15 @@
     "type": "Presence",
     "cost": 0,
     "effect": "Each player draws an additional card during their draw phase. At each players recovery, that player discards 1.",
-    "phase": "Crescent Moon"
+    "phase": "Crescent Moon",
+    "legality": {
+      "IGO": true,
+      "YAN": true,
+      "KUR": true,
+      "NIO": true,
+      "QIR": true,
+      "XUR": true
+    }
   },
   "pale-glow": {
     "id": "pale-glow",
@@ -6334,7 +6342,15 @@
     "type": "Presence",
     "cost": 0,
     "effect": "Each player's maximum resolve is increased by 1.",
-    "phase": "Crescent Moon"
+    "phase": "Crescent Moon",
+    "legality": {
+      "IGO": true,
+      "YAN": true,
+      "KUR": true,
+      "NIO": true,
+      "QIR": true,
+      "XUR": true
+    }
   },
   "death-with-no-meaning": {
     "id": "death-with-no-meaning",
@@ -6352,7 +6368,15 @@
     "type": "Presence",
     "cost": 0,
     "effect": "At any time a player may test 3 resolve to return a card from their scrapyard to their hand.",
-    "phase": "Crescent Moon"
+    "phase": "Crescent Moon",
+    "legality": {
+      "IGO": true,
+      "YAN": true,
+      "KUR": true,
+      "NIO": true,
+      "QIR": true,
+      "XUR": true
+    }
   },
   "temptation-of-chaos": {
     "id": "temptation-of-chaos",
@@ -6370,7 +6394,15 @@
     "type": "Presence",
     "cost": 0,
     "effect": "All Weapons and Acolytes have +1 Attack.",
-    "phase": "Half Moon"
+    "phase": "Half Moon",
+    "legality": {
+      "IGO": true,
+      "YAN": true,
+      "KUR": true,
+      "NIO": true,
+      "QIR": true,
+      "XUR": true
+    }
   },
   "unraveling": {
     "id": "unraveling",
@@ -6388,7 +6420,15 @@
     "type": "Presence",
     "cost": 0,
     "effect": "At the end of each players recovery, all armaments that player wields lose 1 health and 1 Temper.",
-    "phase": "Half Moon"
+    "phase": "Half Moon",
+    "legality": {
+      "IGO": true,
+      "YAN": true,
+      "KUR": true,
+      "NIO": true,
+      "QIR": true,
+      "XUR": true
+    }
   },
   "promise-of-everything": {
     "id": "promise-of-everything",
@@ -6406,7 +6446,15 @@
     "type": "Presence",
     "cost": 0,
     "effect": "Players have no maximum handsize",
-    "phase": "Half Moon"
+    "phase": "Half Moon",
+    "legality": {
+      "IGO": true,
+      "YAN": true,
+      "KUR": true,
+      "NIO": true,
+      "QIR": true,
+      "XUR": true
+    }
   },
   "stinging-madness": {
     "id": "stinging-madness",
@@ -6424,7 +6472,15 @@
     "type": "Presence",
     "cost": 0,
     "effect": "Whenever a player draws a card outside of their draw phase, they lose 1 health.",
-    "phase": "Full Moon"
+    "phase": "Full Moon",
+    "legality": {
+      "IGO": true,
+      "YAN": true,
+      "KUR": true,
+      "NIO": true,
+      "QIR": true,
+      "XUR": true
+    }
   },
   "overwhelming-dread": {
     "id": "overwhelming-dread",
@@ -6442,7 +6498,15 @@
     "type": "Presence",
     "cost": 0,
     "effect": "All Damage is Dealt as Dread instead.",
-    "phase": "Full Moon"
+    "phase": "Full Moon",
+    "legality": {
+      "IGO": true,
+      "YAN": true,
+      "KUR": true,
+      "NIO": true,
+      "QIR": true,
+      "XUR": true
+    }
   },
   "existential-permanence": {
     "id": "existential-permanence",
@@ -6460,6 +6524,14 @@
     "type": "Presence",
     "cost": 0,
     "effect": "Whenever an armament is broken, shatter it instead.",
-    "phase": "Full Moon"
+    "phase": "Full Moon",
+    "legality": {
+      "IGO": true,
+      "YAN": true,
+      "KUR": true,
+      "NIO": true,
+      "QIR": true,
+      "XUR": true
+    }
   }
 }
