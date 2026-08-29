@@ -45,7 +45,7 @@
       },
 
       "draggableTokens": [
-        { "id": "Damage", "name": "Damage", "image": "https://REPLACE-WITH-YOUR-HOSTED-URL/tokens/damage.png" }
+        { "id": "Damage", "name": "Damage", "image": "https://shunjitakano.github.io/LunarRing/images/tokens/damage.webp" }
       ],
 
       "beforeGameStart": {

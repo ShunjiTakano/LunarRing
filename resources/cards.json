@@ -8,7 +8,7 @@
         },
         "type": "Acolyte",
         "cost": 1,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/familiar-face.webp"
       },
       "back": {
         "name": {
@@ -16,7 +16,7 @@
         },
         "type": "Acolyte",
         "cost": 1,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/familiar-face-back.webp"
       }
     },
     "name": "Familiar Face",
@@ -39,7 +39,7 @@
         },
         "type": "Acolyte",
         "cost": 10,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/heliana-dictator-of-recollection.webp"
       }
     },
     "name": "Heliana, Dictator of Recollection",
@@ -62,7 +62,7 @@
         },
         "type": "Acolyte",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/madness-clairvoyant.webp"
       }
     },
     "name": "Madness Clairvoyant",
@@ -85,7 +85,7 @@
         },
         "type": "Acolyte",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/memory-of-relief.webp"
       },
       "back": {
         "name": {
@@ -93,7 +93,7 @@
         },
         "type": "Acolyte",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/memory-of-relief-back.webp"
       }
     },
     "name": "Memory of Relief",
@@ -116,7 +116,7 @@
         },
         "type": "Acolyte",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/pora-mind-s-guardian.webp"
       }
     },
     "name": "Pora, Mind's Guardian",
@@ -139,7 +139,7 @@
         },
         "type": "Acolyte",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/proud-child.webp"
       },
       "back": {
         "name": {
@@ -147,7 +147,7 @@
         },
         "type": "Acolyte",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/proud-child-back.webp"
       }
     },
     "name": "Proud Child",
@@ -170,7 +170,7 @@
         },
         "type": "Acolyte",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/scribe-of-igon.webp"
       },
       "back": {
         "name": {
@@ -178,7 +178,7 @@
         },
         "type": "Acolyte",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/scribe-of-igon-back.webp"
       }
     },
     "name": "Scribe of Igon",
@@ -201,7 +201,7 @@
         },
         "type": "Acolyte",
         "cost": 5,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/unsettling-prescence.webp"
       },
       "back": {
         "name": {
@@ -209,7 +209,7 @@
         },
         "type": "Acolyte",
         "cost": 5,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/unsettling-prescence-back.webp"
       }
     },
     "name": "Unsettling Prescence",
@@ -232,7 +232,7 @@
         },
         "type": "Acolyte",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/wisp-of-remembrance.webp"
       }
     },
     "name": "Wisp of Remembrance",
@@ -255,7 +255,7 @@
         },
         "type": "Edict",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/hunt-untruth.webp"
       }
     },
     "name": "Hunt Untruth",
@@ -276,7 +276,7 @@
         },
         "type": "Edict",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/frayed-recollection.webp"
       }
     },
     "name": "Frayed Recollection",
@@ -297,7 +297,7 @@
         },
         "type": "Edict",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/spreading-distortion.webp"
       }
     },
     "name": "Spreading Distortion",
@@ -318,7 +318,7 @@
         },
         "type": "Edict",
         "cost": 4,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/grasp-at-truth.webp"
       }
     },
     "name": "Grasp At Truth",
@@ -339,7 +339,7 @@
         },
         "type": "Edict",
         "cost": 5,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/erroneous-slaughter.webp"
       }
     },
     "name": "Erroneous Slaughter",
@@ -360,7 +360,7 @@
         },
         "type": "Edict",
         "cost": 7,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/thoughts-collapse.webp"
       }
     },
     "name": "Thoughts Collapse",
@@ -381,7 +381,7 @@
         },
         "type": "Riposte",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/pale-disruption.webp"
       }
     },
     "name": "Pale Disruption",
@@ -402,7 +402,7 @@
         },
         "type": "Riposte",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/existential-dread.webp"
       }
     },
     "name": "Existential Dread",
@@ -423,7 +423,7 @@
         },
         "type": "Riposte",
         "cost": 4,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/memories-washed.webp"
       }
     },
     "name": "Memories Washed",
@@ -444,7 +444,7 @@
         },
         "type": "Tactic",
         "cost": 0,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/igon-s-oath-sigil.webp"
       }
     },
     "name": "Igon's Oath Sigil",
@@ -465,7 +465,7 @@
         },
         "type": "Tactic",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/heliana-s-fragments.webp"
       }
     },
     "name": "Heliana’s Fragments",
@@ -486,7 +486,7 @@
         },
         "type": "Tactic",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/igon-s-timepiece.webp"
       }
     },
     "name": "Igon's Timepiece",
@@ -507,7 +507,7 @@
         },
         "type": "Tactic",
         "cost": 6,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/fragments-of-being.webp"
       }
     },
     "name": "Fragments of Being",
@@ -528,7 +528,7 @@
         },
         "type": "Tactic",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/reality-dissolves.webp"
       }
     },
     "name": "Reality Dissolves",
@@ -549,7 +549,7 @@
         },
         "type": "Tactic",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/everything-all-at-once.webp"
       }
     },
     "name": "Everything All At Once",
@@ -571,7 +571,7 @@
         },
         "type": "Tactic",
         "cost": 6,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/clairvoyance-in-chaos.webp"
       }
     },
     "name": "Clairvoyance In Chaos",
@@ -592,7 +592,7 @@
         },
         "type": "Tactic",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/shape-of-memory.webp"
       }
     },
     "name": "Shape of Memory",
@@ -613,7 +613,7 @@
         },
         "type": "Tactic",
         "cost": 1,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/temporary-judgement.webp"
       }
     },
     "name": "Temporary Judgement",
@@ -634,7 +634,7 @@
         },
         "type": "Tactic",
         "cost": 1,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/leaking-possibility.webp"
       }
     },
     "name": "Leaking Possibility",
@@ -655,7 +655,7 @@
         },
         "type": "Tactic",
         "cost": 4,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/distortion-empowerment.webp"
       }
     },
     "name": "Distortion Empowerment",
@@ -676,7 +676,7 @@
         },
         "type": "Tactic",
         "cost": 8,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/correction.webp"
       }
     },
     "name": "Correction",
@@ -697,7 +697,7 @@
         },
         "type": "Token Edict",
         "cost": 0,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/hazed-memory.webp"
       }
     },
     "name": "Hazed Memory",
@@ -721,7 +721,7 @@
         },
         "type": "Weapon",
         "cost": 8,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/edge-of-consciousness.webp"
       }
     },
     "name": "Edge of Consciousness",
@@ -744,7 +744,7 @@
         },
         "type": "Weapon",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/glory.webp"
       },
       "back": {
         "name": {
@@ -752,7 +752,7 @@
         },
         "type": "Weapon",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/glory-back.webp"
       }
     },
     "name": "Glory",
@@ -775,7 +775,7 @@
         },
         "type": "Weapon",
         "cost": 4,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/murmuring-deja-vu.webp"
       }
     },
     "name": "Murmuring Deja Vu",
@@ -798,7 +798,7 @@
         },
         "type": "Weapon",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/bow-of-igon.webp"
       },
       "back": {
         "name": {
@@ -806,7 +806,7 @@
         },
         "type": "Weapon",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/bow-of-igon-back.webp"
       }
     },
     "name": "Bow of Igon",
@@ -829,7 +829,7 @@
         },
         "type": "Weapon",
         "cost": 6,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/infinite-epochs.webp"
       },
       "back": {
         "name": {
@@ -837,7 +837,7 @@
         },
         "type": "Weapon",
         "cost": 6,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/infinite-epochs-back.webp"
       }
     },
     "name": "Infinite Epochs",
@@ -860,7 +860,7 @@
         },
         "type": "Weapon",
         "cost": 4,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/unstable-glaive.webp"
       }
     },
     "name": "Unstable Glaive",
@@ -883,7 +883,7 @@
         },
         "type": "Weapon",
         "cost": 1,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/gauntlet-of-thought.webp"
       },
       "back": {
         "name": {
@@ -891,7 +891,7 @@
         },
         "type": "Weapon",
         "cost": 1,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/gauntlet-of-thought-back.webp"
       }
     },
     "name": "Gauntlet of Thought",
@@ -914,7 +914,7 @@
         },
         "type": "Weapon",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/oozing-dagger.webp"
       }
     },
     "name": "Oozing Dagger",
@@ -937,7 +937,7 @@
         },
         "type": "Weapon",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/blade-of-abberation.webp"
       },
       "back": {
         "name": {
@@ -945,7 +945,7 @@
         },
         "type": "Weapon",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/blade-of-abberation-back.webp"
       }
     },
     "name": "Blade of Abberation",
@@ -968,7 +968,7 @@
         },
         "type": "Weapon",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/bow-of-every-possibility.webp"
       }
     },
     "name": "Bow of Every Possibility",
@@ -991,7 +991,7 @@
         },
         "type": "Acolyte",
         "cost": 1,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/ritual-attendent.webp"
       }
     },
     "name": "Ritual Attendent",
@@ -1014,7 +1014,7 @@
         },
         "type": "Acolyte",
         "cost": 5,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/pallbearer.webp"
       }
     },
     "name": "Pallbearer",
@@ -1037,7 +1037,7 @@
         },
         "type": "Edict",
         "cost": 1,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/blood-is-a-reminder.webp"
       }
     },
     "name": "Blood Is A Reminder",
@@ -1058,7 +1058,7 @@
         },
         "type": "Edict",
         "cost": 5,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/make-it-quick.webp"
       }
     },
     "name": "Make It Quick",
@@ -1079,7 +1079,7 @@
         },
         "type": "Edict",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/regret.webp"
       }
     },
     "name": "Regret",
@@ -1100,7 +1100,7 @@
         },
         "type": "Edict",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/personal-creed.webp"
       }
     },
     "name": "Personal Creed",
@@ -1121,7 +1121,7 @@
         },
         "type": "Edict",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/beg-for-forgiveness.webp"
       }
     },
     "name": "Beg for Forgiveness",
@@ -1142,7 +1142,7 @@
         },
         "type": "Edict",
         "cost": 5,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/remember-the-dead.webp"
       }
     },
     "name": "Remember the Dead",
@@ -1163,7 +1163,7 @@
         },
         "type": "Edict",
         "cost": 5,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/sacred-ichor.webp"
       }
     },
     "name": "Sacred Ichor",
@@ -1184,7 +1184,7 @@
         },
         "type": "Edict",
         "cost": 9,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/suffer-so-that-no-one-else-does.webp"
       }
     },
     "name": "Suffer So That No One Else Does",
@@ -1205,7 +1205,7 @@
         },
         "type": "Riposte",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/ritual.webp"
       }
     },
     "name": "Ritual",
@@ -1226,7 +1226,7 @@
         },
         "type": "Riposte",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/earned-your-rest.webp"
       }
     },
     "name": "Earned Your Rest",
@@ -1247,7 +1247,7 @@
         },
         "type": "Riposte",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/iron-will.webp"
       }
     },
     "name": "Iron Will",
@@ -1268,7 +1268,7 @@
         },
         "type": "Riposte",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/laced-in-pity.webp"
       }
     },
     "name": "Laced in Pity",
@@ -1289,7 +1289,7 @@
         },
         "type": "Riposte",
         "cost": 5,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/hope-in-blood.webp"
       }
     },
     "name": "Hope in Blood",
@@ -1310,7 +1310,7 @@
         },
         "type": "Tactic",
         "cost": 0,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/yandari-s-oath-sigil.webp"
       }
     },
     "name": "Yandari's Oath Sigil",
@@ -1331,7 +1331,7 @@
         },
         "type": "Tactic",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/prick-of-sacrifice.webp"
       }
     },
     "name": "Prick of Sacrifice",
@@ -1352,7 +1352,7 @@
         },
         "type": "Tactic",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/savour-pain.webp"
       }
     },
     "name": "Savour Pain",
@@ -1373,7 +1373,7 @@
         },
         "type": "Tactic",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/relinquish.webp"
       }
     },
     "name": "Relinquish",
@@ -1394,7 +1394,7 @@
         },
         "type": "Tactic",
         "cost": 4,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/symbol-of-yandari.webp"
       }
     },
     "name": "Symbol of Yandari",
@@ -1415,7 +1415,7 @@
         },
         "type": "Tactic",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/necessary-pain.webp"
       }
     },
     "name": "Necessary Pain",
@@ -1436,7 +1436,7 @@
         },
         "type": "Tactic",
         "cost": 1,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/embrace-death.webp"
       }
     },
     "name": "Embrace Death",
@@ -1457,7 +1457,7 @@
         },
         "type": "Tactic",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/call-of-blood.webp"
       }
     },
     "name": "Call of Blood",
@@ -1478,7 +1478,7 @@
         },
         "type": "Tactic",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/memento-mori.webp"
       }
     },
     "name": "Memento Mori",
@@ -1499,7 +1499,7 @@
         },
         "type": "Tactic",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/end-suffering.webp"
       }
     },
     "name": "End Suffering",
@@ -1520,7 +1520,7 @@
         },
         "type": "Tactic",
         "cost": 4,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/goad-death.webp"
       }
     },
     "name": "Goad Death",
@@ -1541,7 +1541,7 @@
         },
         "type": "Tactic",
         "cost": 7,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/bloody-tribute.webp"
       }
     },
     "name": "Bloody Tribute",
@@ -1562,7 +1562,7 @@
         },
         "type": "Tactic",
         "cost": 6,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/a-better-death.webp"
       }
     },
     "name": "A Better Death",
@@ -1583,7 +1583,7 @@
         },
         "type": "Token Edict",
         "cost": 0,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/sacred-blood.webp"
       }
     },
     "name": "Sacred Blood",
@@ -1605,7 +1605,7 @@
         },
         "type": "Weapon",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/promise.webp"
       }
     },
     "name": "Promise",
@@ -1628,7 +1628,7 @@
         },
         "type": "Weapon",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/undying-oath.webp"
       }
     },
     "name": "Undying Oath",
@@ -1651,7 +1651,7 @@
         },
         "type": "Weapon",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/life.webp"
       }
     },
     "name": "Life",
@@ -1674,7 +1674,7 @@
         },
         "type": "Weapon",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/peaceful-sting.webp"
       }
     },
     "name": "Peaceful Sting",
@@ -1697,7 +1697,7 @@
         },
         "type": "Weapon",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/rest.webp"
       }
     },
     "name": "Rest",
@@ -1720,7 +1720,7 @@
         },
         "type": "Weapon",
         "cost": 4,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/death.webp"
       }
     },
     "name": "Death",
@@ -1743,7 +1743,7 @@
         },
         "type": "Weapon",
         "cost": 6,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/vermillion-edge.webp"
       }
     },
     "name": "Vermillion Edge",
@@ -1766,7 +1766,7 @@
         },
         "type": "Weapon",
         "cost": 1,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/liberation.webp"
       }
     },
     "name": "Liberation",
@@ -1789,7 +1789,7 @@
         },
         "type": "Weapon",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/uldes-atonement.webp"
       }
     },
     "name": "Uldes' Atonement",
@@ -1812,7 +1812,7 @@
         },
         "type": "Weapon",
         "cost": 5,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/thirsting-steel.webp"
       }
     },
     "name": "Thirsting Steel",
@@ -1835,7 +1835,7 @@
         },
         "type": "Weapon",
         "cost": 7,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/mourning-glory.webp"
       }
     },
     "name": "Mourning Glory",
@@ -1858,7 +1858,7 @@
         },
         "type": "Weapon",
         "cost": 10,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/worship.webp"
       }
     },
     "name": "Worship",
@@ -1881,7 +1881,7 @@
         },
         "type": "Acolyte",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/bleeding-boulder.webp"
       }
     },
     "name": "Bleeding Boulder",
@@ -1904,7 +1904,7 @@
         },
         "type": "Acolyte",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/jin-blazing-serpent.webp"
       }
     },
     "name": "Jin, Blazing Serpent",
@@ -1927,7 +1927,7 @@
         },
         "type": "Acolyte",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/feng-tempest-serpent.webp"
       }
     },
     "name": "Feng, Tempest Serpent",
@@ -1950,7 +1950,7 @@
         },
         "type": "Acolyte",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/dread-breeze.webp"
       }
     },
     "name": "Dread Breeze",
@@ -1973,7 +1973,7 @@
         },
         "type": "Acolyte",
         "cost": 1,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/turbulent-ember.webp"
       }
     },
     "name": "Turbulent Ember",
@@ -1996,7 +1996,7 @@
         },
         "type": "Acolyte",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/cornered-mountain.webp"
       }
     },
     "name": "Cornered Mountain",
@@ -2019,7 +2019,7 @@
         },
         "type": "Acolyte",
         "cost": 9,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/it-that-heralds-ruin.webp"
       }
     },
     "name": "It That Heralds Ruin",
@@ -2042,7 +2042,7 @@
         },
         "type": "Acolyte",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/endless-slate.webp"
       }
     },
     "name": "Endless Slate",
@@ -2065,7 +2065,7 @@
         },
         "type": "Acolyte",
         "cost": 4,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/caress.webp"
       }
     },
     "name": "Caress",
@@ -2088,7 +2088,7 @@
         },
         "type": "Acolyte",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/the-flame-that-devours.webp"
       }
     },
     "name": "The Flame That Devours",
@@ -2111,7 +2111,7 @@
         },
         "type": "Acolyte",
         "cost": 5,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/breathing-tide.webp"
       }
     },
     "name": "Breathing Tide",
@@ -2134,7 +2134,7 @@
         },
         "type": "Acolyte",
         "cost": 1,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/stillwater.webp"
       }
     },
     "name": "Stillwater",
@@ -2157,7 +2157,7 @@
         },
         "type": "Acolyte",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/boiling-rain.webp"
       }
     },
     "name": "Boiling Rain",
@@ -2180,7 +2180,7 @@
         },
         "type": "Edict",
         "cost": 5,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/cacophony-of-fauna.webp"
       }
     },
     "name": "Cacophony of Fauna",
@@ -2201,7 +2201,7 @@
         },
         "type": "Edict",
         "cost": 4,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/cowering-roots.webp"
       }
     },
     "name": "Cowering Roots",
@@ -2222,7 +2222,7 @@
         },
         "type": "Edict",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/gro-s-conviction.webp"
       }
     },
     "name": "Gro's Conviction",
@@ -2243,7 +2243,7 @@
         },
         "type": "Edict",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/leeching-elements.webp"
       }
     },
     "name": "Leeching Elements",
@@ -2264,7 +2264,7 @@
         },
         "type": "Riposte",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/anointed-host.webp"
       }
     },
     "name": "Anointed Host",
@@ -2285,7 +2285,7 @@
         },
         "type": "Riposte",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/embrace-the-elements.webp"
       }
     },
     "name": "Embrace the Elements",
@@ -2306,7 +2306,7 @@
         },
         "type": "Riposte",
         "cost": 1,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/kuranic-rebirth.webp"
       }
     },
     "name": "Kuranic Rebirth",
@@ -2327,7 +2327,7 @@
         },
         "type": "Riposte",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/unwavered-verdance.webp"
       }
     },
     "name": "Unwavered Verdance",
@@ -2348,7 +2348,7 @@
         },
         "type": "Riposte",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/devoured-nature.webp"
       }
     },
     "name": "Devoured Nature",
@@ -2369,7 +2369,7 @@
         },
         "type": "Tactic",
         "cost": 0,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/kuran-s-oath-sigil.webp"
       }
     },
     "name": "Kuran's Oath Sigil",
@@ -2390,7 +2390,7 @@
         },
         "type": "Tactic",
         "cost": 4,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/omen-fruit.webp"
       }
     },
     "name": "Omen Fruit",
@@ -2411,7 +2411,7 @@
         },
         "type": "Tactic",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/burning-adaptation.webp"
       }
     },
     "name": "Burning Adaptation",
@@ -2432,7 +2432,7 @@
         },
         "type": "Tactic",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/palesoaked-petal.webp"
       }
     },
     "name": "Palesoaked Petal",
@@ -2453,7 +2453,7 @@
         },
         "type": "Tactic",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/encroaching-stampede.webp"
       }
     },
     "name": "Encroaching Stampede",
@@ -2474,7 +2474,7 @@
         },
         "type": "Tactic",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/a-tainted-rumble.webp"
       }
     },
     "name": "A Tainted Rumble",
@@ -2495,7 +2495,7 @@
         },
         "type": "Tactic",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/melded-soul.webp"
       }
     },
     "name": "Melded Soul",
@@ -2516,7 +2516,7 @@
         },
         "type": "Tactic",
         "cost": 1,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/unending-cycle.webp"
       }
     },
     "name": "Unending Cycle",
@@ -2537,7 +2537,7 @@
         },
         "type": "Tactic",
         "cost": 5,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/elemental-outburst.webp"
       }
     },
     "name": "Elemental Outburst",
@@ -2558,7 +2558,7 @@
         },
         "type": "Tactic",
         "cost": 6,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/dissonant-wilderness.webp"
       }
     },
     "name": "Dissonant Wilderness",
@@ -2579,7 +2579,7 @@
         },
         "type": "Token Acolyte",
         "cost": 0,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/parasitic-pebble.webp"
       }
     },
     "name": "Parasitic Pebble",
@@ -2603,7 +2603,7 @@
         },
         "type": "Token Weapon",
         "cost": 0,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/one-s-self.webp"
       }
     },
     "name": "One's Self",
@@ -2627,7 +2627,7 @@
         },
         "type": "Weapon",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/kreena-s-staff-of-connection.webp"
       }
     },
     "name": "Kreena's Staff of Connection",
@@ -2650,7 +2650,7 @@
         },
         "type": "Weapon",
         "cost": 5,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/amalgamation.webp"
       }
     },
     "name": "Amalgamation",
@@ -2673,7 +2673,7 @@
         },
         "type": "Weapon",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/haven.webp"
       }
     },
     "name": "Haven",
@@ -2696,7 +2696,7 @@
         },
         "type": "Weapon",
         "cost": 4,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/ashen-wood-bow.webp"
       }
     },
     "name": "Ashen Wood Bow",
@@ -2719,7 +2719,7 @@
         },
         "type": "Weapon",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/lashing-vines.webp"
       }
     },
     "name": "Lashing Vines",
@@ -2742,7 +2742,7 @@
         },
         "type": "Weapon",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/menagerie.webp"
       }
     },
     "name": "Menagerie",
@@ -2765,7 +2765,7 @@
         },
         "type": "Weapon",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/cadaver-bloom.webp"
       }
     },
     "name": "Cadaver Bloom",
@@ -2788,7 +2788,7 @@
         },
         "type": "Weapon",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/budding-blade.webp"
       }
     },
     "name": "Budding Blade",
@@ -2811,7 +2811,7 @@
         },
         "type": "Acolyte",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/thrill-seeker.webp"
       }
     },
     "name": "Thrill Seeker",
@@ -2834,7 +2834,7 @@
         },
         "type": "Acolyte",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/endless-hedonists.webp"
       }
     },
     "name": "Endless Hedonists",
@@ -2857,7 +2857,7 @@
         },
         "type": "Acolyte",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/existential-gambler.webp"
       }
     },
     "name": "Existential Gambler",
@@ -2880,7 +2880,7 @@
         },
         "type": "Acolyte",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/pain-enjoyer.webp"
       }
     },
     "name": "Pain Enjoyer",
@@ -2903,7 +2903,7 @@
         },
         "type": "Acolyte",
         "cost": 4,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/lecherous-pair.webp"
       }
     },
     "name": "Lecherous Pair",
@@ -2926,7 +2926,7 @@
         },
         "type": "Acolyte",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/lil-finch.webp"
       }
     },
     "name": "Lil Finch",
@@ -2949,7 +2949,7 @@
         },
         "type": "Acolyte",
         "cost": 4,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/masochist.webp"
       }
     },
     "name": "Masochist",
@@ -2972,7 +2972,7 @@
         },
         "type": "Acolyte",
         "cost": 6,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/exhiliration.webp"
       }
     },
     "name": "Exhiliration",
@@ -2995,7 +2995,7 @@
         },
         "type": "Acolyte",
         "cost": 5,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/lust.webp"
       }
     },
     "name": "Lust",
@@ -3018,7 +3018,7 @@
         },
         "type": "Acolyte",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/pleasure-seeker.webp"
       }
     },
     "name": "Pleasure Seeker",
@@ -3041,7 +3041,7 @@
         },
         "type": "Acolyte",
         "cost": 5,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/exhillerated-brawler.webp"
       }
     },
     "name": "Exhillerated Brawler",
@@ -3064,7 +3064,7 @@
         },
         "type": "Acolyte",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/greed.webp"
       }
     },
     "name": "Greed",
@@ -3087,7 +3087,7 @@
         },
         "type": "Acolyte",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/comforter.webp"
       }
     },
     "name": "Comforter",
@@ -3110,7 +3110,7 @@
         },
         "type": "Acolyte",
         "cost": 9,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/decadence.webp"
       }
     },
     "name": "Decadence",
@@ -3133,7 +3133,7 @@
         },
         "type": "Edict",
         "cost": 4,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/give-in-to-temptation.webp"
       }
     },
     "name": "Give In to Temptation",
@@ -3154,7 +3154,7 @@
         },
         "type": "Edict",
         "cost": 7,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/blind-indulgence.webp"
       }
     },
     "name": "Blind Indulgence",
@@ -3175,7 +3175,7 @@
         },
         "type": "Edict",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/demand-of-luxury.webp"
       }
     },
     "name": "Demand of Luxury",
@@ -3196,7 +3196,7 @@
         },
         "type": "Edict",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/bloody-desires.webp"
       }
     },
     "name": "Bloody Desires",
@@ -3217,7 +3217,7 @@
         },
         "type": "Riposte",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/kiss-stained-handkerchief.webp"
       }
     },
     "name": "Kiss Stained Handkerchief",
@@ -3238,7 +3238,7 @@
         },
         "type": "Riposte",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/seduction.webp"
       }
     },
     "name": "Seduction",
@@ -3259,7 +3259,7 @@
         },
         "type": "Riposte",
         "cost": 1,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/numb.webp"
       }
     },
     "name": "Numb",
@@ -3280,7 +3280,7 @@
         },
         "type": "Riposte",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/worth-its-weight.webp"
       }
     },
     "name": "Worth Its Weight",
@@ -3301,7 +3301,7 @@
         },
         "type": "Tactic",
         "cost": 0,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/niorr-s-oath-sigil.webp"
       }
     },
     "name": "Niorr's Oath Sigil",
@@ -3322,7 +3322,7 @@
         },
         "type": "Tactic",
         "cost": 1,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/dissonant-dice.webp"
       }
     },
     "name": "Dissonant Dice",
@@ -3343,7 +3343,7 @@
         },
         "type": "Tactic",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/murmurs-of-aggression.webp"
       }
     },
     "name": "Murmurs of Aggression",
@@ -3364,7 +3364,7 @@
         },
         "type": "Tactic",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/do-it.webp"
       }
     },
     "name": "Do it",
@@ -3385,7 +3385,7 @@
         },
         "type": "Tactic",
         "cost": 4,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/craving-senesation.webp"
       }
     },
     "name": "Craving Senesation",
@@ -3406,7 +3406,7 @@
         },
         "type": "Tactic",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/strange-affection.webp"
       }
     },
     "name": "Strange Affection",
@@ -3427,7 +3427,7 @@
         },
         "type": "Tactic",
         "cost": 1,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/unbound-craving.webp"
       }
     },
     "name": "Unbound Craving",
@@ -3448,7 +3448,7 @@
         },
         "type": "Tactic",
         "cost": 7,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/nothing-to-live-for.webp"
       }
     },
     "name": "Nothing To Live For",
@@ -3469,7 +3469,7 @@
         },
         "type": "Tactic",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/toxic-intimacy.webp"
       }
     },
     "name": "Toxic Intimacy",
@@ -3490,7 +3490,7 @@
         },
         "type": "Tactic",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/sheira-s-obessission.webp"
       }
     },
     "name": "Sheira's Obessission",
@@ -3511,7 +3511,7 @@
         },
         "type": "Weapon",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/gleeful-wrath.webp"
       }
     },
     "name": "Gleeful Wrath",
@@ -3534,7 +3534,7 @@
         },
         "type": "Weapon",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/glistening.webp"
       }
     },
     "name": "Glistening",
@@ -3557,7 +3557,7 @@
         },
         "type": "Weapon",
         "cost": 1,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/whispering-gold.webp"
       }
     },
     "name": "Whispering Gold",
@@ -3580,7 +3580,7 @@
         },
         "type": "Weapon",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/addiction.webp"
       }
     },
     "name": "Addiction",
@@ -3603,7 +3603,7 @@
         },
         "type": "Weapon",
         "cost": 4,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/bloodied-knuckles.webp"
       }
     },
     "name": "Bloodied Knuckles",
@@ -3626,7 +3626,7 @@
         },
         "type": "Weapon",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/velvet-chain.webp"
       }
     },
     "name": "Velvet Chain",
@@ -3649,7 +3649,7 @@
         },
         "type": "Weapon",
         "cost": 4,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/pleasure-lash.webp"
       }
     },
     "name": "Pleasure Lash",
@@ -3672,7 +3672,7 @@
         },
         "type": "Weapon",
         "cost": 6,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/staff-of-craving.webp"
       }
     },
     "name": "Staff of Craving",
@@ -3695,7 +3695,7 @@
         },
         "type": "Token Withdrawal",
         "cost": 0,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/apathy.webp"
       }
     },
     "name": "Apathy",
@@ -3717,7 +3717,7 @@
         },
         "type": "Token Withdrawal",
         "cost": 0,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/loneliness.webp"
       }
     },
     "name": "Loneliness",
@@ -3739,7 +3739,7 @@
         },
         "type": "Token Withdrawal",
         "cost": 0,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/insignificance.webp"
       }
     },
     "name": "Insignificance",
@@ -3761,7 +3761,7 @@
         },
         "type": "Token Withdrawal",
         "cost": 0,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/despair.webp"
       }
     },
     "name": "Despair",
@@ -3783,7 +3783,7 @@
         },
         "type": "1-Handed Weapon",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/essence-carver.webp"
       }
     },
     "name": "Essence Carver",
@@ -3805,7 +3805,7 @@
         },
         "type": "2-Handed Weapon",
         "cost": 4,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/budding-romance.webp"
       }
     },
     "name": "Budding Romance",
@@ -3827,7 +3827,7 @@
         },
         "type": "2-Handed Weapon",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/jireth-s-burning-hatred.webp"
       }
     },
     "name": "Jireth's Burning Hatred",
@@ -3849,7 +3849,7 @@
         },
         "type": "2-Handed Weapon",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/taviq-s-staff.webp"
       }
     },
     "name": "Taviq's Staff",
@@ -3871,7 +3871,7 @@
         },
         "type": "2-Handed Weapon",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/vengeful-ichor.webp"
       }
     },
     "name": "Vengeful Ichor",
@@ -3893,7 +3893,7 @@
         },
         "type": "Ability",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/drain-emotion.webp"
       }
     },
     "name": "Drain Emotion",
@@ -3914,7 +3914,7 @@
         },
         "type": "Ability",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/esoteric-whispers.webp"
       }
     },
     "name": "Esoteric Whispers",
@@ -3935,7 +3935,7 @@
         },
         "type": "Ability",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/hollow-love.webp"
       }
     },
     "name": "Hollow Love",
@@ -3956,7 +3956,7 @@
         },
         "type": "Ability",
         "cost": 4,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/body-given.webp"
       }
     },
     "name": "Body Given",
@@ -3977,7 +3977,7 @@
         },
         "type": "Ability",
         "cost": 4,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/nourishing-devotion.webp"
       }
     },
     "name": "Nourishing Devotion",
@@ -3998,7 +3998,7 @@
         },
         "type": "Act of Desperation",
         "cost": 10,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/qirune-s-gift-to-her-child.webp"
       }
     },
     "name": "Qirune's Gift to Her Child",
@@ -4019,7 +4019,7 @@
         },
         "type": "Act of Desperation: Tome",
         "cost": 10,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/tome-of-qirune.webp"
       }
     },
     "name": "Tome of Qirune",
@@ -4040,7 +4040,7 @@
         },
         "type": "Item",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/blackened-page.webp"
       }
     },
     "name": "Blackened Page",
@@ -4061,7 +4061,7 @@
         },
         "type": "Item",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/etchings-of-qirune.webp"
       }
     },
     "name": "Etchings of Qirune",
@@ -4082,7 +4082,7 @@
         },
         "type": "Item",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/offering.webp"
       }
     },
     "name": "Offering",
@@ -4103,7 +4103,7 @@
         },
         "type": "Item",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/qirunes-s-charm-of-hope.webp"
       }
     },
     "name": "Qirunes's Charm of Hope",
@@ -4124,7 +4124,7 @@
         },
         "type": "Riposte",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/bubble-of-hope.webp"
       }
     },
     "name": "Bubble of Hope",
@@ -4145,7 +4145,7 @@
         },
         "type": "Riposte",
         "cost": 1,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/toxic-positivity.webp"
       }
     },
     "name": "Toxic Positivity",
@@ -4166,7 +4166,7 @@
         },
         "type": "Riposte",
         "cost": 7,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/magician-s-love.webp"
       }
     },
     "name": "Magician's Love",
@@ -4187,7 +4187,7 @@
         },
         "type": "Riposte",
         "cost": 1,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/hatred.webp"
       }
     },
     "name": "Hatred",
@@ -4208,7 +4208,7 @@
         },
         "type": "Riposte",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/how-dare-you.webp"
       }
     },
     "name": "How Dare You",
@@ -4229,7 +4229,7 @@
         },
         "type": "Riposte",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/illusions-of-peace.webp"
       }
     },
     "name": "Illusions of Peace",
@@ -4250,7 +4250,7 @@
         },
         "type": "Tactic",
         "cost": 1,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/emotional-mending.webp"
       }
     },
     "name": "Emotional Mending",
@@ -4271,7 +4271,7 @@
         },
         "type": "Tactic",
         "cost": 4,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/emotional-overload.webp"
       }
     },
     "name": "Emotional Overload",
@@ -4292,7 +4292,7 @@
         },
         "type": "Tactic",
         "cost": 1,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/gentle-warning.webp"
       }
     },
     "name": "Gentle Warning",
@@ -4313,7 +4313,7 @@
         },
         "type": "Tactic",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/her-magic-empowers-me.webp"
       }
     },
     "name": "Her Magic Empowers Me",
@@ -4334,7 +4334,7 @@
         },
         "type": "Tactic",
         "cost": 1,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/hex.webp"
       }
     },
     "name": "Hex",
@@ -4355,7 +4355,7 @@
         },
         "type": "Tactic",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/joyous-return.webp"
       }
     },
     "name": "Joyous Return",
@@ -4376,7 +4376,7 @@
         },
         "type": "Tactic",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/misery-loves-company.webp"
       }
     },
     "name": "Misery Loves Company",
@@ -4397,7 +4397,7 @@
         },
         "type": "Tactic",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/painful-memories.webp"
       }
     },
     "name": "Painful Memories",
@@ -4418,7 +4418,7 @@
         },
         "type": "Tactic",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/playful-mood.webp"
       }
     },
     "name": "Playful Mood",
@@ -4439,7 +4439,7 @@
         },
         "type": "Tactic",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/rage.webp"
       }
     },
     "name": "Rage",
@@ -4460,7 +4460,7 @@
         },
         "type": "Tactic",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/shadows-of-magic.webp"
       }
     },
     "name": "Shadows of Magic",
@@ -4481,7 +4481,7 @@
         },
         "type": "Tactic",
         "cost": 1,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/two-sides-of-qirune.webp"
       }
     },
     "name": "Two Sides of Qirune",
@@ -4502,7 +4502,7 @@
         },
         "type": "Token Item",
         "cost": 0,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/charm.webp"
       }
     },
     "name": "Charm",
@@ -4524,7 +4524,7 @@
         },
         "type": "Token Item",
         "cost": 0,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/ember.webp"
       }
     },
     "name": "Ember",
@@ -4546,7 +4546,7 @@
         },
         "type": "Token Item",
         "cost": 0,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/gift-of-qirune.webp"
       }
     },
     "name": "Gift of Qirune",
@@ -4568,7 +4568,7 @@
         },
         "type": "Token Item",
         "cost": 0,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/hardened-essence.webp"
       }
     },
     "name": "Hardened Essence",
@@ -4590,7 +4590,7 @@
         },
         "type": "Token Item",
         "cost": 0,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/hollow-feeling.webp"
       }
     },
     "name": "Hollow Feeling",
@@ -4612,7 +4612,7 @@
         },
         "type": "Token Item",
         "cost": 0,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/love-letter.webp"
       }
     },
     "name": "Love Letter",
@@ -4634,7 +4634,7 @@
         },
         "type": "Token Item",
         "cost": 0,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/seething-hate.webp"
       }
     },
     "name": "Seething Hate",
@@ -4656,7 +4656,7 @@
         },
         "type": "Tome",
         "cost": 4,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/tome-of-anger.webp"
       }
     },
     "name": "Tome of Anger",
@@ -4677,7 +4677,7 @@
         },
         "type": "Tome",
         "cost": 5,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/tome-of-benevolence.webp"
       }
     },
     "name": "Tome of Benevolence",
@@ -4698,7 +4698,7 @@
         },
         "type": "Tome",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/tome-of-greed.webp"
       }
     },
     "name": "Tome of Greed",
@@ -4719,7 +4719,7 @@
         },
         "type": "Tome",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/tome-of-joy.webp"
       }
     },
     "name": "Tome of Joy",
@@ -4740,7 +4740,7 @@
         },
         "type": "Tome",
         "cost": 5,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/tome-of-loathing.webp"
       }
     },
     "name": "Tome of Loathing",
@@ -4761,7 +4761,7 @@
         },
         "type": "Tome",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/tome-of-mischief.webp"
       }
     },
     "name": "Tome of Mischief",
@@ -4782,7 +4782,7 @@
         },
         "type": "Tome",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/tome-of-serenity.webp"
       }
     },
     "name": "Tome of Serenity",
@@ -4803,7 +4803,7 @@
         },
         "type": "Tome",
         "cost": 4,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/tome-of-encumbering-love.webp"
       }
     },
     "name": "Tome of Encumbering Love",
@@ -4824,7 +4824,7 @@
         },
         "type": "1-Handed Weapon",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/claws-to-tear.webp"
       }
     },
     "name": "Claws to Tear",
@@ -4846,7 +4846,7 @@
         },
         "type": "1-Handed Weapon",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/oozing-point.webp"
       }
     },
     "name": "Oozing Point",
@@ -4868,7 +4868,7 @@
         },
         "type": "2-Handed Weapon",
         "cost": 1,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/automatic-brewer.webp"
       }
     },
     "name": "Automatic Brewer",
@@ -4890,7 +4890,7 @@
         },
         "type": "2-Handed Weapon",
         "cost": 8,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/evolution-s-peak.webp"
       }
     },
     "name": "Evolution's Peak",
@@ -4912,7 +4912,7 @@
         },
         "type": "2-Handed Weapon",
         "cost": 4,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/reactive-mutation.webp"
       }
     },
     "name": "Reactive Mutation",
@@ -4934,7 +4934,7 @@
         },
         "type": "Ability",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/become-perfect.webp"
       }
     },
     "name": "Become Perfect",
@@ -4955,7 +4955,7 @@
         },
         "type": "Ability",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/coated-skin.webp"
       }
     },
     "name": "Coated Skin",
@@ -4976,7 +4976,7 @@
         },
         "type": "Ability",
         "cost": 5,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/bone-extension-defensive.webp"
       }
     },
     "name": "Bone Extension: Defensive",
@@ -4997,7 +4997,7 @@
         },
         "type": "Ability",
         "cost": 4,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/skin-like-steel.webp"
       }
     },
     "name": "Skin Like Steel",
@@ -5018,7 +5018,7 @@
         },
         "type": "Ability",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/made-for-this.webp"
       }
     },
     "name": "Made For This",
@@ -5039,7 +5039,7 @@
         },
         "type": "Ability",
         "cost": 5,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/self-testing.webp"
       }
     },
     "name": "Self Testing",
@@ -5060,7 +5060,7 @@
         },
         "type": "Ability",
         "cost": 5,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/victim-of-science.webp"
       }
     },
     "name": "Victim of Science",
@@ -5081,7 +5081,7 @@
         },
         "type": "Ability",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/zyxa-s-presence.webp"
       }
     },
     "name": "Zyxa's Presence",
@@ -5102,7 +5102,7 @@
         },
         "type": "Act of Desperation",
         "cost": 10,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/killer-instinct.webp"
       }
     },
     "name": "Killer Instinct",
@@ -5123,7 +5123,7 @@
         },
         "type": "Act of Desperation: Eternal",
         "cost": 10,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/xurdos-gift-of-ambition.webp"
       }
     },
     "name": "Xurdos' Gift of Ambition",
@@ -5144,7 +5144,7 @@
         },
         "type": "Concoction",
         "cost": 1,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/bubbling-brew.webp"
       }
     },
     "name": "Bubbling Brew",
@@ -5165,7 +5165,7 @@
         },
         "type": "Concoction",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/crystalised-veil-potion.webp"
       }
     },
     "name": "Crystalised Veil Potion",
@@ -5186,7 +5186,7 @@
         },
         "type": "Concoction",
         "cost": 5,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/exquiste-moonlight.webp"
       }
     },
     "name": "Exquiste Moonlight",
@@ -5207,7 +5207,7 @@
         },
         "type": "Concoction",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/malice-of-the-pale-stare.webp"
       }
     },
     "name": "Malice of the Pale Stare",
@@ -5228,7 +5228,7 @@
         },
         "type": "Concoction",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/xurdos-s-ichor.webp"
       }
     },
     "name": "Xurdos's Ichor",
@@ -5249,7 +5249,7 @@
         },
         "type": "Concoction",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/mimicing-muck.webp"
       }
     },
     "name": "Mimicing Muck",
@@ -5270,7 +5270,7 @@
         },
         "type": "Concoction",
         "cost": 6,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/pale-miasma.webp"
       }
     },
     "name": "Pale Miasma",
@@ -5291,7 +5291,7 @@
         },
         "type": "Concoction",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/pale-potion.webp"
       }
     },
     "name": "Pale Potion",
@@ -5312,7 +5312,7 @@
         },
         "type": "Concoction",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/potion-of-phases.webp"
       }
     },
     "name": "Potion of Phases",
@@ -5333,7 +5333,7 @@
         },
         "type": "Item",
         "cost": 4,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/explosive-ingredient.webp"
       }
     },
     "name": "Explosive Ingredient",
@@ -5354,7 +5354,7 @@
         },
         "type": "Item",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/illicit-substance.webp"
       }
     },
     "name": "Illicit Substance",
@@ -5375,7 +5375,7 @@
         },
         "type": "Item",
         "cost": 1,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/lost-child-s-toy.webp"
       }
     },
     "name": "Lost Child's Toy",
@@ -5396,7 +5396,7 @@
         },
         "type": "Item",
         "cost": 1,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/potion-belt.webp"
       }
     },
     "name": "Potion Belt",
@@ -5417,7 +5417,7 @@
         },
         "type": "Riposte",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/destructive-reaction.webp"
       }
     },
     "name": "Destructive Reaction",
@@ -5438,7 +5438,7 @@
         },
         "type": "Riposte",
         "cost": 4,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/lo-s-mad-science.webp"
       }
     },
     "name": "Lo's Mad Science",
@@ -5459,7 +5459,7 @@
         },
         "type": "Riposte",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/progress-to-perfection.webp"
       }
     },
     "name": "Progress to Perfection",
@@ -5480,7 +5480,7 @@
         },
         "type": "Riposte",
         "cost": 1,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/puddles-everywhere.webp"
       }
     },
     "name": "Puddles Everywhere",
@@ -5501,7 +5501,7 @@
         },
         "type": "Riposte",
         "cost": 1,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/unready-test.webp"
       }
     },
     "name": "Unready Test",
@@ -5522,7 +5522,7 @@
         },
         "type": "Tactic",
         "cost": 6,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/nothing-can-stop-us.webp"
       }
     },
     "name": "Nothing Can Stop Us",
@@ -5543,7 +5543,7 @@
         },
         "type": "Tactic",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/adapt-and-survive.webp"
       }
     },
     "name": "Adapt and Survive",
@@ -5564,7 +5564,7 @@
         },
         "type": "Tactic",
         "cost": 5,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/agonizing-progress.webp"
       }
     },
     "name": "Agonizing Progress",
@@ -5585,7 +5585,7 @@
         },
         "type": "Tactic",
         "cost": 1,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/evolutionary.webp"
       }
     },
     "name": "Evolutionary",
@@ -5606,7 +5606,7 @@
         },
         "type": "Tactic",
         "cost": 4,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/maniacal-testing.webp"
       }
     },
     "name": "Maniacal Testing",
@@ -5627,7 +5627,7 @@
         },
         "type": "Tactic",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/personal-development.webp"
       }
     },
     "name": "Personal Development",
@@ -5648,7 +5648,7 @@
         },
         "type": "Tactic",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/survival-of-the-fittest.webp"
       }
     },
     "name": "Survival of the Fittest",
@@ -5669,7 +5669,7 @@
         },
         "type": "Tactic",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/traumatic-rage.webp"
       }
     },
     "name": "Traumatic Rage",
@@ -5690,7 +5690,7 @@
         },
         "type": "Tactic",
         "cost": 4,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/vicious-vapour.webp"
       }
     },
     "name": "Vicious Vapour",
@@ -5711,7 +5711,7 @@
         },
         "type": "Token Item",
         "cost": 0,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/puddle.webp"
       }
     },
     "name": "Puddle",
@@ -5733,7 +5733,7 @@
         },
         "type": "Devotee",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/heliana-yade-thriving.webp"
       }
     },
     "name": "Heliana Yade",
@@ -5757,7 +5757,7 @@
         },
         "type": "Devotee",
         "cost": 5,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/heliana-yade-wounded.webp"
       }
     },
     "name": "Heliana Yade",
@@ -5781,7 +5781,7 @@
         },
         "type": "Devotee",
         "cost": 10,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/heliana-yade-desperate.webp"
       }
     },
     "name": "Heliana Yade",
@@ -5805,7 +5805,7 @@
         },
         "type": "Devotee",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/pora-aliestrad-thriving.webp"
       }
     },
     "name": "Pora Aliestrad",
@@ -5829,7 +5829,7 @@
         },
         "type": "Devotee",
         "cost": 5,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/pora-aliestrad-wounded.webp"
       }
     },
     "name": "Pora Aliestrad",
@@ -5853,7 +5853,7 @@
         },
         "type": "Devotee",
         "cost": 10,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/pora-aliestrad-desperate.webp"
       }
     },
     "name": "Pora Aliestrad",
@@ -5877,7 +5877,7 @@
         },
         "type": "Devotee",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/gro-thriving.webp"
       }
     },
     "name": "Gro'",
@@ -5901,7 +5901,7 @@
         },
         "type": "Devotee",
         "cost": 6,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/gro-wounded.webp"
       }
     },
     "name": "Gro'",
@@ -5925,7 +5925,7 @@
         },
         "type": "Devotee",
         "cost": 10,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/gro-desperate.webp"
       }
     },
     "name": "Gro'",
@@ -5949,7 +5949,7 @@
         },
         "type": "Devotee",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/kreena-eldervyre-thriving.webp"
       }
     },
     "name": "Kreena Eldervyre",
@@ -5973,7 +5973,7 @@
         },
         "type": "Devotee",
         "cost": 4,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/kreena-eldervyre-wounded.webp"
       }
     },
     "name": "Kreena Eldervyre",
@@ -5997,7 +5997,7 @@
         },
         "type": "Devotee",
         "cost": 10,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/kreena-eldervyre-desperate.webp"
       }
     },
     "name": "Kreena Eldervyre",
@@ -6021,7 +6021,7 @@
         },
         "type": "Devotee",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/shiera-silkthroat-thriving.webp"
       }
     },
     "name": "Shiera Silkthroat",
@@ -6045,7 +6045,7 @@
         },
         "type": "Devotee",
         "cost": 5,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/shiera-silkthroat-wounded.webp"
       }
     },
     "name": "Shiera Silkthroat",
@@ -6069,7 +6069,7 @@
         },
         "type": "Devotee",
         "cost": 10,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/shiera-silkthroat-desperate.webp"
       }
     },
     "name": "Shiera Silkthroat",
@@ -6093,7 +6093,7 @@
         },
         "type": "Devotee",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/nine-lives-thriving.webp"
       }
     },
     "name": "Nine Lives",
@@ -6117,7 +6117,7 @@
         },
         "type": "Devotee",
         "cost": 6,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/nine-lives-wounded.webp"
       }
     },
     "name": "Nine Lives",
@@ -6141,7 +6141,7 @@
         },
         "type": "Devotee",
         "cost": 10,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/nine-lives-desperate.webp"
       }
     },
     "name": "Nine Lives",
@@ -6165,7 +6165,7 @@
         },
         "type": "Devotee",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/kakandi-bloodbrood-thriving.webp"
       }
     },
     "name": "Kakandi Bloodbrood",
@@ -6189,7 +6189,7 @@
         },
         "type": "Devotee",
         "cost": 5,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/kakandi-bloodbrood-wounded.webp"
       }
     },
     "name": "Kakandi Bloodbrood",
@@ -6213,7 +6213,7 @@
         },
         "type": "Devotee",
         "cost": 10,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/kakandi-bloodbrood-desperate.webp"
       }
     },
     "name": "Kakandi Bloodbrood",
@@ -6237,7 +6237,7 @@
         },
         "type": "Devotee",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/uldes-var-thriving.webp"
       }
     },
     "name": "Uldes Var",
@@ -6261,7 +6261,7 @@
         },
         "type": "Devotee",
         "cost": 6,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/uldes-var-wounded.webp"
       }
     },
     "name": "Uldes Var",
@@ -6285,7 +6285,7 @@
         },
         "type": "Devotee",
         "cost": 10,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/uldes-var-desperate.webp"
       }
     },
     "name": "Uldes Var",
@@ -6309,7 +6309,7 @@
         },
         "type": "Presence",
         "cost": 0,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/fleeting-visions.webp"
       }
     },
     "name": "Fleeting Visions",
@@ -6327,7 +6327,7 @@
         },
         "type": "Presence",
         "cost": 0,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/pale-glow.webp"
       }
     },
     "name": "Pale Glow",
@@ -6345,7 +6345,7 @@
         },
         "type": "Presence",
         "cost": 0,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/death-with-no-meaning.webp"
       }
     },
     "name": "Death With No Meaning",
@@ -6363,7 +6363,7 @@
         },
         "type": "Presence",
         "cost": 0,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/temptation-of-chaos.webp"
       }
     },
     "name": "Temptation of Chaos",
@@ -6381,7 +6381,7 @@
         },
         "type": "Presence",
         "cost": 0,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/unraveling.webp"
       }
     },
     "name": "Unraveling",
@@ -6399,7 +6399,7 @@
         },
         "type": "Presence",
         "cost": 0,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/promise-of-everything.webp"
       }
     },
     "name": "Promise of Everything",
@@ -6417,7 +6417,7 @@
         },
         "type": "Presence",
         "cost": 0,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/stinging-madness.webp"
       }
     },
     "name": "Stinging Madness",
@@ -6435,7 +6435,7 @@
         },
         "type": "Presence",
         "cost": 0,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/overwhelming-dread.webp"
       }
     },
     "name": "Overwhelming Dread",
@@ -6453,7 +6453,7 @@
         },
         "type": "Presence",
         "cost": 0,
-        "image": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+        "image": "https://shunjitakano.github.io/LunarRing/images/existential-permanence.webp"
       }
     },
     "name": "Existential Permanence",
