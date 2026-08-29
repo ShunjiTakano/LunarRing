@@ -8,7 +8,8 @@
         },
         "type": "Acolyte",
         "cost": 1,
-        "image": "https://shunjitakano.github.io/LunarRing/images/familiar-face.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/familiar-face.webp",
+        "covenant": "Igon"
       },
       "back": {
         "name": {
@@ -16,7 +17,8 @@
         },
         "type": "Acolyte",
         "cost": 1,
-        "image": "https://shunjitakano.github.io/LunarRing/images/familiar-face-back.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/familiar-face-back.webp",
+        "covenant": "Igon"
       }
     },
     "name": "Familiar Face",
@@ -39,7 +41,8 @@
         },
         "type": "Acolyte",
         "cost": 10,
-        "image": "https://shunjitakano.github.io/LunarRing/images/heliana-dictator-of-recollection.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/heliana-dictator-of-recollection.webp",
+        "covenant": "Igon"
       }
     },
     "name": "Heliana, Dictator of Recollection",
@@ -62,7 +65,8 @@
         },
         "type": "Acolyte",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/madness-clairvoyant.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/madness-clairvoyant.webp",
+        "covenant": "Igon"
       }
     },
     "name": "Madness Clairvoyant",
@@ -85,7 +89,8 @@
         },
         "type": "Acolyte",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/memory-of-relief.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/memory-of-relief.webp",
+        "covenant": "Igon"
       },
       "back": {
         "name": {
@@ -93,7 +98,8 @@
         },
         "type": "Acolyte",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/memory-of-relief-back.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/memory-of-relief-back.webp",
+        "covenant": "Igon"
       }
     },
     "name": "Memory of Relief",
@@ -116,7 +122,8 @@
         },
         "type": "Acolyte",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/pora-mind-s-guardian.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/pora-mind-s-guardian.webp",
+        "covenant": "Igon"
       }
     },
     "name": "Pora, Mind's Guardian",
@@ -139,7 +146,8 @@
         },
         "type": "Acolyte",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/proud-child.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/proud-child.webp",
+        "covenant": "Igon"
       },
       "back": {
         "name": {
@@ -147,7 +155,8 @@
         },
         "type": "Acolyte",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/proud-child-back.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/proud-child-back.webp",
+        "covenant": "Igon"
       }
     },
     "name": "Proud Child",
@@ -170,7 +179,8 @@
         },
         "type": "Acolyte",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/scribe-of-igon.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/scribe-of-igon.webp",
+        "covenant": "Igon"
       },
       "back": {
         "name": {
@@ -178,7 +188,8 @@
         },
         "type": "Acolyte",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/scribe-of-igon-back.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/scribe-of-igon-back.webp",
+        "covenant": "Igon"
       }
     },
     "name": "Scribe of Igon",
@@ -201,7 +212,8 @@
         },
         "type": "Acolyte",
         "cost": 5,
-        "image": "https://shunjitakano.github.io/LunarRing/images/unsettling-prescence.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/unsettling-prescence.webp",
+        "covenant": "Igon"
       },
       "back": {
         "name": {
@@ -209,7 +221,8 @@
         },
         "type": "Acolyte",
         "cost": 5,
-        "image": "https://shunjitakano.github.io/LunarRing/images/unsettling-prescence-back.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/unsettling-prescence-back.webp",
+        "covenant": "Igon"
       }
     },
     "name": "Unsettling Prescence",
@@ -232,7 +245,8 @@
         },
         "type": "Acolyte",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/wisp-of-remembrance.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/wisp-of-remembrance.webp",
+        "covenant": "Igon"
       }
     },
     "name": "Wisp of Remembrance",
@@ -255,7 +269,8 @@
         },
         "type": "Edict",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/hunt-untruth.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/hunt-untruth.webp",
+        "covenant": "Igon"
       }
     },
     "name": "Hunt Untruth",
@@ -276,7 +291,8 @@
         },
         "type": "Edict",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/frayed-recollection.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/frayed-recollection.webp",
+        "covenant": "Igon"
       }
     },
     "name": "Frayed Recollection",
@@ -297,7 +313,8 @@
         },
         "type": "Edict",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/spreading-distortion.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/spreading-distortion.webp",
+        "covenant": "Igon"
       }
     },
     "name": "Spreading Distortion",
@@ -318,7 +335,8 @@
         },
         "type": "Edict",
         "cost": 4,
-        "image": "https://shunjitakano.github.io/LunarRing/images/grasp-at-truth.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/grasp-at-truth.webp",
+        "covenant": "Igon"
       }
     },
     "name": "Grasp At Truth",
@@ -339,7 +357,8 @@
         },
         "type": "Edict",
         "cost": 5,
-        "image": "https://shunjitakano.github.io/LunarRing/images/erroneous-slaughter.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/erroneous-slaughter.webp",
+        "covenant": "Igon"
       }
     },
     "name": "Erroneous Slaughter",
@@ -360,7 +379,8 @@
         },
         "type": "Edict",
         "cost": 7,
-        "image": "https://shunjitakano.github.io/LunarRing/images/thoughts-collapse.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/thoughts-collapse.webp",
+        "covenant": "Igon"
       }
     },
     "name": "Thoughts Collapse",
@@ -381,7 +401,8 @@
         },
         "type": "Riposte",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/pale-disruption.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/pale-disruption.webp",
+        "covenant": "Igon"
       }
     },
     "name": "Pale Disruption",
@@ -402,7 +423,8 @@
         },
         "type": "Riposte",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/existential-dread.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/existential-dread.webp",
+        "covenant": "Igon"
       }
     },
     "name": "Existential Dread",
@@ -423,7 +445,8 @@
         },
         "type": "Riposte",
         "cost": 4,
-        "image": "https://shunjitakano.github.io/LunarRing/images/memories-washed.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/memories-washed.webp",
+        "covenant": "Igon"
       }
     },
     "name": "Memories Washed",
@@ -444,7 +467,8 @@
         },
         "type": "Tactic",
         "cost": 0,
-        "image": "https://shunjitakano.github.io/LunarRing/images/igon-s-oath-sigil.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/igon-s-oath-sigil.webp",
+        "covenant": "Igon"
       }
     },
     "name": "Igon's Oath Sigil",
@@ -465,7 +489,8 @@
         },
         "type": "Tactic",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/heliana-s-fragments.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/heliana-s-fragments.webp",
+        "covenant": "Igon"
       }
     },
     "name": "Heliana\u2019s Fragments",
@@ -486,7 +511,8 @@
         },
         "type": "Tactic",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/igon-s-timepiece.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/igon-s-timepiece.webp",
+        "covenant": "Igon"
       }
     },
     "name": "Igon's Timepiece",
@@ -507,7 +533,8 @@
         },
         "type": "Tactic",
         "cost": 6,
-        "image": "https://shunjitakano.github.io/LunarRing/images/fragments-of-being.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/fragments-of-being.webp",
+        "covenant": "Igon"
       }
     },
     "name": "Fragments of Being",
@@ -528,7 +555,8 @@
         },
         "type": "Tactic",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/reality-dissolves.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/reality-dissolves.webp",
+        "covenant": "Igon"
       }
     },
     "name": "Reality Dissolves",
@@ -549,7 +577,8 @@
         },
         "type": "Tactic",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/everything-all-at-once.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/everything-all-at-once.webp",
+        "covenant": "Igon"
       }
     },
     "name": "Everything All At Once",
@@ -571,7 +600,8 @@
         },
         "type": "Tactic",
         "cost": 6,
-        "image": "https://shunjitakano.github.io/LunarRing/images/clairvoyance-in-chaos.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/clairvoyance-in-chaos.webp",
+        "covenant": "Igon"
       }
     },
     "name": "Clairvoyance In Chaos",
@@ -592,7 +622,8 @@
         },
         "type": "Tactic",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/shape-of-memory.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/shape-of-memory.webp",
+        "covenant": "Igon"
       }
     },
     "name": "Shape of Memory",
@@ -613,7 +644,8 @@
         },
         "type": "Tactic",
         "cost": 1,
-        "image": "https://shunjitakano.github.io/LunarRing/images/temporary-judgement.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/temporary-judgement.webp",
+        "covenant": "Igon"
       }
     },
     "name": "Temporary Judgement",
@@ -634,7 +666,8 @@
         },
         "type": "Tactic",
         "cost": 1,
-        "image": "https://shunjitakano.github.io/LunarRing/images/leaking-possibility.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/leaking-possibility.webp",
+        "covenant": "Igon"
       }
     },
     "name": "Leaking Possibility",
@@ -655,7 +688,8 @@
         },
         "type": "Tactic",
         "cost": 4,
-        "image": "https://shunjitakano.github.io/LunarRing/images/distortion-empowerment.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/distortion-empowerment.webp",
+        "covenant": "Igon"
       }
     },
     "name": "Distortion Empowerment",
@@ -676,7 +710,8 @@
         },
         "type": "Tactic",
         "cost": 8,
-        "image": "https://shunjitakano.github.io/LunarRing/images/correction.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/correction.webp",
+        "covenant": "Igon"
       }
     },
     "name": "Correction",
@@ -697,7 +732,8 @@
         },
         "type": "Token Edict",
         "cost": 0,
-        "image": "https://shunjitakano.github.io/LunarRing/images/hazed-memory.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/hazed-memory.webp",
+        "covenant": "Igon"
       }
     },
     "name": "Hazed Memory",
@@ -721,7 +757,8 @@
         },
         "type": "Weapon",
         "cost": 8,
-        "image": "https://shunjitakano.github.io/LunarRing/images/edge-of-consciousness.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/edge-of-consciousness.webp",
+        "covenant": "Igon"
       }
     },
     "name": "Edge of Consciousness",
@@ -744,7 +781,8 @@
         },
         "type": "Weapon",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/glory.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/glory.webp",
+        "covenant": "Igon"
       },
       "back": {
         "name": {
@@ -752,7 +790,8 @@
         },
         "type": "Weapon",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/glory-back.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/glory-back.webp",
+        "covenant": "Igon"
       }
     },
     "name": "Glory",
@@ -775,7 +814,8 @@
         },
         "type": "Weapon",
         "cost": 4,
-        "image": "https://shunjitakano.github.io/LunarRing/images/murmuring-deja-vu.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/murmuring-deja-vu.webp",
+        "covenant": "Igon"
       }
     },
     "name": "Murmuring Deja Vu",
@@ -798,7 +838,8 @@
         },
         "type": "Weapon",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/bow-of-igon.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/bow-of-igon.webp",
+        "covenant": "Igon"
       },
       "back": {
         "name": {
@@ -806,7 +847,8 @@
         },
         "type": "Weapon",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/bow-of-igon-back.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/bow-of-igon-back.webp",
+        "covenant": "Igon"
       }
     },
     "name": "Bow of Igon",
@@ -829,7 +871,8 @@
         },
         "type": "Weapon",
         "cost": 6,
-        "image": "https://shunjitakano.github.io/LunarRing/images/infinite-epochs.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/infinite-epochs.webp",
+        "covenant": "Igon"
       },
       "back": {
         "name": {
@@ -837,7 +880,8 @@
         },
         "type": "Weapon",
         "cost": 6,
-        "image": "https://shunjitakano.github.io/LunarRing/images/infinite-epochs-back.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/infinite-epochs-back.webp",
+        "covenant": "Igon"
       }
     },
     "name": "Infinite Epochs",
@@ -860,7 +904,8 @@
         },
         "type": "Weapon",
         "cost": 4,
-        "image": "https://shunjitakano.github.io/LunarRing/images/unstable-glaive.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/unstable-glaive.webp",
+        "covenant": "Igon"
       }
     },
     "name": "Unstable Glaive",
@@ -883,7 +928,8 @@
         },
         "type": "Weapon",
         "cost": 1,
-        "image": "https://shunjitakano.github.io/LunarRing/images/gauntlet-of-thought.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/gauntlet-of-thought.webp",
+        "covenant": "Igon"
       },
       "back": {
         "name": {
@@ -891,7 +937,8 @@
         },
         "type": "Weapon",
         "cost": 1,
-        "image": "https://shunjitakano.github.io/LunarRing/images/gauntlet-of-thought-back.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/gauntlet-of-thought-back.webp",
+        "covenant": "Igon"
       }
     },
     "name": "Gauntlet of Thought",
@@ -914,7 +961,8 @@
         },
         "type": "Weapon",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/oozing-dagger.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/oozing-dagger.webp",
+        "covenant": "Igon"
       }
     },
     "name": "Oozing Dagger",
@@ -937,7 +985,8 @@
         },
         "type": "Weapon",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/blade-of-abberation.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/blade-of-abberation.webp",
+        "covenant": "Igon"
       },
       "back": {
         "name": {
@@ -945,7 +994,8 @@
         },
         "type": "Weapon",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/blade-of-abberation-back.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/blade-of-abberation-back.webp",
+        "covenant": "Igon"
       }
     },
     "name": "Blade of Abberation",
@@ -968,7 +1018,8 @@
         },
         "type": "Weapon",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/bow-of-every-possibility.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/bow-of-every-possibility.webp",
+        "covenant": "Igon"
       }
     },
     "name": "Bow of Every Possibility",
@@ -991,7 +1042,8 @@
         },
         "type": "Acolyte",
         "cost": 1,
-        "image": "https://shunjitakano.github.io/LunarRing/images/ritual-attendent.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/ritual-attendent.webp",
+        "covenant": "Yandari"
       }
     },
     "name": "Ritual Attendent",
@@ -1014,7 +1066,8 @@
         },
         "type": "Acolyte",
         "cost": 5,
-        "image": "https://shunjitakano.github.io/LunarRing/images/pallbearer.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/pallbearer.webp",
+        "covenant": "Yandari"
       }
     },
     "name": "Pallbearer",
@@ -1037,7 +1090,8 @@
         },
         "type": "Edict",
         "cost": 1,
-        "image": "https://shunjitakano.github.io/LunarRing/images/blood-is-a-reminder.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/blood-is-a-reminder.webp",
+        "covenant": "Yandari"
       }
     },
     "name": "Blood Is A Reminder",
@@ -1058,7 +1112,8 @@
         },
         "type": "Edict",
         "cost": 5,
-        "image": "https://shunjitakano.github.io/LunarRing/images/make-it-quick.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/make-it-quick.webp",
+        "covenant": "Yandari"
       }
     },
     "name": "Make It Quick",
@@ -1079,7 +1134,8 @@
         },
         "type": "Edict",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/regret.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/regret.webp",
+        "covenant": "Yandari"
       }
     },
     "name": "Regret",
@@ -1100,7 +1156,8 @@
         },
         "type": "Edict",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/personal-creed.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/personal-creed.webp",
+        "covenant": "Yandari"
       }
     },
     "name": "Personal Creed",
@@ -1121,7 +1178,8 @@
         },
         "type": "Edict",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/beg-for-forgiveness.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/beg-for-forgiveness.webp",
+        "covenant": "Yandari"
       }
     },
     "name": "Beg for Forgiveness",
@@ -1142,7 +1200,8 @@
         },
         "type": "Edict",
         "cost": 5,
-        "image": "https://shunjitakano.github.io/LunarRing/images/remember-the-dead.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/remember-the-dead.webp",
+        "covenant": "Yandari"
       }
     },
     "name": "Remember the Dead",
@@ -1163,7 +1222,8 @@
         },
         "type": "Edict",
         "cost": 5,
-        "image": "https://shunjitakano.github.io/LunarRing/images/sacred-ichor.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/sacred-ichor.webp",
+        "covenant": "Yandari"
       }
     },
     "name": "Sacred Ichor",
@@ -1184,7 +1244,8 @@
         },
         "type": "Edict",
         "cost": 9,
-        "image": "https://shunjitakano.github.io/LunarRing/images/suffer-so-that-no-one-else-does.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/suffer-so-that-no-one-else-does.webp",
+        "covenant": "Yandari"
       }
     },
     "name": "Suffer So That No One Else Does",
@@ -1205,7 +1266,8 @@
         },
         "type": "Riposte",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/ritual.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/ritual.webp",
+        "covenant": "Yandari"
       }
     },
     "name": "Ritual",
@@ -1226,7 +1288,8 @@
         },
         "type": "Riposte",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/earned-your-rest.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/earned-your-rest.webp",
+        "covenant": "Yandari"
       }
     },
     "name": "Earned Your Rest",
@@ -1247,7 +1310,8 @@
         },
         "type": "Riposte",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/iron-will.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/iron-will.webp",
+        "covenant": "Yandari"
       }
     },
     "name": "Iron Will",
@@ -1268,7 +1332,8 @@
         },
         "type": "Riposte",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/laced-in-pity.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/laced-in-pity.webp",
+        "covenant": "Yandari"
       }
     },
     "name": "Laced in Pity",
@@ -1289,7 +1354,8 @@
         },
         "type": "Riposte",
         "cost": 5,
-        "image": "https://shunjitakano.github.io/LunarRing/images/hope-in-blood.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/hope-in-blood.webp",
+        "covenant": "Yandari"
       }
     },
     "name": "Hope in Blood",
@@ -1310,7 +1376,8 @@
         },
         "type": "Tactic",
         "cost": 0,
-        "image": "https://shunjitakano.github.io/LunarRing/images/yandari-s-oath-sigil.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/yandari-s-oath-sigil.webp",
+        "covenant": "Yandari"
       }
     },
     "name": "Yandari's Oath Sigil",
@@ -1331,7 +1398,8 @@
         },
         "type": "Tactic",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/prick-of-sacrifice.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/prick-of-sacrifice.webp",
+        "covenant": "Yandari"
       }
     },
     "name": "Prick of Sacrifice",
@@ -1352,7 +1420,8 @@
         },
         "type": "Tactic",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/savour-pain.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/savour-pain.webp",
+        "covenant": "Yandari"
       }
     },
     "name": "Savour Pain",
@@ -1373,7 +1442,8 @@
         },
         "type": "Tactic",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/relinquish.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/relinquish.webp",
+        "covenant": "Yandari"
       }
     },
     "name": "Relinquish",
@@ -1394,7 +1464,8 @@
         },
         "type": "Tactic",
         "cost": 4,
-        "image": "https://shunjitakano.github.io/LunarRing/images/symbol-of-yandari.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/symbol-of-yandari.webp",
+        "covenant": "Yandari"
       }
     },
     "name": "Symbol of Yandari",
@@ -1415,7 +1486,8 @@
         },
         "type": "Tactic",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/necessary-pain.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/necessary-pain.webp",
+        "covenant": "Yandari"
       }
     },
     "name": "Necessary Pain",
@@ -1436,7 +1508,8 @@
         },
         "type": "Tactic",
         "cost": 1,
-        "image": "https://shunjitakano.github.io/LunarRing/images/embrace-death.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/embrace-death.webp",
+        "covenant": "Yandari"
       }
     },
     "name": "Embrace Death",
@@ -1457,7 +1530,8 @@
         },
         "type": "Tactic",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/call-of-blood.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/call-of-blood.webp",
+        "covenant": "Yandari"
       }
     },
     "name": "Call of Blood",
@@ -1478,7 +1552,8 @@
         },
         "type": "Tactic",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/memento-mori.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/memento-mori.webp",
+        "covenant": "Yandari"
       }
     },
     "name": "Memento Mori",
@@ -1499,7 +1574,8 @@
         },
         "type": "Tactic",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/end-suffering.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/end-suffering.webp",
+        "covenant": "Yandari"
       }
     },
     "name": "End Suffering",
@@ -1520,7 +1596,8 @@
         },
         "type": "Tactic",
         "cost": 4,
-        "image": "https://shunjitakano.github.io/LunarRing/images/goad-death.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/goad-death.webp",
+        "covenant": "Yandari"
       }
     },
     "name": "Goad Death",
@@ -1541,7 +1618,8 @@
         },
         "type": "Tactic",
         "cost": 7,
-        "image": "https://shunjitakano.github.io/LunarRing/images/bloody-tribute.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/bloody-tribute.webp",
+        "covenant": "Yandari"
       }
     },
     "name": "Bloody Tribute",
@@ -1562,7 +1640,8 @@
         },
         "type": "Tactic",
         "cost": 6,
-        "image": "https://shunjitakano.github.io/LunarRing/images/a-better-death.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/a-better-death.webp",
+        "covenant": "Yandari"
       }
     },
     "name": "A Better Death",
@@ -1583,7 +1662,8 @@
         },
         "type": "Token Edict",
         "cost": 0,
-        "image": "https://shunjitakano.github.io/LunarRing/images/sacred-blood.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/sacred-blood.webp",
+        "covenant": "Yandari"
       }
     },
     "name": "Sacred Blood",
@@ -1605,7 +1685,8 @@
         },
         "type": "Weapon",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/promise.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/promise.webp",
+        "covenant": "Yandari"
       }
     },
     "name": "Promise",
@@ -1628,7 +1709,8 @@
         },
         "type": "Weapon",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/undying-oath.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/undying-oath.webp",
+        "covenant": "Yandari"
       }
     },
     "name": "Undying Oath",
@@ -1651,7 +1733,8 @@
         },
         "type": "Weapon",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/life.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/life.webp",
+        "covenant": "Yandari"
       }
     },
     "name": "Life",
@@ -1674,7 +1757,8 @@
         },
         "type": "Weapon",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/peaceful-sting.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/peaceful-sting.webp",
+        "covenant": "Yandari"
       }
     },
     "name": "Peaceful Sting",
@@ -1697,7 +1781,8 @@
         },
         "type": "Weapon",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/rest.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/rest.webp",
+        "covenant": "Yandari"
       }
     },
     "name": "Rest",
@@ -1720,7 +1805,8 @@
         },
         "type": "Weapon",
         "cost": 4,
-        "image": "https://shunjitakano.github.io/LunarRing/images/death.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/death.webp",
+        "covenant": "Yandari"
       }
     },
     "name": "Death",
@@ -1743,7 +1829,8 @@
         },
         "type": "Weapon",
         "cost": 6,
-        "image": "https://shunjitakano.github.io/LunarRing/images/vermillion-edge.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/vermillion-edge.webp",
+        "covenant": "Yandari"
       }
     },
     "name": "Vermillion Edge",
@@ -1766,7 +1853,8 @@
         },
         "type": "Weapon",
         "cost": 1,
-        "image": "https://shunjitakano.github.io/LunarRing/images/liberation.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/liberation.webp",
+        "covenant": "Yandari"
       }
     },
     "name": "Liberation",
@@ -1789,7 +1877,8 @@
         },
         "type": "Weapon",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/uldes-atonement.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/uldes-atonement.webp",
+        "covenant": "Yandari"
       }
     },
     "name": "Uldes' Atonement",
@@ -1812,7 +1901,8 @@
         },
         "type": "Weapon",
         "cost": 5,
-        "image": "https://shunjitakano.github.io/LunarRing/images/thirsting-steel.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/thirsting-steel.webp",
+        "covenant": "Yandari"
       }
     },
     "name": "Thirsting Steel",
@@ -1835,7 +1925,8 @@
         },
         "type": "Weapon",
         "cost": 7,
-        "image": "https://shunjitakano.github.io/LunarRing/images/mourning-glory.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/mourning-glory.webp",
+        "covenant": "Yandari"
       }
     },
     "name": "Mourning Glory",
@@ -1858,7 +1949,8 @@
         },
         "type": "Weapon",
         "cost": 10,
-        "image": "https://shunjitakano.github.io/LunarRing/images/worship.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/worship.webp",
+        "covenant": "Yandari"
       }
     },
     "name": "Worship",
@@ -1881,7 +1973,8 @@
         },
         "type": "Acolyte",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/bleeding-boulder.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/bleeding-boulder.webp",
+        "covenant": "Kuran"
       }
     },
     "name": "Bleeding Boulder",
@@ -1904,7 +1997,8 @@
         },
         "type": "Acolyte",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/jin-blazing-serpent.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/jin-blazing-serpent.webp",
+        "covenant": "Kuran"
       }
     },
     "name": "Jin, Blazing Serpent",
@@ -1927,7 +2021,8 @@
         },
         "type": "Acolyte",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/feng-tempest-serpent.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/feng-tempest-serpent.webp",
+        "covenant": "Kuran"
       }
     },
     "name": "Feng, Tempest Serpent",
@@ -1950,7 +2045,8 @@
         },
         "type": "Acolyte",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/dread-breeze.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/dread-breeze.webp",
+        "covenant": "Kuran"
       }
     },
     "name": "Dread Breeze",
@@ -1973,7 +2069,8 @@
         },
         "type": "Acolyte",
         "cost": 1,
-        "image": "https://shunjitakano.github.io/LunarRing/images/turbulent-ember.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/turbulent-ember.webp",
+        "covenant": "Kuran"
       }
     },
     "name": "Turbulent Ember",
@@ -1996,7 +2093,8 @@
         },
         "type": "Acolyte",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/cornered-mountain.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/cornered-mountain.webp",
+        "covenant": "Kuran"
       }
     },
     "name": "Cornered Mountain",
@@ -2019,7 +2117,8 @@
         },
         "type": "Acolyte",
         "cost": 9,
-        "image": "https://shunjitakano.github.io/LunarRing/images/it-that-heralds-ruin.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/it-that-heralds-ruin.webp",
+        "covenant": "Kuran"
       }
     },
     "name": "It That Heralds Ruin",
@@ -2042,7 +2141,8 @@
         },
         "type": "Acolyte",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/endless-slate.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/endless-slate.webp",
+        "covenant": "Kuran"
       }
     },
     "name": "Endless Slate",
@@ -2065,7 +2165,8 @@
         },
         "type": "Acolyte",
         "cost": 4,
-        "image": "https://shunjitakano.github.io/LunarRing/images/caress.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/caress.webp",
+        "covenant": "Kuran"
       }
     },
     "name": "Caress",
@@ -2088,7 +2189,8 @@
         },
         "type": "Acolyte",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/the-flame-that-devours.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/the-flame-that-devours.webp",
+        "covenant": "Kuran"
       }
     },
     "name": "The Flame That Devours",
@@ -2111,7 +2213,8 @@
         },
         "type": "Acolyte",
         "cost": 5,
-        "image": "https://shunjitakano.github.io/LunarRing/images/breathing-tide.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/breathing-tide.webp",
+        "covenant": "Kuran"
       }
     },
     "name": "Breathing Tide",
@@ -2134,7 +2237,8 @@
         },
         "type": "Acolyte",
         "cost": 1,
-        "image": "https://shunjitakano.github.io/LunarRing/images/stillwater.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/stillwater.webp",
+        "covenant": "Kuran"
       }
     },
     "name": "Stillwater",
@@ -2157,7 +2261,8 @@
         },
         "type": "Acolyte",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/boiling-rain.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/boiling-rain.webp",
+        "covenant": "Kuran"
       }
     },
     "name": "Boiling Rain",
@@ -2180,7 +2285,8 @@
         },
         "type": "Edict",
         "cost": 5,
-        "image": "https://shunjitakano.github.io/LunarRing/images/cacophony-of-fauna.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/cacophony-of-fauna.webp",
+        "covenant": "Kuran"
       }
     },
     "name": "Cacophony of Fauna",
@@ -2201,7 +2307,8 @@
         },
         "type": "Edict",
         "cost": 4,
-        "image": "https://shunjitakano.github.io/LunarRing/images/cowering-roots.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/cowering-roots.webp",
+        "covenant": "Kuran"
       }
     },
     "name": "Cowering Roots",
@@ -2222,7 +2329,8 @@
         },
         "type": "Edict",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/gro-s-conviction.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/gro-s-conviction.webp",
+        "covenant": "Kuran"
       }
     },
     "name": "Gro's Conviction",
@@ -2243,7 +2351,8 @@
         },
         "type": "Edict",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/leeching-elements.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/leeching-elements.webp",
+        "covenant": "Kuran"
       }
     },
     "name": "Leeching Elements",
@@ -2264,7 +2373,8 @@
         },
         "type": "Riposte",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/anointed-host.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/anointed-host.webp",
+        "covenant": "Kuran"
       }
     },
     "name": "Anointed Host",
@@ -2285,7 +2395,8 @@
         },
         "type": "Riposte",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/embrace-the-elements.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/embrace-the-elements.webp",
+        "covenant": "Kuran"
       }
     },
     "name": "Embrace the Elements",
@@ -2306,7 +2417,8 @@
         },
         "type": "Riposte",
         "cost": 1,
-        "image": "https://shunjitakano.github.io/LunarRing/images/kuranic-rebirth.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/kuranic-rebirth.webp",
+        "covenant": "Kuran"
       }
     },
     "name": "Kuranic Rebirth",
@@ -2327,7 +2439,8 @@
         },
         "type": "Riposte",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/unwavered-verdance.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/unwavered-verdance.webp",
+        "covenant": "Kuran"
       }
     },
     "name": "Unwavered Verdance",
@@ -2348,7 +2461,8 @@
         },
         "type": "Riposte",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/devoured-nature.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/devoured-nature.webp",
+        "covenant": "Kuran"
       }
     },
     "name": "Devoured Nature",
@@ -2369,7 +2483,8 @@
         },
         "type": "Tactic",
         "cost": 0,
-        "image": "https://shunjitakano.github.io/LunarRing/images/kuran-s-oath-sigil.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/kuran-s-oath-sigil.webp",
+        "covenant": "Kuran"
       }
     },
     "name": "Kuran's Oath Sigil",
@@ -2390,7 +2505,8 @@
         },
         "type": "Tactic",
         "cost": 4,
-        "image": "https://shunjitakano.github.io/LunarRing/images/omen-fruit.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/omen-fruit.webp",
+        "covenant": "Kuran"
       }
     },
     "name": "Omen Fruit",
@@ -2411,7 +2527,8 @@
         },
         "type": "Tactic",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/burning-adaptation.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/burning-adaptation.webp",
+        "covenant": "Kuran"
       }
     },
     "name": "Burning Adaptation",
@@ -2432,7 +2549,8 @@
         },
         "type": "Tactic",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/palesoaked-petal.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/palesoaked-petal.webp",
+        "covenant": "Kuran"
       }
     },
     "name": "Palesoaked Petal",
@@ -2453,7 +2571,8 @@
         },
         "type": "Tactic",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/encroaching-stampede.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/encroaching-stampede.webp",
+        "covenant": "Kuran"
       }
     },
     "name": "Encroaching Stampede",
@@ -2474,7 +2593,8 @@
         },
         "type": "Tactic",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/a-tainted-rumble.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/a-tainted-rumble.webp",
+        "covenant": "Kuran"
       }
     },
     "name": "A Tainted Rumble",
@@ -2495,7 +2615,8 @@
         },
         "type": "Tactic",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/melded-soul.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/melded-soul.webp",
+        "covenant": "Kuran"
       }
     },
     "name": "Melded Soul",
@@ -2516,7 +2637,8 @@
         },
         "type": "Tactic",
         "cost": 1,
-        "image": "https://shunjitakano.github.io/LunarRing/images/unending-cycle.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/unending-cycle.webp",
+        "covenant": "Kuran"
       }
     },
     "name": "Unending Cycle",
@@ -2537,7 +2659,8 @@
         },
         "type": "Tactic",
         "cost": 5,
-        "image": "https://shunjitakano.github.io/LunarRing/images/elemental-outburst.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/elemental-outburst.webp",
+        "covenant": "Kuran"
       }
     },
     "name": "Elemental Outburst",
@@ -2558,7 +2681,8 @@
         },
         "type": "Tactic",
         "cost": 6,
-        "image": "https://shunjitakano.github.io/LunarRing/images/dissonant-wilderness.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/dissonant-wilderness.webp",
+        "covenant": "Kuran"
       }
     },
     "name": "Dissonant Wilderness",
@@ -2579,7 +2703,8 @@
         },
         "type": "Token Acolyte",
         "cost": 0,
-        "image": "https://shunjitakano.github.io/LunarRing/images/parasitic-pebble.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/parasitic-pebble.webp",
+        "covenant": "Kuran"
       }
     },
     "name": "Parasitic Pebble",
@@ -2603,7 +2728,8 @@
         },
         "type": "Token Weapon",
         "cost": 0,
-        "image": "https://shunjitakano.github.io/LunarRing/images/one-s-self.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/one-s-self.webp",
+        "covenant": "Kuran"
       }
     },
     "name": "One's Self",
@@ -2627,7 +2753,8 @@
         },
         "type": "Weapon",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/kreena-s-staff-of-connection.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/kreena-s-staff-of-connection.webp",
+        "covenant": "Kuran"
       }
     },
     "name": "Kreena's Staff of Connection",
@@ -2650,7 +2777,8 @@
         },
         "type": "Weapon",
         "cost": 5,
-        "image": "https://shunjitakano.github.io/LunarRing/images/amalgamation.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/amalgamation.webp",
+        "covenant": "Kuran"
       }
     },
     "name": "Amalgamation",
@@ -2673,7 +2801,8 @@
         },
         "type": "Weapon",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/haven.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/haven.webp",
+        "covenant": "Kuran"
       }
     },
     "name": "Haven",
@@ -2696,7 +2825,8 @@
         },
         "type": "Weapon",
         "cost": 4,
-        "image": "https://shunjitakano.github.io/LunarRing/images/ashen-wood-bow.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/ashen-wood-bow.webp",
+        "covenant": "Kuran"
       }
     },
     "name": "Ashen Wood Bow",
@@ -2719,7 +2849,8 @@
         },
         "type": "Weapon",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/lashing-vines.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/lashing-vines.webp",
+        "covenant": "Kuran"
       }
     },
     "name": "Lashing Vines",
@@ -2742,7 +2873,8 @@
         },
         "type": "Weapon",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/menagerie.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/menagerie.webp",
+        "covenant": "Kuran"
       }
     },
     "name": "Menagerie",
@@ -2765,7 +2897,8 @@
         },
         "type": "Weapon",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/cadaver-bloom.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/cadaver-bloom.webp",
+        "covenant": "Kuran"
       }
     },
     "name": "Cadaver Bloom",
@@ -2788,7 +2921,8 @@
         },
         "type": "Weapon",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/budding-blade.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/budding-blade.webp",
+        "covenant": "Kuran"
       }
     },
     "name": "Budding Blade",
@@ -2811,7 +2945,8 @@
         },
         "type": "Acolyte",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/thrill-seeker.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/thrill-seeker.webp",
+        "covenant": "Niorr"
       }
     },
     "name": "Thrill Seeker",
@@ -2834,7 +2969,8 @@
         },
         "type": "Acolyte",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/endless-hedonists.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/endless-hedonists.webp",
+        "covenant": "Niorr"
       }
     },
     "name": "Endless Hedonists",
@@ -2857,7 +2993,8 @@
         },
         "type": "Acolyte",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/existential-gambler.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/existential-gambler.webp",
+        "covenant": "Niorr"
       }
     },
     "name": "Existential Gambler",
@@ -2880,7 +3017,8 @@
         },
         "type": "Acolyte",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/pain-enjoyer.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/pain-enjoyer.webp",
+        "covenant": "Niorr"
       }
     },
     "name": "Pain Enjoyer",
@@ -2903,7 +3041,8 @@
         },
         "type": "Acolyte",
         "cost": 4,
-        "image": "https://shunjitakano.github.io/LunarRing/images/lecherous-pair.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/lecherous-pair.webp",
+        "covenant": "Niorr"
       }
     },
     "name": "Lecherous Pair",
@@ -2926,7 +3065,8 @@
         },
         "type": "Acolyte",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/lil-finch.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/lil-finch.webp",
+        "covenant": "Niorr"
       }
     },
     "name": "Lil Finch",
@@ -2949,7 +3089,8 @@
         },
         "type": "Acolyte",
         "cost": 4,
-        "image": "https://shunjitakano.github.io/LunarRing/images/masochist.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/masochist.webp",
+        "covenant": "Niorr"
       }
     },
     "name": "Masochist",
@@ -2972,7 +3113,8 @@
         },
         "type": "Acolyte",
         "cost": 6,
-        "image": "https://shunjitakano.github.io/LunarRing/images/exhiliration.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/exhiliration.webp",
+        "covenant": "Niorr"
       }
     },
     "name": "Exhiliration",
@@ -2995,7 +3137,8 @@
         },
         "type": "Acolyte",
         "cost": 5,
-        "image": "https://shunjitakano.github.io/LunarRing/images/lust.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/lust.webp",
+        "covenant": "Niorr"
       }
     },
     "name": "Lust",
@@ -3018,7 +3161,8 @@
         },
         "type": "Acolyte",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/pleasure-seeker.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/pleasure-seeker.webp",
+        "covenant": "Niorr"
       }
     },
     "name": "Pleasure Seeker",
@@ -3041,7 +3185,8 @@
         },
         "type": "Acolyte",
         "cost": 5,
-        "image": "https://shunjitakano.github.io/LunarRing/images/exhillerated-brawler.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/exhillerated-brawler.webp",
+        "covenant": "Niorr"
       }
     },
     "name": "Exhillerated Brawler",
@@ -3064,7 +3209,8 @@
         },
         "type": "Acolyte",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/greed.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/greed.webp",
+        "covenant": "Niorr"
       }
     },
     "name": "Greed",
@@ -3087,7 +3233,8 @@
         },
         "type": "Acolyte",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/comforter.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/comforter.webp",
+        "covenant": "Niorr"
       }
     },
     "name": "Comforter",
@@ -3110,7 +3257,8 @@
         },
         "type": "Acolyte",
         "cost": 9,
-        "image": "https://shunjitakano.github.io/LunarRing/images/decadence.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/decadence.webp",
+        "covenant": "Niorr"
       }
     },
     "name": "Decadence",
@@ -3133,7 +3281,8 @@
         },
         "type": "Edict",
         "cost": 4,
-        "image": "https://shunjitakano.github.io/LunarRing/images/give-in-to-temptation.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/give-in-to-temptation.webp",
+        "covenant": "Niorr"
       }
     },
     "name": "Give In to Temptation",
@@ -3154,7 +3303,8 @@
         },
         "type": "Edict",
         "cost": 7,
-        "image": "https://shunjitakano.github.io/LunarRing/images/blind-indulgence.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/blind-indulgence.webp",
+        "covenant": "Niorr"
       }
     },
     "name": "Blind Indulgence",
@@ -3175,7 +3325,8 @@
         },
         "type": "Edict",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/demand-of-luxury.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/demand-of-luxury.webp",
+        "covenant": "Niorr"
       }
     },
     "name": "Demand of Luxury",
@@ -3196,7 +3347,8 @@
         },
         "type": "Edict",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/bloody-desires.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/bloody-desires.webp",
+        "covenant": "Niorr"
       }
     },
     "name": "Bloody Desires",
@@ -3217,7 +3369,8 @@
         },
         "type": "Riposte",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/kiss-stained-handkerchief.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/kiss-stained-handkerchief.webp",
+        "covenant": "Niorr"
       }
     },
     "name": "Kiss Stained Handkerchief",
@@ -3238,7 +3391,8 @@
         },
         "type": "Riposte",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/seduction.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/seduction.webp",
+        "covenant": "Niorr"
       }
     },
     "name": "Seduction",
@@ -3259,7 +3413,8 @@
         },
         "type": "Riposte",
         "cost": 1,
-        "image": "https://shunjitakano.github.io/LunarRing/images/numb.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/numb.webp",
+        "covenant": "Niorr"
       }
     },
     "name": "Numb",
@@ -3280,7 +3435,8 @@
         },
         "type": "Riposte",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/worth-its-weight.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/worth-its-weight.webp",
+        "covenant": "Niorr"
       }
     },
     "name": "Worth Its Weight",
@@ -3301,7 +3457,8 @@
         },
         "type": "Tactic",
         "cost": 0,
-        "image": "https://shunjitakano.github.io/LunarRing/images/niorr-s-oath-sigil.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/niorr-s-oath-sigil.webp",
+        "covenant": "Niorr"
       }
     },
     "name": "Niorr's Oath Sigil",
@@ -3322,7 +3479,8 @@
         },
         "type": "Tactic",
         "cost": 1,
-        "image": "https://shunjitakano.github.io/LunarRing/images/dissonant-dice.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/dissonant-dice.webp",
+        "covenant": "Niorr"
       }
     },
     "name": "Dissonant Dice",
@@ -3343,7 +3501,8 @@
         },
         "type": "Tactic",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/murmurs-of-aggression.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/murmurs-of-aggression.webp",
+        "covenant": "Niorr"
       }
     },
     "name": "Murmurs of Aggression",
@@ -3364,7 +3523,8 @@
         },
         "type": "Tactic",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/do-it.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/do-it.webp",
+        "covenant": "Niorr"
       }
     },
     "name": "Do it",
@@ -3385,7 +3545,8 @@
         },
         "type": "Tactic",
         "cost": 4,
-        "image": "https://shunjitakano.github.io/LunarRing/images/craving-senesation.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/craving-senesation.webp",
+        "covenant": "Niorr"
       }
     },
     "name": "Craving Senesation",
@@ -3406,7 +3567,8 @@
         },
         "type": "Tactic",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/strange-affection.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/strange-affection.webp",
+        "covenant": "Niorr"
       }
     },
     "name": "Strange Affection",
@@ -3427,7 +3589,8 @@
         },
         "type": "Tactic",
         "cost": 1,
-        "image": "https://shunjitakano.github.io/LunarRing/images/unbound-craving.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/unbound-craving.webp",
+        "covenant": "Niorr"
       }
     },
     "name": "Unbound Craving",
@@ -3448,7 +3611,8 @@
         },
         "type": "Tactic",
         "cost": 7,
-        "image": "https://shunjitakano.github.io/LunarRing/images/nothing-to-live-for.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/nothing-to-live-for.webp",
+        "covenant": "Niorr"
       }
     },
     "name": "Nothing To Live For",
@@ -3469,7 +3633,8 @@
         },
         "type": "Tactic",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/toxic-intimacy.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/toxic-intimacy.webp",
+        "covenant": "Niorr"
       }
     },
     "name": "Toxic Intimacy",
@@ -3490,7 +3655,8 @@
         },
         "type": "Tactic",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/sheira-s-obessission.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/sheira-s-obessission.webp",
+        "covenant": "Niorr"
       }
     },
     "name": "Sheira's Obessission",
@@ -3511,7 +3677,8 @@
         },
         "type": "Weapon",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/gleeful-wrath.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/gleeful-wrath.webp",
+        "covenant": "Niorr"
       }
     },
     "name": "Gleeful Wrath",
@@ -3534,7 +3701,8 @@
         },
         "type": "Weapon",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/glistening.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/glistening.webp",
+        "covenant": "Niorr"
       }
     },
     "name": "Glistening",
@@ -3557,7 +3725,8 @@
         },
         "type": "Weapon",
         "cost": 1,
-        "image": "https://shunjitakano.github.io/LunarRing/images/whispering-gold.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/whispering-gold.webp",
+        "covenant": "Niorr"
       }
     },
     "name": "Whispering Gold",
@@ -3580,7 +3749,8 @@
         },
         "type": "Weapon",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/addiction.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/addiction.webp",
+        "covenant": "Niorr"
       }
     },
     "name": "Addiction",
@@ -3603,7 +3773,8 @@
         },
         "type": "Weapon",
         "cost": 4,
-        "image": "https://shunjitakano.github.io/LunarRing/images/bloodied-knuckles.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/bloodied-knuckles.webp",
+        "covenant": "Niorr"
       }
     },
     "name": "Bloodied Knuckles",
@@ -3626,7 +3797,8 @@
         },
         "type": "Weapon",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/velvet-chain.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/velvet-chain.webp",
+        "covenant": "Niorr"
       }
     },
     "name": "Velvet Chain",
@@ -3649,7 +3821,8 @@
         },
         "type": "Weapon",
         "cost": 4,
-        "image": "https://shunjitakano.github.io/LunarRing/images/pleasure-lash.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/pleasure-lash.webp",
+        "covenant": "Niorr"
       }
     },
     "name": "Pleasure Lash",
@@ -3672,7 +3845,8 @@
         },
         "type": "Weapon",
         "cost": 6,
-        "image": "https://shunjitakano.github.io/LunarRing/images/staff-of-craving.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/staff-of-craving.webp",
+        "covenant": "Niorr"
       }
     },
     "name": "Staff of Craving",
@@ -3695,7 +3869,8 @@
         },
         "type": "Token Withdrawal",
         "cost": 0,
-        "image": "https://shunjitakano.github.io/LunarRing/images/apathy.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/apathy.webp",
+        "covenant": "Niorr"
       }
     },
     "name": "Apathy",
@@ -3717,7 +3892,8 @@
         },
         "type": "Token Withdrawal",
         "cost": 0,
-        "image": "https://shunjitakano.github.io/LunarRing/images/loneliness.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/loneliness.webp",
+        "covenant": "Niorr"
       }
     },
     "name": "Loneliness",
@@ -3739,7 +3915,8 @@
         },
         "type": "Token Withdrawal",
         "cost": 0,
-        "image": "https://shunjitakano.github.io/LunarRing/images/insignificance.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/insignificance.webp",
+        "covenant": "Niorr"
       }
     },
     "name": "Insignificance",
@@ -3761,7 +3938,8 @@
         },
         "type": "Token Withdrawal",
         "cost": 0,
-        "image": "https://shunjitakano.github.io/LunarRing/images/despair.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/despair.webp",
+        "covenant": "Niorr"
       }
     },
     "name": "Despair",
@@ -3783,7 +3961,8 @@
         },
         "type": "1-Handed Weapon",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/essence-carver.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/essence-carver.webp",
+        "covenant": "Qirune"
       }
     },
     "name": "Essence Carver",
@@ -3805,7 +3984,8 @@
         },
         "type": "2-Handed Weapon",
         "cost": 4,
-        "image": "https://shunjitakano.github.io/LunarRing/images/budding-romance.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/budding-romance.webp",
+        "covenant": "Qirune"
       }
     },
     "name": "Budding Romance",
@@ -3827,7 +4007,8 @@
         },
         "type": "2-Handed Weapon",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/jireth-s-burning-hatred.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/jireth-s-burning-hatred.webp",
+        "covenant": "Qirune"
       }
     },
     "name": "Jireth's Burning Hatred",
@@ -3849,7 +4030,8 @@
         },
         "type": "2-Handed Weapon",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/taviq-s-staff.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/taviq-s-staff.webp",
+        "covenant": "Qirune"
       }
     },
     "name": "Taviq's Staff",
@@ -3871,7 +4053,8 @@
         },
         "type": "2-Handed Weapon",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/vengeful-ichor.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/vengeful-ichor.webp",
+        "covenant": "Qirune"
       }
     },
     "name": "Vengeful Ichor",
@@ -3893,7 +4076,8 @@
         },
         "type": "Ability",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/drain-emotion.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/drain-emotion.webp",
+        "covenant": "Qirune"
       }
     },
     "name": "Drain Emotion",
@@ -3914,7 +4098,8 @@
         },
         "type": "Ability",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/esoteric-whispers.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/esoteric-whispers.webp",
+        "covenant": "Qirune"
       }
     },
     "name": "Esoteric Whispers",
@@ -3935,7 +4120,8 @@
         },
         "type": "Ability",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/hollow-love.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/hollow-love.webp",
+        "covenant": "Qirune"
       }
     },
     "name": "Hollow Love",
@@ -3956,7 +4142,8 @@
         },
         "type": "Ability",
         "cost": 4,
-        "image": "https://shunjitakano.github.io/LunarRing/images/body-given.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/body-given.webp",
+        "covenant": "Qirune"
       }
     },
     "name": "Body Given",
@@ -3977,7 +4164,8 @@
         },
         "type": "Ability",
         "cost": 4,
-        "image": "https://shunjitakano.github.io/LunarRing/images/nourishing-devotion.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/nourishing-devotion.webp",
+        "covenant": "Qirune"
       }
     },
     "name": "Nourishing Devotion",
@@ -3998,7 +4186,8 @@
         },
         "type": "Act of Desperation",
         "cost": 10,
-        "image": "https://shunjitakano.github.io/LunarRing/images/qirune-s-gift-to-her-child.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/qirune-s-gift-to-her-child.webp",
+        "covenant": "Qirune"
       }
     },
     "name": "Qirune's Gift to Her Child",
@@ -4019,7 +4208,8 @@
         },
         "type": "Act of Desperation: Tome",
         "cost": 10,
-        "image": "https://shunjitakano.github.io/LunarRing/images/tome-of-qirune.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/tome-of-qirune.webp",
+        "covenant": "Qirune"
       }
     },
     "name": "Tome of Qirune",
@@ -4040,7 +4230,8 @@
         },
         "type": "Item",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/blackened-page.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/blackened-page.webp",
+        "covenant": "Qirune"
       }
     },
     "name": "Blackened Page",
@@ -4061,7 +4252,8 @@
         },
         "type": "Item",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/etchings-of-qirune.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/etchings-of-qirune.webp",
+        "covenant": "Qirune"
       }
     },
     "name": "Etchings of Qirune",
@@ -4082,7 +4274,8 @@
         },
         "type": "Item",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/offering.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/offering.webp",
+        "covenant": "Qirune"
       }
     },
     "name": "Offering",
@@ -4103,7 +4296,8 @@
         },
         "type": "Item",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/qirunes-s-charm-of-hope.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/qirunes-s-charm-of-hope.webp",
+        "covenant": "Qirune"
       }
     },
     "name": "Qirunes's Charm of Hope",
@@ -4124,7 +4318,8 @@
         },
         "type": "Riposte",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/bubble-of-hope.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/bubble-of-hope.webp",
+        "covenant": "Qirune"
       }
     },
     "name": "Bubble of Hope",
@@ -4145,7 +4340,8 @@
         },
         "type": "Riposte",
         "cost": 1,
-        "image": "https://shunjitakano.github.io/LunarRing/images/toxic-positivity.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/toxic-positivity.webp",
+        "covenant": "Qirune"
       }
     },
     "name": "Toxic Positivity",
@@ -4166,7 +4362,8 @@
         },
         "type": "Riposte",
         "cost": 7,
-        "image": "https://shunjitakano.github.io/LunarRing/images/magician-s-love.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/magician-s-love.webp",
+        "covenant": "Qirune"
       }
     },
     "name": "Magician's Love",
@@ -4187,7 +4384,8 @@
         },
         "type": "Riposte",
         "cost": 1,
-        "image": "https://shunjitakano.github.io/LunarRing/images/hatred.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/hatred.webp",
+        "covenant": "Qirune"
       }
     },
     "name": "Hatred",
@@ -4208,7 +4406,8 @@
         },
         "type": "Riposte",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/how-dare-you.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/how-dare-you.webp",
+        "covenant": "Qirune"
       }
     },
     "name": "How Dare You",
@@ -4229,7 +4428,8 @@
         },
         "type": "Riposte",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/illusions-of-peace.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/illusions-of-peace.webp",
+        "covenant": "Qirune"
       }
     },
     "name": "Illusions of Peace",
@@ -4250,7 +4450,8 @@
         },
         "type": "Tactic",
         "cost": 1,
-        "image": "https://shunjitakano.github.io/LunarRing/images/emotional-mending.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/emotional-mending.webp",
+        "covenant": "Qirune"
       }
     },
     "name": "Emotional Mending",
@@ -4271,7 +4472,8 @@
         },
         "type": "Tactic",
         "cost": 4,
-        "image": "https://shunjitakano.github.io/LunarRing/images/emotional-overload.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/emotional-overload.webp",
+        "covenant": "Qirune"
       }
     },
     "name": "Emotional Overload",
@@ -4292,7 +4494,8 @@
         },
         "type": "Tactic",
         "cost": 1,
-        "image": "https://shunjitakano.github.io/LunarRing/images/gentle-warning.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/gentle-warning.webp",
+        "covenant": "Qirune"
       }
     },
     "name": "Gentle Warning",
@@ -4313,7 +4516,8 @@
         },
         "type": "Tactic",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/her-magic-empowers-me.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/her-magic-empowers-me.webp",
+        "covenant": "Qirune"
       }
     },
     "name": "Her Magic Empowers Me",
@@ -4334,7 +4538,8 @@
         },
         "type": "Tactic",
         "cost": 1,
-        "image": "https://shunjitakano.github.io/LunarRing/images/hex.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/hex.webp",
+        "covenant": "Qirune"
       }
     },
     "name": "Hex",
@@ -4355,7 +4560,8 @@
         },
         "type": "Tactic",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/joyous-return.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/joyous-return.webp",
+        "covenant": "Qirune"
       }
     },
     "name": "Joyous Return",
@@ -4376,7 +4582,8 @@
         },
         "type": "Tactic",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/misery-loves-company.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/misery-loves-company.webp",
+        "covenant": "Qirune"
       }
     },
     "name": "Misery Loves Company",
@@ -4397,7 +4604,8 @@
         },
         "type": "Tactic",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/painful-memories.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/painful-memories.webp",
+        "covenant": "Qirune"
       }
     },
     "name": "Painful Memories",
@@ -4418,7 +4626,8 @@
         },
         "type": "Tactic",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/playful-mood.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/playful-mood.webp",
+        "covenant": "Qirune"
       }
     },
     "name": "Playful Mood",
@@ -4439,7 +4648,8 @@
         },
         "type": "Tactic",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/rage.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/rage.webp",
+        "covenant": "Qirune"
       }
     },
     "name": "Rage",
@@ -4460,7 +4670,8 @@
         },
         "type": "Tactic",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/shadows-of-magic.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/shadows-of-magic.webp",
+        "covenant": "Qirune"
       }
     },
     "name": "Shadows of Magic",
@@ -4481,7 +4692,8 @@
         },
         "type": "Tactic",
         "cost": 1,
-        "image": "https://shunjitakano.github.io/LunarRing/images/two-sides-of-qirune.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/two-sides-of-qirune.webp",
+        "covenant": "Qirune"
       }
     },
     "name": "Two Sides of Qirune",
@@ -4502,7 +4714,8 @@
         },
         "type": "Token Item",
         "cost": 0,
-        "image": "https://shunjitakano.github.io/LunarRing/images/charm.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/charm.webp",
+        "covenant": "Qirune"
       }
     },
     "name": "Charm",
@@ -4524,7 +4737,8 @@
         },
         "type": "Token Item",
         "cost": 0,
-        "image": "https://shunjitakano.github.io/LunarRing/images/ember.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/ember.webp",
+        "covenant": "Qirune"
       }
     },
     "name": "Ember",
@@ -4546,7 +4760,8 @@
         },
         "type": "Token Item",
         "cost": 0,
-        "image": "https://shunjitakano.github.io/LunarRing/images/gift-of-qirune.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/gift-of-qirune.webp",
+        "covenant": "Qirune"
       }
     },
     "name": "Gift of Qirune",
@@ -4568,7 +4783,8 @@
         },
         "type": "Token Item",
         "cost": 0,
-        "image": "https://shunjitakano.github.io/LunarRing/images/hardened-essence.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/hardened-essence.webp",
+        "covenant": "Qirune"
       }
     },
     "name": "Hardened Essence",
@@ -4590,7 +4806,8 @@
         },
         "type": "Token Item",
         "cost": 0,
-        "image": "https://shunjitakano.github.io/LunarRing/images/hollow-feeling.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/hollow-feeling.webp",
+        "covenant": "Qirune"
       }
     },
     "name": "Hollow Feeling",
@@ -4612,7 +4829,8 @@
         },
         "type": "Token Item",
         "cost": 0,
-        "image": "https://shunjitakano.github.io/LunarRing/images/love-letter.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/love-letter.webp",
+        "covenant": "Qirune"
       }
     },
     "name": "Love Letter",
@@ -4634,7 +4852,8 @@
         },
         "type": "Token Item",
         "cost": 0,
-        "image": "https://shunjitakano.github.io/LunarRing/images/seething-hate.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/seething-hate.webp",
+        "covenant": "Qirune"
       }
     },
     "name": "Seething Hate",
@@ -4656,7 +4875,8 @@
         },
         "type": "Tome",
         "cost": 4,
-        "image": "https://shunjitakano.github.io/LunarRing/images/tome-of-anger.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/tome-of-anger.webp",
+        "covenant": "Qirune"
       }
     },
     "name": "Tome of Anger",
@@ -4677,7 +4897,8 @@
         },
         "type": "Tome",
         "cost": 5,
-        "image": "https://shunjitakano.github.io/LunarRing/images/tome-of-benevolence.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/tome-of-benevolence.webp",
+        "covenant": "Qirune"
       }
     },
     "name": "Tome of Benevolence",
@@ -4698,7 +4919,8 @@
         },
         "type": "Tome",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/tome-of-greed.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/tome-of-greed.webp",
+        "covenant": "Qirune"
       }
     },
     "name": "Tome of Greed",
@@ -4719,7 +4941,8 @@
         },
         "type": "Tome",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/tome-of-joy.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/tome-of-joy.webp",
+        "covenant": "Qirune"
       }
     },
     "name": "Tome of Joy",
@@ -4740,7 +4963,8 @@
         },
         "type": "Tome",
         "cost": 5,
-        "image": "https://shunjitakano.github.io/LunarRing/images/tome-of-loathing.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/tome-of-loathing.webp",
+        "covenant": "Qirune"
       }
     },
     "name": "Tome of Loathing",
@@ -4761,7 +4985,8 @@
         },
         "type": "Tome",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/tome-of-mischief.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/tome-of-mischief.webp",
+        "covenant": "Qirune"
       }
     },
     "name": "Tome of Mischief",
@@ -4782,7 +5007,8 @@
         },
         "type": "Tome",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/tome-of-serenity.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/tome-of-serenity.webp",
+        "covenant": "Qirune"
       }
     },
     "name": "Tome of Serenity",
@@ -4803,7 +5029,8 @@
         },
         "type": "Tome",
         "cost": 4,
-        "image": "https://shunjitakano.github.io/LunarRing/images/tome-of-encumbering-love.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/tome-of-encumbering-love.webp",
+        "covenant": "Qirune"
       }
     },
     "name": "Tome of Encumbering Love",
@@ -4824,7 +5051,8 @@
         },
         "type": "1-Handed Weapon",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/claws-to-tear.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/claws-to-tear.webp",
+        "covenant": "Xurdos"
       }
     },
     "name": "Claws to Tear",
@@ -4846,7 +5074,8 @@
         },
         "type": "1-Handed Weapon",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/oozing-point.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/oozing-point.webp",
+        "covenant": "Xurdos"
       }
     },
     "name": "Oozing Point",
@@ -4868,7 +5097,8 @@
         },
         "type": "2-Handed Weapon",
         "cost": 1,
-        "image": "https://shunjitakano.github.io/LunarRing/images/automatic-brewer.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/automatic-brewer.webp",
+        "covenant": "Xurdos"
       }
     },
     "name": "Automatic Brewer",
@@ -4890,7 +5120,8 @@
         },
         "type": "2-Handed Weapon",
         "cost": 8,
-        "image": "https://shunjitakano.github.io/LunarRing/images/evolution-s-peak.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/evolution-s-peak.webp",
+        "covenant": "Xurdos"
       }
     },
     "name": "Evolution's Peak",
@@ -4912,7 +5143,8 @@
         },
         "type": "2-Handed Weapon",
         "cost": 4,
-        "image": "https://shunjitakano.github.io/LunarRing/images/reactive-mutation.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/reactive-mutation.webp",
+        "covenant": "Xurdos"
       }
     },
     "name": "Reactive Mutation",
@@ -4934,7 +5166,8 @@
         },
         "type": "Ability",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/become-perfect.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/become-perfect.webp",
+        "covenant": "Xurdos"
       }
     },
     "name": "Become Perfect",
@@ -4955,7 +5188,8 @@
         },
         "type": "Ability",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/coated-skin.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/coated-skin.webp",
+        "covenant": "Xurdos"
       }
     },
     "name": "Coated Skin",
@@ -4976,7 +5210,8 @@
         },
         "type": "Ability",
         "cost": 5,
-        "image": "https://shunjitakano.github.io/LunarRing/images/bone-extension-defensive.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/bone-extension-defensive.webp",
+        "covenant": "Xurdos"
       }
     },
     "name": "Bone Extension: Defensive",
@@ -4997,7 +5232,8 @@
         },
         "type": "Ability",
         "cost": 4,
-        "image": "https://shunjitakano.github.io/LunarRing/images/skin-like-steel.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/skin-like-steel.webp",
+        "covenant": "Xurdos"
       }
     },
     "name": "Skin Like Steel",
@@ -5018,7 +5254,8 @@
         },
         "type": "Ability",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/made-for-this.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/made-for-this.webp",
+        "covenant": "Xurdos"
       }
     },
     "name": "Made For This",
@@ -5039,7 +5276,8 @@
         },
         "type": "Ability",
         "cost": 5,
-        "image": "https://shunjitakano.github.io/LunarRing/images/self-testing.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/self-testing.webp",
+        "covenant": "Xurdos"
       }
     },
     "name": "Self Testing",
@@ -5060,7 +5298,8 @@
         },
         "type": "Ability",
         "cost": 5,
-        "image": "https://shunjitakano.github.io/LunarRing/images/victim-of-science.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/victim-of-science.webp",
+        "covenant": "Xurdos"
       }
     },
     "name": "Victim of Science",
@@ -5081,7 +5320,8 @@
         },
         "type": "Ability",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/zyxa-s-presence.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/zyxa-s-presence.webp",
+        "covenant": "Xurdos"
       }
     },
     "name": "Zyxa's Presence",
@@ -5102,7 +5342,8 @@
         },
         "type": "Act of Desperation",
         "cost": 10,
-        "image": "https://shunjitakano.github.io/LunarRing/images/killer-instinct.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/killer-instinct.webp",
+        "covenant": "Xurdos"
       }
     },
     "name": "Killer Instinct",
@@ -5123,7 +5364,8 @@
         },
         "type": "Act of Desperation: Eternal",
         "cost": 10,
-        "image": "https://shunjitakano.github.io/LunarRing/images/xurdos-gift-of-ambition.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/xurdos-gift-of-ambition.webp",
+        "covenant": "Xurdos"
       }
     },
     "name": "Xurdos' Gift of Ambition",
@@ -5144,7 +5386,8 @@
         },
         "type": "Concoction",
         "cost": 1,
-        "image": "https://shunjitakano.github.io/LunarRing/images/bubbling-brew.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/bubbling-brew.webp",
+        "covenant": "Xurdos"
       }
     },
     "name": "Bubbling Brew",
@@ -5165,7 +5408,8 @@
         },
         "type": "Concoction",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/crystalised-veil-potion.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/crystalised-veil-potion.webp",
+        "covenant": "Xurdos"
       }
     },
     "name": "Crystalised Veil Potion",
@@ -5186,7 +5430,8 @@
         },
         "type": "Concoction",
         "cost": 5,
-        "image": "https://shunjitakano.github.io/LunarRing/images/exquiste-moonlight.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/exquiste-moonlight.webp",
+        "covenant": "Xurdos"
       }
     },
     "name": "Exquiste Moonlight",
@@ -5207,7 +5452,8 @@
         },
         "type": "Concoction",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/malice-of-the-pale-stare.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/malice-of-the-pale-stare.webp",
+        "covenant": "Xurdos"
       }
     },
     "name": "Malice of the Pale Stare",
@@ -5228,7 +5474,8 @@
         },
         "type": "Concoction",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/xurdos-s-ichor.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/xurdos-s-ichor.webp",
+        "covenant": "Xurdos"
       }
     },
     "name": "Xurdos's Ichor",
@@ -5249,7 +5496,8 @@
         },
         "type": "Concoction",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/mimicing-muck.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/mimicing-muck.webp",
+        "covenant": "Xurdos"
       }
     },
     "name": "Mimicing Muck",
@@ -5270,7 +5518,8 @@
         },
         "type": "Concoction",
         "cost": 6,
-        "image": "https://shunjitakano.github.io/LunarRing/images/pale-miasma.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/pale-miasma.webp",
+        "covenant": "Xurdos"
       }
     },
     "name": "Pale Miasma",
@@ -5291,7 +5540,8 @@
         },
         "type": "Concoction",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/pale-potion.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/pale-potion.webp",
+        "covenant": "Xurdos"
       }
     },
     "name": "Pale Potion",
@@ -5312,7 +5562,8 @@
         },
         "type": "Concoction",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/potion-of-phases.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/potion-of-phases.webp",
+        "covenant": "Xurdos"
       }
     },
     "name": "Potion of Phases",
@@ -5333,7 +5584,8 @@
         },
         "type": "Item",
         "cost": 4,
-        "image": "https://shunjitakano.github.io/LunarRing/images/explosive-ingredient.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/explosive-ingredient.webp",
+        "covenant": "Xurdos"
       }
     },
     "name": "Explosive Ingredient",
@@ -5354,7 +5606,8 @@
         },
         "type": "Item",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/illicit-substance.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/illicit-substance.webp",
+        "covenant": "Xurdos"
       }
     },
     "name": "Illicit Substance",
@@ -5375,7 +5628,8 @@
         },
         "type": "Item",
         "cost": 1,
-        "image": "https://shunjitakano.github.io/LunarRing/images/lost-child-s-toy.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/lost-child-s-toy.webp",
+        "covenant": "Xurdos"
       }
     },
     "name": "Lost Child's Toy",
@@ -5396,7 +5650,8 @@
         },
         "type": "Item",
         "cost": 1,
-        "image": "https://shunjitakano.github.io/LunarRing/images/potion-belt.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/potion-belt.webp",
+        "covenant": "Xurdos"
       }
     },
     "name": "Potion Belt",
@@ -5417,7 +5672,8 @@
         },
         "type": "Riposte",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/destructive-reaction.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/destructive-reaction.webp",
+        "covenant": "Xurdos"
       }
     },
     "name": "Destructive Reaction",
@@ -5438,7 +5694,8 @@
         },
         "type": "Riposte",
         "cost": 4,
-        "image": "https://shunjitakano.github.io/LunarRing/images/lo-s-mad-science.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/lo-s-mad-science.webp",
+        "covenant": "Xurdos"
       }
     },
     "name": "Lo's Mad Science",
@@ -5459,7 +5716,8 @@
         },
         "type": "Riposte",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/progress-to-perfection.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/progress-to-perfection.webp",
+        "covenant": "Xurdos"
       }
     },
     "name": "Progress to Perfection",
@@ -5480,7 +5738,8 @@
         },
         "type": "Riposte",
         "cost": 1,
-        "image": "https://shunjitakano.github.io/LunarRing/images/puddles-everywhere.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/puddles-everywhere.webp",
+        "covenant": "Xurdos"
       }
     },
     "name": "Puddles Everywhere",
@@ -5501,7 +5760,8 @@
         },
         "type": "Riposte",
         "cost": 1,
-        "image": "https://shunjitakano.github.io/LunarRing/images/unready-test.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/unready-test.webp",
+        "covenant": "Xurdos"
       }
     },
     "name": "Unready Test",
@@ -5522,7 +5782,8 @@
         },
         "type": "Tactic",
         "cost": 6,
-        "image": "https://shunjitakano.github.io/LunarRing/images/nothing-can-stop-us.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/nothing-can-stop-us.webp",
+        "covenant": "Xurdos"
       }
     },
     "name": "Nothing Can Stop Us",
@@ -5543,7 +5804,8 @@
         },
         "type": "Tactic",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/adapt-and-survive.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/adapt-and-survive.webp",
+        "covenant": "Xurdos"
       }
     },
     "name": "Adapt and Survive",
@@ -5564,7 +5826,8 @@
         },
         "type": "Tactic",
         "cost": 5,
-        "image": "https://shunjitakano.github.io/LunarRing/images/agonizing-progress.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/agonizing-progress.webp",
+        "covenant": "Xurdos"
       }
     },
     "name": "Agonizing Progress",
@@ -5585,7 +5848,8 @@
         },
         "type": "Tactic",
         "cost": 1,
-        "image": "https://shunjitakano.github.io/LunarRing/images/evolutionary.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/evolutionary.webp",
+        "covenant": "Xurdos"
       }
     },
     "name": "Evolutionary",
@@ -5606,7 +5870,8 @@
         },
         "type": "Tactic",
         "cost": 4,
-        "image": "https://shunjitakano.github.io/LunarRing/images/maniacal-testing.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/maniacal-testing.webp",
+        "covenant": "Xurdos"
       }
     },
     "name": "Maniacal Testing",
@@ -5627,7 +5892,8 @@
         },
         "type": "Tactic",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/personal-development.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/personal-development.webp",
+        "covenant": "Xurdos"
       }
     },
     "name": "Personal Development",
@@ -5648,7 +5914,8 @@
         },
         "type": "Tactic",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/survival-of-the-fittest.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/survival-of-the-fittest.webp",
+        "covenant": "Xurdos"
       }
     },
     "name": "Survival of the Fittest",
@@ -5669,7 +5936,8 @@
         },
         "type": "Tactic",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/traumatic-rage.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/traumatic-rage.webp",
+        "covenant": "Xurdos"
       }
     },
     "name": "Traumatic Rage",
@@ -5690,7 +5958,8 @@
         },
         "type": "Tactic",
         "cost": 4,
-        "image": "https://shunjitakano.github.io/LunarRing/images/vicious-vapour.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/vicious-vapour.webp",
+        "covenant": "Xurdos"
       }
     },
     "name": "Vicious Vapour",
@@ -5711,7 +5980,8 @@
         },
         "type": "Token Item",
         "cost": 0,
-        "image": "https://shunjitakano.github.io/LunarRing/images/puddle.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/puddle.webp",
+        "covenant": "Xurdos"
       }
     },
     "name": "Puddle",
@@ -5733,7 +6003,8 @@
         },
         "type": "Devotee",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/heliana-yade-thriving.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/heliana-yade-thriving.webp",
+        "covenant": "Igon"
       }
     },
     "name": "Heliana Yade",
@@ -5757,7 +6028,8 @@
         },
         "type": "Devotee",
         "cost": 5,
-        "image": "https://shunjitakano.github.io/LunarRing/images/heliana-yade-wounded.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/heliana-yade-wounded.webp",
+        "covenant": "Igon"
       }
     },
     "name": "Heliana Yade",
@@ -5781,7 +6053,8 @@
         },
         "type": "Devotee",
         "cost": 10,
-        "image": "https://shunjitakano.github.io/LunarRing/images/heliana-yade-desperate.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/heliana-yade-desperate.webp",
+        "covenant": "Igon"
       }
     },
     "name": "Heliana Yade",
@@ -5805,7 +6078,8 @@
         },
         "type": "Devotee",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/pora-aliestrad-thriving.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/pora-aliestrad-thriving.webp",
+        "covenant": "Igon"
       }
     },
     "name": "Pora Aliestrad",
@@ -5829,7 +6103,8 @@
         },
         "type": "Devotee",
         "cost": 5,
-        "image": "https://shunjitakano.github.io/LunarRing/images/pora-aliestrad-wounded.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/pora-aliestrad-wounded.webp",
+        "covenant": "Igon"
       }
     },
     "name": "Pora Aliestrad",
@@ -5853,7 +6128,8 @@
         },
         "type": "Devotee",
         "cost": 10,
-        "image": "https://shunjitakano.github.io/LunarRing/images/pora-aliestrad-desperate.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/pora-aliestrad-desperate.webp",
+        "covenant": "Igon"
       }
     },
     "name": "Pora Aliestrad",
@@ -5877,7 +6153,8 @@
         },
         "type": "Devotee",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/gro-thriving.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/gro-thriving.webp",
+        "covenant": "Kuran"
       }
     },
     "name": "Gro'",
@@ -5901,7 +6178,8 @@
         },
         "type": "Devotee",
         "cost": 6,
-        "image": "https://shunjitakano.github.io/LunarRing/images/gro-wounded.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/gro-wounded.webp",
+        "covenant": "Kuran"
       }
     },
     "name": "Gro'",
@@ -5925,7 +6203,8 @@
         },
         "type": "Devotee",
         "cost": 10,
-        "image": "https://shunjitakano.github.io/LunarRing/images/gro-desperate.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/gro-desperate.webp",
+        "covenant": "Kuran"
       }
     },
     "name": "Gro'",
@@ -5949,7 +6228,8 @@
         },
         "type": "Devotee",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/kreena-eldervyre-thriving.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/kreena-eldervyre-thriving.webp",
+        "covenant": "Kuran"
       }
     },
     "name": "Kreena Eldervyre",
@@ -5973,7 +6253,8 @@
         },
         "type": "Devotee",
         "cost": 4,
-        "image": "https://shunjitakano.github.io/LunarRing/images/kreena-eldervyre-wounded.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/kreena-eldervyre-wounded.webp",
+        "covenant": "Kuran"
       }
     },
     "name": "Kreena Eldervyre",
@@ -5997,7 +6278,8 @@
         },
         "type": "Devotee",
         "cost": 10,
-        "image": "https://shunjitakano.github.io/LunarRing/images/kreena-eldervyre-desperate.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/kreena-eldervyre-desperate.webp",
+        "covenant": "Kuran"
       }
     },
     "name": "Kreena Eldervyre",
@@ -6021,7 +6303,8 @@
         },
         "type": "Devotee",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/shiera-silkthroat-thriving.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/shiera-silkthroat-thriving.webp",
+        "covenant": "Niorr"
       }
     },
     "name": "Shiera Silkthroat",
@@ -6045,7 +6328,8 @@
         },
         "type": "Devotee",
         "cost": 5,
-        "image": "https://shunjitakano.github.io/LunarRing/images/shiera-silkthroat-wounded.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/shiera-silkthroat-wounded.webp",
+        "covenant": "Niorr"
       }
     },
     "name": "Shiera Silkthroat",
@@ -6069,7 +6353,8 @@
         },
         "type": "Devotee",
         "cost": 10,
-        "image": "https://shunjitakano.github.io/LunarRing/images/shiera-silkthroat-desperate.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/shiera-silkthroat-desperate.webp",
+        "covenant": "Niorr"
       }
     },
     "name": "Shiera Silkthroat",
@@ -6093,7 +6378,8 @@
         },
         "type": "Devotee",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/nine-lives-thriving.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/nine-lives-thriving.webp",
+        "covenant": "Niorr"
       }
     },
     "name": "Nine Lives",
@@ -6117,7 +6403,8 @@
         },
         "type": "Devotee",
         "cost": 6,
-        "image": "https://shunjitakano.github.io/LunarRing/images/nine-lives-wounded.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/nine-lives-wounded.webp",
+        "covenant": "Niorr"
       }
     },
     "name": "Nine Lives",
@@ -6141,7 +6428,8 @@
         },
         "type": "Devotee",
         "cost": 10,
-        "image": "https://shunjitakano.github.io/LunarRing/images/nine-lives-desperate.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/nine-lives-desperate.webp",
+        "covenant": "Niorr"
       }
     },
     "name": "Nine Lives",
@@ -6165,7 +6453,8 @@
         },
         "type": "Devotee",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/kakandi-bloodbrood-thriving.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/kakandi-bloodbrood-thriving.webp",
+        "covenant": "Yandari"
       }
     },
     "name": "Kakandi Bloodbrood",
@@ -6189,7 +6478,8 @@
         },
         "type": "Devotee",
         "cost": 5,
-        "image": "https://shunjitakano.github.io/LunarRing/images/kakandi-bloodbrood-wounded.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/kakandi-bloodbrood-wounded.webp",
+        "covenant": "Yandari"
       }
     },
     "name": "Kakandi Bloodbrood",
@@ -6213,7 +6503,8 @@
         },
         "type": "Devotee",
         "cost": 10,
-        "image": "https://shunjitakano.github.io/LunarRing/images/kakandi-bloodbrood-desperate.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/kakandi-bloodbrood-desperate.webp",
+        "covenant": "Yandari"
       }
     },
     "name": "Kakandi Bloodbrood",
@@ -6237,7 +6528,8 @@
         },
         "type": "Devotee",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/uldes-var-thriving.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/uldes-var-thriving.webp",
+        "covenant": "Yandari"
       }
     },
     "name": "Uldes Var",
@@ -6261,7 +6553,8 @@
         },
         "type": "Devotee",
         "cost": 6,
-        "image": "https://shunjitakano.github.io/LunarRing/images/uldes-var-wounded.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/uldes-var-wounded.webp",
+        "covenant": "Yandari"
       }
     },
     "name": "Uldes Var",
@@ -6285,7 +6578,8 @@
         },
         "type": "Devotee",
         "cost": 10,
-        "image": "https://shunjitakano.github.io/LunarRing/images/uldes-var-desperate.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/uldes-var-desperate.webp",
+        "covenant": "Yandari"
       }
     },
     "name": "Uldes Var",
