@@ -49,6 +49,7 @@
       ],
 
       "beforeGameStart": {
+        "boardCategoriesInSideboard": ["Devotee", "Presence"],
         "initialBoardSetup": [
           {
             "drawFromTop": "Devotee",

@@ -746,7 +746,8 @@
     "isToken": true,
     "_legal": {
       "IGO": true
-    }
+    },
+    "isisToken": true
   },
   "edge-of-consciousness": {
     "id": "edge-of-consciousness",
@@ -1674,7 +1675,8 @@
     "isToken": true,
     "_legal": {
       "YAN": true
-    }
+    },
+    "isisToken": true
   },
   "promise": {
     "id": "promise",
@@ -2717,7 +2719,8 @@
     "isToken": true,
     "_legal": {
       "KUR": true
-    }
+    },
+    "isisToken": true
   },
   "one-s-self": {
     "id": "one-s-self",
@@ -2742,7 +2745,8 @@
     "isToken": true,
     "_legal": {
       "KUR": true
-    }
+    },
+    "isisToken": true
   },
   "kreena-s-staff-of-connection": {
     "id": "kreena-s-staff-of-connection",
@@ -3881,7 +3885,8 @@
     "isToken": true,
     "_legal": {
       "NIO": true
-    }
+    },
+    "isisToken": true
   },
   "loneliness": {
     "id": "loneliness",
@@ -3904,7 +3909,8 @@
     "isToken": true,
     "_legal": {
       "NIO": true
-    }
+    },
+    "isisToken": true
   },
   "insignificance": {
     "id": "insignificance",
@@ -3927,7 +3933,8 @@
     "isToken": true,
     "_legal": {
       "NIO": true
-    }
+    },
+    "isisToken": true
   },
   "despair": {
     "id": "despair",
@@ -3950,7 +3957,8 @@
     "isToken": true,
     "_legal": {
       "NIO": true
-    }
+    },
+    "isisToken": true
   },
   "essence-carver": {
     "id": "essence-carver",
@@ -4196,7 +4204,7 @@
     "effect": "Gain 10 resolve this turn. Hateful and Loving effects are doubled this turn. At your recovery, if you did not play 5 or more cards this turn, you lose the game.",
     "covenant": "Qirune",
     "_legal": {
-      "QIR": true
+      "QIR": 1
     }
   },
   "tome-of-qirune": {
@@ -4218,7 +4226,7 @@
     "effect": "3 Essence. You must use this every turn. When this breaks, you lose the game.\nSun - Draw 5. Gain 4 resolve this turn.\nMoon - Your opponent scraps 5.\nStars -  Show Mercy, Fight Dirty, Divine, Channel, Evolve, Breathe.",
     "covenant": "Qirune",
     "_legal": {
-      "QIR": true
+      "QIR": 1
     }
   },
   "blackened-page": {
@@ -4726,7 +4734,8 @@
     "isToken": true,
     "_legal": {
       "QIR": true
-    }
+    },
+    "isisToken": true
   },
   "ember": {
     "id": "ember",
@@ -4749,7 +4758,8 @@
     "isToken": true,
     "_legal": {
       "QIR": true
-    }
+    },
+    "isisToken": true
   },
   "gift-of-qirune": {
     "id": "gift-of-qirune",
@@ -4772,7 +4782,8 @@
     "isToken": true,
     "_legal": {
       "QIR": true
-    }
+    },
+    "isisToken": true
   },
   "hardened-essence": {
     "id": "hardened-essence",
@@ -4795,7 +4806,8 @@
     "isToken": true,
     "_legal": {
       "QIR": true
-    }
+    },
+    "isisToken": true
   },
   "hollow-feeling": {
     "id": "hollow-feeling",
@@ -4818,7 +4830,8 @@
     "isToken": true,
     "_legal": {
       "QIR": true
-    }
+    },
+    "isisToken": true
   },
   "love-letter": {
     "id": "love-letter",
@@ -4841,7 +4854,8 @@
     "isToken": true,
     "_legal": {
       "QIR": true
-    }
+    },
+    "isisToken": true
   },
   "seething-hate": {
     "id": "seething-hate",
@@ -4864,7 +4878,8 @@
     "isToken": true,
     "_legal": {
       "QIR": true
-    }
+    },
+    "isisToken": true
   },
   "tome-of-anger": {
     "id": "tome-of-anger",
@@ -5352,7 +5367,7 @@
     "effect": "Evolve 10 times. Then if you wield a weapon with 15 or more mutation counters on it give it +10 and \"When I break you lose the game\".",
     "covenant": "Xurdos",
     "_legal": {
-      "XUR": true
+      "XUR": 1
     }
   },
   "xurdos-gift-of-ambition": {
@@ -5374,7 +5389,7 @@
     "effect": "Brandish: Play all concoctions from the scrapyard.  You may wield any number of concoctions. At recovery, if you did not use at least 3 concoctions, you lose the game.",
     "covenant": "Xurdos",
     "_legal": {
-      "XUR": true
+      "XUR": 1
     }
   },
   "bubbling-brew": {
@@ -5992,7 +6007,8 @@
     "isToken": true,
     "_legal": {
       "XUR": true
-    }
+    },
+    "isisToken": true
   },
   "heliana-yade-thriving": {
     "id": "heliana-yade-thriving",
