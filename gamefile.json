@@ -144,8 +144,8 @@
               ]
             },
             "events": {
-              "onStart": "chatLog('Vitals onStart fired (inline)')",
-              "onNewTurn": "chatLog('Vitals onNewTurn fired (inline)')"
+              "onStart": "game.data.Vitals.health = 111",
+              "onNewTurn": "game.data.Vitals.resolve = 222"
             }
           },
           "Armoury": {

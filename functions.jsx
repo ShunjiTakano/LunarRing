@@ -1,10 +1,10 @@
 // Lunar Ring custom scripting functions.
 // Referenced via gamefile.json's top-level "scriptsUrls".
 //
-// Pattern (idempotent init guarded by a flag, fired on multiple events for
-// reliability) is copied directly from the TCG-Arena-MTG reference's
-// iniRoles()/tryCreateRoleCard() functions, which are confirmed working in
-// a live, published game.
+// Note: chatLog() is NOT available inside section "events" context (confirmed
+// via live testing -- it throws "chatLog is not defined"). It only works
+// inside blueprint onClick/onChange handlers. So this version signals success
+// via game.data itself (visible directly on the board) instead of logging.
 
 async function initVitals() {
   // Already ran once this game -- don't clobber manual adjustments made
@@ -20,6 +20,4 @@ async function initVitals() {
   game.data.Vitals.health = thriving.health;
   game.data.Vitals.resolve = thriving.cost;
   game.data.Vitals.initialized = true;
-
-  chatLog("Vitals set from " + thriving.name + " (Thriving): " + thriving.health + " HP, " + thriving.cost + " Resolve.");
 }
