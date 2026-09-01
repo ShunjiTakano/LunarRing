@@ -28,6 +28,7 @@
   "gameplay": {
     "Standard": {
       "defaultNotes": "Hazed Memories (opponent): 0",
+      "countersStartingValues": [],
 
       "mulligan": {
         "startingHandSize": 5,
