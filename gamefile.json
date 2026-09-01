@@ -1,5 +1,6 @@
 {
   "name": "Lunar Ring",
+  "scriptsUrls": ["https://shunjitakano.github.io/LunarRing/functions.jsx"],
 
   "deckBuilding": {
     "mainFilters": ["type", "cost", "covenant"],
@@ -26,8 +27,7 @@
 
   "gameplay": {
     "Standard": {
-      "defaultNotes": "Set Health/Resolve counters above to match your chosen Devotee's printed stats.\nHazed Memories (opponent): 0",
-      "countersStartingValues": [10, 3],
+      "defaultNotes": "Hazed Memories (opponent): 0",
 
       "mulligan": {
         "startingHandSize": 5,
@@ -56,7 +56,8 @@
               "direction": "row",
               "content": [
                 { "section": "Devotee", "style": { "width": "15vh" } },
-                { "section": "Presence", "style": { "width": "15vh" } }
+                { "section": "Presence", "style": { "width": "15vh" } },
+                { "section": "Vitals", "style": { "width": "12vh" } }
               ]
             },
             { "section": "Armoury" },
@@ -93,6 +94,58 @@
             "height": "SMALL",
             "alignment": "START",
             "isHorizontalAllowed": true
+          },
+          "Vitals": {
+            "type": "custom",
+            "defaultValue": { "health": 0, "resolve": 0, "initialized": false },
+            "blueprint": {
+              "type": "div",
+              "props": {
+                "style": {
+                  "width": "12vh",
+                  "padding": "0.4rem",
+                  "borderRadius": "0.5vh",
+                  "backgroundColor": "#18293dcc"
+                },
+                "className": "d-flex flex-column gap-1"
+              },
+              "children": [
+                {
+                  "type": "div",
+                  "props": { "className": "d-flex justify-content-between align-items-center" },
+                  "children": [
+                    { "type": "span", "props": { "style": { "color": "#c04040" } }, "children": "Health" },
+                    {
+                      "type": "input-number",
+                      "props": {
+                        "value": "{{ game.data.Vitals.health }}",
+                        "style": { "width": "6vh", "--input-background-color": "#18293d57" }
+                      },
+                      "onChange": "game.data.Vitals.health = value; chatLog('Health is now ' + value)"
+                    }
+                  ]
+                },
+                {
+                  "type": "div",
+                  "props": { "className": "d-flex justify-content-between align-items-center" },
+                  "children": [
+                    { "type": "span", "props": { "style": { "color": "#c48f21" } }, "children": "Resolve" },
+                    {
+                      "type": "input-number",
+                      "props": {
+                        "value": "{{ game.data.Vitals.resolve }}",
+                        "style": { "width": "6vh", "--input-background-color": "#18293d57" }
+                      },
+                      "onChange": "game.data.Vitals.resolve = value; chatLog('Resolve is now ' + value)"
+                    }
+                  ]
+                }
+              ]
+            },
+            "events": {
+              "onStart": "await initVitals()",
+              "onNewTurn": "await initVitals()"
+            }
           },
           "Armoury": {
             "isHidden": "no",
@@ -158,9 +211,9 @@
   },
 
   "cards": {
-    "dataUrl": "https://shunjitakano.github.io/LunarRing/resources/cards.json",
-    "cardBack": "https://shunjitakano.github.io/LunarRing/images/card-back.jpg"
+    "dataUrl": "https://shunjitakano.github.io/LunarRing/cards.json",
+    "cardBack": "https://shunjitakano.github.io/LunarRing/images/card-back.webp"
   },
 
-  "customHelp": "At game start: drag your Thriving Devotee card from 'Devotee Conditions' into 'Active Devotee', and set your Health/Resolve counters to match its printed stats. When your health hits 0, discard the old condition and move the next one (Wounded, then Desperate) into Active Devotee. Every 3 rounds The Pale Stare advances a phase (Dormant -> Crescent Moon -> Half Moon -> Full Moon -> Eclipse); whichever player has the most health when it advances activates their matching Presence -- track this manually for now."
+  "customHelp": "At game start, all 3 of your Devotee condition cards (Thriving/Wounded/Desperate) and all 3 Pale Stare Presences are placed directly on the board -- they are never part of your draw deck. When your health hits 0, discard your current Devotee condition card and treat the next one (Wounded, then Desperate) as active. Every 3 rounds The Pale Stare advances a phase (Dormant -> Crescent Moon -> Half Moon -> Full Moon -> Eclipse); whichever player has the most health when it advances activates their matching Presence -- track this manually for now."
 }
