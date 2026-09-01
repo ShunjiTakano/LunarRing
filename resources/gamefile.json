@@ -48,8 +48,6 @@
         { "id": "Damage", "name": "Damage", "image": "https://shunjitakano.github.io/LunarRing/images/tokens/damage.webp" }
       ],
 
-      "categoriesAlreadyOnBoard": ["Devotee->DevoteeReserve", "Presence->PresenceDisplay"],
-
       "sections": {
         "layout": {
           "direction": "column",
@@ -73,6 +71,8 @@
             }
           ]
         },
+
+        "categoriesAlreadyOnBoard": ["Devotee->DevoteeReserve", "Presence->PresenceDisplay"],
 
         "sharedZone": {
           "height": 16,
