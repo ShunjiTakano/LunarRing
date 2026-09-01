@@ -48,23 +48,7 @@
         { "id": "Damage", "name": "Damage", "image": "https://shunjitakano.github.io/LunarRing/images/tokens/damage.webp" }
       ],
 
-      "beforeGameStart": {
-        "boardCategoriesInSideboard": ["Devotee", "Presence"],
-        "initialBoardSetup": [
-          {
-            "drawFromTop": "Devotee",
-            "count": 3,
-            "destination": "DevoteeReserve",
-            "overrideState": { "isHidden": "opponent-only" }
-          },
-          {
-            "drawFromTop": "Presence",
-            "count": 3,
-            "destination": "PresenceDisplay",
-            "overrideState": { "isHidden": "no" }
-          }
-        ]
-      },
+      "categoriesAlreadyOnBoard": ["Devotee->DevoteeReserve", "Presence->PresenceDisplay"],
 
       "sections": {
         "layout": {
@@ -86,14 +70,6 @@
                 { "section": "Deck", "style": { "width": "20%" } },
                 { "section": "Hand", "style": { "width": "60%" } }
               ]
-            },
-            {
-              "direction": "row",
-              "content": [
-                { "section": "Devotee", "style": { "width": "10%" } },
-                { "section": "Presence", "style": { "width": "10%" } }
-              ],
-              "style": { "opacity": "0" }
             }
           ]
         },
@@ -107,12 +83,6 @@
         },
 
         "sectionsDict": {
-          "Devotee": {
-            "isHidden": "yes",
-            "height": "SMALL",
-            "alignment": "DECK",
-            "displayedTitle": "Devotee (source)"
-          },
           "DevoteeReserve": {
             "isHidden": "opponent-only",
             "height": "SMALL",
@@ -124,12 +94,6 @@
             "height": "SMALL",
             "alignment": "CENTER",
             "displayedTitle": "Active Devotee"
-          },
-          "Presence": {
-            "isHidden": "yes",
-            "height": "SMALL",
-            "alignment": "DECK",
-            "displayedTitle": "Presence (source)"
           },
           "PresenceDisplay": {
             "isHidden": "no",
