@@ -55,9 +55,8 @@
             {
               "direction": "row",
               "content": [
-                { "section": "DevoteeReserve", "style": { "width": "18%" } },
-                { "section": "DevoteeActive", "style": { "width": "14%" } },
-                { "section": "PresenceDisplay", "style": { "width": "22%" } }
+                { "section": "Devotee", "style": { "width": "15vh" } },
+                { "section": "Presence", "style": { "width": "15vh" } }
               ]
             },
             { "section": "Armoury" },
@@ -72,7 +71,7 @@
           ]
         },
 
-        "categoriesAlreadyOnBoard": ["Devotee->DevoteeReserve", "Presence->PresenceDisplay"],
+        "categoriesAlreadyOnBoard": ["Devotee", "Presence"],
 
         "sharedZone": {
           "height": 16,
@@ -83,23 +82,17 @@
         },
 
         "sectionsDict": {
-          "DevoteeReserve": {
-            "isHidden": "opponent-only",
-            "height": "SMALL",
-            "alignment": "NONE",
-            "displayedTitle": "Devotee Conditions"
-          },
-          "DevoteeActive": {
+          "Devotee": {
             "isHidden": "no",
             "height": "SMALL",
-            "alignment": "CENTER",
-            "displayedTitle": "Active Devotee"
+            "alignment": "START",
+            "isHorizontalAllowed": true
           },
-          "PresenceDisplay": {
+          "Presence": {
             "isHidden": "no",
             "height": "SMALL",
-            "alignment": "CENTER",
-            "displayedTitle": "Pale Stare Presences"
+            "alignment": "START",
+            "isHorizontalAllowed": true
           },
           "Armoury": {
             "isHidden": "no",
