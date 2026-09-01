@@ -144,8 +144,8 @@
               ]
             },
             "events": {
-              "onStart": "await initVitals()",
-              "onNewTurn": "await initVitals()"
+              "onStart": "chatLog('Vitals onStart fired (inline)')",
+              "onNewTurn": "chatLog('Vitals onNewTurn fired (inline)')"
             }
           },
           "Armoury": {
