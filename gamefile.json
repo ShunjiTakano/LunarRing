@@ -75,24 +75,16 @@
 
         "categoriesAlreadyOnBoard": ["Devotee", "Presence"],
 
-        "sharedZone": {
-          "height": 16,
-          "layout": {
-            "direction": "column",
-            "content": [{ "section": "Stack" }]
-          }
-        },
-
         "sectionsDict": {
           "Devotee": {
             "isHidden": "no",
-            "height": "SMALL",
+            "height": 10,
             "alignment": "START",
             "isHorizontalAllowed": true
           },
           "Presence": {
             "isHidden": "no",
-            "height": "SMALL",
+            "height": 10,
             "alignment": "START",
             "isHorizontalAllowed": true
           },
@@ -147,54 +139,31 @@
           },
           "Armoury": {
             "isHidden": "no",
-            "height": 15,
+            "height": 13,
             "alignment": "START",
             "isHorizontalAllowed": true,
             "displayedTitle": "Armoury"
           },
           "Discard": {
             "isHidden": "no",
-            "height": 24,
+            "height": 15,
             "alignment": "DECK",
             "displayedTitle": "Scrapyard"
           },
           "Deck": {
             "isHidden": "yes",
-            "height": 24,
+            "height": 15,
             "alignment": "DECK"
           },
           "Hand": {
             "isHidden": "opponent-only",
-            "height": 24,
+            "height": 15,
             "alignment": "START",
             "isHorizontalAllowed": true
-          },
-          "Stack": {
-            "isHidden": "no",
-            "height": "MEDIUM",
-            "alignment": "CENTER",
-            "displayedTitle": "The Fracture"
           }
         },
 
         "autoPlayFromHand": {
-          "Acolyte": "Stack",
-          "Weapon": "Stack",
-          "1-Handed Weapon": "Stack",
-          "2-Handed Weapon": "Stack",
-          "Edict": "Stack",
-          "Item": "Stack",
-          "Tome": "Stack",
-          "Ability": "Stack",
-          "Concoction": "Stack",
-          "Tactic": "Stack",
-          "Riposte": "Stack",
-          "Act of Desperation": "Stack",
-          "Act of Desperation: Tome": "Stack",
-          "Act of Desperation: Eternal": "Stack"
-        },
-
-        "autoPlayFromStack": {
           "Acolyte": "Armoury",
           "Weapon": "Armoury",
           "1-Handed Weapon": "Armoury",
@@ -203,17 +172,12 @@
           "Item": "Armoury",
           "Tome": "Armoury",
           "Ability": "Armoury",
-          "Token Edict": "Armoury",
-          "Token Acolyte": "Armoury",
-          "Token Weapon": "Armoury",
-          "Token Item": "Armoury",
+          "Concoction": "Discard",
           "Tactic": "Discard",
           "Riposte": "Discard",
-          "Concoction": "Discard",
           "Act of Desperation": "Discard",
           "Act of Desperation: Tome": "Discard",
-          "Act of Desperation: Eternal": "Discard",
-          "Token Withdrawal": "Discard"
+          "Act of Desperation: Eternal": "Discard"
         }
       }
     }
