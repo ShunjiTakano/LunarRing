@@ -65,9 +65,9 @@
             {
               "direction": "row",
               "content": [
-                { "section": "Discard", "style": { "width": "20%" } },
-                { "section": "Deck", "style": { "width": "20%" } },
-                { "section": "Hand", "style": { "width": "60%" } }
+                { "section": "Discard", "style": { "width": "16%" } },
+                { "section": "Deck", "style": { "width": "16%" } },
+                { "section": "Hand", "style": { "width": "68%" } }
               ]
             }
           ]
@@ -147,16 +147,27 @@
           },
           "Armoury": {
             "isHidden": "no",
-            "height": 18,
+            "height": 15,
             "alignment": "START",
             "isHorizontalAllowed": true,
             "displayedTitle": "Armoury"
           },
           "Discard": {
             "isHidden": "no",
-            "height": "SMALL",
+            "height": 24,
             "alignment": "DECK",
             "displayedTitle": "Scrapyard"
+          },
+          "Deck": {
+            "isHidden": "yes",
+            "height": 24,
+            "alignment": "DECK"
+          },
+          "Hand": {
+            "isHidden": "opponent-only",
+            "height": 24,
+            "alignment": "START",
+            "isHorizontalAllowed": true
           },
           "Stack": {
             "isHidden": "no",
