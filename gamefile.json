@@ -143,14 +143,11 @@
                 }
               ]
             },
-            "events": {
-              "onStart": "game.data.Vitals.health = 111",
-              "onNewTurn": "game.data.Vitals.resolve = 222"
-            }
+            "events": {}
           },
           "Armoury": {
             "isHidden": "no",
-            "height": 30,
+            "height": 18,
             "alignment": "START",
             "isHorizontalAllowed": true,
             "displayedTitle": "Armoury"
