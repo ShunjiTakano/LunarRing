@@ -135,7 +135,10 @@
                 }
               ]
             },
-            "events": {}
+            "events": {
+              "onStart": "await initVitals()",
+              "onNewTurn": "await initVitals()"
+            }
           },
           "Armoury": {
             "isHidden": "no",
