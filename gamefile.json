@@ -150,11 +150,6 @@
             "alignment": "DECK",
             "displayedTitle": "Scrapyard"
           },
-          "Deck": {
-            "isHidden": "yes",
-            "height": 15,
-            "alignment": "DECK"
-          },
           "Hand": {
             "isHidden": "opponent-only",
             "height": 15,
