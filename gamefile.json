@@ -1,54 +1,90 @@
 {
   "name": "Lunar Ring",
-  "scriptsUrls": ["https://shunjitakano.github.io/LunarRing/functions.jsx"],
-
+  "scriptsUrls": [
+    "https://shunjitakano.github.io/LunarRing/functions.jsx"
+  ],
   "deckBuilding": {
-    "mainFilters": ["type", "cost", "covenant"],
-    "costCurveIgnoredTypes": ["Devotee", "Presence", "Token Withdrawal", "Token Item", "Token Edict", "Token Acolyte", "Token Weapon"],
+    "mainFilters": [
+      "type",
+      "cost",
+      "covenant"
+    ],
+    "costCurveIgnoredTypes": [
+      "Devotee",
+      "Presence",
+      "Token Withdrawal",
+      "Token Item",
+      "Token Edict",
+      "Token Acolyte",
+      "Token Weapon"
+    ],
     "formats": [
-      { "title": "Igon Standard",    "customCategories": ["Devotee", "Presence"], "legalityCode": "IGO", "gameplay": "Standard", "deckRuleset": "Standard" },
-      { "title": "Yandari Standard", "customCategories": ["Devotee", "Presence"], "legalityCode": "YAN", "gameplay": "Standard", "deckRuleset": "Standard" },
-      { "title": "Kuran Standard",   "customCategories": ["Devotee", "Presence"], "legalityCode": "KUR", "gameplay": "Standard", "deckRuleset": "Standard" },
-      { "title": "Niorr Standard",   "customCategories": ["Devotee", "Presence"], "legalityCode": "NIO", "gameplay": "Standard", "deckRuleset": "Standard" },
-      { "title": "Qirune Standard",  "customCategories": ["Devotee", "Presence"], "legalityCode": "QIR", "gameplay": "Standard", "deckRuleset": "Standard" },
-      { "title": "Xurdos Standard",  "customCategories": ["Devotee", "Presence"], "legalityCode": "XUR", "gameplay": "Standard", "deckRuleset": "Standard" }
+      {
+        "title": "Standard",
+        "customCategories": [
+          "Devotee",
+          "Presence"
+        ],
+        "legalityCode": "STD",
+        "gameplay": "Standard",
+        "deckRuleset": "Standard"
+      }
     ],
     "deckRulesets": {
       "Standard": {
         "checkCardLegality": true,
-        "general": { "min": 40, "max": 40, "maxPerCard": 3 },
+        "general": {
+          "min": 40,
+          "max": 40,
+          "maxPerCard": 3
+        },
         "categories": [
-          { "category": "Devotee",  "min": 3, "max": 3 },
-          { "category": "Presence", "min": 3, "max": 3 }
+          {
+            "category": "Devotee",
+            "min": 3,
+            "max": 3
+          },
+          {
+            "category": "Presence",
+            "min": 3,
+            "max": 3
+          }
         ]
       }
     }
   },
-
   "gameplay": {
     "Standard": {
       "defaultNotes": "Hazed Memories (opponent): 0",
       "countersStartingValues": [],
-
       "mulligan": {
         "startingHandSize": 5,
-        "mulliganCount": { "max": 1 },
+        "mulliganCount": {
+          "max": 1
+        },
         "mulliganCycle": {
           "info": "Return any number of cards to the bottom of your deck, then draw that many.",
-          "steps": ["toBottom", "draw"],
-          "selectionRange": { "min": 0, "max": 5 }
+          "steps": [
+            "toBottom",
+            "draw"
+          ],
+          "selectionRange": {
+            "min": 0,
+            "max": 5
+          }
         }
       },
-
       "newTurn": {
         "drawOnStart": false,
         "drawPerTurn": 1
       },
-
       "draggableTokens": [
-        { "id": "Damage", "name": "Damage", "image": "https://shunjitakano.github.io/LunarRing/images/tokens/damage.webp" }
+        {
+          "id": "Damage",
+          "name": "Damage",
+          "image": "https://shunjitakano.github.io/LunarRing/images/tokens/damage.webp"
+        }
       ],
-
       "sections": {
         "layout": {
           "direction": "column",
@@ -56,25 +92,58 @@
             {
               "direction": "row",
               "content": [
-                { "section": "Devotee", "style": { "width": "15vh" } },
-                { "section": "Presence", "style": { "width": "15vh" } },
-                { "section": "Vitals", "style": { "width": "12vh" } }
+                {
+                  "section": "Devotee",
+                  "style": {
+                    "width": "15vh"
+                  }
+                },
+                {
+                  "section": "Presence",
+                  "style": {
+                    "width": "15vh"
+                  }
+                },
+                {
+                  "section": "Vitals",
+                  "style": {
+                    "width": "12vh"
+                  }
+                }
               ]
             },
-            { "section": "Armoury" },
+            {
+              "section": "Armoury"
+            },
             {
               "direction": "row",
               "content": [
-                { "section": "Discard", "style": { "width": "16%" } },
-                { "section": "Deck", "style": { "width": "16%" } },
-                { "section": "Hand", "style": { "width": "68%" } }
+                {
+                  "section": "Discard",
+                  "style": {
+                    "width": "16%"
+                  }
+                },
+                {
+                  "section": "Deck",
+                  "style": {
+                    "width": "16%"
+                  }
+                },
+                {
+                  "section": "Hand",
+                  "style": {
+                    "width": "68%"
+                  }
+                }
               ]
             }
           ]
         },
-
-        "categoriesAlreadyOnBoard": ["Devotee->Devotee", "Presence->Presence"],
-
+        "categoriesAlreadyOnBoard": [
+          "Devotee->Devotee",
+          "Presence->Presence"
+        ],
         "sectionsDict": {
           "Devotee": {
             "isHidden": "no",
@@ -90,7 +159,12 @@
           },
           "Vitals": {
             "type": "custom",
-            "defaultValue": { "health": 0, "resolve": 0, "initialized": false },
+            "isHidden": "no",
+            "defaultValue": {
+              "health": 0,
+              "resolve": 0,
+              "initialized": false
+            },
             "blueprint": {
               "type": "div",
               "props": {
@@ -105,14 +179,27 @@
               "children": [
                 {
                   "type": "div",
-                  "props": { "className": "d-flex justify-content-between align-items-center" },
+                  "props": {
+                    "className": "d-flex justify-content-between align-items-center"
+                  },
                   "children": [
-                    { "type": "span", "props": { "style": { "color": "#c04040" } }, "children": "Health" },
+                    {
+                      "type": "span",
+                      "props": {
+                        "style": {
+                          "color": "#c04040"
+                        }
+                      },
+                      "children": "Health"
+                    },
                     {
                       "type": "input-number",
                       "props": {
                         "value": "{{ game.data.Vitals.health }}",
-                        "style": { "width": "6vh", "--input-background-color": "#18293d57" }
+                        "style": {
+                          "width": "6vh",
+                          "--input-background-color": "#18293d57"
+                        }
                       },
                       "onChange": "game.data.Vitals.health = value; chatLog('Health is now ' + value)"
                     }
@@ -120,14 +207,27 @@
                 },
                 {
                   "type": "div",
-                  "props": { "className": "d-flex justify-content-between align-items-center" },
+                  "props": {
+                    "className": "d-flex justify-content-between align-items-center"
+                  },
                   "children": [
-                    { "type": "span", "props": { "style": { "color": "#c48f21" } }, "children": "Resolve" },
+                    {
+                      "type": "span",
+                      "props": {
+                        "style": {
+                          "color": "#c48f21"
+                        }
+                      },
+                      "children": "Resolve"
+                    },
                     {
                       "type": "input-number",
                       "props": {
                         "value": "{{ game.data.Vitals.resolve }}",
-                        "style": { "width": "6vh", "--input-background-color": "#18293d57" }
+                        "style": {
+                          "width": "6vh",
+                          "--input-background-color": "#18293d57"
+                        }
                       },
                       "onChange": "game.data.Vitals.resolve = value; chatLog('Resolve is now ' + value)"
                     }
@@ -157,7 +257,6 @@
             "isHorizontalAllowed": true
           }
         },
-
         "autoPlayFromHand": {
           "Acolyte": "Armoury",
           "Weapon": "Armoury",
@@ -177,11 +276,9 @@
       }
     }
   },
-
   "cards": {
     "dataUrl": "https://shunjitakano.github.io/LunarRing/cards.json",
     "cardBack": "https://shunjitakano.github.io/LunarRing/images/card-back.webp"
   },
-
-  "customHelp": "At game start, all 3 of your Devotee condition cards (Thriving/Wounded/Desperate) and all 3 Pale Stare Presences are placed directly on the board -- they are never part of your draw deck. When your health hits 0, discard your current Devotee condition card and treat the next one (Wounded, then Desperate) as active. Every 3 rounds The Pale Stare advances a phase (Dormant -> Crescent Moon -> Half Moon -> Full Moon -> Eclipse); whichever player has the most health when it advances activates their matching Presence -- track this manually for now."
+  "customHelp": "House rule: your deck should use cards from a single covenant only (use the covenant filter when building). This isn't enforced automatically -- it's on you and your opponent to keep decks mono-covenant. At game start, all 3 of your Devotee condition cards (Thriving/Wounded/Desperate) and all 3 Pale Stare Presences are placed directly on the board -- they are never part of your draw deck. When your health hits 0, discard your current Devotee condition card and treat the next one (Wounded, then Desperate) as active. Every 3 rounds The Pale Stare advances a phase (Dormant -> Crescent Moon -> Half Moon -> Full Moon -> Eclipse); whichever player has the most health when it advances activates their matching Presence -- track this manually for now."
 }

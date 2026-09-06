@@ -11,7 +11,10 @@
         "image": "https://shunjitakano.github.io/LunarRing/images/familiar-face.webp",
         "covenant": "Igon",
         "health": 1,
-        "attack": 1
+        "attack": 1,
+        "_legal": {
+          "STD": true
+        }
       },
       "back": {
         "name": {
@@ -22,7 +25,10 @@
         "image": "https://shunjitakano.github.io/LunarRing/images/familiar-face-back.webp",
         "covenant": "Igon",
         "health": 1,
-        "attack": 1
+        "attack": 1,
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Familiar Face",
@@ -33,7 +39,7 @@
     "health": 1,
     "covenant": "Igon",
     "_legal": {
-      "IGO": true
+      "STD": true
     }
   },
   "heliana-dictator-of-recollection": {
@@ -48,7 +54,10 @@
         "image": "https://shunjitakano.github.io/LunarRing/images/heliana-dictator-of-recollection.webp",
         "covenant": "Igon",
         "health": 4,
-        "attack": 1
+        "attack": 1,
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Heliana, Dictator of Recollection",
@@ -59,7 +68,7 @@
     "health": 4,
     "covenant": "Igon",
     "_legal": {
-      "IGO": true
+      "STD": true
     }
   },
   "madness-clairvoyant": {
@@ -74,7 +83,10 @@
         "image": "https://shunjitakano.github.io/LunarRing/images/madness-clairvoyant.webp",
         "covenant": "Igon",
         "health": 2,
-        "attack": 2
+        "attack": 2,
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Madness Clairvoyant",
@@ -85,7 +97,7 @@
     "health": 2,
     "covenant": "Igon",
     "_legal": {
-      "IGO": true
+      "STD": true
     }
   },
   "memory-of-relief": {
@@ -100,7 +112,10 @@
         "image": "https://shunjitakano.github.io/LunarRing/images/memory-of-relief.webp",
         "covenant": "Igon",
         "health": 3,
-        "attack": 1
+        "attack": 1,
+        "_legal": {
+          "STD": true
+        }
       },
       "back": {
         "name": {
@@ -111,7 +126,10 @@
         "image": "https://shunjitakano.github.io/LunarRing/images/memory-of-relief-back.webp",
         "covenant": "Igon",
         "health": 3,
-        "attack": 1
+        "attack": 1,
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Memory of Relief",
@@ -122,7 +140,7 @@
     "health": 3,
     "covenant": "Igon",
     "_legal": {
-      "IGO": true
+      "STD": true
     }
   },
   "pora-mind-s-guardian": {
@@ -137,7 +155,10 @@
         "image": "https://shunjitakano.github.io/LunarRing/images/pora-mind-s-guardian.webp",
         "covenant": "Igon",
         "health": 4,
-        "attack": 2
+        "attack": 2,
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Pora, Mind's Guardian",
@@ -148,7 +169,7 @@
     "health": 4,
     "covenant": "Igon",
     "_legal": {
-      "IGO": true
+      "STD": true
     }
   },
   "proud-child": {
@@ -163,7 +184,10 @@
         "image": "https://shunjitakano.github.io/LunarRing/images/proud-child.webp",
         "covenant": "Igon",
         "health": 2,
-        "attack": 1
+        "attack": 1,
+        "_legal": {
+          "STD": true
+        }
       },
       "back": {
         "name": {
@@ -174,7 +198,10 @@
         "image": "https://shunjitakano.github.io/LunarRing/images/proud-child-back.webp",
         "covenant": "Igon",
         "health": 2,
-        "attack": 1
+        "attack": 1,
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Proud Child",
@@ -185,7 +212,7 @@
     "health": 2,
     "covenant": "Igon",
     "_legal": {
-      "IGO": true
+      "STD": true
     }
   },
   "scribe-of-igon": {
@@ -200,7 +227,10 @@
         "image": "https://shunjitakano.github.io/LunarRing/images/scribe-of-igon.webp",
         "covenant": "Igon",
         "health": 1,
-        "attack": 1
+        "attack": 1,
+        "_legal": {
+          "STD": true
+        }
       },
       "back": {
         "name": {
@@ -211,7 +241,10 @@
         "image": "https://shunjitakano.github.io/LunarRing/images/scribe-of-igon-back.webp",
         "covenant": "Igon",
         "health": 1,
-        "attack": 1
+        "attack": 1,
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Scribe of Igon",
@@ -222,7 +255,7 @@
     "health": 1,
     "covenant": "Igon",
     "_legal": {
-      "IGO": true
+      "STD": true
     }
   },
   "unsettling-prescence": {
@@ -237,7 +270,10 @@
         "image": "https://shunjitakano.github.io/LunarRing/images/unsettling-prescence.webp",
         "covenant": "Igon",
         "health": 5,
-        "attack": 1
+        "attack": 1,
+        "_legal": {
+          "STD": true
+        }
       },
       "back": {
         "name": {
@@ -248,7 +284,10 @@
         "image": "https://shunjitakano.github.io/LunarRing/images/unsettling-prescence-back.webp",
         "covenant": "Igon",
         "health": 5,
-        "attack": 1
+        "attack": 1,
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Unsettling Prescence",
@@ -259,7 +298,7 @@
     "health": 5,
     "covenant": "Igon",
     "_legal": {
-      "IGO": true
+      "STD": true
     }
   },
   "wisp-of-remembrance": {
@@ -274,7 +313,10 @@
         "image": "https://shunjitakano.github.io/LunarRing/images/wisp-of-remembrance.webp",
         "covenant": "Igon",
         "health": 1,
-        "attack": 1
+        "attack": 1,
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Wisp of Remembrance",
@@ -285,7 +327,7 @@
     "health": 1,
     "covenant": "Igon",
     "_legal": {
-      "IGO": true
+      "STD": true
     }
   },
   "hunt-untruth": {
@@ -298,7 +340,10 @@
         "type": "Edict",
         "cost": 2,
         "image": "https://shunjitakano.github.io/LunarRing/images/hunt-untruth.webp",
-        "covenant": "Igon"
+        "covenant": "Igon",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Hunt Untruth",
@@ -307,7 +352,7 @@
     "effect": "Whenever an armament you wield distorts, Draw 1. Then you may discard 1. If you don't, break this and put the top 2 cards of your deck into your scrapyard.",
     "covenant": "Igon",
     "_legal": {
-      "IGO": true
+      "STD": true
     }
   },
   "frayed-recollection": {
@@ -320,7 +365,10 @@
         "type": "Edict",
         "cost": 3,
         "image": "https://shunjitakano.github.io/LunarRing/images/frayed-recollection.webp",
-        "covenant": "Igon"
+        "covenant": "Igon",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Frayed Recollection",
@@ -329,7 +377,7 @@
     "effect": "You may look at the top card of your deck at any time. You may play cards from the top of your deck. If you play a card with Distort this way, it Distorts when it enters your armoury.",
     "covenant": "Igon",
     "_legal": {
-      "IGO": true
+      "STD": true
     }
   },
   "spreading-distortion": {
@@ -342,7 +390,10 @@
         "type": "Edict",
         "cost": 2,
         "image": "https://shunjitakano.github.io/LunarRing/images/spreading-distortion.webp",
-        "covenant": "Igon"
+        "covenant": "Igon",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Spreading Distortion",
@@ -351,7 +402,7 @@
     "effect": "Whenever an armament you wield Distorts, your opponent may put the top card of their deck into their scrapyard. If they don't, your opponent loses 1 life instead.",
     "covenant": "Igon",
     "_legal": {
-      "IGO": true
+      "STD": true
     }
   },
   "grasp-at-truth": {
@@ -364,7 +415,10 @@
         "type": "Edict",
         "cost": 4,
         "image": "https://shunjitakano.github.io/LunarRing/images/grasp-at-truth.webp",
-        "covenant": "Igon"
+        "covenant": "Igon",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Grasp At Truth",
@@ -373,7 +427,7 @@
     "effect": "Whenever an armament you wield Distorts, Scavenge a card with the same name. If you don't, lose 2 health. Eclipse: You can only play cards with Distort.",
     "covenant": "Igon",
     "_legal": {
-      "IGO": true
+      "STD": true
     }
   },
   "erroneous-slaughter": {
@@ -386,7 +440,10 @@
         "type": "Edict",
         "cost": 5,
         "image": "https://shunjitakano.github.io/LunarRing/images/erroneous-slaughter.webp",
-        "covenant": "Igon"
+        "covenant": "Igon",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Erroneous Slaughter",
@@ -395,7 +452,7 @@
     "effect": "At your recovery, your opponent creates 2 Hazed Memories. Full Moon: Hazed Memories your opponent wield cannot be broken.",
     "covenant": "Igon",
     "_legal": {
-      "IGO": true
+      "STD": true
     }
   },
   "thoughts-collapse": {
@@ -408,7 +465,10 @@
         "type": "Edict",
         "cost": 7,
         "image": "https://shunjitakano.github.io/LunarRing/images/thoughts-collapse.webp",
-        "covenant": "Igon"
+        "covenant": "Igon",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Thoughts Collapse",
@@ -417,7 +477,7 @@
     "effect": "At you recovery, Distort any number of armaments you wield. For each one not distorted this way put the top 2 cards of your deck into your scrapyard.",
     "covenant": "Igon",
     "_legal": {
-      "IGO": true
+      "STD": true
     }
   },
   "pale-disruption": {
@@ -430,7 +490,10 @@
         "type": "Riposte",
         "cost": 2,
         "image": "https://shunjitakano.github.io/LunarRing/images/pale-disruption.webp",
-        "covenant": "Igon"
+        "covenant": "Igon",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Pale Disruption",
@@ -439,7 +502,7 @@
     "effect": "Break an armament your opponent wields that entered their armoury this turn.",
     "covenant": "Igon",
     "_legal": {
-      "IGO": true
+      "STD": true
     }
   },
   "existential-dread": {
@@ -452,7 +515,10 @@
         "type": "Riposte",
         "cost": 2,
         "image": "https://shunjitakano.github.io/LunarRing/images/existential-dread.webp",
-        "covenant": "Igon"
+        "covenant": "Igon",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Existential Dread",
@@ -461,7 +527,7 @@
     "effect": "Distort an armament you wield. It cannot break or shatter this turn.",
     "covenant": "Igon",
     "_legal": {
-      "IGO": true
+      "STD": true
     }
   },
   "memories-washed": {
@@ -474,7 +540,10 @@
         "type": "Riposte",
         "cost": 4,
         "image": "https://shunjitakano.github.io/LunarRing/images/memories-washed.webp",
-        "covenant": "Igon"
+        "covenant": "Igon",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Memories Washed",
@@ -483,7 +552,7 @@
     "effect": "Break 2 armaments your opponent wields. Half Moon: Break all armaments instead.",
     "covenant": "Igon",
     "_legal": {
-      "IGO": true
+      "STD": true
     }
   },
   "igon-s-oath-sigil": {
@@ -496,7 +565,10 @@
         "type": "Tactic",
         "cost": 0,
         "image": "https://shunjitakano.github.io/LunarRing/images/igon-s-oath-sigil.webp",
-        "covenant": "Igon"
+        "covenant": "Igon",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Igon's Oath Sigil",
@@ -505,7 +577,7 @@
     "effect": "Gain 1 resolve this turn. Distort an armament you wield.",
     "covenant": "Igon",
     "_legal": {
-      "IGO": true
+      "STD": true
     }
   },
   "heliana-s-fragments": {
@@ -518,7 +590,10 @@
         "type": "Tactic",
         "cost": 2,
         "image": "https://shunjitakano.github.io/LunarRing/images/heliana-s-fragments.webp",
-        "covenant": "Igon"
+        "covenant": "Igon",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Heliana\u2019s Fragments",
@@ -527,7 +602,7 @@
     "effect": "Witness a card with Distort.",
     "covenant": "Igon",
     "_legal": {
-      "IGO": true
+      "STD": true
     }
   },
   "igon-s-timepiece": {
@@ -540,7 +615,10 @@
         "type": "Tactic",
         "cost": 2,
         "image": "https://shunjitakano.github.io/LunarRing/images/igon-s-timepiece.webp",
-        "covenant": "Igon"
+        "covenant": "Igon",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Igon's Timepiece",
@@ -549,7 +627,7 @@
     "effect": "Draw 1 and discard 1. You may play this from your scrapyard if an armament you wield distorted this turn.",
     "covenant": "Igon",
     "_legal": {
-      "IGO": true
+      "STD": true
     }
   },
   "fragments-of-being": {
@@ -562,7 +640,10 @@
         "type": "Tactic",
         "cost": 6,
         "image": "https://shunjitakano.github.io/LunarRing/images/fragments-of-being.webp",
-        "covenant": "Igon"
+        "covenant": "Igon",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Fragments of Being",
@@ -571,7 +652,7 @@
     "effect": "Play up to 4 armaments with Distort from your scrapyard without testing resolve. Then Shatter your hand.",
     "covenant": "Igon",
     "_legal": {
-      "IGO": true
+      "STD": true
     }
   },
   "reality-dissolves": {
@@ -584,7 +665,10 @@
         "type": "Tactic",
         "cost": 2,
         "image": "https://shunjitakano.github.io/LunarRing/images/reality-dissolves.webp",
-        "covenant": "Igon"
+        "covenant": "Igon",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Reality Dissolves",
@@ -593,7 +677,7 @@
     "effect": "Distort an armamnent you wield. Crescent Moon: If that armament was a weapon give it +1 attack as well.",
     "covenant": "Igon",
     "_legal": {
-      "IGO": true
+      "STD": true
     }
   },
   "everything-all-at-once": {
@@ -607,7 +691,10 @@
         "cost": 2,
         "image": "https://shunjitakano.github.io/LunarRing/images/everything-all-at-once.webp",
         "covenant": "Igon",
-        "attack": "n.a"
+        "attack": "n.a",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Everything All At Once",
@@ -617,7 +704,7 @@
     "attack": "n.a",
     "covenant": "Igon",
     "_legal": {
-      "IGO": true
+      "STD": true
     }
   },
   "clairvoyance-in-chaos": {
@@ -630,7 +717,10 @@
         "type": "Tactic",
         "cost": 6,
         "image": "https://shunjitakano.github.io/LunarRing/images/clairvoyance-in-chaos.webp",
-        "covenant": "Igon"
+        "covenant": "Igon",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Clairvoyance In Chaos",
@@ -639,7 +729,7 @@
     "effect": "Your opponent creates 5 Hazed Memories. Put the top 10 cards of your deck into your scrapyard. Full Moon: Put the top 2 cards of your deck into your scrapyard instead.",
     "covenant": "Igon",
     "_legal": {
-      "IGO": true
+      "STD": true
     }
   },
   "shape-of-memory": {
@@ -652,7 +742,10 @@
         "type": "Tactic",
         "cost": 2,
         "image": "https://shunjitakano.github.io/LunarRing/images/shape-of-memory.webp",
-        "covenant": "Igon"
+        "covenant": "Igon",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Shape of Memory",
@@ -661,7 +754,7 @@
     "effect": "Draw 1. You may Distort an armament you wield. If you do, draw 3 instead. Crescent Moon: Look at the top 3 cards of your deck and put them on the top or bottom of your deck in any order first.",
     "covenant": "Igon",
     "_legal": {
-      "IGO": true
+      "STD": true
     }
   },
   "temporary-judgement": {
@@ -674,7 +767,10 @@
         "type": "Tactic",
         "cost": 1,
         "image": "https://shunjitakano.github.io/LunarRing/images/temporary-judgement.webp",
-        "covenant": "Igon"
+        "covenant": "Igon",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Temporary Judgement",
@@ -683,7 +779,7 @@
     "effect": "Shatter an armament your opponent wields. Return it to their armoury at their next recovery.",
     "covenant": "Igon",
     "_legal": {
-      "IGO": true
+      "STD": true
     }
   },
   "leaking-possibility": {
@@ -696,7 +792,10 @@
         "type": "Tactic",
         "cost": 1,
         "image": "https://shunjitakano.github.io/LunarRing/images/leaking-possibility.webp",
-        "covenant": "Igon"
+        "covenant": "Igon",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Leaking Possibility",
@@ -705,7 +804,7 @@
     "effect": "Distort an armament you wield. At your recovery, Distort it again. Crescent Moon: Look at the top 3 cards instead and put them back in any order.",
     "covenant": "Igon",
     "_legal": {
-      "IGO": true
+      "STD": true
     }
   },
   "distortion-empowerment": {
@@ -718,7 +817,10 @@
         "type": "Tactic",
         "cost": 4,
         "image": "https://shunjitakano.github.io/LunarRing/images/distortion-empowerment.webp",
-        "covenant": "Igon"
+        "covenant": "Igon",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Distortion Empowerment",
@@ -727,7 +829,7 @@
     "effect": "Give an armament that Distorted this turn +3 Attack.",
     "covenant": "Igon",
     "_legal": {
-      "IGO": true
+      "STD": true
     }
   },
   "correction": {
@@ -740,7 +842,10 @@
         "type": "Tactic",
         "cost": 8,
         "image": "https://shunjitakano.github.io/LunarRing/images/correction.webp",
-        "covenant": "Igon"
+        "covenant": "Igon",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Correction",
@@ -749,7 +854,7 @@
     "effect": "Shatter all armaments your opponent wields.",
     "covenant": "Igon",
     "_legal": {
-      "IGO": true
+      "STD": true
     }
   },
   "hazed-memory": {
@@ -766,7 +871,10 @@
         "health": 1,
         "attack": 0,
         "isToken": true,
-        "isisToken": true
+        "isisToken": true,
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Hazed Memory",
@@ -778,7 +886,7 @@
     "covenant": "Igon",
     "isToken": true,
     "_legal": {
-      "IGO": true
+      "STD": true
     },
     "isisToken": true
   },
@@ -794,7 +902,10 @@
         "image": "https://shunjitakano.github.io/LunarRing/images/edge-of-consciousness.webp",
         "covenant": "Igon",
         "health": 2,
-        "attack": 0
+        "attack": 0,
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Edge of Consciousness",
@@ -805,7 +916,7 @@
     "health": 2,
     "covenant": "Igon",
     "_legal": {
-      "IGO": true
+      "STD": true
     }
   },
   "glory": {
@@ -820,7 +931,10 @@
         "image": "https://shunjitakano.github.io/LunarRing/images/glory.webp",
         "covenant": "Igon",
         "health": 1,
-        "attack": 5
+        "attack": 5,
+        "_legal": {
+          "STD": true
+        }
       },
       "back": {
         "name": {
@@ -831,7 +945,10 @@
         "image": "https://shunjitakano.github.io/LunarRing/images/glory-back.webp",
         "covenant": "Igon",
         "health": 1,
-        "attack": 5
+        "attack": 5,
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Glory",
@@ -842,7 +959,7 @@
     "health": 1,
     "covenant": "Igon",
     "_legal": {
-      "IGO": true
+      "STD": true
     }
   },
   "murmuring-deja-vu": {
@@ -857,7 +974,10 @@
         "image": "https://shunjitakano.github.io/LunarRing/images/murmuring-deja-vu.webp",
         "covenant": "Igon",
         "health": 3,
-        "attack": 2
+        "attack": 2,
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Murmuring Deja Vu",
@@ -868,7 +988,7 @@
     "health": 3,
     "covenant": "Igon",
     "_legal": {
-      "IGO": true
+      "STD": true
     }
   },
   "bow-of-igon": {
@@ -883,7 +1003,10 @@
         "image": "https://shunjitakano.github.io/LunarRing/images/bow-of-igon.webp",
         "covenant": "Igon",
         "health": 3,
-        "attack": 0
+        "attack": 0,
+        "_legal": {
+          "STD": true
+        }
       },
       "back": {
         "name": {
@@ -894,7 +1017,10 @@
         "image": "https://shunjitakano.github.io/LunarRing/images/bow-of-igon-back.webp",
         "covenant": "Igon",
         "health": 3,
-        "attack": 0
+        "attack": 0,
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Bow of Igon",
@@ -905,7 +1031,7 @@
     "health": 3,
     "covenant": "Igon",
     "_legal": {
-      "IGO": true
+      "STD": true
     }
   },
   "infinite-epochs": {
@@ -920,7 +1046,10 @@
         "image": "https://shunjitakano.github.io/LunarRing/images/infinite-epochs.webp",
         "covenant": "Igon",
         "health": 3,
-        "attack": 3
+        "attack": 3,
+        "_legal": {
+          "STD": true
+        }
       },
       "back": {
         "name": {
@@ -931,7 +1060,10 @@
         "image": "https://shunjitakano.github.io/LunarRing/images/infinite-epochs-back.webp",
         "covenant": "Igon",
         "health": 3,
-        "attack": 3
+        "attack": 3,
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Infinite Epochs",
@@ -942,7 +1074,7 @@
     "health": 3,
     "covenant": "Igon",
     "_legal": {
-      "IGO": true
+      "STD": true
     }
   },
   "unstable-glaive": {
@@ -957,7 +1089,10 @@
         "image": "https://shunjitakano.github.io/LunarRing/images/unstable-glaive.webp",
         "covenant": "Igon",
         "health": 2,
-        "attack": 3
+        "attack": 3,
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Unstable Glaive",
@@ -968,7 +1103,7 @@
     "health": 2,
     "covenant": "Igon",
     "_legal": {
-      "IGO": true
+      "STD": true
     }
   },
   "gauntlet-of-thought": {
@@ -983,7 +1118,10 @@
         "image": "https://shunjitakano.github.io/LunarRing/images/gauntlet-of-thought.webp",
         "covenant": "Igon",
         "health": 4,
-        "attack": 1
+        "attack": 1,
+        "_legal": {
+          "STD": true
+        }
       },
       "back": {
         "name": {
@@ -994,7 +1132,10 @@
         "image": "https://shunjitakano.github.io/LunarRing/images/gauntlet-of-thought-back.webp",
         "covenant": "Igon",
         "health": 4,
-        "attack": 1
+        "attack": 1,
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Gauntlet of Thought",
@@ -1005,7 +1146,7 @@
     "health": 4,
     "covenant": "Igon",
     "_legal": {
-      "IGO": true
+      "STD": true
     }
   },
   "oozing-dagger": {
@@ -1020,7 +1161,10 @@
         "image": "https://shunjitakano.github.io/LunarRing/images/oozing-dagger.webp",
         "covenant": "Igon",
         "health": 1,
-        "attack": 1
+        "attack": 1,
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Oozing Dagger",
@@ -1031,7 +1175,7 @@
     "health": 1,
     "covenant": "Igon",
     "_legal": {
-      "IGO": true
+      "STD": true
     }
   },
   "blade-of-abberation": {
@@ -1046,7 +1190,10 @@
         "image": "https://shunjitakano.github.io/LunarRing/images/blade-of-abberation.webp",
         "covenant": "Igon",
         "health": 3,
-        "attack": 1
+        "attack": 1,
+        "_legal": {
+          "STD": true
+        }
       },
       "back": {
         "name": {
@@ -1057,7 +1204,10 @@
         "image": "https://shunjitakano.github.io/LunarRing/images/blade-of-abberation-back.webp",
         "covenant": "Igon",
         "health": 3,
-        "attack": 1
+        "attack": 1,
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Blade of Abberation",
@@ -1068,7 +1218,7 @@
     "health": 3,
     "covenant": "Igon",
     "_legal": {
-      "IGO": true
+      "STD": true
     }
   },
   "bow-of-every-possibility": {
@@ -1083,7 +1233,10 @@
         "image": "https://shunjitakano.github.io/LunarRing/images/bow-of-every-possibility.webp",
         "covenant": "Igon",
         "health": 2,
-        "attack": 1
+        "attack": 1,
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Bow of Every Possibility",
@@ -1094,7 +1247,7 @@
     "health": 2,
     "covenant": "Igon",
     "_legal": {
-      "IGO": true
+      "STD": true
     }
   },
   "ritual-attendent": {
@@ -1109,7 +1262,10 @@
         "image": "https://shunjitakano.github.io/LunarRing/images/ritual-attendent.webp",
         "covenant": "Yandari",
         "health": 1,
-        "attack": 1
+        "attack": 1,
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Ritual Attendent",
@@ -1120,7 +1276,7 @@
     "health": 1,
     "covenant": "Yandari",
     "_legal": {
-      "YAN": true
+      "STD": true
     }
   },
   "pallbearer": {
@@ -1135,7 +1291,10 @@
         "image": "https://shunjitakano.github.io/LunarRing/images/pallbearer.webp",
         "covenant": "Yandari",
         "health": 1,
-        "attack": 1
+        "attack": 1,
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Pallbearer",
@@ -1146,7 +1305,7 @@
     "health": 1,
     "covenant": "Yandari",
     "_legal": {
-      "YAN": true
+      "STD": true
     }
   },
   "blood-is-a-reminder": {
@@ -1159,7 +1318,10 @@
         "type": "Edict",
         "cost": 1,
         "image": "https://shunjitakano.github.io/LunarRing/images/blood-is-a-reminder.webp",
-        "covenant": "Yandari"
+        "covenant": "Yandari",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Blood Is A Reminder",
@@ -1168,7 +1330,7 @@
     "effect": "Exhaust: Lose 1 health and Draw 1. Break this. Crescent Moon: Lose 1 health and Draw 2 instead.",
     "covenant": "Yandari",
     "_legal": {
-      "YAN": true
+      "STD": true
     }
   },
   "make-it-quick": {
@@ -1181,7 +1343,10 @@
         "type": "Edict",
         "cost": 5,
         "image": "https://shunjitakano.github.io/LunarRing/images/make-it-quick.webp",
-        "covenant": "Yandari"
+        "covenant": "Yandari",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Make It Quick",
@@ -1190,7 +1355,7 @@
     "effect": "Whenever your Show Mercy, gain 2 mercy stacks instead. At your recovery, if you do not Show Mercy, lose 2 health.",
     "covenant": "Yandari",
     "_legal": {
-      "YAN": true
+      "STD": true
     }
   },
   "regret": {
@@ -1203,7 +1368,10 @@
         "type": "Edict",
         "cost": 3,
         "image": "https://shunjitakano.github.io/LunarRing/images/regret.webp",
-        "covenant": "Yandari"
+        "covenant": "Yandari",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Regret",
@@ -1212,7 +1380,7 @@
     "effect": "Whenever you deal damage to your opponent, if you dealt 3 or less damage, prevent that damage and Show Mercy.",
     "covenant": "Yandari",
     "_legal": {
-      "YAN": true
+      "STD": true
     }
   },
   "personal-creed": {
@@ -1225,7 +1393,10 @@
         "type": "Edict",
         "cost": 3,
         "image": "https://shunjitakano.github.io/LunarRing/images/personal-creed.webp",
-        "covenant": "Yandari"
+        "covenant": "Yandari",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Personal Creed",
@@ -1234,7 +1405,7 @@
     "effect": "Your Mercy gives 1 additional damage. You cannot have more than 5 Mercy. If you have no Mercy, break this.",
     "covenant": "Yandari",
     "_legal": {
-      "YAN": true
+      "STD": true
     }
   },
   "beg-for-forgiveness": {
@@ -1247,7 +1418,10 @@
         "type": "Edict",
         "cost": 2,
         "image": "https://shunjitakano.github.io/LunarRing/images/beg-for-forgiveness.webp",
-        "covenant": "Yandari"
+        "covenant": "Yandari",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Beg for Forgiveness",
@@ -1256,7 +1430,7 @@
     "effect": "Whenever a player's condition worsens, draw 2 cards and lose 2 health and break this.",
     "covenant": "Yandari",
     "_legal": {
-      "YAN": true
+      "STD": true
     }
   },
   "remember-the-dead": {
@@ -1269,7 +1443,10 @@
         "type": "Edict",
         "cost": 5,
         "image": "https://shunjitakano.github.io/LunarRing/images/remember-the-dead.webp",
-        "covenant": "Yandari"
+        "covenant": "Yandari",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Remember the Dead",
@@ -1278,7 +1455,7 @@
     "effect": "Exhaust: Give a weapon you wield +X this turn where X is equal to the number of Acolytes in your opponents scrapyard.",
     "covenant": "Yandari",
     "_legal": {
-      "YAN": true
+      "STD": true
     }
   },
   "sacred-ichor": {
@@ -1291,7 +1468,10 @@
         "type": "Edict",
         "cost": 5,
         "image": "https://shunjitakano.github.io/LunarRing/images/sacred-ichor.webp",
-        "covenant": "Yandari"
+        "covenant": "Yandari",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Sacred Ichor",
@@ -1300,7 +1480,7 @@
     "effect": "The first time you lose health each turn, create 2 Sacred Blood's. At your recovery, if you wield no Sacred Bloods, break this.",
     "covenant": "Yandari",
     "_legal": {
-      "YAN": true
+      "STD": true
     }
   },
   "suffer-so-that-no-one-else-does": {
@@ -1313,7 +1493,10 @@
         "type": "Edict",
         "cost": 9,
         "image": "https://shunjitakano.github.io/LunarRing/images/suffer-so-that-no-one-else-does.webp",
-        "covenant": "Yandari"
+        "covenant": "Yandari",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Suffer So That No One Else Does",
@@ -1322,7 +1505,7 @@
     "effect": "Cards you play cost health instead of testing resolve.",
     "covenant": "Yandari",
     "_legal": {
-      "YAN": true
+      "STD": true
     }
   },
   "ritual": {
@@ -1335,7 +1518,10 @@
         "type": "Riposte",
         "cost": 3,
         "image": "https://shunjitakano.github.io/LunarRing/images/ritual.webp",
-        "covenant": "Yandari"
+        "covenant": "Yandari",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Ritual",
@@ -1344,7 +1530,7 @@
     "effect": "Show Mercy twice.",
     "covenant": "Yandari",
     "_legal": {
-      "YAN": true
+      "STD": true
     }
   },
   "earned-your-rest": {
@@ -1357,7 +1543,10 @@
         "type": "Riposte",
         "cost": 2,
         "image": "https://shunjitakano.github.io/LunarRing/images/earned-your-rest.webp",
-        "covenant": "Yandari"
+        "covenant": "Yandari",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Earned Your Rest",
@@ -1366,7 +1555,7 @@
     "effect": "Break an acolyte your opponent wields. Half Moon: Break all Acolytes your opponent wields instead.",
     "covenant": "Yandari",
     "_legal": {
-      "YAN": true
+      "STD": true
     }
   },
   "iron-will": {
@@ -1379,7 +1568,10 @@
         "type": "Riposte",
         "cost": 2,
         "image": "https://shunjitakano.github.io/LunarRing/images/iron-will.webp",
-        "covenant": "Yandari"
+        "covenant": "Yandari",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Iron Will",
@@ -1388,7 +1580,7 @@
     "effect": "Your health cannot be reduced below 1 this turn. Eclipse: This cannot be played.",
     "covenant": "Yandari",
     "_legal": {
-      "YAN": true
+      "STD": true
     }
   },
   "laced-in-pity": {
@@ -1401,7 +1593,10 @@
         "type": "Riposte",
         "cost": 3,
         "image": "https://shunjitakano.github.io/LunarRing/images/laced-in-pity.webp",
-        "covenant": "Yandari"
+        "covenant": "Yandari",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Laced in Pity",
@@ -1410,7 +1605,7 @@
     "effect": "Restore X health where X is equal to your Mercy.",
     "covenant": "Yandari",
     "_legal": {
-      "YAN": true
+      "STD": true
     }
   },
   "hope-in-blood": {
@@ -1423,7 +1618,10 @@
         "type": "Riposte",
         "cost": 5,
         "image": "https://shunjitakano.github.io/LunarRing/images/hope-in-blood.webp",
-        "covenant": "Yandari"
+        "covenant": "Yandari",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Hope in Blood",
@@ -1432,7 +1630,7 @@
     "effect": "Create 4 Sacred Blood. Full Moon: For the rest of the game your Sacred Blood restore 3 health instead.",
     "covenant": "Yandari",
     "_legal": {
-      "YAN": true
+      "STD": true
     }
   },
   "yandari-s-oath-sigil": {
@@ -1445,7 +1643,10 @@
         "type": "Tactic",
         "cost": 0,
         "image": "https://shunjitakano.github.io/LunarRing/images/yandari-s-oath-sigil.webp",
-        "covenant": "Yandari"
+        "covenant": "Yandari",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Yandari's Oath Sigil",
@@ -1454,7 +1655,7 @@
     "effect": "Gain 1 resolve this turn. Show Mercy.",
     "covenant": "Yandari",
     "_legal": {
-      "YAN": true
+      "STD": true
     }
   },
   "prick-of-sacrifice": {
@@ -1467,7 +1668,10 @@
         "type": "Tactic",
         "cost": 2,
         "image": "https://shunjitakano.github.io/LunarRing/images/prick-of-sacrifice.webp",
-        "covenant": "Yandari"
+        "covenant": "Yandari",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Prick of Sacrifice",
@@ -1476,7 +1680,7 @@
     "effect": "Lose 1 health and draw 1. Crescent Moon: Draw 2 and discard 1 instead.",
     "covenant": "Yandari",
     "_legal": {
-      "YAN": true
+      "STD": true
     }
   },
   "savour-pain": {
@@ -1489,7 +1693,10 @@
         "type": "Tactic",
         "cost": 3,
         "image": "https://shunjitakano.github.io/LunarRing/images/savour-pain.webp",
-        "covenant": "Yandari"
+        "covenant": "Yandari",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Savour Pain",
@@ -1498,7 +1705,7 @@
     "effect": "Lose 2 health and create a \u201cSacred Blood\u201d. Full Moon: Create 4 Sacred Bloods instead.",
     "covenant": "Yandari",
     "_legal": {
-      "YAN": true
+      "STD": true
     }
   },
   "relinquish": {
@@ -1511,7 +1718,10 @@
         "type": "Tactic",
         "cost": 2,
         "image": "https://shunjitakano.github.io/LunarRing/images/relinquish.webp",
-        "covenant": "Yandari"
+        "covenant": "Yandari",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Relinquish",
@@ -1520,7 +1730,7 @@
     "effect": "Lose 2 health and break an armament that tests 2 or less resolve. Half Moon: Break any armament instead.",
     "covenant": "Yandari",
     "_legal": {
-      "YAN": true
+      "STD": true
     }
   },
   "symbol-of-yandari": {
@@ -1533,7 +1743,10 @@
         "type": "Tactic",
         "cost": 4,
         "image": "https://shunjitakano.github.io/LunarRing/images/symbol-of-yandari.webp",
-        "covenant": "Yandari"
+        "covenant": "Yandari",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Symbol of Yandari",
@@ -1542,7 +1755,7 @@
     "effect": "Show Mercy X times where X is equal to the attack of a weapon you wield. Crescent Moon: Repeat this effect.",
     "covenant": "Yandari",
     "_legal": {
-      "YAN": true
+      "STD": true
     }
   },
   "necessary-pain": {
@@ -1555,7 +1768,10 @@
         "type": "Tactic",
         "cost": 2,
         "image": "https://shunjitakano.github.io/LunarRing/images/necessary-pain.webp",
-        "covenant": "Yandari"
+        "covenant": "Yandari",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Necessary Pain",
@@ -1564,7 +1780,7 @@
     "effect": "Give a weapon you wield +1 attack. If you have lost 3 or more health this turn, give a weapon you wield +3 attack instead.",
     "covenant": "Yandari",
     "_legal": {
-      "YAN": true
+      "STD": true
     }
   },
   "embrace-death": {
@@ -1577,7 +1793,10 @@
         "type": "Tactic",
         "cost": 1,
         "image": "https://shunjitakano.github.io/LunarRing/images/embrace-death.webp",
-        "covenant": "Yandari"
+        "covenant": "Yandari",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Embrace Death",
@@ -1586,7 +1805,7 @@
     "effect": "Show Mercy.",
     "covenant": "Yandari",
     "_legal": {
-      "YAN": true
+      "STD": true
     }
   },
   "call-of-blood": {
@@ -1599,7 +1818,10 @@
         "type": "Tactic",
         "cost": 2,
         "image": "https://shunjitakano.github.io/LunarRing/images/call-of-blood.webp",
-        "covenant": "Yandari"
+        "covenant": "Yandari",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Call of Blood",
@@ -1608,7 +1830,7 @@
     "effect": "If you lost 2 or more health this turn, give a weapon you wield +1 temper. Crescent Moon: Give a weapon you wield +1 attack as well.",
     "covenant": "Yandari",
     "_legal": {
-      "YAN": true
+      "STD": true
     }
   },
   "memento-mori": {
@@ -1621,7 +1843,10 @@
         "type": "Tactic",
         "cost": 2,
         "image": "https://shunjitakano.github.io/LunarRing/images/memento-mori.webp",
-        "covenant": "Yandari"
+        "covenant": "Yandari",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Memento Mori",
@@ -1630,7 +1855,7 @@
     "effect": "Lose 1 health. If your condition is worse than your opponent, draw 2. Crescent Moon: Draw 2 regardless.",
     "covenant": "Yandari",
     "_legal": {
-      "YAN": true
+      "STD": true
     }
   },
   "end-suffering": {
@@ -1643,7 +1868,10 @@
         "type": "Tactic",
         "cost": 3,
         "image": "https://shunjitakano.github.io/LunarRing/images/end-suffering.webp",
-        "covenant": "Yandari"
+        "covenant": "Yandari",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "End Suffering",
@@ -1652,7 +1880,7 @@
     "effect": "Break an acolyte your opponent wields. If you lost 5 or more health this turn, break all armaments your opponent wields instead.",
     "covenant": "Yandari",
     "_legal": {
-      "YAN": true
+      "STD": true
     }
   },
   "goad-death": {
@@ -1665,7 +1893,10 @@
         "type": "Tactic",
         "cost": 4,
         "image": "https://shunjitakano.github.io/LunarRing/images/goad-death.webp",
-        "covenant": "Yandari"
+        "covenant": "Yandari",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Goad Death",
@@ -1674,7 +1905,7 @@
     "effect": "Lose 3 health and draw 3. Half Moon: Lose 4 health, and draw 4 instead.",
     "covenant": "Yandari",
     "_legal": {
-      "YAN": true
+      "STD": true
     }
   },
   "bloody-tribute": {
@@ -1687,7 +1918,10 @@
         "type": "Tactic",
         "cost": 7,
         "image": "https://shunjitakano.github.io/LunarRing/images/bloody-tribute.webp",
-        "covenant": "Yandari"
+        "covenant": "Yandari",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Bloody Tribute",
@@ -1696,7 +1930,7 @@
     "effect": "Your weapons deal double damage this turn. After a weapon strikes this turn, shatter it and lose 2 health.",
     "covenant": "Yandari",
     "_legal": {
-      "YAN": true
+      "STD": true
     }
   },
   "a-better-death": {
@@ -1709,7 +1943,10 @@
         "type": "Tactic",
         "cost": 6,
         "image": "https://shunjitakano.github.io/LunarRing/images/a-better-death.webp",
-        "covenant": "Yandari"
+        "covenant": "Yandari",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "A Better Death",
@@ -1718,7 +1955,7 @@
     "effect": "Break all acolytes your opponent wields. Give a weapon +X attack where X is equal to the number of Acolytes broken this way.",
     "covenant": "Yandari",
     "_legal": {
-      "YAN": true
+      "STD": true
     }
   },
   "sacred-blood": {
@@ -1733,7 +1970,10 @@
         "image": "https://shunjitakano.github.io/LunarRing/images/sacred-blood.webp",
         "covenant": "Yandari",
         "isToken": true,
-        "isisToken": true
+        "isisToken": true,
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Sacred Blood",
@@ -1743,7 +1983,7 @@
     "covenant": "Yandari",
     "isToken": true,
     "_legal": {
-      "YAN": true
+      "STD": true
     },
     "isisToken": true
   },
@@ -1759,7 +1999,10 @@
         "image": "https://shunjitakano.github.io/LunarRing/images/promise.webp",
         "covenant": "Yandari",
         "health": 2,
-        "attack": 1
+        "attack": 1,
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Promise",
@@ -1770,7 +2013,7 @@
     "health": 2,
     "covenant": "Yandari",
     "_legal": {
-      "YAN": true
+      "STD": true
     }
   },
   "undying-oath": {
@@ -1785,7 +2028,10 @@
         "image": "https://shunjitakano.github.io/LunarRing/images/undying-oath.webp",
         "covenant": "Yandari",
         "health": 1,
-        "attack": 2
+        "attack": 2,
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Undying Oath",
@@ -1796,7 +2042,7 @@
     "health": 1,
     "covenant": "Yandari",
     "_legal": {
-      "YAN": true
+      "STD": true
     }
   },
   "life": {
@@ -1811,7 +2057,10 @@
         "image": "https://shunjitakano.github.io/LunarRing/images/life.webp",
         "covenant": "Yandari",
         "health": 2,
-        "attack": 1
+        "attack": 1,
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Life",
@@ -1822,7 +2071,7 @@
     "health": 2,
     "covenant": "Yandari",
     "_legal": {
-      "YAN": true
+      "STD": true
     }
   },
   "peaceful-sting": {
@@ -1837,7 +2086,10 @@
         "image": "https://shunjitakano.github.io/LunarRing/images/peaceful-sting.webp",
         "covenant": "Yandari",
         "health": 2,
-        "attack": 2
+        "attack": 2,
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Peaceful Sting",
@@ -1848,7 +2100,7 @@
     "health": 2,
     "covenant": "Yandari",
     "_legal": {
-      "YAN": true
+      "STD": true
     }
   },
   "rest": {
@@ -1863,7 +2115,10 @@
         "image": "https://shunjitakano.github.io/LunarRing/images/rest.webp",
         "covenant": "Yandari",
         "health": 2,
-        "attack": 2
+        "attack": 2,
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Rest",
@@ -1874,7 +2129,7 @@
     "health": 2,
     "covenant": "Yandari",
     "_legal": {
-      "YAN": true
+      "STD": true
     }
   },
   "death": {
@@ -1889,7 +2144,10 @@
         "image": "https://shunjitakano.github.io/LunarRing/images/death.webp",
         "covenant": "Yandari",
         "health": 2,
-        "attack": 3
+        "attack": 3,
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Death",
@@ -1900,7 +2158,7 @@
     "health": 2,
     "covenant": "Yandari",
     "_legal": {
-      "YAN": true
+      "STD": true
     }
   },
   "vermillion-edge": {
@@ -1915,7 +2173,10 @@
         "image": "https://shunjitakano.github.io/LunarRing/images/vermillion-edge.webp",
         "covenant": "Yandari",
         "health": 2,
-        "attack": 5
+        "attack": 5,
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Vermillion Edge",
@@ -1926,7 +2187,7 @@
     "health": 2,
     "covenant": "Yandari",
     "_legal": {
-      "YAN": true
+      "STD": true
     }
   },
   "liberation": {
@@ -1941,7 +2202,10 @@
         "image": "https://shunjitakano.github.io/LunarRing/images/liberation.webp",
         "covenant": "Yandari",
         "health": 2,
-        "attack": 1
+        "attack": 1,
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Liberation",
@@ -1952,7 +2216,7 @@
     "health": 2,
     "covenant": "Yandari",
     "_legal": {
-      "YAN": true
+      "STD": true
     }
   },
   "uldes-atonement": {
@@ -1967,7 +2231,10 @@
         "image": "https://shunjitakano.github.io/LunarRing/images/uldes-atonement.webp",
         "covenant": "Yandari",
         "health": 2,
-        "attack": 1
+        "attack": 1,
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Uldes' Atonement",
@@ -1978,7 +2245,7 @@
     "health": 2,
     "covenant": "Yandari",
     "_legal": {
-      "YAN": true
+      "STD": true
     }
   },
   "thirsting-steel": {
@@ -1993,7 +2260,10 @@
         "image": "https://shunjitakano.github.io/LunarRing/images/thirsting-steel.webp",
         "covenant": "Yandari",
         "health": 2,
-        "attack": 1
+        "attack": 1,
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Thirsting Steel",
@@ -2004,7 +2274,7 @@
     "health": 2,
     "covenant": "Yandari",
     "_legal": {
-      "YAN": true
+      "STD": true
     }
   },
   "mourning-glory": {
@@ -2019,7 +2289,10 @@
         "image": "https://shunjitakano.github.io/LunarRing/images/mourning-glory.webp",
         "covenant": "Yandari",
         "health": 3,
-        "attack": 4
+        "attack": 4,
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Mourning Glory",
@@ -2030,7 +2303,7 @@
     "health": 3,
     "covenant": "Yandari",
     "_legal": {
-      "YAN": true
+      "STD": true
     }
   },
   "worship": {
@@ -2045,7 +2318,10 @@
         "image": "https://shunjitakano.github.io/LunarRing/images/worship.webp",
         "covenant": "Yandari",
         "health": 1,
-        "attack": 0
+        "attack": 0,
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Worship",
@@ -2056,7 +2332,7 @@
     "health": 1,
     "covenant": "Yandari",
     "_legal": {
-      "YAN": true
+      "STD": true
     }
   },
   "bleeding-boulder": {
@@ -2071,7 +2347,10 @@
         "image": "https://shunjitakano.github.io/LunarRing/images/bleeding-boulder.webp",
         "covenant": "Kuran",
         "health": 2,
-        "attack": 1
+        "attack": 1,
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Bleeding Boulder",
@@ -2082,7 +2361,7 @@
     "health": 2,
     "covenant": "Kuran",
     "_legal": {
-      "KUR": true
+      "STD": true
     }
   },
   "jin-blazing-serpent": {
@@ -2097,7 +2376,10 @@
         "image": "https://shunjitakano.github.io/LunarRing/images/jin-blazing-serpent.webp",
         "covenant": "Kuran",
         "health": 1,
-        "attack": 1
+        "attack": 1,
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Jin, Blazing Serpent",
@@ -2108,7 +2390,7 @@
     "health": 1,
     "covenant": "Kuran",
     "_legal": {
-      "KUR": true
+      "STD": true
     }
   },
   "feng-tempest-serpent": {
@@ -2123,7 +2405,10 @@
         "image": "https://shunjitakano.github.io/LunarRing/images/feng-tempest-serpent.webp",
         "covenant": "Kuran",
         "health": 1,
-        "attack": 1
+        "attack": 1,
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Feng, Tempest Serpent",
@@ -2134,7 +2419,7 @@
     "health": 1,
     "covenant": "Kuran",
     "_legal": {
-      "KUR": true
+      "STD": true
     }
   },
   "dread-breeze": {
@@ -2149,7 +2434,10 @@
         "image": "https://shunjitakano.github.io/LunarRing/images/dread-breeze.webp",
         "covenant": "Kuran",
         "health": 1,
-        "attack": 4
+        "attack": 4,
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Dread Breeze",
@@ -2160,7 +2448,7 @@
     "health": 1,
     "covenant": "Kuran",
     "_legal": {
-      "KUR": true
+      "STD": true
     }
   },
   "turbulent-ember": {
@@ -2175,7 +2463,10 @@
         "image": "https://shunjitakano.github.io/LunarRing/images/turbulent-ember.webp",
         "covenant": "Kuran",
         "health": 1,
-        "attack": 0
+        "attack": 0,
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Turbulent Ember",
@@ -2186,7 +2477,7 @@
     "health": 1,
     "covenant": "Kuran",
     "_legal": {
-      "KUR": true
+      "STD": true
     }
   },
   "cornered-mountain": {
@@ -2201,7 +2492,10 @@
         "image": "https://shunjitakano.github.io/LunarRing/images/cornered-mountain.webp",
         "covenant": "Kuran",
         "health": 1,
-        "attack": 0
+        "attack": 0,
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Cornered Mountain",
@@ -2212,7 +2506,7 @@
     "health": 1,
     "covenant": "Kuran",
     "_legal": {
-      "KUR": true
+      "STD": true
     }
   },
   "it-that-heralds-ruin": {
@@ -2227,7 +2521,10 @@
         "image": "https://shunjitakano.github.io/LunarRing/images/it-that-heralds-ruin.webp",
         "covenant": "Kuran",
         "health": 2,
-        "attack": 2
+        "attack": 2,
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "It That Heralds Ruin",
@@ -2238,7 +2535,7 @@
     "health": 2,
     "covenant": "Kuran",
     "_legal": {
-      "KUR": true
+      "STD": true
     }
   },
   "endless-slate": {
@@ -2253,7 +2550,10 @@
         "image": "https://shunjitakano.github.io/LunarRing/images/endless-slate.webp",
         "covenant": "Kuran",
         "health": 3,
-        "attack": 1
+        "attack": 1,
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Endless Slate",
@@ -2264,7 +2564,7 @@
     "health": 3,
     "covenant": "Kuran",
     "_legal": {
-      "KUR": true
+      "STD": true
     }
   },
   "caress": {
@@ -2279,7 +2579,10 @@
         "image": "https://shunjitakano.github.io/LunarRing/images/caress.webp",
         "covenant": "Kuran",
         "health": 2,
-        "attack": 1
+        "attack": 1,
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Caress",
@@ -2290,7 +2593,7 @@
     "health": 2,
     "covenant": "Kuran",
     "_legal": {
-      "KUR": true
+      "STD": true
     }
   },
   "the-flame-that-devours": {
@@ -2305,7 +2608,10 @@
         "image": "https://shunjitakano.github.io/LunarRing/images/the-flame-that-devours.webp",
         "covenant": "Kuran",
         "health": 1,
-        "attack": 2
+        "attack": 2,
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "The Flame That Devours",
@@ -2316,7 +2622,7 @@
     "health": 1,
     "covenant": "Kuran",
     "_legal": {
-      "KUR": true
+      "STD": true
     }
   },
   "breathing-tide": {
@@ -2331,7 +2637,10 @@
         "image": "https://shunjitakano.github.io/LunarRing/images/breathing-tide.webp",
         "covenant": "Kuran",
         "health": 2,
-        "attack": 2
+        "attack": 2,
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Breathing Tide",
@@ -2342,7 +2651,7 @@
     "health": 2,
     "covenant": "Kuran",
     "_legal": {
-      "KUR": true
+      "STD": true
     }
   },
   "stillwater": {
@@ -2357,7 +2666,10 @@
         "image": "https://shunjitakano.github.io/LunarRing/images/stillwater.webp",
         "covenant": "Kuran",
         "health": 3,
-        "attack": 1
+        "attack": 1,
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Stillwater",
@@ -2368,7 +2680,7 @@
     "health": 3,
     "covenant": "Kuran",
     "_legal": {
-      "KUR": true
+      "STD": true
     }
   },
   "boiling-rain": {
@@ -2383,7 +2695,10 @@
         "image": "https://shunjitakano.github.io/LunarRing/images/boiling-rain.webp",
         "covenant": "Kuran",
         "health": 1,
-        "attack": 1
+        "attack": 1,
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Boiling Rain",
@@ -2394,7 +2709,7 @@
     "health": 1,
     "covenant": "Kuran",
     "_legal": {
-      "KUR": true
+      "STD": true
     }
   },
   "cacophony-of-fauna": {
@@ -2407,7 +2722,10 @@
         "type": "Edict",
         "cost": 5,
         "image": "https://shunjitakano.github.io/LunarRing/images/cacophony-of-fauna.webp",
-        "covenant": "Kuran"
+        "covenant": "Kuran",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Cacophony of Fauna",
@@ -2416,7 +2734,7 @@
     "effect": "Your cards test 1 less resolve for each grafted armament you wield. Whenever you play a card, break an acolyte you wield.",
     "covenant": "Kuran",
     "_legal": {
-      "KUR": true
+      "STD": true
     }
   },
   "cowering-roots": {
@@ -2429,7 +2747,10 @@
         "type": "Edict",
         "cost": 4,
         "image": "https://shunjitakano.github.io/LunarRing/images/cowering-roots.webp",
-        "covenant": "Kuran"
+        "covenant": "Kuran",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Cowering Roots",
@@ -2438,7 +2759,7 @@
     "effect": "Whenever you play a weapon, You may Graft an ungrafted acolyte you wield to it without resting resolve. At your preparation, if you do not wield a weapon, break this and put the top 5 cards of your deck into your scrapyard.",
     "covenant": "Kuran",
     "_legal": {
-      "KUR": true
+      "STD": true
     }
   },
   "gro-s-conviction": {
@@ -2451,7 +2772,10 @@
         "type": "Edict",
         "cost": 3,
         "image": "https://shunjitakano.github.io/LunarRing/images/gro-s-conviction.webp",
-        "covenant": "Kuran"
+        "covenant": "Kuran",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Gro's Conviction",
@@ -2460,7 +2784,7 @@
     "effect": "Whenever you Graft to a weapon you wield, you may give that weapon +1 temper. If you do, break me.",
     "covenant": "Kuran",
     "_legal": {
-      "KUR": true
+      "STD": true
     }
   },
   "leeching-elements": {
@@ -2473,7 +2797,10 @@
         "type": "Edict",
         "cost": 2,
         "image": "https://shunjitakano.github.io/LunarRing/images/leeching-elements.webp",
-        "covenant": "Kuran"
+        "covenant": "Kuran",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Leeching Elements",
@@ -2482,7 +2809,7 @@
     "effect": "At your recovery, if you wield a grafted weapon, draw 1. Crescent Moon: This cannot break.",
     "covenant": "Kuran",
     "_legal": {
-      "KUR": true
+      "STD": true
     }
   },
   "anointed-host": {
@@ -2495,7 +2822,10 @@
         "type": "Riposte",
         "cost": 2,
         "image": "https://shunjitakano.github.io/LunarRing/images/anointed-host.webp",
-        "covenant": "Kuran"
+        "covenant": "Kuran",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Anointed Host",
@@ -2504,7 +2834,7 @@
     "effect": "Return up to 2 acolytes from your scrapyard to your hand.",
     "covenant": "Kuran",
     "_legal": {
-      "KUR": true
+      "STD": true
     }
   },
   "embrace-the-elements": {
@@ -2517,7 +2847,10 @@
         "type": "Riposte",
         "cost": 2,
         "image": "https://shunjitakano.github.io/LunarRing/images/embrace-the-elements.webp",
-        "covenant": "Kuran"
+        "covenant": "Kuran",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Embrace the Elements",
@@ -2526,7 +2859,7 @@
     "effect": "Restore X health, where X is equal to the number of acolytes you wield.",
     "covenant": "Kuran",
     "_legal": {
-      "KUR": true
+      "STD": true
     }
   },
   "kuranic-rebirth": {
@@ -2539,7 +2872,10 @@
         "type": "Riposte",
         "cost": 1,
         "image": "https://shunjitakano.github.io/LunarRing/images/kuranic-rebirth.webp",
-        "covenant": "Kuran"
+        "covenant": "Kuran",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Kuranic Rebirth",
@@ -2548,7 +2884,7 @@
     "effect": "Return a weapon or acolyte from your scrapyard to your hand.",
     "covenant": "Kuran",
     "_legal": {
-      "KUR": true
+      "STD": true
     }
   },
   "unwavered-verdance": {
@@ -2561,7 +2897,10 @@
         "type": "Riposte",
         "cost": 2,
         "image": "https://shunjitakano.github.io/LunarRing/images/unwavered-verdance.webp",
-        "covenant": "Kuran"
+        "covenant": "Kuran",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Unwavered Verdance",
@@ -2570,7 +2909,7 @@
     "effect": "Choose a grafted armament. It cannot be broken this turn. Crescent Moon: This tests 1 less resolve.",
     "covenant": "Kuran",
     "_legal": {
-      "KUR": true
+      "STD": true
     }
   },
   "devoured-nature": {
@@ -2583,7 +2922,10 @@
         "type": "Riposte",
         "cost": 2,
         "image": "https://shunjitakano.github.io/LunarRing/images/devoured-nature.webp",
-        "covenant": "Kuran"
+        "covenant": "Kuran",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Devoured Nature",
@@ -2592,7 +2934,7 @@
     "effect": "If you wield a weapon with 3 or more grafts attached, break an armament. Full Moon: Break all armaments your opponent wields instead.",
     "covenant": "Kuran",
     "_legal": {
-      "KUR": true
+      "STD": true
     }
   },
   "kuran-s-oath-sigil": {
@@ -2605,7 +2947,10 @@
         "type": "Tactic",
         "cost": 0,
         "image": "https://shunjitakano.github.io/LunarRing/images/kuran-s-oath-sigil.webp",
-        "covenant": "Kuran"
+        "covenant": "Kuran",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Kuran's Oath Sigil",
@@ -2614,7 +2959,7 @@
     "effect": "Gain 1 resolve this turn only. Witness an Acolyte with Graft.",
     "covenant": "Kuran",
     "_legal": {
-      "KUR": true
+      "STD": true
     }
   },
   "omen-fruit": {
@@ -2627,7 +2972,10 @@
         "type": "Tactic",
         "cost": 4,
         "image": "https://shunjitakano.github.io/LunarRing/images/omen-fruit.webp",
-        "covenant": "Kuran"
+        "covenant": "Kuran",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Omen Fruit",
@@ -2636,7 +2984,7 @@
     "effect": "You may play an Acolyte from your hand without testing resolve, if you do, Graft it to weapon you wield.",
     "covenant": "Kuran",
     "_legal": {
-      "KUR": true
+      "STD": true
     }
   },
   "burning-adaptation": {
@@ -2649,7 +2997,10 @@
         "type": "Tactic",
         "cost": 3,
         "image": "https://shunjitakano.github.io/LunarRing/images/burning-adaptation.webp",
-        "covenant": "Kuran"
+        "covenant": "Kuran",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Burning Adaptation",
@@ -2658,7 +3009,7 @@
     "effect": "Give a weapon +1 For each graft attached to it. Half Moon: Then doublt it's attack this turn.",
     "covenant": "Kuran",
     "_legal": {
-      "KUR": true
+      "STD": true
     }
   },
   "palesoaked-petal": {
@@ -2671,7 +3022,10 @@
         "type": "Tactic",
         "cost": 3,
         "image": "https://shunjitakano.github.io/LunarRing/images/palesoaked-petal.webp",
-        "covenant": "Kuran"
+        "covenant": "Kuran",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Palesoaked Petal",
@@ -2680,7 +3034,7 @@
     "effect": "Crescent Moon: Restore 3 Health. Half Moon: Witness an Acolyte. Full Moon: Restore 5 Health and return an Acolyte from your scrapyard to your hand.",
     "covenant": "Kuran",
     "_legal": {
-      "KUR": true
+      "STD": true
     }
   },
   "encroaching-stampede": {
@@ -2693,7 +3047,10 @@
         "type": "Tactic",
         "cost": 2,
         "image": "https://shunjitakano.github.io/LunarRing/images/encroaching-stampede.webp",
-        "covenant": "Kuran"
+        "covenant": "Kuran",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Encroaching Stampede",
@@ -2702,7 +3059,7 @@
     "effect": "Witness an Acolyte that tests 2 or less resolve. Eclipse: Your opponent may do the same.",
     "covenant": "Kuran",
     "_legal": {
-      "KUR": true
+      "STD": true
     }
   },
   "a-tainted-rumble": {
@@ -2715,7 +3072,10 @@
         "type": "Tactic",
         "cost": 3,
         "image": "https://shunjitakano.github.io/LunarRing/images/a-tainted-rumble.webp",
-        "covenant": "Kuran"
+        "covenant": "Kuran",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "A Tainted Rumble",
@@ -2724,7 +3084,7 @@
     "effect": "The next time a grafted weapon you wield strikes this turn, deal damage equal to the number of grafts attached to it.",
     "covenant": "Kuran",
     "_legal": {
-      "KUR": true
+      "STD": true
     }
   },
   "melded-soul": {
@@ -2737,7 +3097,10 @@
         "type": "Tactic",
         "cost": 2,
         "image": "https://shunjitakano.github.io/LunarRing/images/melded-soul.webp",
-        "covenant": "Kuran"
+        "covenant": "Kuran",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Melded Soul",
@@ -2746,7 +3109,7 @@
     "effect": "Graft an acolyte to a weapon you wield without testing resolve. Half Moon: Give it +1 Temper as well.",
     "covenant": "Kuran",
     "_legal": {
-      "KUR": true
+      "STD": true
     }
   },
   "unending-cycle": {
@@ -2759,7 +3122,10 @@
         "type": "Tactic",
         "cost": 1,
         "image": "https://shunjitakano.github.io/LunarRing/images/unending-cycle.webp",
-        "covenant": "Kuran"
+        "covenant": "Kuran",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Unending Cycle",
@@ -2768,7 +3134,7 @@
     "effect": "Witness a weapon.",
     "covenant": "Kuran",
     "_legal": {
-      "KUR": true
+      "STD": true
     }
   },
   "elemental-outburst": {
@@ -2781,7 +3147,10 @@
         "type": "Tactic",
         "cost": 5,
         "image": "https://shunjitakano.github.io/LunarRing/images/elemental-outburst.webp",
-        "covenant": "Kuran"
+        "covenant": "Kuran",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Elemental Outburst",
@@ -2790,7 +3159,7 @@
     "effect": "Witness up to 2 weapons or acolytes that test a total of 4 or less resolve and play them.",
     "covenant": "Kuran",
     "_legal": {
-      "KUR": true
+      "STD": true
     }
   },
   "dissonant-wilderness": {
@@ -2803,7 +3172,10 @@
         "type": "Tactic",
         "cost": 6,
         "image": "https://shunjitakano.github.io/LunarRing/images/dissonant-wilderness.webp",
-        "covenant": "Kuran"
+        "covenant": "Kuran",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Dissonant Wilderness",
@@ -2812,7 +3184,7 @@
     "effect": "Give a weapon you wield the attack of all acolytes grafted to it, then break all Acolytes Grafted to it.",
     "covenant": "Kuran",
     "_legal": {
-      "KUR": true
+      "STD": true
     }
   },
   "parasitic-pebble": {
@@ -2829,7 +3201,10 @@
         "health": 1,
         "attack": 0,
         "isToken": true,
-        "isisToken": true
+        "isisToken": true,
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Parasitic Pebble",
@@ -2841,7 +3216,7 @@
     "covenant": "Kuran",
     "isToken": true,
     "_legal": {
-      "KUR": true
+      "STD": true
     },
     "isisToken": true
   },
@@ -2859,7 +3234,10 @@
         "health": 1,
         "attack": 1,
         "isToken": true,
-        "isisToken": true
+        "isisToken": true,
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "One's Self",
@@ -2871,7 +3249,7 @@
     "covenant": "Kuran",
     "isToken": true,
     "_legal": {
-      "KUR": true
+      "STD": true
     },
     "isisToken": true
   },
@@ -2887,7 +3265,10 @@
         "image": "https://shunjitakano.github.io/LunarRing/images/kreena-s-staff-of-connection.webp",
         "covenant": "Kuran",
         "health": 3,
-        "attack": 1
+        "attack": 1,
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Kreena's Staff of Connection",
@@ -2898,7 +3279,7 @@
     "health": 3,
     "covenant": "Kuran",
     "_legal": {
-      "KUR": true
+      "STD": true
     }
   },
   "amalgamation": {
@@ -2913,7 +3294,10 @@
         "image": "https://shunjitakano.github.io/LunarRing/images/amalgamation.webp",
         "covenant": "Kuran",
         "health": 2,
-        "attack": 2
+        "attack": 2,
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Amalgamation",
@@ -2924,7 +3308,7 @@
     "health": 2,
     "covenant": "Kuran",
     "_legal": {
-      "KUR": true
+      "STD": true
     }
   },
   "haven": {
@@ -2939,7 +3323,10 @@
         "image": "https://shunjitakano.github.io/LunarRing/images/haven.webp",
         "covenant": "Kuran",
         "health": 2,
-        "attack": 1
+        "attack": 1,
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Haven",
@@ -2950,7 +3337,7 @@
     "health": 2,
     "covenant": "Kuran",
     "_legal": {
-      "KUR": true
+      "STD": true
     }
   },
   "ashen-wood-bow": {
@@ -2965,7 +3352,10 @@
         "image": "https://shunjitakano.github.io/LunarRing/images/ashen-wood-bow.webp",
         "covenant": "Kuran",
         "health": 5,
-        "attack": 1
+        "attack": 1,
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Ashen Wood Bow",
@@ -2976,7 +3366,7 @@
     "health": 5,
     "covenant": "Kuran",
     "_legal": {
-      "KUR": true
+      "STD": true
     }
   },
   "lashing-vines": {
@@ -2991,7 +3381,10 @@
         "image": "https://shunjitakano.github.io/LunarRing/images/lashing-vines.webp",
         "covenant": "Kuran",
         "health": 2,
-        "attack": 1
+        "attack": 1,
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Lashing Vines",
@@ -3002,7 +3395,7 @@
     "health": 2,
     "covenant": "Kuran",
     "_legal": {
-      "KUR": true
+      "STD": true
     }
   },
   "menagerie": {
@@ -3017,7 +3410,10 @@
         "image": "https://shunjitakano.github.io/LunarRing/images/menagerie.webp",
         "covenant": "Kuran",
         "health": 3,
-        "attack": 0
+        "attack": 0,
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Menagerie",
@@ -3028,7 +3424,7 @@
     "health": 3,
     "covenant": "Kuran",
     "_legal": {
-      "KUR": true
+      "STD": true
     }
   },
   "cadaver-bloom": {
@@ -3043,7 +3439,10 @@
         "image": "https://shunjitakano.github.io/LunarRing/images/cadaver-bloom.webp",
         "covenant": "Kuran",
         "health": 2,
-        "attack": 2
+        "attack": 2,
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Cadaver Bloom",
@@ -3054,7 +3453,7 @@
     "health": 2,
     "covenant": "Kuran",
     "_legal": {
-      "KUR": true
+      "STD": true
     }
   },
   "budding-blade": {
@@ -3069,7 +3468,10 @@
         "image": "https://shunjitakano.github.io/LunarRing/images/budding-blade.webp",
         "covenant": "Kuran",
         "health": 2,
-        "attack": 1
+        "attack": 1,
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Budding Blade",
@@ -3080,7 +3482,7 @@
     "health": 2,
     "covenant": "Kuran",
     "_legal": {
-      "KUR": true
+      "STD": true
     }
   },
   "thrill-seeker": {
@@ -3095,7 +3497,10 @@
         "image": "https://shunjitakano.github.io/LunarRing/images/thrill-seeker.webp",
         "covenant": "Niorr",
         "health": 3,
-        "attack": 2
+        "attack": 2,
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Thrill Seeker",
@@ -3106,7 +3511,7 @@
     "health": 3,
     "covenant": "Niorr",
     "_legal": {
-      "NIO": true
+      "STD": true
     }
   },
   "endless-hedonists": {
@@ -3121,7 +3526,10 @@
         "image": "https://shunjitakano.github.io/LunarRing/images/endless-hedonists.webp",
         "covenant": "Niorr",
         "health": 2,
-        "attack": 2
+        "attack": 2,
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Endless Hedonists",
@@ -3132,7 +3540,7 @@
     "health": 2,
     "covenant": "Niorr",
     "_legal": {
-      "NIO": true
+      "STD": true
     }
   },
   "existential-gambler": {
@@ -3147,7 +3555,10 @@
         "image": "https://shunjitakano.github.io/LunarRing/images/existential-gambler.webp",
         "covenant": "Niorr",
         "health": 4,
-        "attack": 1
+        "attack": 1,
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Existential Gambler",
@@ -3158,7 +3569,7 @@
     "health": 4,
     "covenant": "Niorr",
     "_legal": {
-      "NIO": true
+      "STD": true
     }
   },
   "pain-enjoyer": {
@@ -3173,7 +3584,10 @@
         "image": "https://shunjitakano.github.io/LunarRing/images/pain-enjoyer.webp",
         "covenant": "Niorr",
         "health": 3,
-        "attack": 1
+        "attack": 1,
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Pain Enjoyer",
@@ -3184,7 +3598,7 @@
     "health": 3,
     "covenant": "Niorr",
     "_legal": {
-      "NIO": true
+      "STD": true
     }
   },
   "lecherous-pair": {
@@ -3199,7 +3613,10 @@
         "image": "https://shunjitakano.github.io/LunarRing/images/lecherous-pair.webp",
         "covenant": "Niorr",
         "health": 4,
-        "attack": 2
+        "attack": 2,
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Lecherous Pair",
@@ -3210,7 +3627,7 @@
     "health": 4,
     "covenant": "Niorr",
     "_legal": {
-      "NIO": true
+      "STD": true
     }
   },
   "lil-finch": {
@@ -3225,7 +3642,10 @@
         "image": "https://shunjitakano.github.io/LunarRing/images/lil-finch.webp",
         "covenant": "Niorr",
         "health": 2,
-        "attack": 1
+        "attack": 1,
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Lil Finch",
@@ -3236,7 +3656,7 @@
     "health": 2,
     "covenant": "Niorr",
     "_legal": {
-      "NIO": true
+      "STD": true
     }
   },
   "masochist": {
@@ -3251,7 +3671,10 @@
         "image": "https://shunjitakano.github.io/LunarRing/images/masochist.webp",
         "covenant": "Niorr",
         "health": 5,
-        "attack": 1
+        "attack": 1,
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Masochist",
@@ -3262,7 +3685,7 @@
     "health": 5,
     "covenant": "Niorr",
     "_legal": {
-      "NIO": true
+      "STD": true
     }
   },
   "exhiliration": {
@@ -3277,7 +3700,10 @@
         "image": "https://shunjitakano.github.io/LunarRing/images/exhiliration.webp",
         "covenant": "Niorr",
         "health": 3,
-        "attack": 0
+        "attack": 0,
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Exhiliration",
@@ -3288,7 +3714,7 @@
     "health": 3,
     "covenant": "Niorr",
     "_legal": {
-      "NIO": true
+      "STD": true
     }
   },
   "lust": {
@@ -3303,7 +3729,10 @@
         "image": "https://shunjitakano.github.io/LunarRing/images/lust.webp",
         "covenant": "Niorr",
         "health": 4,
-        "attack": 0
+        "attack": 0,
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Lust",
@@ -3314,7 +3743,7 @@
     "health": 4,
     "covenant": "Niorr",
     "_legal": {
-      "NIO": true
+      "STD": true
     }
   },
   "pleasure-seeker": {
@@ -3329,7 +3758,10 @@
         "image": "https://shunjitakano.github.io/LunarRing/images/pleasure-seeker.webp",
         "covenant": "Niorr",
         "health": 1,
-        "attack": 1
+        "attack": 1,
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Pleasure Seeker",
@@ -3340,7 +3772,7 @@
     "health": 1,
     "covenant": "Niorr",
     "_legal": {
-      "NIO": true
+      "STD": true
     }
   },
   "exhillerated-brawler": {
@@ -3355,7 +3787,10 @@
         "image": "https://shunjitakano.github.io/LunarRing/images/exhillerated-brawler.webp",
         "covenant": "Niorr",
         "health": 4,
-        "attack": 2
+        "attack": 2,
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Exhillerated Brawler",
@@ -3366,7 +3801,7 @@
     "health": 4,
     "covenant": "Niorr",
     "_legal": {
-      "NIO": true
+      "STD": true
     }
   },
   "greed": {
@@ -3381,7 +3816,10 @@
         "image": "https://shunjitakano.github.io/LunarRing/images/greed.webp",
         "covenant": "Niorr",
         "health": 3,
-        "attack": 0
+        "attack": 0,
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Greed",
@@ -3392,7 +3830,7 @@
     "health": 3,
     "covenant": "Niorr",
     "_legal": {
-      "NIO": true
+      "STD": true
     }
   },
   "comforter": {
@@ -3407,7 +3845,10 @@
         "image": "https://shunjitakano.github.io/LunarRing/images/comforter.webp",
         "covenant": "Niorr",
         "health": 3,
-        "attack": 1
+        "attack": 1,
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Comforter",
@@ -3418,7 +3859,7 @@
     "health": 3,
     "covenant": "Niorr",
     "_legal": {
-      "NIO": true
+      "STD": true
     }
   },
   "decadence": {
@@ -3433,7 +3874,10 @@
         "image": "https://shunjitakano.github.io/LunarRing/images/decadence.webp",
         "covenant": "Niorr",
         "health": 8,
-        "attack": 0
+        "attack": 0,
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Decadence",
@@ -3444,7 +3888,7 @@
     "health": 8,
     "covenant": "Niorr",
     "_legal": {
-      "NIO": true
+      "STD": true
     }
   },
   "give-in-to-temptation": {
@@ -3457,7 +3901,10 @@
         "type": "Edict",
         "cost": 4,
         "image": "https://shunjitakano.github.io/LunarRing/images/give-in-to-temptation.webp",
-        "covenant": "Niorr"
+        "covenant": "Niorr",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Give In to Temptation",
@@ -3466,7 +3913,7 @@
     "effect": "At your preparation Indulge. If you put indulgence counters on 3 or less armaments you wield, break this. Crescent Moon: Put an extra indulgence counter on 1 of your armanents.",
     "covenant": "Niorr",
     "_legal": {
-      "NIO": true
+      "STD": true
     }
   },
   "blind-indulgence": {
@@ -3479,7 +3926,10 @@
         "type": "Edict",
         "cost": 7,
         "image": "https://shunjitakano.github.io/LunarRing/images/blind-indulgence.webp",
-        "covenant": "Niorr"
+        "covenant": "Niorr",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Blind Indulgence",
@@ -3488,7 +3938,7 @@
     "effect": "At your preapration, you may Indulge 1 time. If you don't break this and create 1 Despair, Apathy, Lonliness, and Insignicance.",
     "covenant": "Niorr",
     "_legal": {
-      "NIO": true
+      "STD": true
     }
   },
   "demand-of-luxury": {
@@ -3501,7 +3951,10 @@
         "type": "Edict",
         "cost": 3,
         "image": "https://shunjitakano.github.io/LunarRing/images/demand-of-luxury.webp",
-        "covenant": "Niorr"
+        "covenant": "Niorr",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Demand of Luxury",
@@ -3510,7 +3963,7 @@
     "effect": "At your preparation draw 1 and put the top card of your deck into your scrapyard. Then if your scrapyard has 15 or more cards in it, break this and create 1 Insiginifcance.",
     "covenant": "Niorr",
     "_legal": {
-      "NIO": true
+      "STD": true
     }
   },
   "bloody-desires": {
@@ -3523,7 +3976,10 @@
         "type": "Edict",
         "cost": 2,
         "image": "https://shunjitakano.github.io/LunarRing/images/bloody-desires.webp",
-        "covenant": "Niorr"
+        "covenant": "Niorr",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Bloody Desires",
@@ -3532,7 +3988,7 @@
     "effect": "Your acolytes can attack your opponent directly. If they do, they lose 1 health. If an acolyte you wield breaks, break this.",
     "covenant": "Niorr",
     "_legal": {
-      "NIO": true
+      "STD": true
     }
   },
   "kiss-stained-handkerchief": {
@@ -3545,7 +4001,10 @@
         "type": "Riposte",
         "cost": 3,
         "image": "https://shunjitakano.github.io/LunarRing/images/kiss-stained-handkerchief.webp",
-        "covenant": "Niorr"
+        "covenant": "Niorr",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Kiss Stained Handkerchief",
@@ -3554,7 +4013,7 @@
     "effect": "Choose an acolyte you wield, your opponent must attack it this turn.",
     "covenant": "Niorr",
     "_legal": {
-      "NIO": true
+      "STD": true
     }
   },
   "seduction": {
@@ -3567,7 +4026,10 @@
         "type": "Riposte",
         "cost": 2,
         "image": "https://shunjitakano.github.io/LunarRing/images/seduction.webp",
-        "covenant": "Niorr"
+        "covenant": "Niorr",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Seduction",
@@ -3576,7 +4038,7 @@
     "effect": "Weapons your opponent wields cannot be exhausted this turn. Indulge. Eclipse: This cannot be played.",
     "covenant": "Niorr",
     "_legal": {
-      "NIO": true
+      "STD": true
     }
   },
   "numb": {
@@ -3589,7 +4051,10 @@
         "type": "Riposte",
         "cost": 1,
         "image": "https://shunjitakano.github.io/LunarRing/images/numb.webp",
-        "covenant": "Niorr"
+        "covenant": "Niorr",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Numb",
@@ -3598,7 +4063,7 @@
     "effect": "Acolytes you wield with 3 or more indulgence counters on them cannot be broken this turn.",
     "covenant": "Niorr",
     "_legal": {
-      "NIO": true
+      "STD": true
     }
   },
   "worth-its-weight": {
@@ -3611,7 +4076,10 @@
         "type": "Riposte",
         "cost": 3,
         "image": "https://shunjitakano.github.io/LunarRing/images/worth-its-weight.webp",
-        "covenant": "Niorr"
+        "covenant": "Niorr",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Worth Its Weight",
@@ -3620,7 +4088,7 @@
     "effect": "Break an armament your opponent wields. Draw X cards where X is half the broken armament's resolve. Half Moon: X is equal to the max resolve instead.",
     "covenant": "Niorr",
     "_legal": {
-      "NIO": true
+      "STD": true
     }
   },
   "niorr-s-oath-sigil": {
@@ -3633,7 +4101,10 @@
         "type": "Tactic",
         "cost": 0,
         "image": "https://shunjitakano.github.io/LunarRing/images/niorr-s-oath-sigil.webp",
-        "covenant": "Niorr"
+        "covenant": "Niorr",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Niorr's Oath Sigil",
@@ -3642,7 +4113,7 @@
     "effect": "Gain 1 resolve this turn and Indulge.",
     "covenant": "Niorr",
     "_legal": {
-      "NIO": true
+      "STD": true
     }
   },
   "dissonant-dice": {
@@ -3655,7 +4126,10 @@
         "type": "Tactic",
         "cost": 1,
         "image": "https://shunjitakano.github.io/LunarRing/images/dissonant-dice.webp",
-        "covenant": "Niorr"
+        "covenant": "Niorr",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Dissonant Dice",
@@ -3664,7 +4138,7 @@
     "effect": "Draw 1, discard 1, and Indulge. Crescent Moon: Draw 2 discard 2 at random.",
     "covenant": "Niorr",
     "_legal": {
-      "NIO": true
+      "STD": true
     }
   },
   "murmurs-of-aggression": {
@@ -3677,7 +4151,10 @@
         "type": "Tactic",
         "cost": 2,
         "image": "https://shunjitakano.github.io/LunarRing/images/murmurs-of-aggression.webp",
-        "covenant": "Niorr"
+        "covenant": "Niorr",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Murmurs of Aggression",
@@ -3686,7 +4163,7 @@
     "effect": "Give an acolyte you wield +2 Attack. Full Moon: Give an acolyte +5 Attack instead.",
     "covenant": "Niorr",
     "_legal": {
-      "NIO": true
+      "STD": true
     }
   },
   "do-it": {
@@ -3699,7 +4176,10 @@
         "type": "Tactic",
         "cost": 2,
         "image": "https://shunjitakano.github.io/LunarRing/images/do-it.webp",
-        "covenant": "Niorr"
+        "covenant": "Niorr",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Do it",
@@ -3708,7 +4188,7 @@
     "effect": "Indulge. Full Moon: Indulge 3 times instead and put the top 5 cards of your deck into your scrapyard.",
     "covenant": "Niorr",
     "_legal": {
-      "NIO": true
+      "STD": true
     }
   },
   "craving-senesation": {
@@ -3721,7 +4201,10 @@
         "type": "Tactic",
         "cost": 4,
         "image": "https://shunjitakano.github.io/LunarRing/images/craving-senesation.webp",
-        "covenant": "Niorr"
+        "covenant": "Niorr",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Craving Senesation",
@@ -3730,7 +4213,7 @@
     "effect": "Ready all acolytes you wield and give them +1 attack this turn for each indulgence counter on them.",
     "covenant": "Niorr",
     "_legal": {
-      "NIO": true
+      "STD": true
     }
   },
   "strange-affection": {
@@ -3743,7 +4226,10 @@
         "type": "Tactic",
         "cost": 2,
         "image": "https://shunjitakano.github.io/LunarRing/images/strange-affection.webp",
-        "covenant": "Niorr"
+        "covenant": "Niorr",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Strange Affection",
@@ -3752,7 +4238,7 @@
     "effect": "Reveal the top card of your deck. If it is an Acolyte that tests 3 or less resolve, you may play it without testing resolve. Otherwise, your opponent draws 1.",
     "covenant": "Niorr",
     "_legal": {
-      "NIO": true
+      "STD": true
     }
   },
   "unbound-craving": {
@@ -3765,7 +4251,10 @@
         "type": "Tactic",
         "cost": 1,
         "image": "https://shunjitakano.github.io/LunarRing/images/unbound-craving.webp",
-        "covenant": "Niorr"
+        "covenant": "Niorr",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Unbound Craving",
@@ -3774,7 +4263,7 @@
     "effect": "Break a weapon your opponent wields that tests less than 2 resolve. Half Moon: Break any weapon instead.",
     "covenant": "Niorr",
     "_legal": {
-      "NIO": true
+      "STD": true
     }
   },
   "nothing-to-live-for": {
@@ -3787,7 +4276,10 @@
         "type": "Tactic",
         "cost": 7,
         "image": "https://shunjitakano.github.io/LunarRing/images/nothing-to-live-for.webp",
-        "covenant": "Niorr"
+        "covenant": "Niorr",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Nothing To Live For",
@@ -3796,7 +4288,7 @@
     "effect": "Deal 1 damage to your opponent. Repeat this for each withdrawal you wield. Put the top 2 cards of your deck into your scrapyard for each damage dealt this way.",
     "covenant": "Niorr",
     "_legal": {
-      "NIO": true
+      "STD": true
     }
   },
   "toxic-intimacy": {
@@ -3809,7 +4301,10 @@
         "type": "Tactic",
         "cost": 2,
         "image": "https://shunjitakano.github.io/LunarRing/images/toxic-intimacy.webp",
-        "covenant": "Niorr"
+        "covenant": "Niorr",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Toxic Intimacy",
@@ -3818,7 +4313,7 @@
     "effect": "Your opponent draws 2 cards and loses 2 health.",
     "covenant": "Niorr",
     "_legal": {
-      "NIO": true
+      "STD": true
     }
   },
   "sheira-s-obessission": {
@@ -3831,7 +4326,10 @@
         "type": "Tactic",
         "cost": 3,
         "image": "https://shunjitakano.github.io/LunarRing/images/sheira-s-obessission.webp",
-        "covenant": "Niorr"
+        "covenant": "Niorr",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Sheira's Obessission",
@@ -3840,7 +4338,7 @@
     "effect": "Rouse an acolyte you wield.",
     "covenant": "Niorr",
     "_legal": {
-      "NIO": true
+      "STD": true
     }
   },
   "gleeful-wrath": {
@@ -3855,7 +4353,10 @@
         "image": "https://shunjitakano.github.io/LunarRing/images/gleeful-wrath.webp",
         "covenant": "Niorr",
         "health": 2,
-        "attack": 1
+        "attack": 1,
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Gleeful Wrath",
@@ -3866,7 +4367,7 @@
     "health": 2,
     "covenant": "Niorr",
     "_legal": {
-      "NIO": true
+      "STD": true
     }
   },
   "glistening": {
@@ -3881,7 +4382,10 @@
         "image": "https://shunjitakano.github.io/LunarRing/images/glistening.webp",
         "covenant": "Niorr",
         "health": 2,
-        "attack": 2
+        "attack": 2,
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Glistening",
@@ -3892,7 +4396,7 @@
     "health": 2,
     "covenant": "Niorr",
     "_legal": {
-      "NIO": true
+      "STD": true
     }
   },
   "whispering-gold": {
@@ -3907,7 +4411,10 @@
         "image": "https://shunjitakano.github.io/LunarRing/images/whispering-gold.webp",
         "covenant": "Niorr",
         "health": 2,
-        "attack": 0
+        "attack": 0,
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Whispering Gold",
@@ -3918,7 +4425,7 @@
     "health": 2,
     "covenant": "Niorr",
     "_legal": {
-      "NIO": true
+      "STD": true
     }
   },
   "addiction": {
@@ -3933,7 +4440,10 @@
         "image": "https://shunjitakano.github.io/LunarRing/images/addiction.webp",
         "covenant": "Niorr",
         "health": 2,
-        "attack": 0
+        "attack": 0,
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Addiction",
@@ -3944,7 +4454,7 @@
     "health": 2,
     "covenant": "Niorr",
     "_legal": {
-      "NIO": true
+      "STD": true
     }
   },
   "bloodied-knuckles": {
@@ -3959,7 +4469,10 @@
         "image": "https://shunjitakano.github.io/LunarRing/images/bloodied-knuckles.webp",
         "covenant": "Niorr",
         "health": 3,
-        "attack": 1
+        "attack": 1,
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Bloodied Knuckles",
@@ -3970,7 +4483,7 @@
     "health": 3,
     "covenant": "Niorr",
     "_legal": {
-      "NIO": true
+      "STD": true
     }
   },
   "velvet-chain": {
@@ -3985,7 +4498,10 @@
         "image": "https://shunjitakano.github.io/LunarRing/images/velvet-chain.webp",
         "covenant": "Niorr",
         "health": 3,
-        "attack": 1
+        "attack": 1,
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Velvet Chain",
@@ -3996,7 +4512,7 @@
     "health": 3,
     "covenant": "Niorr",
     "_legal": {
-      "NIO": true
+      "STD": true
     }
   },
   "pleasure-lash": {
@@ -4011,7 +4527,10 @@
         "image": "https://shunjitakano.github.io/LunarRing/images/pleasure-lash.webp",
         "covenant": "Niorr",
         "health": 3,
-        "attack": 1
+        "attack": 1,
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Pleasure Lash",
@@ -4022,7 +4541,7 @@
     "health": 3,
     "covenant": "Niorr",
     "_legal": {
-      "NIO": true
+      "STD": true
     }
   },
   "staff-of-craving": {
@@ -4037,7 +4556,10 @@
         "image": "https://shunjitakano.github.io/LunarRing/images/staff-of-craving.webp",
         "covenant": "Niorr",
         "health": 1,
-        "attack": 3
+        "attack": 3,
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Staff of Craving",
@@ -4048,7 +4570,7 @@
     "health": 1,
     "covenant": "Niorr",
     "_legal": {
-      "NIO": true
+      "STD": true
     }
   },
   "apathy": {
@@ -4063,7 +4585,10 @@
         "image": "https://shunjitakano.github.io/LunarRing/images/apathy.webp",
         "covenant": "Niorr",
         "isToken": true,
-        "isisToken": true
+        "isisToken": true,
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Apathy",
@@ -4073,7 +4598,7 @@
     "covenant": "Niorr",
     "isToken": true,
     "_legal": {
-      "NIO": true
+      "STD": true
     },
     "isisToken": true
   },
@@ -4089,7 +4614,10 @@
         "image": "https://shunjitakano.github.io/LunarRing/images/loneliness.webp",
         "covenant": "Niorr",
         "isToken": true,
-        "isisToken": true
+        "isisToken": true,
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Loneliness",
@@ -4099,7 +4627,7 @@
     "covenant": "Niorr",
     "isToken": true,
     "_legal": {
-      "NIO": true
+      "STD": true
     },
     "isisToken": true
   },
@@ -4115,7 +4643,10 @@
         "image": "https://shunjitakano.github.io/LunarRing/images/insignificance.webp",
         "covenant": "Niorr",
         "isToken": true,
-        "isisToken": true
+        "isisToken": true,
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Insignificance",
@@ -4125,7 +4656,7 @@
     "covenant": "Niorr",
     "isToken": true,
     "_legal": {
-      "NIO": true
+      "STD": true
     },
     "isisToken": true
   },
@@ -4141,7 +4672,10 @@
         "image": "https://shunjitakano.github.io/LunarRing/images/despair.webp",
         "covenant": "Niorr",
         "isToken": true,
-        "isisToken": true
+        "isisToken": true,
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Despair",
@@ -4151,7 +4685,7 @@
     "covenant": "Niorr",
     "isToken": true,
     "_legal": {
-      "NIO": true
+      "STD": true
     },
     "isisToken": true
   },
@@ -4166,7 +4700,10 @@
         "cost": 3,
         "image": "https://shunjitakano.github.io/LunarRing/images/essence-carver.webp",
         "covenant": "Qirune",
-        "attack": 1
+        "attack": 1,
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Essence Carver",
@@ -4176,7 +4713,7 @@
     "attack": 1,
     "covenant": "Qirune",
     "_legal": {
-      "QIR": true
+      "STD": true
     }
   },
   "budding-romance": {
@@ -4190,7 +4727,10 @@
         "cost": 4,
         "image": "https://shunjitakano.github.io/LunarRing/images/budding-romance.webp",
         "covenant": "Qirune",
-        "attack": 2
+        "attack": 2,
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Budding Romance",
@@ -4200,7 +4740,7 @@
     "attack": 2,
     "covenant": "Qirune",
     "_legal": {
-      "QIR": true
+      "STD": true
     }
   },
   "jireth-s-burning-hatred": {
@@ -4214,7 +4754,10 @@
         "cost": 2,
         "image": "https://shunjitakano.github.io/LunarRing/images/jireth-s-burning-hatred.webp",
         "covenant": "Qirune",
-        "attack": 1
+        "attack": 1,
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Jireth's Burning Hatred",
@@ -4224,7 +4767,7 @@
     "attack": 1,
     "covenant": "Qirune",
     "_legal": {
-      "QIR": true
+      "STD": true
     }
   },
   "taviq-s-staff": {
@@ -4238,7 +4781,10 @@
         "cost": 2,
         "image": "https://shunjitakano.github.io/LunarRing/images/taviq-s-staff.webp",
         "covenant": "Qirune",
-        "attack": 1
+        "attack": 1,
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Taviq's Staff",
@@ -4248,7 +4794,7 @@
     "attack": 1,
     "covenant": "Qirune",
     "_legal": {
-      "QIR": true
+      "STD": true
     }
   },
   "vengeful-ichor": {
@@ -4262,7 +4808,10 @@
         "cost": 3,
         "image": "https://shunjitakano.github.io/LunarRing/images/vengeful-ichor.webp",
         "covenant": "Qirune",
-        "attack": 1
+        "attack": 1,
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Vengeful Ichor",
@@ -4272,7 +4821,7 @@
     "attack": 1,
     "covenant": "Qirune",
     "_legal": {
-      "QIR": true
+      "STD": true
     }
   },
   "drain-emotion": {
@@ -4285,7 +4834,10 @@
         "type": "Ability",
         "cost": 3,
         "image": "https://shunjitakano.github.io/LunarRing/images/drain-emotion.webp",
-        "covenant": "Qirune"
+        "covenant": "Qirune",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Drain Emotion",
@@ -4294,7 +4846,7 @@
     "effect": "At preparation, if you triggered love or hate 2 or more times since your last preparation, your opponent loses 1 health, then channel Love or Hate. (Become Loving or Hateful. For the remainder of the turn whenever you whenever you play a card, If you are Loving restore 1 health. If you are Hateful deal 1 damage).",
     "covenant": "Qirune",
     "_legal": {
-      "QIR": true
+      "STD": true
     }
   },
   "esoteric-whispers": {
@@ -4307,7 +4859,10 @@
         "type": "Ability",
         "cost": 2,
         "image": "https://shunjitakano.github.io/LunarRing/images/esoteric-whispers.webp",
-        "covenant": "Qirune"
+        "covenant": "Qirune",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Esoteric Whispers",
@@ -4316,7 +4871,7 @@
     "effect": "The first time you cast a spell each turn, draw 1.",
     "covenant": "Qirune",
     "_legal": {
-      "QIR": true
+      "STD": true
     }
   },
   "hollow-love": {
@@ -4329,7 +4884,10 @@
         "type": "Ability",
         "cost": 3,
         "image": "https://shunjitakano.github.io/LunarRing/images/hollow-love.webp",
-        "covenant": "Qirune"
+        "covenant": "Qirune",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Hollow Love",
@@ -4338,7 +4896,7 @@
     "effect": "Whenever your opponent would restore health during your turn, they lose 1 health instead.",
     "covenant": "Qirune",
     "_legal": {
-      "QIR": true
+      "STD": true
     }
   },
   "body-given": {
@@ -4351,7 +4909,10 @@
         "type": "Ability",
         "cost": 4,
         "image": "https://shunjitakano.github.io/LunarRing/images/body-given.webp",
-        "covenant": "Qirune"
+        "covenant": "Qirune",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Body Given",
@@ -4360,7 +4921,7 @@
     "effect": "You are always Loving. At preparation, your opponent restores 1 health. Crescent Moon: Repeat this.",
     "covenant": "Qirune",
     "_legal": {
-      "QIR": true
+      "STD": true
     }
   },
   "nourishing-devotion": {
@@ -4373,7 +4934,10 @@
         "type": "Ability",
         "cost": 4,
         "image": "https://shunjitakano.github.io/LunarRing/images/nourishing-devotion.webp",
-        "covenant": "Qirune"
+        "covenant": "Qirune",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Nourishing Devotion",
@@ -4382,7 +4946,7 @@
     "effect": "After exhausting a Tome, discard 1 at random. If you are Loving, you may cast 2 spells from that tome. If you are Hateful, your next tactic tests 2 less resolve.",
     "covenant": "Qirune",
     "_legal": {
-      "QIR": true
+      "STD": true
     }
   },
   "qirune-s-gift-to-her-child": {
@@ -4395,7 +4959,10 @@
         "type": "Act of Desperation",
         "cost": 10,
         "image": "https://shunjitakano.github.io/LunarRing/images/qirune-s-gift-to-her-child.webp",
-        "covenant": "Qirune"
+        "covenant": "Qirune",
+        "_legal": {
+          "STD": 1
+        }
       }
     },
     "name": "Qirune's Gift to Her Child",
@@ -4404,7 +4971,7 @@
     "effect": "Gain 10 resolve this turn. Hateful and Loving effects are doubled this turn. At your recovery, if you did not play 5 or more cards this turn, you lose the game.",
     "covenant": "Qirune",
     "_legal": {
-      "QIR": 1
+      "STD": 1
     }
   },
   "tome-of-qirune": {
@@ -4417,7 +4984,10 @@
         "type": "Act of Desperation: Tome",
         "cost": 10,
         "image": "https://shunjitakano.github.io/LunarRing/images/tome-of-qirune.webp",
-        "covenant": "Qirune"
+        "covenant": "Qirune",
+        "_legal": {
+          "STD": 1
+        }
       }
     },
     "name": "Tome of Qirune",
@@ -4426,7 +4996,7 @@
     "effect": "3 Essence. You must use this every turn. When this breaks, you lose the game.\nSun - Draw 5. Gain 4 resolve this turn.\nMoon - Your opponent scraps 5.\nStars -  Show Mercy, Fight Dirty, Divine, Channel, Evolve, Breathe.",
     "covenant": "Qirune",
     "_legal": {
-      "QIR": 1
+      "STD": 1
     }
   },
   "blackened-page": {
@@ -4439,7 +5009,10 @@
         "type": "Item",
         "cost": 3,
         "image": "https://shunjitakano.github.io/LunarRing/images/blackened-page.webp",
-        "covenant": "Qirune"
+        "covenant": "Qirune",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Blackened Page",
@@ -4448,7 +5021,7 @@
     "effect": "Use: Deal 2 damage and draw 1. Channel Hate. Half Moon: Dead 4 damage, draw 2 and lose 2 health.",
     "covenant": "Qirune",
     "_legal": {
-      "QIR": true
+      "STD": true
     }
   },
   "etchings-of-qirune": {
@@ -4461,7 +5034,10 @@
         "type": "Item",
         "cost": 2,
         "image": "https://shunjitakano.github.io/LunarRing/images/etchings-of-qirune.webp",
-        "covenant": "Qirune"
+        "covenant": "Qirune",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Etchings of Qirune",
@@ -4470,7 +5046,7 @@
     "effect": "Use: Play a tome from the scrapyard. It has 1 essensce.",
     "covenant": "Qirune",
     "_legal": {
-      "QIR": true
+      "STD": true
     }
   },
   "offering": {
@@ -4483,7 +5059,10 @@
         "type": "Item",
         "cost": 2,
         "image": "https://shunjitakano.github.io/LunarRing/images/offering.webp",
-        "covenant": "Qirune"
+        "covenant": "Qirune",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Offering",
@@ -4492,7 +5071,7 @@
     "effect": "This enters exhausted. Use: Create a \u201cGift of Qirune\u201d or \"Charm\" and draw 1.",
     "covenant": "Qirune",
     "_legal": {
-      "QIR": true
+      "STD": true
     }
   },
   "qirunes-s-charm-of-hope": {
@@ -4505,7 +5084,10 @@
         "type": "Item",
         "cost": 2,
         "image": "https://shunjitakano.github.io/LunarRing/images/qirunes-s-charm-of-hope.webp",
-        "covenant": "Qirune"
+        "covenant": "Qirune",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Qirunes's Charm of Hope",
@@ -4514,7 +5096,7 @@
     "effect": "Use: Both players draw 1. If you are Loving, you Witness as well. Crescent Moon: Channel Love first. (Become Loving and for the remainder of the turn whenever you play a card, restore 1 health).",
     "covenant": "Qirune",
     "_legal": {
-      "QIR": true
+      "STD": true
     }
   },
   "bubble-of-hope": {
@@ -4527,7 +5109,10 @@
         "type": "Riposte",
         "cost": 2,
         "image": "https://shunjitakano.github.io/LunarRing/images/bubble-of-hope.webp",
-        "covenant": "Qirune"
+        "covenant": "Qirune",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Bubble of Hope",
@@ -4536,7 +5121,7 @@
     "effect": "Gain 3 guard. At your next preparation, Channel Love. (Become Loving and for the remainder of the turn whenever you play a card, restore 1 health).",
     "covenant": "Qirune",
     "_legal": {
-      "QIR": true
+      "STD": true
     }
   },
   "toxic-positivity": {
@@ -4549,7 +5134,10 @@
         "type": "Riposte",
         "cost": 1,
         "image": "https://shunjitakano.github.io/LunarRing/images/toxic-positivity.webp",
-        "covenant": "Qirune"
+        "covenant": "Qirune",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Toxic Positivity",
@@ -4558,7 +5146,7 @@
     "effect": "If you are loving, inflict poison.",
     "covenant": "Qirune",
     "_legal": {
-      "QIR": true
+      "STD": true
     }
   },
   "magician-s-love": {
@@ -4571,7 +5159,10 @@
         "type": "Riposte",
         "cost": 7,
         "image": "https://shunjitakano.github.io/LunarRing/images/magician-s-love.webp",
-        "covenant": "Qirune"
+        "covenant": "Qirune",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Magician's Love",
@@ -4580,7 +5171,7 @@
     "effect": "Recover your condition. At your recovery, reduce your health to 1. Full Moon: Do not reduce your health to 1.",
     "covenant": "Qirune",
     "_legal": {
-      "QIR": true
+      "STD": true
     }
   },
   "hatred": {
@@ -4593,7 +5184,10 @@
         "type": "Riposte",
         "cost": 1,
         "image": "https://shunjitakano.github.io/LunarRing/images/hatred.webp",
-        "covenant": "Qirune"
+        "covenant": "Qirune",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Hatred",
@@ -4602,7 +5196,7 @@
     "effect": "Deal 1 damage. If you are Hateful, Your next tactic tests1 less resolve.",
     "covenant": "Qirune",
     "_legal": {
-      "QIR": true
+      "STD": true
     }
   },
   "how-dare-you": {
@@ -4615,7 +5209,10 @@
         "type": "Riposte",
         "cost": 2,
         "image": "https://shunjitakano.github.io/LunarRing/images/how-dare-you.webp",
-        "covenant": "Qirune"
+        "covenant": "Qirune",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "How Dare You",
@@ -4624,7 +5221,7 @@
     "effect": "Channel Hate. (Become Hateful and for the remainder of the turn whenever you play a card, deal 1 damage). You may play a card that tests 1 or less resolve or draw 1.",
     "covenant": "Qirune",
     "_legal": {
-      "QIR": true
+      "STD": true
     }
   },
   "illusions-of-peace": {
@@ -4637,7 +5234,10 @@
         "type": "Riposte",
         "cost": 3,
         "image": "https://shunjitakano.github.io/LunarRing/images/illusions-of-peace.webp",
-        "covenant": "Qirune"
+        "covenant": "Qirune",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Illusions of Peace",
@@ -4646,7 +5246,7 @@
     "effect": "Gain 4 guard. Then you may cast a spell from a Tome you wield without exhausting it or draining essence.",
     "covenant": "Qirune",
     "_legal": {
-      "QIR": true
+      "STD": true
     }
   },
   "emotional-mending": {
@@ -4659,7 +5259,10 @@
         "type": "Tactic",
         "cost": 1,
         "image": "https://shunjitakano.github.io/LunarRing/images/emotional-mending.webp",
-        "covenant": "Qirune"
+        "covenant": "Qirune",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Emotional Mending",
@@ -4668,7 +5271,7 @@
     "effect": "Cure all of your ailments and Channel Love. (Become Loving and for the remainder of the turn whenever you play a card, restore 1 health). Half Moon: Both players return a card from the scrapyard to their hand.",
     "covenant": "Qirune",
     "_legal": {
-      "QIR": true
+      "STD": true
     }
   },
   "emotional-overload": {
@@ -4681,7 +5284,10 @@
         "type": "Tactic",
         "cost": 4,
         "image": "https://shunjitakano.github.io/LunarRing/images/emotional-overload.webp",
-        "covenant": "Qirune"
+        "covenant": "Qirune",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Emotional Overload",
@@ -4690,7 +5296,7 @@
     "effect": "Deal damage equal to the amount of health you restored this turn. Discard 2. Then, if you are loving, both players gain 2 guard.",
     "covenant": "Qirune",
     "_legal": {
-      "QIR": true
+      "STD": true
     }
   },
   "gentle-warning": {
@@ -4703,7 +5309,10 @@
         "type": "Tactic",
         "cost": 1,
         "image": "https://shunjitakano.github.io/LunarRing/images/gentle-warning.webp",
-        "covenant": "Qirune"
+        "covenant": "Qirune",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Gentle Warning",
@@ -4712,7 +5321,7 @@
     "effect": "Disarm an armament that tests 2 or less resolve. If you are Loving, both players draw 1 or restore 1 health.",
     "covenant": "Qirune",
     "_legal": {
-      "QIR": true
+      "STD": true
     }
   },
   "her-magic-empowers-me": {
@@ -4725,7 +5334,10 @@
         "type": "Tactic",
         "cost": 3,
         "image": "https://shunjitakano.github.io/LunarRing/images/her-magic-empowers-me.webp",
-        "covenant": "Qirune"
+        "covenant": "Qirune",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Her Magic Empowers Me",
@@ -4734,7 +5346,7 @@
     "effect": "Cast a spell from an exhausted Tome you wield or break a Tome you wield and give a weapon you wield +2.",
     "covenant": "Qirune",
     "_legal": {
-      "QIR": true
+      "STD": true
     }
   },
   "hex": {
@@ -4747,7 +5359,10 @@
         "type": "Tactic",
         "cost": 1,
         "image": "https://shunjitakano.github.io/LunarRing/images/hex.webp",
-        "covenant": "Qirune"
+        "covenant": "Qirune",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Hex",
@@ -4756,7 +5371,7 @@
     "effect": "If you are Hateful, draw 1. Otherwise, Channel Hate. (Become Hateful and for the remainder of the turn whenever you play a card, deal 1 damage). Half Moon: This tests 0 resolve to play.",
     "covenant": "Qirune",
     "_legal": {
-      "QIR": true
+      "STD": true
     }
   },
   "joyous-return": {
@@ -4769,7 +5384,10 @@
         "type": "Tactic",
         "cost": 2,
         "image": "https://shunjitakano.github.io/LunarRing/images/joyous-return.webp",
-        "covenant": "Qirune"
+        "covenant": "Qirune",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Joyous Return",
@@ -4778,7 +5396,7 @@
     "effect": "Play an armament from the scrapyard that tests 2 or less resolve. If you are Loving, both players restore 2 health. Crescent Moon: Play an armament that tests 3 or less resolve instead.",
     "covenant": "Qirune",
     "_legal": {
-      "QIR": true
+      "STD": true
     }
   },
   "misery-loves-company": {
@@ -4791,7 +5409,10 @@
         "type": "Tactic",
         "cost": 3,
         "image": "https://shunjitakano.github.io/LunarRing/images/misery-loves-company.webp",
-        "covenant": "Qirune"
+        "covenant": "Qirune",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Misery Loves Company",
@@ -4800,7 +5421,7 @@
     "effect": "Until your next recovery, whenever you deal damage with Hate, deal 1 additional damage. Crescent Moon: This tests 1 less resolve.",
     "covenant": "Qirune",
     "_legal": {
-      "QIR": true
+      "STD": true
     }
   },
   "painful-memories": {
@@ -4813,7 +5434,10 @@
         "type": "Tactic",
         "cost": 2,
         "image": "https://shunjitakano.github.io/LunarRing/images/painful-memories.webp",
-        "covenant": "Qirune"
+        "covenant": "Qirune",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Painful Memories",
@@ -4822,7 +5446,7 @@
     "effect": "The next tactic you play this turn tests 2 less resolve. Draw 1. If you are hateful, draw 2. Crescent Moon: Channel Hate First. (Become Hateful and for the remainder of the turn whenever you play a card, deal 1 damage).",
     "covenant": "Qirune",
     "_legal": {
-      "QIR": true
+      "STD": true
     }
   },
   "playful-mood": {
@@ -4835,7 +5459,10 @@
         "type": "Tactic",
         "cost": 2,
         "image": "https://shunjitakano.github.io/LunarRing/images/playful-mood.webp",
-        "covenant": "Qirune"
+        "covenant": "Qirune",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Playful Mood",
@@ -4844,7 +5471,7 @@
     "effect": "Disarm an armament your opponent wields that tests 3 or less resolve. If you are loving, both players draw 1.",
     "covenant": "Qirune",
     "_legal": {
-      "QIR": true
+      "STD": true
     }
   },
   "rage": {
@@ -4857,7 +5484,10 @@
         "type": "Tactic",
         "cost": 3,
         "image": "https://shunjitakano.github.io/LunarRing/images/rage.webp",
-        "covenant": "Qirune"
+        "covenant": "Qirune",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Rage",
@@ -4866,7 +5496,7 @@
     "effect": "Deal 2 damage. If you are hateful, your next tactic you play this turn tests 2 less resolve . Full Moon: This tests 2 less resolve.",
     "covenant": "Qirune",
     "_legal": {
-      "QIR": true
+      "STD": true
     }
   },
   "shadows-of-magic": {
@@ -4879,7 +5509,10 @@
         "type": "Tactic",
         "cost": 3,
         "image": "https://shunjitakano.github.io/LunarRing/images/shadows-of-magic.webp",
-        "covenant": "Qirune"
+        "covenant": "Qirune",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Shadows of Magic",
@@ -4888,7 +5521,7 @@
     "effect": "Deal 1 damage. Repeat this for each time you have dealt damage with Hate this turn. Crescent Moon: Deal 2 damage.",
     "covenant": "Qirune",
     "_legal": {
-      "QIR": true
+      "STD": true
     }
   },
   "two-sides-of-qirune": {
@@ -4901,7 +5534,10 @@
         "type": "Tactic",
         "cost": 1,
         "image": "https://shunjitakano.github.io/LunarRing/images/two-sides-of-qirune.webp",
-        "covenant": "Qirune"
+        "covenant": "Qirune",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Two Sides of Qirune",
@@ -4910,7 +5546,7 @@
     "effect": "Draw 1. If you are Loving, restore 1 health. If you are Hateful, deal 1 damage.",
     "covenant": "Qirune",
     "_legal": {
-      "QIR": true
+      "STD": true
     }
   },
   "charm": {
@@ -4925,7 +5561,10 @@
         "image": "https://shunjitakano.github.io/LunarRing/images/charm.webp",
         "covenant": "Qirune",
         "isToken": true,
-        "isisToken": true
+        "isisToken": true,
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Charm",
@@ -4935,7 +5574,7 @@
     "covenant": "Qirune",
     "isToken": true,
     "_legal": {
-      "QIR": true
+      "STD": true
     },
     "isisToken": true
   },
@@ -4951,7 +5590,10 @@
         "image": "https://shunjitakano.github.io/LunarRing/images/ember.webp",
         "covenant": "Qirune",
         "isToken": true,
-        "isisToken": true
+        "isisToken": true,
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Ember",
@@ -4961,7 +5603,7 @@
     "covenant": "Qirune",
     "isToken": true,
     "_legal": {
-      "QIR": true
+      "STD": true
     },
     "isisToken": true
   },
@@ -4977,7 +5619,10 @@
         "image": "https://shunjitakano.github.io/LunarRing/images/gift-of-qirune.webp",
         "covenant": "Qirune",
         "isToken": true,
-        "isisToken": true
+        "isisToken": true,
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Gift of Qirune",
@@ -4987,7 +5632,7 @@
     "covenant": "Qirune",
     "isToken": true,
     "_legal": {
-      "QIR": true
+      "STD": true
     },
     "isisToken": true
   },
@@ -5003,7 +5648,10 @@
         "image": "https://shunjitakano.github.io/LunarRing/images/hardened-essence.webp",
         "covenant": "Qirune",
         "isToken": true,
-        "isisToken": true
+        "isisToken": true,
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Hardened Essence",
@@ -5013,7 +5661,7 @@
     "covenant": "Qirune",
     "isToken": true,
     "_legal": {
-      "QIR": true
+      "STD": true
     },
     "isisToken": true
   },
@@ -5029,7 +5677,10 @@
         "image": "https://shunjitakano.github.io/LunarRing/images/hollow-feeling.webp",
         "covenant": "Qirune",
         "isToken": true,
-        "isisToken": true
+        "isisToken": true,
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Hollow Feeling",
@@ -5039,7 +5690,7 @@
     "covenant": "Qirune",
     "isToken": true,
     "_legal": {
-      "QIR": true
+      "STD": true
     },
     "isisToken": true
   },
@@ -5055,7 +5706,10 @@
         "image": "https://shunjitakano.github.io/LunarRing/images/love-letter.webp",
         "covenant": "Qirune",
         "isToken": true,
-        "isisToken": true
+        "isisToken": true,
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Love Letter",
@@ -5065,7 +5719,7 @@
     "covenant": "Qirune",
     "isToken": true,
     "_legal": {
-      "QIR": true
+      "STD": true
     },
     "isisToken": true
   },
@@ -5081,7 +5735,10 @@
         "image": "https://shunjitakano.github.io/LunarRing/images/seething-hate.webp",
         "covenant": "Qirune",
         "isToken": true,
-        "isisToken": true
+        "isisToken": true,
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Seething Hate",
@@ -5091,7 +5748,7 @@
     "covenant": "Qirune",
     "isToken": true,
     "_legal": {
-      "QIR": true
+      "STD": true
     },
     "isisToken": true
   },
@@ -5105,7 +5762,10 @@
         "type": "Tome",
         "cost": 4,
         "image": "https://shunjitakano.github.io/LunarRing/images/tome-of-anger.webp",
-        "covenant": "Qirune"
+        "covenant": "Qirune",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Tome of Anger",
@@ -5114,7 +5774,7 @@
     "effect": "3 Essence.\nForge - Create a \u201cHardened Essence\u201d. Discard 2.\nRaze - Break a weapon and lose 3 health.\nMold - Create a copy of a weapon you wield. Break all non weapon armaments you wield.",
     "covenant": "Qirune",
     "_legal": {
-      "QIR": true
+      "STD": true
     }
   },
   "tome-of-benevolence": {
@@ -5127,7 +5787,10 @@
         "type": "Tome",
         "cost": 5,
         "image": "https://shunjitakano.github.io/LunarRing/images/tome-of-benevolence.webp",
-        "covenant": "Qirune"
+        "covenant": "Qirune",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Tome of Benevolence",
@@ -5136,7 +5799,7 @@
     "effect": "1 Essence. If you are Loving, after casting a spell from this, draw 2.\nEuphoria - Restore 5 health to both players.\nDivine Protection - Both players gain 5 GUARD.",
     "covenant": "Qirune",
     "_legal": {
-      "QIR": true
+      "STD": true
     }
   },
   "tome-of-greed": {
@@ -5149,7 +5812,10 @@
         "type": "Tome",
         "cost": 2,
         "image": "https://shunjitakano.github.io/LunarRing/images/tome-of-greed.webp",
-        "covenant": "Qirune"
+        "covenant": "Qirune",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Tome of Greed",
@@ -5158,7 +5824,7 @@
     "effect": "2 Essence. Full Moon: Brandish: This gains +3 Essence.\nSwallow - Your opponent loses 1 health and you restore 1 health. \nSpit -  Deal 1 damage for each health restored this turn.",
     "covenant": "Qirune",
     "_legal": {
-      "QIR": true
+      "STD": true
     }
   },
   "tome-of-joy": {
@@ -5171,7 +5837,10 @@
         "type": "Tome",
         "cost": 3,
         "image": "https://shunjitakano.github.io/LunarRing/images/tome-of-joy.webp",
-        "covenant": "Qirune"
+        "covenant": "Qirune",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Tome of Joy",
@@ -5180,7 +5849,7 @@
     "effect": "2 Essence. Half Moon: Whenever you cast a spell from this, restore 2 health.\nRelax - Cure an ailment.\nDream - Witness",
     "covenant": "Qirune",
     "_legal": {
-      "QIR": true
+      "STD": true
     }
   },
   "tome-of-loathing": {
@@ -5193,7 +5862,10 @@
         "type": "Tome",
         "cost": 5,
         "image": "https://shunjitakano.github.io/LunarRing/images/tome-of-loathing.webp",
-        "covenant": "Qirune"
+        "covenant": "Qirune",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Tome of Loathing",
@@ -5202,7 +5874,7 @@
     "effect": "2 Essence. If you are Hateful, this Tome\u2019s spell cast twice and you discard 2.\nAbhorrent Thoughts - Your opponent loses 1 health for every ailment they are afflicted with.  Eclipse: Cure all ailments.\nMalice - The next time you deal damage with Hate, inflict an ailment. Eclipse: The next time you deal damage with hate restore that much health instead.",
     "covenant": "Qirune",
     "_legal": {
-      "QIR": true
+      "STD": true
     }
   },
   "tome-of-mischief": {
@@ -5215,7 +5887,10 @@
         "type": "Tome",
         "cost": 3,
         "image": "https://shunjitakano.github.io/LunarRing/images/tome-of-mischief.webp",
-        "covenant": "Qirune"
+        "covenant": "Qirune",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Tome of Mischief",
@@ -5224,7 +5899,7 @@
     "effect": "2 Essence.\nHide -  You cannot be attacked until your next preparation.\nSeek - Draw 1 and discard 1.",
     "covenant": "Qirune",
     "_legal": {
-      "QIR": true
+      "STD": true
     }
   },
   "tome-of-serenity": {
@@ -5237,7 +5912,10 @@
         "type": "Tome",
         "cost": 2,
         "image": "https://shunjitakano.github.io/LunarRing/images/tome-of-serenity.webp",
-        "covenant": "Qirune"
+        "covenant": "Qirune",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Tome of Serenity",
@@ -5246,7 +5924,7 @@
     "effect": "2 Essence.\nDirt - Gain 2 GUARD. Eclipse: Break your opponents guard.\nHearth - Create an \u201cEmber\u201d. Eclipse: Create a \"Hollow Feeling\"\nBreeze - Disarm an armament that tests 2 or less resolve. Eclipse: Lose 2 health.",
     "covenant": "Qirune",
     "_legal": {
-      "QIR": true
+      "STD": true
     }
   },
   "tome-of-encumbering-love": {
@@ -5259,7 +5937,10 @@
         "type": "Tome",
         "cost": 4,
         "image": "https://shunjitakano.github.io/LunarRing/images/tome-of-encumbering-love.webp",
-        "covenant": "Qirune"
+        "covenant": "Qirune",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Tome of Encumbering Love",
@@ -5268,7 +5949,7 @@
     "effect": "2 Essence.\nCourtship - Restore 2 health to your opponent. \nOffering - Your opponents next card tests 1 less resolve.\nDevotion - Your opponent draws 1. \nIf you have cast 20 or more spells from this, You win the game.",
     "covenant": "Qirune",
     "_legal": {
-      "QIR": true
+      "STD": true
     }
   },
   "claws-to-tear": {
@@ -5282,7 +5963,10 @@
         "cost": 3,
         "image": "https://shunjitakano.github.io/LunarRing/images/claws-to-tear.webp",
         "covenant": "Xurdos",
-        "attack": 2
+        "attack": 2,
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Claws to Tear",
@@ -5292,7 +5976,7 @@
     "attack": 2,
     "covenant": "Xurdos",
     "_legal": {
-      "XUR": true
+      "STD": true
     }
   },
   "oozing-point": {
@@ -5306,7 +5990,10 @@
         "cost": 3,
         "image": "https://shunjitakano.github.io/LunarRing/images/oozing-point.webp",
         "covenant": "Xurdos",
-        "attack": 1
+        "attack": 1,
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Oozing Point",
@@ -5316,7 +6003,7 @@
     "attack": 1,
     "covenant": "Xurdos",
     "_legal": {
-      "XUR": true
+      "STD": true
     }
   },
   "automatic-brewer": {
@@ -5330,7 +6017,10 @@
         "cost": 1,
         "image": "https://shunjitakano.github.io/LunarRing/images/automatic-brewer.webp",
         "covenant": "Xurdos",
-        "attack": 1
+        "attack": 1,
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Automatic Brewer",
@@ -5340,7 +6030,7 @@
     "attack": 1,
     "covenant": "Xurdos",
     "_legal": {
-      "XUR": true
+      "STD": true
     }
   },
   "evolution-s-peak": {
@@ -5354,7 +6044,10 @@
         "cost": 8,
         "image": "https://shunjitakano.github.io/LunarRing/images/evolution-s-peak.webp",
         "covenant": "Xurdos",
-        "attack": 2
+        "attack": 2,
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Evolution's Peak",
@@ -5364,7 +6057,7 @@
     "attack": 2,
     "covenant": "Xurdos",
     "_legal": {
-      "XUR": true
+      "STD": true
     }
   },
   "reactive-mutation": {
@@ -5378,7 +6071,10 @@
         "cost": 4,
         "image": "https://shunjitakano.github.io/LunarRing/images/reactive-mutation.webp",
         "covenant": "Xurdos",
-        "attack": 0
+        "attack": 0,
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Reactive Mutation",
@@ -5388,7 +6084,7 @@
     "attack": 0,
     "covenant": "Xurdos",
     "_legal": {
-      "XUR": true
+      "STD": true
     }
   },
   "become-perfect": {
@@ -5401,7 +6097,10 @@
         "type": "Ability",
         "cost": 3,
         "image": "https://shunjitakano.github.io/LunarRing/images/become-perfect.webp",
-        "covenant": "Xurdos"
+        "covenant": "Xurdos",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Become Perfect",
@@ -5410,7 +6109,7 @@
     "effect": "After you Evolve, if this has 20 or more mutation counters on it, you win the game.",
     "covenant": "Xurdos",
     "_legal": {
-      "XUR": true
+      "STD": true
     }
   },
   "coated-skin": {
@@ -5423,7 +6122,10 @@
         "type": "Ability",
         "cost": 3,
         "image": "https://shunjitakano.github.io/LunarRing/images/coated-skin.webp",
-        "covenant": "Xurdos"
+        "covenant": "Xurdos",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Coated Skin",
@@ -5432,7 +6134,7 @@
     "effect": "Test 3 Resolve: Evolve. If your opponent deals attack damage to you and this has 3 or more mutation counters on it, inflict your opponent with a random ailment.",
     "covenant": "Xurdos",
     "_legal": {
-      "XUR": true
+      "STD": true
     }
   },
   "bone-extension-defensive": {
@@ -5445,7 +6147,10 @@
         "type": "Ability",
         "cost": 5,
         "image": "https://shunjitakano.github.io/LunarRing/images/bone-extension-defensive.webp",
-        "covenant": "Xurdos"
+        "covenant": "Xurdos",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Bone Extension: Defensive",
@@ -5454,7 +6159,7 @@
     "effect": "At your preparation gain 1 guard and scrap 1. This effect is increased by 1 for each armament you wield with a mutation counter.",
     "covenant": "Xurdos",
     "_legal": {
-      "XUR": true
+      "STD": true
     }
   },
   "skin-like-steel": {
@@ -5467,7 +6172,10 @@
         "type": "Ability",
         "cost": 4,
         "image": "https://shunjitakano.github.io/LunarRing/images/skin-like-steel.webp",
-        "covenant": "Xurdos"
+        "covenant": "Xurdos",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Skin Like Steel",
@@ -5476,7 +6184,7 @@
     "effect": "After you Evolve, gain 2 guard and discard 1. If this has 3 or more mutation counters, this cannot be broken as long as you have guard.",
     "covenant": "Xurdos",
     "_legal": {
-      "XUR": true
+      "STD": true
     }
   },
   "made-for-this": {
@@ -5489,7 +6197,10 @@
         "type": "Ability",
         "cost": 2,
         "image": "https://shunjitakano.github.io/LunarRing/images/made-for-this.webp",
-        "covenant": "Xurdos"
+        "covenant": "Xurdos",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Made For This",
@@ -5498,7 +6209,7 @@
     "effect": "At your preparation if you wield an armament without a mutation counter on it, Evolve.",
     "covenant": "Xurdos",
     "_legal": {
-      "XUR": true
+      "STD": true
     }
   },
   "self-testing": {
@@ -5511,7 +6222,10 @@
         "type": "Ability",
         "cost": 5,
         "image": "https://shunjitakano.github.io/LunarRing/images/self-testing.webp",
-        "covenant": "Xurdos"
+        "covenant": "Xurdos",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Self Testing",
@@ -5520,7 +6234,7 @@
     "effect": "The first time you use a concoction each turn, you may lose health equal to the dice result. If you do, roll again. If this has 3 or more mutation counters on it, you may repeat this 1 additional time.",
     "covenant": "Xurdos",
     "_legal": {
-      "XUR": true
+      "STD": true
     }
   },
   "victim-of-science": {
@@ -5533,7 +6247,10 @@
         "type": "Ability",
         "cost": 5,
         "image": "https://shunjitakano.github.io/LunarRing/images/victim-of-science.webp",
-        "covenant": "Xurdos"
+        "covenant": "Xurdos",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Victim of Science",
@@ -5542,7 +6259,7 @@
     "effect": "After you use a concoction, you may discard 1 at random. If you do, Evolve twice. If this has 2 or more mutations counters on it, do not discard at random.",
     "covenant": "Xurdos",
     "_legal": {
-      "XUR": true
+      "STD": true
     }
   },
   "zyxa-s-presence": {
@@ -5555,7 +6272,10 @@
         "type": "Ability",
         "cost": 3,
         "image": "https://shunjitakano.github.io/LunarRing/images/zyxa-s-presence.webp",
-        "covenant": "Xurdos"
+        "covenant": "Xurdos",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Zyxa's Presence",
@@ -5564,7 +6284,7 @@
     "effect": "After you Evolve, Break an armament that tests X resolve where X is equal to the number of mutation counters on this. If you are Zyxa, armaments you wield with 4 or more mutation counters on them can't be disarmed or broken.",
     "covenant": "Xurdos",
     "_legal": {
-      "XUR": true
+      "STD": true
     }
   },
   "killer-instinct": {
@@ -5577,7 +6297,10 @@
         "type": "Act of Desperation",
         "cost": 10,
         "image": "https://shunjitakano.github.io/LunarRing/images/killer-instinct.webp",
-        "covenant": "Xurdos"
+        "covenant": "Xurdos",
+        "_legal": {
+          "STD": 1
+        }
       }
     },
     "name": "Killer Instinct",
@@ -5586,7 +6309,7 @@
     "effect": "Evolve 10 times. Then if you wield a weapon with 15 or more mutation counters on it give it +10 and \"When I break you lose the game\".",
     "covenant": "Xurdos",
     "_legal": {
-      "XUR": 1
+      "STD": 1
     }
   },
   "xurdos-gift-of-ambition": {
@@ -5599,7 +6322,10 @@
         "type": "Act of Desperation: Eternal",
         "cost": 10,
         "image": "https://shunjitakano.github.io/LunarRing/images/xurdos-gift-of-ambition.webp",
-        "covenant": "Xurdos"
+        "covenant": "Xurdos",
+        "_legal": {
+          "STD": 1
+        }
       }
     },
     "name": "Xurdos' Gift of Ambition",
@@ -5608,7 +6334,7 @@
     "effect": "Brandish: Play all concoctions from the scrapyard.  You may wield any number of concoctions. At recovery, if you did not use at least 3 concoctions, you lose the game.",
     "covenant": "Xurdos",
     "_legal": {
-      "XUR": 1
+      "STD": 1
     }
   },
   "bubbling-brew": {
@@ -5621,7 +6347,10 @@
         "type": "Concoction",
         "cost": 1,
         "image": "https://shunjitakano.github.io/LunarRing/images/bubbling-brew.webp",
-        "covenant": "Xurdos"
+        "covenant": "Xurdos",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Bubbling Brew",
@@ -5630,7 +6359,7 @@
     "effect": "Use: Roll a dice and inflict: Half Moon: Repeat this.\n1-2: Poison.\n3-4: Bleed\n5-6: Fear",
     "covenant": "Xurdos",
     "_legal": {
-      "XUR": true
+      "STD": true
     }
   },
   "crystalised-veil-potion": {
@@ -5643,7 +6372,10 @@
         "type": "Concoction",
         "cost": 2,
         "image": "https://shunjitakano.github.io/LunarRing/images/crystalised-veil-potion.webp",
-        "covenant": "Xurdos"
+        "covenant": "Xurdos",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Crystalised Veil Potion",
@@ -5652,7 +6384,7 @@
     "effect": "Use: Roll a dice. Crescent Moon: If you roll a 2-5 gain 4 guard instead.\n1: Deal 2 damage to yourself\n2-5: Gain 3 guard\n6: Gain 8 guard it cannot break until your next preparation.",
     "covenant": "Xurdos",
     "_legal": {
-      "XUR": true
+      "STD": true
     }
   },
   "exquiste-moonlight": {
@@ -5665,7 +6397,10 @@
         "type": "Concoction",
         "cost": 5,
         "image": "https://shunjitakano.github.io/LunarRing/images/exquiste-moonlight.webp",
-        "covenant": "Xurdos"
+        "covenant": "Xurdos",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Exquiste Moonlight",
@@ -5674,7 +6409,7 @@
     "effect": "Use: Roll a dice , lose 2 health and scrap 2. Crescent Moon: Lose 1 and scrap 1 instead.\nChoose any number of effects below, equal to the result.\n- Give a weapon you wield +2\n- Draw 1\n- Restore 1 Health\n-Evolve",
     "covenant": "Xurdos",
     "_legal": {
-      "XUR": true
+      "STD": true
     }
   },
   "malice-of-the-pale-stare": {
@@ -5687,7 +6422,10 @@
         "type": "Concoction",
         "cost": 2,
         "image": "https://shunjitakano.github.io/LunarRing/images/malice-of-the-pale-stare.webp",
-        "covenant": "Xurdos"
+        "covenant": "Xurdos",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Malice of the Pale Stare",
@@ -5696,7 +6434,7 @@
     "effect": "Use: Roll a dice. Crescent Moon: If you roll a 2-5 give a weapon you wield +3 instead.\n1: You cannot attack for 2 turns.\n2-5: Give a weapon you wield +2\n6: Your next attack inflicts Bleed 3.",
     "covenant": "Xurdos",
     "_legal": {
-      "XUR": true
+      "STD": true
     }
   },
   "xurdos-s-ichor": {
@@ -5709,7 +6447,10 @@
         "type": "Concoction",
         "cost": 2,
         "image": "https://shunjitakano.github.io/LunarRing/images/xurdos-s-ichor.webp",
-        "covenant": "Xurdos"
+        "covenant": "Xurdos",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Xurdos's Ichor",
@@ -5718,7 +6459,7 @@
     "effect": "Use: Roll a dice. Crescent Moon: If you roll a 2-5 also cure an ailment.\n1: Lose 5 health.\n2-5: Restore 3 health\n6: Your condition recovers. Set your health to 1.",
     "covenant": "Xurdos",
     "_legal": {
-      "XUR": true
+      "STD": true
     }
   },
   "mimicing-muck": {
@@ -5731,7 +6472,10 @@
         "type": "Concoction",
         "cost": 2,
         "image": "https://shunjitakano.github.io/LunarRing/images/mimicing-muck.webp",
-        "covenant": "Xurdos"
+        "covenant": "Xurdos",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Mimicing Muck",
@@ -5740,7 +6484,7 @@
     "effect": "Use: Roll a dice. Play an armament from the scrapyard that tests X resolve where X is equal to the dice result. Half Moon: Play 2 instead.",
     "covenant": "Xurdos",
     "_legal": {
-      "XUR": true
+      "STD": true
     }
   },
   "pale-miasma": {
@@ -5753,7 +6497,10 @@
         "type": "Concoction",
         "cost": 6,
         "image": "https://shunjitakano.github.io/LunarRing/images/pale-miasma.webp",
-        "covenant": "Xurdos"
+        "covenant": "Xurdos",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Pale Miasma",
@@ -5762,7 +6509,7 @@
     "effect": "Use: Roll a dice: Half Moon: This tests 2 less resolve to play.\n1: Lose 5 health and inflict yourself with Poison. \n2-5: Inflict all ailments on your opponent.\n6: Inflict all ailments on your opponent and they lose 3 health.",
     "covenant": "Xurdos",
     "_legal": {
-      "XUR": true
+      "STD": true
     }
   },
   "pale-potion": {
@@ -5775,7 +6522,10 @@
         "type": "Concoction",
         "cost": 2,
         "image": "https://shunjitakano.github.io/LunarRing/images/pale-potion.webp",
-        "covenant": "Xurdos"
+        "covenant": "Xurdos",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Pale Potion",
@@ -5784,7 +6534,7 @@
     "effect": "Use: Roll a dice. Full Moon: If you roll a 1, roll again.\n1: Discard 2.\n2-5: Witness a card that tests 3 or less resolve .\n6: Draw 3.",
     "covenant": "Xurdos",
     "_legal": {
-      "XUR": true
+      "STD": true
     }
   },
   "potion-of-phases": {
@@ -5797,7 +6547,10 @@
         "type": "Concoction",
         "cost": 3,
         "image": "https://shunjitakano.github.io/LunarRing/images/potion-of-phases.webp",
-        "covenant": "Xurdos"
+        "covenant": "Xurdos",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Potion of Phases",
@@ -5806,7 +6559,7 @@
     "effect": "Use: Roll a dice. Eclipse: This always rolls 5.\n1: Restore 3 health.\n2: Gain 2 Resolve this turn.\n3: Draw 2 and discard 1.\n4: Evolve twice.\n5: Lose 3 health.\n6: Give a weapon you wield +3.",
     "covenant": "Xurdos",
     "_legal": {
-      "XUR": true
+      "STD": true
     }
   },
   "explosive-ingredient": {
@@ -5819,7 +6572,10 @@
         "type": "Item",
         "cost": 4,
         "image": "https://shunjitakano.github.io/LunarRing/images/explosive-ingredient.webp",
-        "covenant": "Xurdos"
+        "covenant": "Xurdos",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Explosive Ingredient",
@@ -5828,7 +6584,7 @@
     "effect": "Use: The next time you use a concoction, if the result is 3 or more  both players create 2 \u201cPuddles\u201d. Otherwise, discard 2 and scrap 2.",
     "covenant": "Xurdos",
     "_legal": {
-      "XUR": true
+      "STD": true
     }
   },
   "illicit-substance": {
@@ -5841,7 +6597,10 @@
         "type": "Item",
         "cost": 3,
         "image": "https://shunjitakano.github.io/LunarRing/images/illicit-substance.webp",
-        "covenant": "Xurdos"
+        "covenant": "Xurdos",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Illicit Substance",
@@ -5850,7 +6609,7 @@
     "effect": "Use: The next time you Evolve, Evolve an additional time.",
     "covenant": "Xurdos",
     "_legal": {
-      "XUR": true
+      "STD": true
     }
   },
   "lost-child-s-toy": {
@@ -5863,7 +6622,10 @@
         "type": "Item",
         "cost": 1,
         "image": "https://shunjitakano.github.io/LunarRing/images/lost-child-s-toy.webp",
-        "covenant": "Xurdos"
+        "covenant": "Xurdos",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Lost Child's Toy",
@@ -5872,7 +6634,7 @@
     "effect": "Use: Evolve or play a concoction from the scrapyard that tests 2 or less resolve. If this has 5 or more mutation counters, you may play an additional armament from the scrapyard.",
     "covenant": "Xurdos",
     "_legal": {
-      "XUR": true
+      "STD": true
     }
   },
   "potion-belt": {
@@ -5885,7 +6647,10 @@
         "type": "Item",
         "cost": 1,
         "image": "https://shunjitakano.github.io/LunarRing/images/potion-belt.webp",
-        "covenant": "Xurdos"
+        "covenant": "Xurdos",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Potion Belt",
@@ -5894,7 +6659,7 @@
     "effect": "Use: Witness a concoction that costs 2 or less. If you don\u2019t, this does not break.",
     "covenant": "Xurdos",
     "_legal": {
-      "XUR": true
+      "STD": true
     }
   },
   "destructive-reaction": {
@@ -5907,7 +6672,10 @@
         "type": "Riposte",
         "cost": 3,
         "image": "https://shunjitakano.github.io/LunarRing/images/destructive-reaction.webp",
-        "covenant": "Xurdos"
+        "covenant": "Xurdos",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Destructive Reaction",
@@ -5916,7 +6684,7 @@
     "effect": "You may play and use a concoction that tests 3 or less resolve. Break an armament that tests X resolve where X is equal to the dice result.",
     "covenant": "Xurdos",
     "_legal": {
-      "XUR": true
+      "STD": true
     }
   },
   "lo-s-mad-science": {
@@ -5929,7 +6697,10 @@
         "type": "Riposte",
         "cost": 4,
         "image": "https://shunjitakano.github.io/LunarRing/images/lo-s-mad-science.webp",
-        "covenant": "Xurdos"
+        "covenant": "Xurdos",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Lo's Mad Science",
@@ -5938,7 +6709,7 @@
     "effect": "Lose 2 health. Play a concoction from the scrapyard without testing resolve. You may repeat this process. If you are Lo, this tests1 less resolve.",
     "covenant": "Xurdos",
     "_legal": {
-      "XUR": true
+      "STD": true
     }
   },
   "progress-to-perfection": {
@@ -5951,7 +6722,10 @@
         "type": "Riposte",
         "cost": 2,
         "image": "https://shunjitakano.github.io/LunarRing/images/progress-to-perfection.webp",
-        "covenant": "Xurdos"
+        "covenant": "Xurdos",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Progress to Perfection",
@@ -5960,7 +6734,7 @@
     "effect": "Evolve. Break an armament you wield that tests X resolve where X is equal to the number of mutation counters on the armament you wield with the most mutation counters.",
     "covenant": "Xurdos",
     "_legal": {
-      "XUR": true
+      "STD": true
     }
   },
   "puddles-everywhere": {
@@ -5973,7 +6747,10 @@
         "type": "Riposte",
         "cost": 1,
         "image": "https://shunjitakano.github.io/LunarRing/images/puddles-everywhere.webp",
-        "covenant": "Xurdos"
+        "covenant": "Xurdos",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Puddles Everywhere",
@@ -5982,7 +6759,7 @@
     "effect": "You and your opponent both create a \u201cPuddle\u201d.",
     "covenant": "Xurdos",
     "_legal": {
-      "XUR": true
+      "STD": true
     }
   },
   "unready-test": {
@@ -5995,7 +6772,10 @@
         "type": "Riposte",
         "cost": 1,
         "image": "https://shunjitakano.github.io/LunarRing/images/unready-test.webp",
-        "covenant": "Xurdos"
+        "covenant": "Xurdos",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Unready Test",
@@ -6004,7 +6784,7 @@
     "effect": "If your opponent is attacking, play a concoction without testing resolve and use it. Give it's result -2.",
     "covenant": "Xurdos",
     "_legal": {
-      "XUR": true
+      "STD": true
     }
   },
   "nothing-can-stop-us": {
@@ -6017,7 +6797,10 @@
         "type": "Tactic",
         "cost": 6,
         "image": "https://shunjitakano.github.io/LunarRing/images/nothing-can-stop-us.webp",
-        "covenant": "Xurdos"
+        "covenant": "Xurdos",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Nothing Can Stop Us",
@@ -6026,7 +6809,7 @@
     "effect": "Break all armaments without mutation counters on them. Discard 2.",
     "covenant": "Xurdos",
     "_legal": {
-      "XUR": true
+      "STD": true
     }
   },
   "adapt-and-survive": {
@@ -6039,7 +6822,10 @@
         "type": "Tactic",
         "cost": 3,
         "image": "https://shunjitakano.github.io/LunarRing/images/adapt-and-survive.webp",
-        "covenant": "Xurdos"
+        "covenant": "Xurdos",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Adapt and Survive",
@@ -6048,7 +6834,7 @@
     "effect": "Evolve. If you have less health than your opponent, Evolve again.",
     "covenant": "Xurdos",
     "_legal": {
-      "XUR": true
+      "STD": true
     }
   },
   "agonizing-progress": {
@@ -6061,7 +6847,10 @@
         "type": "Tactic",
         "cost": 5,
         "image": "https://shunjitakano.github.io/LunarRing/images/agonizing-progress.webp",
-        "covenant": "Xurdos"
+        "covenant": "Xurdos",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Agonizing Progress",
@@ -6070,7 +6859,7 @@
     "effect": "Discard your hand. Evolve for each card discarded this way.",
     "covenant": "Xurdos",
     "_legal": {
-      "XUR": true
+      "STD": true
     }
   },
   "evolutionary": {
@@ -6083,7 +6872,10 @@
         "type": "Tactic",
         "cost": 1,
         "image": "https://shunjitakano.github.io/LunarRing/images/evolutionary.webp",
-        "covenant": "Xurdos"
+        "covenant": "Xurdos",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Evolutionary",
@@ -6092,7 +6884,7 @@
     "effect": "Evolve.",
     "covenant": "Xurdos",
     "_legal": {
-      "XUR": true
+      "STD": true
     }
   },
   "maniacal-testing": {
@@ -6105,7 +6897,10 @@
         "type": "Tactic",
         "cost": 4,
         "image": "https://shunjitakano.github.io/LunarRing/images/maniacal-testing.webp",
-        "covenant": "Xurdos"
+        "covenant": "Xurdos",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Maniacal Testing",
@@ -6114,7 +6909,7 @@
     "effect": "Use all concoctions you wield and disarm them. If you roll a 4 or more this turn, Scrap 2.",
     "covenant": "Xurdos",
     "_legal": {
-      "XUR": true
+      "STD": true
     }
   },
   "personal-development": {
@@ -6127,7 +6922,10 @@
         "type": "Tactic",
         "cost": 2,
         "image": "https://shunjitakano.github.io/LunarRing/images/personal-development.webp",
-        "covenant": "Xurdos"
+        "covenant": "Xurdos",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Personal Development",
@@ -6136,7 +6934,7 @@
     "effect": "Evolve. If you wield an armament with 3 or more mutation counters on it, draw 1.",
     "covenant": "Xurdos",
     "_legal": {
-      "XUR": true
+      "STD": true
     }
   },
   "survival-of-the-fittest": {
@@ -6149,7 +6947,10 @@
         "type": "Tactic",
         "cost": 3,
         "image": "https://shunjitakano.github.io/LunarRing/images/survival-of-the-fittest.webp",
-        "covenant": "Xurdos"
+        "covenant": "Xurdos",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Survival of the Fittest",
@@ -6158,7 +6959,7 @@
     "effect": "Evolve and break an armament that tests 3 or less resolve.",
     "covenant": "Xurdos",
     "_legal": {
-      "XUR": true
+      "STD": true
     }
   },
   "traumatic-rage": {
@@ -6171,7 +6972,10 @@
         "type": "Tactic",
         "cost": 2,
         "image": "https://shunjitakano.github.io/LunarRing/images/traumatic-rage.webp",
-        "covenant": "Xurdos"
+        "covenant": "Xurdos",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Traumatic Rage",
@@ -6180,7 +6984,7 @@
     "effect": "Give a weapon you wield +1 for each mutation counter on it.",
     "covenant": "Xurdos",
     "_legal": {
-      "XUR": true
+      "STD": true
     }
   },
   "vicious-vapour": {
@@ -6193,7 +6997,10 @@
         "type": "Tactic",
         "cost": 4,
         "image": "https://shunjitakano.github.io/LunarRing/images/vicious-vapour.webp",
-        "covenant": "Xurdos"
+        "covenant": "Xurdos",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Vicious Vapour",
@@ -6202,7 +7009,7 @@
     "effect": "Inflict a random ailment for each \"Puddle\" your opponent wields.",
     "covenant": "Xurdos",
     "_legal": {
-      "XUR": true
+      "STD": true
     }
   },
   "puddle": {
@@ -6217,7 +7024,10 @@
         "image": "https://shunjitakano.github.io/LunarRing/images/puddle.webp",
         "covenant": "Xurdos",
         "isToken": true,
-        "isisToken": true
+        "isisToken": true,
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Puddle",
@@ -6227,7 +7037,7 @@
     "covenant": "Xurdos",
     "isToken": true,
     "_legal": {
-      "XUR": true
+      "STD": true
     },
     "isisToken": true
   },
@@ -6244,7 +7054,10 @@
         "covenant": "Igon",
         "condition": "Thriving",
         "health": 10,
-        "devotee": "heliana-yade"
+        "devotee": "heliana-yade",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Heliana Yade",
@@ -6256,7 +7069,7 @@
     "devotee": "heliana-yade",
     "condition": "Thriving",
     "_legal": {
-      "IGO": true
+      "STD": true
     }
   },
   "heliana-yade-wounded": {
@@ -6272,7 +7085,10 @@
         "covenant": "Igon",
         "condition": "Wounded",
         "health": 10,
-        "devotee": "heliana-yade"
+        "devotee": "heliana-yade",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Heliana Yade",
@@ -6284,7 +7100,7 @@
     "devotee": "heliana-yade",
     "condition": "Wounded",
     "_legal": {
-      "IGO": true
+      "STD": true
     }
   },
   "heliana-yade-desperate": {
@@ -6300,7 +7116,10 @@
         "covenant": "Igon",
         "condition": "Desperate",
         "health": 15,
-        "devotee": "heliana-yade"
+        "devotee": "heliana-yade",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Heliana Yade",
@@ -6312,7 +7131,7 @@
     "devotee": "heliana-yade",
     "condition": "Desperate",
     "_legal": {
-      "IGO": true
+      "STD": true
     }
   },
   "pora-aliestrad-thriving": {
@@ -6328,7 +7147,10 @@
         "covenant": "Igon",
         "condition": "Thriving",
         "health": 10,
-        "devotee": "pora-aliestrad"
+        "devotee": "pora-aliestrad",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Pora Aliestrad",
@@ -6340,7 +7162,7 @@
     "devotee": "pora-aliestrad",
     "condition": "Thriving",
     "_legal": {
-      "IGO": true
+      "STD": true
     }
   },
   "pora-aliestrad-wounded": {
@@ -6356,7 +7178,10 @@
         "covenant": "Igon",
         "condition": "Wounded",
         "health": 15,
-        "devotee": "pora-aliestrad"
+        "devotee": "pora-aliestrad",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Pora Aliestrad",
@@ -6368,7 +7193,7 @@
     "devotee": "pora-aliestrad",
     "condition": "Wounded",
     "_legal": {
-      "IGO": true
+      "STD": true
     }
   },
   "pora-aliestrad-desperate": {
@@ -6384,7 +7209,10 @@
         "covenant": "Igon",
         "condition": "Desperate",
         "health": 10,
-        "devotee": "pora-aliestrad"
+        "devotee": "pora-aliestrad",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Pora Aliestrad",
@@ -6396,7 +7224,7 @@
     "devotee": "pora-aliestrad",
     "condition": "Desperate",
     "_legal": {
-      "IGO": true
+      "STD": true
     }
   },
   "gro-thriving": {
@@ -6412,7 +7240,10 @@
         "covenant": "Kuran",
         "condition": "Thriving",
         "health": 10,
-        "devotee": "gro"
+        "devotee": "gro",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Gro'",
@@ -6424,7 +7255,7 @@
     "devotee": "gro",
     "condition": "Thriving",
     "_legal": {
-      "KUR": true
+      "STD": true
     }
   },
   "gro-wounded": {
@@ -6440,7 +7271,10 @@
         "covenant": "Kuran",
         "condition": "Wounded",
         "health": 10,
-        "devotee": "gro"
+        "devotee": "gro",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Gro'",
@@ -6452,7 +7286,7 @@
     "devotee": "gro",
     "condition": "Wounded",
     "_legal": {
-      "KUR": true
+      "STD": true
     }
   },
   "gro-desperate": {
@@ -6468,7 +7302,10 @@
         "covenant": "Kuran",
         "condition": "Desperate",
         "health": 10,
-        "devotee": "gro"
+        "devotee": "gro",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Gro'",
@@ -6480,7 +7317,7 @@
     "devotee": "gro",
     "condition": "Desperate",
     "_legal": {
-      "KUR": true
+      "STD": true
     }
   },
   "kreena-eldervyre-thriving": {
@@ -6496,7 +7333,10 @@
         "covenant": "Kuran",
         "condition": "Thriving",
         "health": 15,
-        "devotee": "kreena-eldervyre"
+        "devotee": "kreena-eldervyre",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Kreena Eldervyre",
@@ -6508,7 +7348,7 @@
     "devotee": "kreena-eldervyre",
     "condition": "Thriving",
     "_legal": {
-      "KUR": true
+      "STD": true
     }
   },
   "kreena-eldervyre-wounded": {
@@ -6524,7 +7364,10 @@
         "covenant": "Kuran",
         "condition": "Wounded",
         "health": 15,
-        "devotee": "kreena-eldervyre"
+        "devotee": "kreena-eldervyre",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Kreena Eldervyre",
@@ -6536,7 +7379,7 @@
     "devotee": "kreena-eldervyre",
     "condition": "Wounded",
     "_legal": {
-      "KUR": true
+      "STD": true
     }
   },
   "kreena-eldervyre-desperate": {
@@ -6552,7 +7395,10 @@
         "covenant": "Kuran",
         "condition": "Desperate",
         "health": 15,
-        "devotee": "kreena-eldervyre"
+        "devotee": "kreena-eldervyre",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Kreena Eldervyre",
@@ -6564,7 +7410,7 @@
     "devotee": "kreena-eldervyre",
     "condition": "Desperate",
     "_legal": {
-      "KUR": true
+      "STD": true
     }
   },
   "shiera-silkthroat-thriving": {
@@ -6580,7 +7426,10 @@
         "covenant": "Niorr",
         "condition": "Thriving",
         "health": 15,
-        "devotee": "shiera-silkthroat"
+        "devotee": "shiera-silkthroat",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Shiera Silkthroat",
@@ -6592,7 +7441,7 @@
     "devotee": "shiera-silkthroat",
     "condition": "Thriving",
     "_legal": {
-      "NIO": true
+      "STD": true
     }
   },
   "shiera-silkthroat-wounded": {
@@ -6608,7 +7457,10 @@
         "covenant": "Niorr",
         "condition": "Wounded",
         "health": 10,
-        "devotee": "shiera-silkthroat"
+        "devotee": "shiera-silkthroat",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Shiera Silkthroat",
@@ -6620,7 +7472,7 @@
     "devotee": "shiera-silkthroat",
     "condition": "Wounded",
     "_legal": {
-      "NIO": true
+      "STD": true
     }
   },
   "shiera-silkthroat-desperate": {
@@ -6636,7 +7488,10 @@
         "covenant": "Niorr",
         "condition": "Desperate",
         "health": 10,
-        "devotee": "shiera-silkthroat"
+        "devotee": "shiera-silkthroat",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Shiera Silkthroat",
@@ -6648,7 +7503,7 @@
     "devotee": "shiera-silkthroat",
     "condition": "Desperate",
     "_legal": {
-      "NIO": true
+      "STD": true
     }
   },
   "nine-lives-thriving": {
@@ -6664,7 +7519,10 @@
         "covenant": "Niorr",
         "condition": "Thriving",
         "health": 15,
-        "devotee": "nine-lives"
+        "devotee": "nine-lives",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Nine Lives",
@@ -6676,7 +7534,7 @@
     "devotee": "nine-lives",
     "condition": "Thriving",
     "_legal": {
-      "NIO": true
+      "STD": true
     }
   },
   "nine-lives-wounded": {
@@ -6692,7 +7550,10 @@
         "covenant": "Niorr",
         "condition": "Wounded",
         "health": 15,
-        "devotee": "nine-lives"
+        "devotee": "nine-lives",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Nine Lives",
@@ -6704,7 +7565,7 @@
     "devotee": "nine-lives",
     "condition": "Wounded",
     "_legal": {
-      "NIO": true
+      "STD": true
     }
   },
   "nine-lives-desperate": {
@@ -6720,7 +7581,10 @@
         "covenant": "Niorr",
         "condition": "Desperate",
         "health": 10,
-        "devotee": "nine-lives"
+        "devotee": "nine-lives",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Nine Lives",
@@ -6732,7 +7596,7 @@
     "devotee": "nine-lives",
     "condition": "Desperate",
     "_legal": {
-      "NIO": true
+      "STD": true
     }
   },
   "kakandi-bloodbrood-thriving": {
@@ -6748,7 +7612,10 @@
         "covenant": "Yandari",
         "condition": "Thriving",
         "health": 15,
-        "devotee": "kakandi-bloodbrood"
+        "devotee": "kakandi-bloodbrood",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Kakandi Bloodbrood",
@@ -6760,7 +7627,7 @@
     "devotee": "kakandi-bloodbrood",
     "condition": "Thriving",
     "_legal": {
-      "YAN": true
+      "STD": true
     }
   },
   "kakandi-bloodbrood-wounded": {
@@ -6776,7 +7643,10 @@
         "covenant": "Yandari",
         "condition": "Wounded",
         "health": 10,
-        "devotee": "kakandi-bloodbrood"
+        "devotee": "kakandi-bloodbrood",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Kakandi Bloodbrood",
@@ -6788,7 +7658,7 @@
     "devotee": "kakandi-bloodbrood",
     "condition": "Wounded",
     "_legal": {
-      "YAN": true
+      "STD": true
     }
   },
   "kakandi-bloodbrood-desperate": {
@@ -6804,7 +7674,10 @@
         "covenant": "Yandari",
         "condition": "Desperate",
         "health": 15,
-        "devotee": "kakandi-bloodbrood"
+        "devotee": "kakandi-bloodbrood",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Kakandi Bloodbrood",
@@ -6816,7 +7689,7 @@
     "devotee": "kakandi-bloodbrood",
     "condition": "Desperate",
     "_legal": {
-      "YAN": true
+      "STD": true
     }
   },
   "uldes-var-thriving": {
@@ -6832,7 +7705,10 @@
         "covenant": "Yandari",
         "condition": "Thriving",
         "health": 10,
-        "devotee": "uldes-var"
+        "devotee": "uldes-var",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Uldes Var",
@@ -6844,7 +7720,7 @@
     "devotee": "uldes-var",
     "condition": "Thriving",
     "_legal": {
-      "YAN": true
+      "STD": true
     }
   },
   "uldes-var-wounded": {
@@ -6860,7 +7736,10 @@
         "covenant": "Yandari",
         "condition": "Wounded",
         "health": 15,
-        "devotee": "uldes-var"
+        "devotee": "uldes-var",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Uldes Var",
@@ -6872,7 +7751,7 @@
     "devotee": "uldes-var",
     "condition": "Wounded",
     "_legal": {
-      "YAN": true
+      "STD": true
     }
   },
   "uldes-var-desperate": {
@@ -6888,7 +7767,10 @@
         "covenant": "Yandari",
         "condition": "Desperate",
         "health": 10,
-        "devotee": "uldes-var"
+        "devotee": "uldes-var",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Uldes Var",
@@ -6900,7 +7782,7 @@
     "devotee": "uldes-var",
     "condition": "Desperate",
     "_legal": {
-      "YAN": true
+      "STD": true
     }
   },
   "fleeting-visions": {
@@ -6913,7 +7795,10 @@
         "type": "Presence",
         "cost": 0,
         "image": "https://shunjitakano.github.io/LunarRing/images/fleeting-visions.webp",
-        "phase": "Crescent Moon"
+        "phase": "Crescent Moon",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Fleeting Visions",
@@ -6922,12 +7807,7 @@
     "effect": "Each player draws an additional card during their draw phase. At each players recovery, that player discards 1.",
     "phase": "Crescent Moon",
     "_legal": {
-      "IGO": true,
-      "YAN": true,
-      "KUR": true,
-      "NIO": true,
-      "QIR": true,
-      "XUR": true
+      "STD": true
     }
   },
   "pale-glow": {
@@ -6940,7 +7820,10 @@
         "type": "Presence",
         "cost": 0,
         "image": "https://shunjitakano.github.io/LunarRing/images/pale-glow.webp",
-        "phase": "Crescent Moon"
+        "phase": "Crescent Moon",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Pale Glow",
@@ -6949,12 +7832,7 @@
     "effect": "Each player's maximum resolve is increased by 1.",
     "phase": "Crescent Moon",
     "_legal": {
-      "IGO": true,
-      "YAN": true,
-      "KUR": true,
-      "NIO": true,
-      "QIR": true,
-      "XUR": true
+      "STD": true
     }
   },
   "death-with-no-meaning": {
@@ -6967,7 +7845,10 @@
         "type": "Presence",
         "cost": 0,
         "image": "https://shunjitakano.github.io/LunarRing/images/death-with-no-meaning.webp",
-        "phase": "Crescent Moon"
+        "phase": "Crescent Moon",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Death With No Meaning",
@@ -6976,12 +7857,7 @@
     "effect": "At any time a player may test 3 resolve to return a card from their scrapyard to their hand.",
     "phase": "Crescent Moon",
     "_legal": {
-      "IGO": true,
-      "YAN": true,
-      "KUR": true,
-      "NIO": true,
-      "QIR": true,
-      "XUR": true
+      "STD": true
     }
   },
   "temptation-of-chaos": {
@@ -6994,7 +7870,10 @@
         "type": "Presence",
         "cost": 0,
         "image": "https://shunjitakano.github.io/LunarRing/images/temptation-of-chaos.webp",
-        "phase": "Half Moon"
+        "phase": "Half Moon",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Temptation of Chaos",
@@ -7003,12 +7882,7 @@
     "effect": "All Weapons and Acolytes have +1 Attack.",
     "phase": "Half Moon",
     "_legal": {
-      "IGO": true,
-      "YAN": true,
-      "KUR": true,
-      "NIO": true,
-      "QIR": true,
-      "XUR": true
+      "STD": true
     }
   },
   "unraveling": {
@@ -7021,7 +7895,10 @@
         "type": "Presence",
         "cost": 0,
         "image": "https://shunjitakano.github.io/LunarRing/images/unraveling.webp",
-        "phase": "Half Moon"
+        "phase": "Half Moon",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Unraveling",
@@ -7030,12 +7907,7 @@
     "effect": "At the end of each players recovery, all armaments that player wields lose 1 health and 1 Temper.",
     "phase": "Half Moon",
     "_legal": {
-      "IGO": true,
-      "YAN": true,
-      "KUR": true,
-      "NIO": true,
-      "QIR": true,
-      "XUR": true
+      "STD": true
     }
   },
   "promise-of-everything": {
@@ -7048,7 +7920,10 @@
         "type": "Presence",
         "cost": 0,
         "image": "https://shunjitakano.github.io/LunarRing/images/promise-of-everything.webp",
-        "phase": "Half Moon"
+        "phase": "Half Moon",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Promise of Everything",
@@ -7057,12 +7932,7 @@
     "effect": "Players have no maximum handsize",
     "phase": "Half Moon",
     "_legal": {
-      "IGO": true,
-      "YAN": true,
-      "KUR": true,
-      "NIO": true,
-      "QIR": true,
-      "XUR": true
+      "STD": true
     }
   },
   "stinging-madness": {
@@ -7075,7 +7945,10 @@
         "type": "Presence",
         "cost": 0,
         "image": "https://shunjitakano.github.io/LunarRing/images/stinging-madness.webp",
-        "phase": "Full Moon"
+        "phase": "Full Moon",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Stinging Madness",
@@ -7084,12 +7957,7 @@
     "effect": "Whenever a player draws a card outside of their draw phase, they lose 1 health.",
     "phase": "Full Moon",
     "_legal": {
-      "IGO": true,
-      "YAN": true,
-      "KUR": true,
-      "NIO": true,
-      "QIR": true,
-      "XUR": true
+      "STD": true
     }
   },
   "overwhelming-dread": {
@@ -7102,7 +7970,10 @@
         "type": "Presence",
         "cost": 0,
         "image": "https://shunjitakano.github.io/LunarRing/images/overwhelming-dread.webp",
-        "phase": "Full Moon"
+        "phase": "Full Moon",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Overwhelming Dread",
@@ -7111,12 +7982,7 @@
     "effect": "All Damage is Dealt as Dread instead.",
     "phase": "Full Moon",
     "_legal": {
-      "IGO": true,
-      "YAN": true,
-      "KUR": true,
-      "NIO": true,
-      "QIR": true,
-      "XUR": true
+      "STD": true
     }
   },
   "existential-permanence": {
@@ -7129,7 +7995,10 @@
         "type": "Presence",
         "cost": 0,
         "image": "https://shunjitakano.github.io/LunarRing/images/existential-permanence.webp",
-        "phase": "Full Moon"
+        "phase": "Full Moon",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Existential Permanence",
@@ -7138,12 +8007,7 @@
     "effect": "Whenever an armament is broken, shatter it instead.",
     "phase": "Full Moon",
     "_legal": {
-      "IGO": true,
-      "YAN": true,
-      "KUR": true,
-      "NIO": true,
-      "QIR": true,
-      "XUR": true
+      "STD": true
     }
   }
 }
