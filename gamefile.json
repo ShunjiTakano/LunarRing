@@ -136,8 +136,8 @@
               ]
             },
             "events": {
-              "onStart": "await initVitals()",
-              "onNewTurn": "await initVitals()"
+              "onStart": "game.data.Vitals.health = cards?.Devotee?.length ?? -1; game.data.Vitals.resolve = (cards?.Devotee?.find(c => c.condition === 'Thriving')?.health) ?? -2",
+              "onNewTurn": "game.data.Vitals.health = cards?.Devotee?.length ?? -1; game.data.Vitals.resolve = (cards?.Devotee?.find(c => c.condition === 'Thriving')?.health) ?? -2"
             }
           },
           "Armoury": {
