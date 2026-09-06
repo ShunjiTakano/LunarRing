@@ -73,7 +73,7 @@
           ]
         },
 
-        "categoriesAlreadyOnBoard": ["Devotee", "Presence"],
+        "categoriesAlreadyOnBoard": ["Devotee->Devotee", "Presence->Presence"],
 
         "sectionsDict": {
           "Devotee": {
