@@ -136,8 +136,8 @@
               ]
             },
             "events": {
-              "onStart": "const thriving = cards?.Devotee?.find(c => c.condition === 'Thriving'); if (thriving && !game.data.Vitals.initialized) { game.data.Vitals.health = thriving.health; game.data.Vitals.resolve = thriving.cost; game.data.Vitals.initialized = true; }",
-              "onNewTurn": "const thriving = cards?.Devotee?.find(c => c.condition === 'Thriving'); if (thriving && !game.data.Vitals.initialized) { game.data.Vitals.health = thriving.health; game.data.Vitals.resolve = thriving.cost; game.data.Vitals.initialized = true; }"
+              "onStart": "game.data.Vitals._t = cards?.Devotee?.find(c => c.condition === 'Thriving'); (game.data.Vitals._t && !game.data.Vitals.initialized) && (game.data.Vitals.health = game.data.Vitals._t.health); (game.data.Vitals._t && !game.data.Vitals.initialized) && (game.data.Vitals.resolve = game.data.Vitals._t.cost); (game.data.Vitals._t && !game.data.Vitals.initialized) && (game.data.Vitals.initialized = true)",
+              "onNewTurn": "game.data.Vitals._t = cards?.Devotee?.find(c => c.condition === 'Thriving'); (game.data.Vitals._t && !game.data.Vitals.initialized) && (game.data.Vitals.health = game.data.Vitals._t.health); (game.data.Vitals._t && !game.data.Vitals.initialized) && (game.data.Vitals.resolve = game.data.Vitals._t.cost); (game.data.Vitals._t && !game.data.Vitals.initialized) && (game.data.Vitals.initialized = true)"
             }
           },
           "Armoury": {
