@@ -136,8 +136,8 @@
               ]
             },
             "events": {
-              "onStart": "game.data.Vitals.health = cards?.Devotee?.length ?? -1; game.data.Vitals.resolve = (cards?.Devotee?.find(c => c.condition === 'Thriving')?.health) ?? -2",
-              "onNewTurn": "game.data.Vitals.health = cards?.Devotee?.length ?? -1; game.data.Vitals.resolve = (cards?.Devotee?.find(c => c.condition === 'Thriving')?.health) ?? -2"
+              "onStart": "const thriving = cards?.Devotee?.find(c => c.condition === 'Thriving'); if (thriving && !game.data.Vitals.initialized) { game.data.Vitals.health = thriving.health; game.data.Vitals.resolve = thriving.cost; game.data.Vitals.initialized = true; }",
+              "onNewTurn": "const thriving = cards?.Devotee?.find(c => c.condition === 'Thriving'); if (thriving && !game.data.Vitals.initialized) { game.data.Vitals.health = thriving.health; game.data.Vitals.resolve = thriving.cost; game.data.Vitals.initialized = true; }"
             }
           },
           "Armoury": {

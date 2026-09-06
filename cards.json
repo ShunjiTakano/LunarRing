@@ -9,7 +9,9 @@
         "type": "Acolyte",
         "cost": 1,
         "image": "https://shunjitakano.github.io/LunarRing/images/familiar-face.webp",
-        "covenant": "Igon"
+        "covenant": "Igon",
+        "health": 1,
+        "attack": 1
       },
       "back": {
         "name": {
@@ -18,7 +20,9 @@
         "type": "Acolyte",
         "cost": 1,
         "image": "https://shunjitakano.github.io/LunarRing/images/familiar-face-back.webp",
-        "covenant": "Igon"
+        "covenant": "Igon",
+        "health": 1,
+        "attack": 1
       }
     },
     "name": "Familiar Face",
@@ -42,7 +46,9 @@
         "type": "Acolyte",
         "cost": 10,
         "image": "https://shunjitakano.github.io/LunarRing/images/heliana-dictator-of-recollection.webp",
-        "covenant": "Igon"
+        "covenant": "Igon",
+        "health": 4,
+        "attack": 1
       }
     },
     "name": "Heliana, Dictator of Recollection",
@@ -66,7 +72,9 @@
         "type": "Acolyte",
         "cost": 2,
         "image": "https://shunjitakano.github.io/LunarRing/images/madness-clairvoyant.webp",
-        "covenant": "Igon"
+        "covenant": "Igon",
+        "health": 2,
+        "attack": 2
       }
     },
     "name": "Madness Clairvoyant",
@@ -90,7 +98,9 @@
         "type": "Acolyte",
         "cost": 2,
         "image": "https://shunjitakano.github.io/LunarRing/images/memory-of-relief.webp",
-        "covenant": "Igon"
+        "covenant": "Igon",
+        "health": 3,
+        "attack": 1
       },
       "back": {
         "name": {
@@ -99,7 +109,9 @@
         "type": "Acolyte",
         "cost": 2,
         "image": "https://shunjitakano.github.io/LunarRing/images/memory-of-relief-back.webp",
-        "covenant": "Igon"
+        "covenant": "Igon",
+        "health": 3,
+        "attack": 1
       }
     },
     "name": "Memory of Relief",
@@ -123,7 +135,9 @@
         "type": "Acolyte",
         "cost": 3,
         "image": "https://shunjitakano.github.io/LunarRing/images/pora-mind-s-guardian.webp",
-        "covenant": "Igon"
+        "covenant": "Igon",
+        "health": 4,
+        "attack": 2
       }
     },
     "name": "Pora, Mind's Guardian",
@@ -147,7 +161,9 @@
         "type": "Acolyte",
         "cost": 2,
         "image": "https://shunjitakano.github.io/LunarRing/images/proud-child.webp",
-        "covenant": "Igon"
+        "covenant": "Igon",
+        "health": 2,
+        "attack": 1
       },
       "back": {
         "name": {
@@ -156,7 +172,9 @@
         "type": "Acolyte",
         "cost": 2,
         "image": "https://shunjitakano.github.io/LunarRing/images/proud-child-back.webp",
-        "covenant": "Igon"
+        "covenant": "Igon",
+        "health": 2,
+        "attack": 1
       }
     },
     "name": "Proud Child",
@@ -180,7 +198,9 @@
         "type": "Acolyte",
         "cost": 2,
         "image": "https://shunjitakano.github.io/LunarRing/images/scribe-of-igon.webp",
-        "covenant": "Igon"
+        "covenant": "Igon",
+        "health": 1,
+        "attack": 1
       },
       "back": {
         "name": {
@@ -189,7 +209,9 @@
         "type": "Acolyte",
         "cost": 2,
         "image": "https://shunjitakano.github.io/LunarRing/images/scribe-of-igon-back.webp",
-        "covenant": "Igon"
+        "covenant": "Igon",
+        "health": 1,
+        "attack": 1
       }
     },
     "name": "Scribe of Igon",
@@ -213,7 +235,9 @@
         "type": "Acolyte",
         "cost": 5,
         "image": "https://shunjitakano.github.io/LunarRing/images/unsettling-prescence.webp",
-        "covenant": "Igon"
+        "covenant": "Igon",
+        "health": 5,
+        "attack": 1
       },
       "back": {
         "name": {
@@ -222,7 +246,9 @@
         "type": "Acolyte",
         "cost": 5,
         "image": "https://shunjitakano.github.io/LunarRing/images/unsettling-prescence-back.webp",
-        "covenant": "Igon"
+        "covenant": "Igon",
+        "health": 5,
+        "attack": 1
       }
     },
     "name": "Unsettling Prescence",
@@ -246,7 +272,9 @@
         "type": "Acolyte",
         "cost": 2,
         "image": "https://shunjitakano.github.io/LunarRing/images/wisp-of-remembrance.webp",
-        "covenant": "Igon"
+        "covenant": "Igon",
+        "health": 1,
+        "attack": 1
       }
     },
     "name": "Wisp of Remembrance",
@@ -578,7 +606,8 @@
         "type": "Tactic",
         "cost": 2,
         "image": "https://shunjitakano.github.io/LunarRing/images/everything-all-at-once.webp",
-        "covenant": "Igon"
+        "covenant": "Igon",
+        "attack": "n.a"
       }
     },
     "name": "Everything All At Once",
@@ -733,7 +762,11 @@
         "type": "Token Edict",
         "cost": 0,
         "image": "https://shunjitakano.github.io/LunarRing/images/hazed-memory.webp",
-        "covenant": "Igon"
+        "covenant": "Igon",
+        "health": 1,
+        "attack": 0,
+        "isToken": true,
+        "isisToken": true
       }
     },
     "name": "Hazed Memory",
@@ -759,7 +792,9 @@
         "type": "Weapon",
         "cost": 8,
         "image": "https://shunjitakano.github.io/LunarRing/images/edge-of-consciousness.webp",
-        "covenant": "Igon"
+        "covenant": "Igon",
+        "health": 2,
+        "attack": 0
       }
     },
     "name": "Edge of Consciousness",
@@ -783,7 +818,9 @@
         "type": "Weapon",
         "cost": 3,
         "image": "https://shunjitakano.github.io/LunarRing/images/glory.webp",
-        "covenant": "Igon"
+        "covenant": "Igon",
+        "health": 1,
+        "attack": 5
       },
       "back": {
         "name": {
@@ -792,7 +829,9 @@
         "type": "Weapon",
         "cost": 3,
         "image": "https://shunjitakano.github.io/LunarRing/images/glory-back.webp",
-        "covenant": "Igon"
+        "covenant": "Igon",
+        "health": 1,
+        "attack": 5
       }
     },
     "name": "Glory",
@@ -816,7 +855,9 @@
         "type": "Weapon",
         "cost": 4,
         "image": "https://shunjitakano.github.io/LunarRing/images/murmuring-deja-vu.webp",
-        "covenant": "Igon"
+        "covenant": "Igon",
+        "health": 3,
+        "attack": 2
       }
     },
     "name": "Murmuring Deja Vu",
@@ -840,7 +881,9 @@
         "type": "Weapon",
         "cost": 3,
         "image": "https://shunjitakano.github.io/LunarRing/images/bow-of-igon.webp",
-        "covenant": "Igon"
+        "covenant": "Igon",
+        "health": 3,
+        "attack": 0
       },
       "back": {
         "name": {
@@ -849,7 +892,9 @@
         "type": "Weapon",
         "cost": 3,
         "image": "https://shunjitakano.github.io/LunarRing/images/bow-of-igon-back.webp",
-        "covenant": "Igon"
+        "covenant": "Igon",
+        "health": 3,
+        "attack": 0
       }
     },
     "name": "Bow of Igon",
@@ -873,7 +918,9 @@
         "type": "Weapon",
         "cost": 6,
         "image": "https://shunjitakano.github.io/LunarRing/images/infinite-epochs.webp",
-        "covenant": "Igon"
+        "covenant": "Igon",
+        "health": 3,
+        "attack": 3
       },
       "back": {
         "name": {
@@ -882,7 +929,9 @@
         "type": "Weapon",
         "cost": 6,
         "image": "https://shunjitakano.github.io/LunarRing/images/infinite-epochs-back.webp",
-        "covenant": "Igon"
+        "covenant": "Igon",
+        "health": 3,
+        "attack": 3
       }
     },
     "name": "Infinite Epochs",
@@ -906,7 +955,9 @@
         "type": "Weapon",
         "cost": 4,
         "image": "https://shunjitakano.github.io/LunarRing/images/unstable-glaive.webp",
-        "covenant": "Igon"
+        "covenant": "Igon",
+        "health": 2,
+        "attack": 3
       }
     },
     "name": "Unstable Glaive",
@@ -930,7 +981,9 @@
         "type": "Weapon",
         "cost": 1,
         "image": "https://shunjitakano.github.io/LunarRing/images/gauntlet-of-thought.webp",
-        "covenant": "Igon"
+        "covenant": "Igon",
+        "health": 4,
+        "attack": 1
       },
       "back": {
         "name": {
@@ -939,7 +992,9 @@
         "type": "Weapon",
         "cost": 1,
         "image": "https://shunjitakano.github.io/LunarRing/images/gauntlet-of-thought-back.webp",
-        "covenant": "Igon"
+        "covenant": "Igon",
+        "health": 4,
+        "attack": 1
       }
     },
     "name": "Gauntlet of Thought",
@@ -963,7 +1018,9 @@
         "type": "Weapon",
         "cost": 3,
         "image": "https://shunjitakano.github.io/LunarRing/images/oozing-dagger.webp",
-        "covenant": "Igon"
+        "covenant": "Igon",
+        "health": 1,
+        "attack": 1
       }
     },
     "name": "Oozing Dagger",
@@ -987,7 +1044,9 @@
         "type": "Weapon",
         "cost": 3,
         "image": "https://shunjitakano.github.io/LunarRing/images/blade-of-abberation.webp",
-        "covenant": "Igon"
+        "covenant": "Igon",
+        "health": 3,
+        "attack": 1
       },
       "back": {
         "name": {
@@ -996,7 +1055,9 @@
         "type": "Weapon",
         "cost": 3,
         "image": "https://shunjitakano.github.io/LunarRing/images/blade-of-abberation-back.webp",
-        "covenant": "Igon"
+        "covenant": "Igon",
+        "health": 3,
+        "attack": 1
       }
     },
     "name": "Blade of Abberation",
@@ -1020,7 +1081,9 @@
         "type": "Weapon",
         "cost": 3,
         "image": "https://shunjitakano.github.io/LunarRing/images/bow-of-every-possibility.webp",
-        "covenant": "Igon"
+        "covenant": "Igon",
+        "health": 2,
+        "attack": 1
       }
     },
     "name": "Bow of Every Possibility",
@@ -1044,7 +1107,9 @@
         "type": "Acolyte",
         "cost": 1,
         "image": "https://shunjitakano.github.io/LunarRing/images/ritual-attendent.webp",
-        "covenant": "Yandari"
+        "covenant": "Yandari",
+        "health": 1,
+        "attack": 1
       }
     },
     "name": "Ritual Attendent",
@@ -1068,7 +1133,9 @@
         "type": "Acolyte",
         "cost": 5,
         "image": "https://shunjitakano.github.io/LunarRing/images/pallbearer.webp",
-        "covenant": "Yandari"
+        "covenant": "Yandari",
+        "health": 1,
+        "attack": 1
       }
     },
     "name": "Pallbearer",
@@ -1664,7 +1731,9 @@
         "type": "Token Edict",
         "cost": 0,
         "image": "https://shunjitakano.github.io/LunarRing/images/sacred-blood.webp",
-        "covenant": "Yandari"
+        "covenant": "Yandari",
+        "isToken": true,
+        "isisToken": true
       }
     },
     "name": "Sacred Blood",
@@ -1688,7 +1757,9 @@
         "type": "Weapon",
         "cost": 2,
         "image": "https://shunjitakano.github.io/LunarRing/images/promise.webp",
-        "covenant": "Yandari"
+        "covenant": "Yandari",
+        "health": 2,
+        "attack": 1
       }
     },
     "name": "Promise",
@@ -1712,7 +1783,9 @@
         "type": "Weapon",
         "cost": 3,
         "image": "https://shunjitakano.github.io/LunarRing/images/undying-oath.webp",
-        "covenant": "Yandari"
+        "covenant": "Yandari",
+        "health": 1,
+        "attack": 2
       }
     },
     "name": "Undying Oath",
@@ -1736,7 +1809,9 @@
         "type": "Weapon",
         "cost": 2,
         "image": "https://shunjitakano.github.io/LunarRing/images/life.webp",
-        "covenant": "Yandari"
+        "covenant": "Yandari",
+        "health": 2,
+        "attack": 1
       }
     },
     "name": "Life",
@@ -1760,7 +1835,9 @@
         "type": "Weapon",
         "cost": 3,
         "image": "https://shunjitakano.github.io/LunarRing/images/peaceful-sting.webp",
-        "covenant": "Yandari"
+        "covenant": "Yandari",
+        "health": 2,
+        "attack": 2
       }
     },
     "name": "Peaceful Sting",
@@ -1784,7 +1861,9 @@
         "type": "Weapon",
         "cost": 3,
         "image": "https://shunjitakano.github.io/LunarRing/images/rest.webp",
-        "covenant": "Yandari"
+        "covenant": "Yandari",
+        "health": 2,
+        "attack": 2
       }
     },
     "name": "Rest",
@@ -1808,7 +1887,9 @@
         "type": "Weapon",
         "cost": 4,
         "image": "https://shunjitakano.github.io/LunarRing/images/death.webp",
-        "covenant": "Yandari"
+        "covenant": "Yandari",
+        "health": 2,
+        "attack": 3
       }
     },
     "name": "Death",
@@ -1832,7 +1913,9 @@
         "type": "Weapon",
         "cost": 6,
         "image": "https://shunjitakano.github.io/LunarRing/images/vermillion-edge.webp",
-        "covenant": "Yandari"
+        "covenant": "Yandari",
+        "health": 2,
+        "attack": 5
       }
     },
     "name": "Vermillion Edge",
@@ -1856,7 +1939,9 @@
         "type": "Weapon",
         "cost": 1,
         "image": "https://shunjitakano.github.io/LunarRing/images/liberation.webp",
-        "covenant": "Yandari"
+        "covenant": "Yandari",
+        "health": 2,
+        "attack": 1
       }
     },
     "name": "Liberation",
@@ -1880,7 +1965,9 @@
         "type": "Weapon",
         "cost": 3,
         "image": "https://shunjitakano.github.io/LunarRing/images/uldes-atonement.webp",
-        "covenant": "Yandari"
+        "covenant": "Yandari",
+        "health": 2,
+        "attack": 1
       }
     },
     "name": "Uldes' Atonement",
@@ -1904,7 +1991,9 @@
         "type": "Weapon",
         "cost": 5,
         "image": "https://shunjitakano.github.io/LunarRing/images/thirsting-steel.webp",
-        "covenant": "Yandari"
+        "covenant": "Yandari",
+        "health": 2,
+        "attack": 1
       }
     },
     "name": "Thirsting Steel",
@@ -1928,7 +2017,9 @@
         "type": "Weapon",
         "cost": 7,
         "image": "https://shunjitakano.github.io/LunarRing/images/mourning-glory.webp",
-        "covenant": "Yandari"
+        "covenant": "Yandari",
+        "health": 3,
+        "attack": 4
       }
     },
     "name": "Mourning Glory",
@@ -1952,7 +2043,9 @@
         "type": "Weapon",
         "cost": 10,
         "image": "https://shunjitakano.github.io/LunarRing/images/worship.webp",
-        "covenant": "Yandari"
+        "covenant": "Yandari",
+        "health": 1,
+        "attack": 0
       }
     },
     "name": "Worship",
@@ -1976,7 +2069,9 @@
         "type": "Acolyte",
         "cost": 3,
         "image": "https://shunjitakano.github.io/LunarRing/images/bleeding-boulder.webp",
-        "covenant": "Kuran"
+        "covenant": "Kuran",
+        "health": 2,
+        "attack": 1
       }
     },
     "name": "Bleeding Boulder",
@@ -2000,7 +2095,9 @@
         "type": "Acolyte",
         "cost": 2,
         "image": "https://shunjitakano.github.io/LunarRing/images/jin-blazing-serpent.webp",
-        "covenant": "Kuran"
+        "covenant": "Kuran",
+        "health": 1,
+        "attack": 1
       }
     },
     "name": "Jin, Blazing Serpent",
@@ -2024,7 +2121,9 @@
         "type": "Acolyte",
         "cost": 2,
         "image": "https://shunjitakano.github.io/LunarRing/images/feng-tempest-serpent.webp",
-        "covenant": "Kuran"
+        "covenant": "Kuran",
+        "health": 1,
+        "attack": 1
       }
     },
     "name": "Feng, Tempest Serpent",
@@ -2048,7 +2147,9 @@
         "type": "Acolyte",
         "cost": 3,
         "image": "https://shunjitakano.github.io/LunarRing/images/dread-breeze.webp",
-        "covenant": "Kuran"
+        "covenant": "Kuran",
+        "health": 1,
+        "attack": 4
       }
     },
     "name": "Dread Breeze",
@@ -2072,7 +2173,9 @@
         "type": "Acolyte",
         "cost": 1,
         "image": "https://shunjitakano.github.io/LunarRing/images/turbulent-ember.webp",
-        "covenant": "Kuran"
+        "covenant": "Kuran",
+        "health": 1,
+        "attack": 0
       }
     },
     "name": "Turbulent Ember",
@@ -2096,7 +2199,9 @@
         "type": "Acolyte",
         "cost": 3,
         "image": "https://shunjitakano.github.io/LunarRing/images/cornered-mountain.webp",
-        "covenant": "Kuran"
+        "covenant": "Kuran",
+        "health": 1,
+        "attack": 0
       }
     },
     "name": "Cornered Mountain",
@@ -2120,7 +2225,9 @@
         "type": "Acolyte",
         "cost": 9,
         "image": "https://shunjitakano.github.io/LunarRing/images/it-that-heralds-ruin.webp",
-        "covenant": "Kuran"
+        "covenant": "Kuran",
+        "health": 2,
+        "attack": 2
       }
     },
     "name": "It That Heralds Ruin",
@@ -2144,7 +2251,9 @@
         "type": "Acolyte",
         "cost": 3,
         "image": "https://shunjitakano.github.io/LunarRing/images/endless-slate.webp",
-        "covenant": "Kuran"
+        "covenant": "Kuran",
+        "health": 3,
+        "attack": 1
       }
     },
     "name": "Endless Slate",
@@ -2168,7 +2277,9 @@
         "type": "Acolyte",
         "cost": 4,
         "image": "https://shunjitakano.github.io/LunarRing/images/caress.webp",
-        "covenant": "Kuran"
+        "covenant": "Kuran",
+        "health": 2,
+        "attack": 1
       }
     },
     "name": "Caress",
@@ -2192,7 +2303,9 @@
         "type": "Acolyte",
         "cost": 3,
         "image": "https://shunjitakano.github.io/LunarRing/images/the-flame-that-devours.webp",
-        "covenant": "Kuran"
+        "covenant": "Kuran",
+        "health": 1,
+        "attack": 2
       }
     },
     "name": "The Flame That Devours",
@@ -2216,7 +2329,9 @@
         "type": "Acolyte",
         "cost": 5,
         "image": "https://shunjitakano.github.io/LunarRing/images/breathing-tide.webp",
-        "covenant": "Kuran"
+        "covenant": "Kuran",
+        "health": 2,
+        "attack": 2
       }
     },
     "name": "Breathing Tide",
@@ -2240,7 +2355,9 @@
         "type": "Acolyte",
         "cost": 1,
         "image": "https://shunjitakano.github.io/LunarRing/images/stillwater.webp",
-        "covenant": "Kuran"
+        "covenant": "Kuran",
+        "health": 3,
+        "attack": 1
       }
     },
     "name": "Stillwater",
@@ -2264,7 +2381,9 @@
         "type": "Acolyte",
         "cost": 3,
         "image": "https://shunjitakano.github.io/LunarRing/images/boiling-rain.webp",
-        "covenant": "Kuran"
+        "covenant": "Kuran",
+        "health": 1,
+        "attack": 1
       }
     },
     "name": "Boiling Rain",
@@ -2706,7 +2825,11 @@
         "type": "Token Acolyte",
         "cost": 0,
         "image": "https://shunjitakano.github.io/LunarRing/images/parasitic-pebble.webp",
-        "covenant": "Kuran"
+        "covenant": "Kuran",
+        "health": 1,
+        "attack": 0,
+        "isToken": true,
+        "isisToken": true
       }
     },
     "name": "Parasitic Pebble",
@@ -2732,7 +2855,11 @@
         "type": "Token Weapon",
         "cost": 0,
         "image": "https://shunjitakano.github.io/LunarRing/images/one-s-self.webp",
-        "covenant": "Kuran"
+        "covenant": "Kuran",
+        "health": 1,
+        "attack": 1,
+        "isToken": true,
+        "isisToken": true
       }
     },
     "name": "One's Self",
@@ -2758,7 +2885,9 @@
         "type": "Weapon",
         "cost": 2,
         "image": "https://shunjitakano.github.io/LunarRing/images/kreena-s-staff-of-connection.webp",
-        "covenant": "Kuran"
+        "covenant": "Kuran",
+        "health": 3,
+        "attack": 1
       }
     },
     "name": "Kreena's Staff of Connection",
@@ -2782,7 +2911,9 @@
         "type": "Weapon",
         "cost": 5,
         "image": "https://shunjitakano.github.io/LunarRing/images/amalgamation.webp",
-        "covenant": "Kuran"
+        "covenant": "Kuran",
+        "health": 2,
+        "attack": 2
       }
     },
     "name": "Amalgamation",
@@ -2806,7 +2937,9 @@
         "type": "Weapon",
         "cost": 3,
         "image": "https://shunjitakano.github.io/LunarRing/images/haven.webp",
-        "covenant": "Kuran"
+        "covenant": "Kuran",
+        "health": 2,
+        "attack": 1
       }
     },
     "name": "Haven",
@@ -2830,7 +2963,9 @@
         "type": "Weapon",
         "cost": 4,
         "image": "https://shunjitakano.github.io/LunarRing/images/ashen-wood-bow.webp",
-        "covenant": "Kuran"
+        "covenant": "Kuran",
+        "health": 5,
+        "attack": 1
       }
     },
     "name": "Ashen Wood Bow",
@@ -2854,7 +2989,9 @@
         "type": "Weapon",
         "cost": 3,
         "image": "https://shunjitakano.github.io/LunarRing/images/lashing-vines.webp",
-        "covenant": "Kuran"
+        "covenant": "Kuran",
+        "health": 2,
+        "attack": 1
       }
     },
     "name": "Lashing Vines",
@@ -2878,7 +3015,9 @@
         "type": "Weapon",
         "cost": 2,
         "image": "https://shunjitakano.github.io/LunarRing/images/menagerie.webp",
-        "covenant": "Kuran"
+        "covenant": "Kuran",
+        "health": 3,
+        "attack": 0
       }
     },
     "name": "Menagerie",
@@ -2902,7 +3041,9 @@
         "type": "Weapon",
         "cost": 3,
         "image": "https://shunjitakano.github.io/LunarRing/images/cadaver-bloom.webp",
-        "covenant": "Kuran"
+        "covenant": "Kuran",
+        "health": 2,
+        "attack": 2
       }
     },
     "name": "Cadaver Bloom",
@@ -2926,7 +3067,9 @@
         "type": "Weapon",
         "cost": 2,
         "image": "https://shunjitakano.github.io/LunarRing/images/budding-blade.webp",
-        "covenant": "Kuran"
+        "covenant": "Kuran",
+        "health": 2,
+        "attack": 1
       }
     },
     "name": "Budding Blade",
@@ -2950,7 +3093,9 @@
         "type": "Acolyte",
         "cost": 3,
         "image": "https://shunjitakano.github.io/LunarRing/images/thrill-seeker.webp",
-        "covenant": "Niorr"
+        "covenant": "Niorr",
+        "health": 3,
+        "attack": 2
       }
     },
     "name": "Thrill Seeker",
@@ -2974,7 +3119,9 @@
         "type": "Acolyte",
         "cost": 2,
         "image": "https://shunjitakano.github.io/LunarRing/images/endless-hedonists.webp",
-        "covenant": "Niorr"
+        "covenant": "Niorr",
+        "health": 2,
+        "attack": 2
       }
     },
     "name": "Endless Hedonists",
@@ -2998,7 +3145,9 @@
         "type": "Acolyte",
         "cost": 2,
         "image": "https://shunjitakano.github.io/LunarRing/images/existential-gambler.webp",
-        "covenant": "Niorr"
+        "covenant": "Niorr",
+        "health": 4,
+        "attack": 1
       }
     },
     "name": "Existential Gambler",
@@ -3022,7 +3171,9 @@
         "type": "Acolyte",
         "cost": 2,
         "image": "https://shunjitakano.github.io/LunarRing/images/pain-enjoyer.webp",
-        "covenant": "Niorr"
+        "covenant": "Niorr",
+        "health": 3,
+        "attack": 1
       }
     },
     "name": "Pain Enjoyer",
@@ -3046,7 +3197,9 @@
         "type": "Acolyte",
         "cost": 4,
         "image": "https://shunjitakano.github.io/LunarRing/images/lecherous-pair.webp",
-        "covenant": "Niorr"
+        "covenant": "Niorr",
+        "health": 4,
+        "attack": 2
       }
     },
     "name": "Lecherous Pair",
@@ -3070,7 +3223,9 @@
         "type": "Acolyte",
         "cost": 2,
         "image": "https://shunjitakano.github.io/LunarRing/images/lil-finch.webp",
-        "covenant": "Niorr"
+        "covenant": "Niorr",
+        "health": 2,
+        "attack": 1
       }
     },
     "name": "Lil Finch",
@@ -3094,7 +3249,9 @@
         "type": "Acolyte",
         "cost": 4,
         "image": "https://shunjitakano.github.io/LunarRing/images/masochist.webp",
-        "covenant": "Niorr"
+        "covenant": "Niorr",
+        "health": 5,
+        "attack": 1
       }
     },
     "name": "Masochist",
@@ -3118,7 +3275,9 @@
         "type": "Acolyte",
         "cost": 6,
         "image": "https://shunjitakano.github.io/LunarRing/images/exhiliration.webp",
-        "covenant": "Niorr"
+        "covenant": "Niorr",
+        "health": 3,
+        "attack": 0
       }
     },
     "name": "Exhiliration",
@@ -3142,7 +3301,9 @@
         "type": "Acolyte",
         "cost": 5,
         "image": "https://shunjitakano.github.io/LunarRing/images/lust.webp",
-        "covenant": "Niorr"
+        "covenant": "Niorr",
+        "health": 4,
+        "attack": 0
       }
     },
     "name": "Lust",
@@ -3166,7 +3327,9 @@
         "type": "Acolyte",
         "cost": 2,
         "image": "https://shunjitakano.github.io/LunarRing/images/pleasure-seeker.webp",
-        "covenant": "Niorr"
+        "covenant": "Niorr",
+        "health": 1,
+        "attack": 1
       }
     },
     "name": "Pleasure Seeker",
@@ -3190,7 +3353,9 @@
         "type": "Acolyte",
         "cost": 5,
         "image": "https://shunjitakano.github.io/LunarRing/images/exhillerated-brawler.webp",
-        "covenant": "Niorr"
+        "covenant": "Niorr",
+        "health": 4,
+        "attack": 2
       }
     },
     "name": "Exhillerated Brawler",
@@ -3214,7 +3379,9 @@
         "type": "Acolyte",
         "cost": 2,
         "image": "https://shunjitakano.github.io/LunarRing/images/greed.webp",
-        "covenant": "Niorr"
+        "covenant": "Niorr",
+        "health": 3,
+        "attack": 0
       }
     },
     "name": "Greed",
@@ -3238,7 +3405,9 @@
         "type": "Acolyte",
         "cost": 3,
         "image": "https://shunjitakano.github.io/LunarRing/images/comforter.webp",
-        "covenant": "Niorr"
+        "covenant": "Niorr",
+        "health": 3,
+        "attack": 1
       }
     },
     "name": "Comforter",
@@ -3262,7 +3431,9 @@
         "type": "Acolyte",
         "cost": 9,
         "image": "https://shunjitakano.github.io/LunarRing/images/decadence.webp",
-        "covenant": "Niorr"
+        "covenant": "Niorr",
+        "health": 8,
+        "attack": 0
       }
     },
     "name": "Decadence",
@@ -3682,7 +3853,9 @@
         "type": "Weapon",
         "cost": 3,
         "image": "https://shunjitakano.github.io/LunarRing/images/gleeful-wrath.webp",
-        "covenant": "Niorr"
+        "covenant": "Niorr",
+        "health": 2,
+        "attack": 1
       }
     },
     "name": "Gleeful Wrath",
@@ -3706,7 +3879,9 @@
         "type": "Weapon",
         "cost": 3,
         "image": "https://shunjitakano.github.io/LunarRing/images/glistening.webp",
-        "covenant": "Niorr"
+        "covenant": "Niorr",
+        "health": 2,
+        "attack": 2
       }
     },
     "name": "Glistening",
@@ -3730,7 +3905,9 @@
         "type": "Weapon",
         "cost": 1,
         "image": "https://shunjitakano.github.io/LunarRing/images/whispering-gold.webp",
-        "covenant": "Niorr"
+        "covenant": "Niorr",
+        "health": 2,
+        "attack": 0
       }
     },
     "name": "Whispering Gold",
@@ -3754,7 +3931,9 @@
         "type": "Weapon",
         "cost": 3,
         "image": "https://shunjitakano.github.io/LunarRing/images/addiction.webp",
-        "covenant": "Niorr"
+        "covenant": "Niorr",
+        "health": 2,
+        "attack": 0
       }
     },
     "name": "Addiction",
@@ -3778,7 +3957,9 @@
         "type": "Weapon",
         "cost": 4,
         "image": "https://shunjitakano.github.io/LunarRing/images/bloodied-knuckles.webp",
-        "covenant": "Niorr"
+        "covenant": "Niorr",
+        "health": 3,
+        "attack": 1
       }
     },
     "name": "Bloodied Knuckles",
@@ -3802,7 +3983,9 @@
         "type": "Weapon",
         "cost": 2,
         "image": "https://shunjitakano.github.io/LunarRing/images/velvet-chain.webp",
-        "covenant": "Niorr"
+        "covenant": "Niorr",
+        "health": 3,
+        "attack": 1
       }
     },
     "name": "Velvet Chain",
@@ -3826,7 +4009,9 @@
         "type": "Weapon",
         "cost": 4,
         "image": "https://shunjitakano.github.io/LunarRing/images/pleasure-lash.webp",
-        "covenant": "Niorr"
+        "covenant": "Niorr",
+        "health": 3,
+        "attack": 1
       }
     },
     "name": "Pleasure Lash",
@@ -3850,7 +4035,9 @@
         "type": "Weapon",
         "cost": 6,
         "image": "https://shunjitakano.github.io/LunarRing/images/staff-of-craving.webp",
-        "covenant": "Niorr"
+        "covenant": "Niorr",
+        "health": 1,
+        "attack": 3
       }
     },
     "name": "Staff of Craving",
@@ -3874,7 +4061,9 @@
         "type": "Token Withdrawal",
         "cost": 0,
         "image": "https://shunjitakano.github.io/LunarRing/images/apathy.webp",
-        "covenant": "Niorr"
+        "covenant": "Niorr",
+        "isToken": true,
+        "isisToken": true
       }
     },
     "name": "Apathy",
@@ -3898,7 +4087,9 @@
         "type": "Token Withdrawal",
         "cost": 0,
         "image": "https://shunjitakano.github.io/LunarRing/images/loneliness.webp",
-        "covenant": "Niorr"
+        "covenant": "Niorr",
+        "isToken": true,
+        "isisToken": true
       }
     },
     "name": "Loneliness",
@@ -3922,7 +4113,9 @@
         "type": "Token Withdrawal",
         "cost": 0,
         "image": "https://shunjitakano.github.io/LunarRing/images/insignificance.webp",
-        "covenant": "Niorr"
+        "covenant": "Niorr",
+        "isToken": true,
+        "isisToken": true
       }
     },
     "name": "Insignificance",
@@ -3946,7 +4139,9 @@
         "type": "Token Withdrawal",
         "cost": 0,
         "image": "https://shunjitakano.github.io/LunarRing/images/despair.webp",
-        "covenant": "Niorr"
+        "covenant": "Niorr",
+        "isToken": true,
+        "isisToken": true
       }
     },
     "name": "Despair",
@@ -3970,7 +4165,8 @@
         "type": "1-Handed Weapon",
         "cost": 3,
         "image": "https://shunjitakano.github.io/LunarRing/images/essence-carver.webp",
-        "covenant": "Qirune"
+        "covenant": "Qirune",
+        "attack": 1
       }
     },
     "name": "Essence Carver",
@@ -3993,7 +4189,8 @@
         "type": "2-Handed Weapon",
         "cost": 4,
         "image": "https://shunjitakano.github.io/LunarRing/images/budding-romance.webp",
-        "covenant": "Qirune"
+        "covenant": "Qirune",
+        "attack": 2
       }
     },
     "name": "Budding Romance",
@@ -4016,7 +4213,8 @@
         "type": "2-Handed Weapon",
         "cost": 2,
         "image": "https://shunjitakano.github.io/LunarRing/images/jireth-s-burning-hatred.webp",
-        "covenant": "Qirune"
+        "covenant": "Qirune",
+        "attack": 1
       }
     },
     "name": "Jireth's Burning Hatred",
@@ -4039,7 +4237,8 @@
         "type": "2-Handed Weapon",
         "cost": 2,
         "image": "https://shunjitakano.github.io/LunarRing/images/taviq-s-staff.webp",
-        "covenant": "Qirune"
+        "covenant": "Qirune",
+        "attack": 1
       }
     },
     "name": "Taviq's Staff",
@@ -4062,7 +4261,8 @@
         "type": "2-Handed Weapon",
         "cost": 3,
         "image": "https://shunjitakano.github.io/LunarRing/images/vengeful-ichor.webp",
-        "covenant": "Qirune"
+        "covenant": "Qirune",
+        "attack": 1
       }
     },
     "name": "Vengeful Ichor",
@@ -4723,7 +4923,9 @@
         "type": "Token Item",
         "cost": 0,
         "image": "https://shunjitakano.github.io/LunarRing/images/charm.webp",
-        "covenant": "Qirune"
+        "covenant": "Qirune",
+        "isToken": true,
+        "isisToken": true
       }
     },
     "name": "Charm",
@@ -4747,7 +4949,9 @@
         "type": "Token Item",
         "cost": 0,
         "image": "https://shunjitakano.github.io/LunarRing/images/ember.webp",
-        "covenant": "Qirune"
+        "covenant": "Qirune",
+        "isToken": true,
+        "isisToken": true
       }
     },
     "name": "Ember",
@@ -4771,7 +4975,9 @@
         "type": "Token Item",
         "cost": 0,
         "image": "https://shunjitakano.github.io/LunarRing/images/gift-of-qirune.webp",
-        "covenant": "Qirune"
+        "covenant": "Qirune",
+        "isToken": true,
+        "isisToken": true
       }
     },
     "name": "Gift of Qirune",
@@ -4795,7 +5001,9 @@
         "type": "Token Item",
         "cost": 0,
         "image": "https://shunjitakano.github.io/LunarRing/images/hardened-essence.webp",
-        "covenant": "Qirune"
+        "covenant": "Qirune",
+        "isToken": true,
+        "isisToken": true
       }
     },
     "name": "Hardened Essence",
@@ -4819,7 +5027,9 @@
         "type": "Token Item",
         "cost": 0,
         "image": "https://shunjitakano.github.io/LunarRing/images/hollow-feeling.webp",
-        "covenant": "Qirune"
+        "covenant": "Qirune",
+        "isToken": true,
+        "isisToken": true
       }
     },
     "name": "Hollow Feeling",
@@ -4843,7 +5053,9 @@
         "type": "Token Item",
         "cost": 0,
         "image": "https://shunjitakano.github.io/LunarRing/images/love-letter.webp",
-        "covenant": "Qirune"
+        "covenant": "Qirune",
+        "isToken": true,
+        "isisToken": true
       }
     },
     "name": "Love Letter",
@@ -4867,7 +5079,9 @@
         "type": "Token Item",
         "cost": 0,
         "image": "https://shunjitakano.github.io/LunarRing/images/seething-hate.webp",
-        "covenant": "Qirune"
+        "covenant": "Qirune",
+        "isToken": true,
+        "isisToken": true
       }
     },
     "name": "Seething Hate",
@@ -5067,7 +5281,8 @@
         "type": "1-Handed Weapon",
         "cost": 3,
         "image": "https://shunjitakano.github.io/LunarRing/images/claws-to-tear.webp",
-        "covenant": "Xurdos"
+        "covenant": "Xurdos",
+        "attack": 2
       }
     },
     "name": "Claws to Tear",
@@ -5090,7 +5305,8 @@
         "type": "1-Handed Weapon",
         "cost": 3,
         "image": "https://shunjitakano.github.io/LunarRing/images/oozing-point.webp",
-        "covenant": "Xurdos"
+        "covenant": "Xurdos",
+        "attack": 1
       }
     },
     "name": "Oozing Point",
@@ -5113,7 +5329,8 @@
         "type": "2-Handed Weapon",
         "cost": 1,
         "image": "https://shunjitakano.github.io/LunarRing/images/automatic-brewer.webp",
-        "covenant": "Xurdos"
+        "covenant": "Xurdos",
+        "attack": 1
       }
     },
     "name": "Automatic Brewer",
@@ -5136,7 +5353,8 @@
         "type": "2-Handed Weapon",
         "cost": 8,
         "image": "https://shunjitakano.github.io/LunarRing/images/evolution-s-peak.webp",
-        "covenant": "Xurdos"
+        "covenant": "Xurdos",
+        "attack": 2
       }
     },
     "name": "Evolution's Peak",
@@ -5159,7 +5377,8 @@
         "type": "2-Handed Weapon",
         "cost": 4,
         "image": "https://shunjitakano.github.io/LunarRing/images/reactive-mutation.webp",
-        "covenant": "Xurdos"
+        "covenant": "Xurdos",
+        "attack": 0
       }
     },
     "name": "Reactive Mutation",
@@ -5996,7 +6215,9 @@
         "type": "Token Item",
         "cost": 0,
         "image": "https://shunjitakano.github.io/LunarRing/images/puddle.webp",
-        "covenant": "Xurdos"
+        "covenant": "Xurdos",
+        "isToken": true,
+        "isisToken": true
       }
     },
     "name": "Puddle",
@@ -6020,7 +6241,10 @@
         "type": "Devotee",
         "cost": 3,
         "image": "https://shunjitakano.github.io/LunarRing/images/heliana-yade-thriving.webp",
-        "covenant": "Igon"
+        "covenant": "Igon",
+        "condition": "Thriving",
+        "health": 10,
+        "devotee": "heliana-yade"
       }
     },
     "name": "Heliana Yade",
@@ -6045,7 +6269,10 @@
         "type": "Devotee",
         "cost": 5,
         "image": "https://shunjitakano.github.io/LunarRing/images/heliana-yade-wounded.webp",
-        "covenant": "Igon"
+        "covenant": "Igon",
+        "condition": "Wounded",
+        "health": 10,
+        "devotee": "heliana-yade"
       }
     },
     "name": "Heliana Yade",
@@ -6070,7 +6297,10 @@
         "type": "Devotee",
         "cost": 10,
         "image": "https://shunjitakano.github.io/LunarRing/images/heliana-yade-desperate.webp",
-        "covenant": "Igon"
+        "covenant": "Igon",
+        "condition": "Desperate",
+        "health": 15,
+        "devotee": "heliana-yade"
       }
     },
     "name": "Heliana Yade",
@@ -6095,7 +6325,10 @@
         "type": "Devotee",
         "cost": 3,
         "image": "https://shunjitakano.github.io/LunarRing/images/pora-aliestrad-thriving.webp",
-        "covenant": "Igon"
+        "covenant": "Igon",
+        "condition": "Thriving",
+        "health": 10,
+        "devotee": "pora-aliestrad"
       }
     },
     "name": "Pora Aliestrad",
@@ -6120,7 +6353,10 @@
         "type": "Devotee",
         "cost": 5,
         "image": "https://shunjitakano.github.io/LunarRing/images/pora-aliestrad-wounded.webp",
-        "covenant": "Igon"
+        "covenant": "Igon",
+        "condition": "Wounded",
+        "health": 15,
+        "devotee": "pora-aliestrad"
       }
     },
     "name": "Pora Aliestrad",
@@ -6145,7 +6381,10 @@
         "type": "Devotee",
         "cost": 10,
         "image": "https://shunjitakano.github.io/LunarRing/images/pora-aliestrad-desperate.webp",
-        "covenant": "Igon"
+        "covenant": "Igon",
+        "condition": "Desperate",
+        "health": 10,
+        "devotee": "pora-aliestrad"
       }
     },
     "name": "Pora Aliestrad",
@@ -6170,7 +6409,10 @@
         "type": "Devotee",
         "cost": 3,
         "image": "https://shunjitakano.github.io/LunarRing/images/gro-thriving.webp",
-        "covenant": "Kuran"
+        "covenant": "Kuran",
+        "condition": "Thriving",
+        "health": 10,
+        "devotee": "gro"
       }
     },
     "name": "Gro'",
@@ -6195,7 +6437,10 @@
         "type": "Devotee",
         "cost": 6,
         "image": "https://shunjitakano.github.io/LunarRing/images/gro-wounded.webp",
-        "covenant": "Kuran"
+        "covenant": "Kuran",
+        "condition": "Wounded",
+        "health": 10,
+        "devotee": "gro"
       }
     },
     "name": "Gro'",
@@ -6220,7 +6465,10 @@
         "type": "Devotee",
         "cost": 10,
         "image": "https://shunjitakano.github.io/LunarRing/images/gro-desperate.webp",
-        "covenant": "Kuran"
+        "covenant": "Kuran",
+        "condition": "Desperate",
+        "health": 10,
+        "devotee": "gro"
       }
     },
     "name": "Gro'",
@@ -6245,7 +6493,10 @@
         "type": "Devotee",
         "cost": 3,
         "image": "https://shunjitakano.github.io/LunarRing/images/kreena-eldervyre-thriving.webp",
-        "covenant": "Kuran"
+        "covenant": "Kuran",
+        "condition": "Thriving",
+        "health": 15,
+        "devotee": "kreena-eldervyre"
       }
     },
     "name": "Kreena Eldervyre",
@@ -6270,7 +6521,10 @@
         "type": "Devotee",
         "cost": 4,
         "image": "https://shunjitakano.github.io/LunarRing/images/kreena-eldervyre-wounded.webp",
-        "covenant": "Kuran"
+        "covenant": "Kuran",
+        "condition": "Wounded",
+        "health": 15,
+        "devotee": "kreena-eldervyre"
       }
     },
     "name": "Kreena Eldervyre",
@@ -6295,7 +6549,10 @@
         "type": "Devotee",
         "cost": 10,
         "image": "https://shunjitakano.github.io/LunarRing/images/kreena-eldervyre-desperate.webp",
-        "covenant": "Kuran"
+        "covenant": "Kuran",
+        "condition": "Desperate",
+        "health": 15,
+        "devotee": "kreena-eldervyre"
       }
     },
     "name": "Kreena Eldervyre",
@@ -6320,7 +6577,10 @@
         "type": "Devotee",
         "cost": 3,
         "image": "https://shunjitakano.github.io/LunarRing/images/shiera-silkthroat-thriving.webp",
-        "covenant": "Niorr"
+        "covenant": "Niorr",
+        "condition": "Thriving",
+        "health": 15,
+        "devotee": "shiera-silkthroat"
       }
     },
     "name": "Shiera Silkthroat",
@@ -6345,7 +6605,10 @@
         "type": "Devotee",
         "cost": 5,
         "image": "https://shunjitakano.github.io/LunarRing/images/shiera-silkthroat-wounded.webp",
-        "covenant": "Niorr"
+        "covenant": "Niorr",
+        "condition": "Wounded",
+        "health": 10,
+        "devotee": "shiera-silkthroat"
       }
     },
     "name": "Shiera Silkthroat",
@@ -6370,7 +6633,10 @@
         "type": "Devotee",
         "cost": 10,
         "image": "https://shunjitakano.github.io/LunarRing/images/shiera-silkthroat-desperate.webp",
-        "covenant": "Niorr"
+        "covenant": "Niorr",
+        "condition": "Desperate",
+        "health": 10,
+        "devotee": "shiera-silkthroat"
       }
     },
     "name": "Shiera Silkthroat",
@@ -6395,7 +6661,10 @@
         "type": "Devotee",
         "cost": 3,
         "image": "https://shunjitakano.github.io/LunarRing/images/nine-lives-thriving.webp",
-        "covenant": "Niorr"
+        "covenant": "Niorr",
+        "condition": "Thriving",
+        "health": 15,
+        "devotee": "nine-lives"
       }
     },
     "name": "Nine Lives",
@@ -6420,7 +6689,10 @@
         "type": "Devotee",
         "cost": 6,
         "image": "https://shunjitakano.github.io/LunarRing/images/nine-lives-wounded.webp",
-        "covenant": "Niorr"
+        "covenant": "Niorr",
+        "condition": "Wounded",
+        "health": 15,
+        "devotee": "nine-lives"
       }
     },
     "name": "Nine Lives",
@@ -6445,7 +6717,10 @@
         "type": "Devotee",
         "cost": 10,
         "image": "https://shunjitakano.github.io/LunarRing/images/nine-lives-desperate.webp",
-        "covenant": "Niorr"
+        "covenant": "Niorr",
+        "condition": "Desperate",
+        "health": 10,
+        "devotee": "nine-lives"
       }
     },
     "name": "Nine Lives",
@@ -6470,7 +6745,10 @@
         "type": "Devotee",
         "cost": 3,
         "image": "https://shunjitakano.github.io/LunarRing/images/kakandi-bloodbrood-thriving.webp",
-        "covenant": "Yandari"
+        "covenant": "Yandari",
+        "condition": "Thriving",
+        "health": 15,
+        "devotee": "kakandi-bloodbrood"
       }
     },
     "name": "Kakandi Bloodbrood",
@@ -6495,7 +6773,10 @@
         "type": "Devotee",
         "cost": 5,
         "image": "https://shunjitakano.github.io/LunarRing/images/kakandi-bloodbrood-wounded.webp",
-        "covenant": "Yandari"
+        "covenant": "Yandari",
+        "condition": "Wounded",
+        "health": 10,
+        "devotee": "kakandi-bloodbrood"
       }
     },
     "name": "Kakandi Bloodbrood",
@@ -6520,7 +6801,10 @@
         "type": "Devotee",
         "cost": 10,
         "image": "https://shunjitakano.github.io/LunarRing/images/kakandi-bloodbrood-desperate.webp",
-        "covenant": "Yandari"
+        "covenant": "Yandari",
+        "condition": "Desperate",
+        "health": 15,
+        "devotee": "kakandi-bloodbrood"
       }
     },
     "name": "Kakandi Bloodbrood",
@@ -6545,7 +6829,10 @@
         "type": "Devotee",
         "cost": 3,
         "image": "https://shunjitakano.github.io/LunarRing/images/uldes-var-thriving.webp",
-        "covenant": "Yandari"
+        "covenant": "Yandari",
+        "condition": "Thriving",
+        "health": 10,
+        "devotee": "uldes-var"
       }
     },
     "name": "Uldes Var",
@@ -6570,7 +6857,10 @@
         "type": "Devotee",
         "cost": 6,
         "image": "https://shunjitakano.github.io/LunarRing/images/uldes-var-wounded.webp",
-        "covenant": "Yandari"
+        "covenant": "Yandari",
+        "condition": "Wounded",
+        "health": 15,
+        "devotee": "uldes-var"
       }
     },
     "name": "Uldes Var",
@@ -6595,7 +6885,10 @@
         "type": "Devotee",
         "cost": 10,
         "image": "https://shunjitakano.github.io/LunarRing/images/uldes-var-desperate.webp",
-        "covenant": "Yandari"
+        "covenant": "Yandari",
+        "condition": "Desperate",
+        "health": 10,
+        "devotee": "uldes-var"
       }
     },
     "name": "Uldes Var",
@@ -6619,7 +6912,8 @@
         },
         "type": "Presence",
         "cost": 0,
-        "image": "https://shunjitakano.github.io/LunarRing/images/fleeting-visions.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/fleeting-visions.webp",
+        "phase": "Crescent Moon"
       }
     },
     "name": "Fleeting Visions",
@@ -6645,7 +6939,8 @@
         },
         "type": "Presence",
         "cost": 0,
-        "image": "https://shunjitakano.github.io/LunarRing/images/pale-glow.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/pale-glow.webp",
+        "phase": "Crescent Moon"
       }
     },
     "name": "Pale Glow",
@@ -6671,7 +6966,8 @@
         },
         "type": "Presence",
         "cost": 0,
-        "image": "https://shunjitakano.github.io/LunarRing/images/death-with-no-meaning.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/death-with-no-meaning.webp",
+        "phase": "Crescent Moon"
       }
     },
     "name": "Death With No Meaning",
@@ -6697,7 +6993,8 @@
         },
         "type": "Presence",
         "cost": 0,
-        "image": "https://shunjitakano.github.io/LunarRing/images/temptation-of-chaos.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/temptation-of-chaos.webp",
+        "phase": "Half Moon"
       }
     },
     "name": "Temptation of Chaos",
@@ -6723,7 +7020,8 @@
         },
         "type": "Presence",
         "cost": 0,
-        "image": "https://shunjitakano.github.io/LunarRing/images/unraveling.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/unraveling.webp",
+        "phase": "Half Moon"
       }
     },
     "name": "Unraveling",
@@ -6749,7 +7047,8 @@
         },
         "type": "Presence",
         "cost": 0,
-        "image": "https://shunjitakano.github.io/LunarRing/images/promise-of-everything.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/promise-of-everything.webp",
+        "phase": "Half Moon"
       }
     },
     "name": "Promise of Everything",
@@ -6775,7 +7074,8 @@
         },
         "type": "Presence",
         "cost": 0,
-        "image": "https://shunjitakano.github.io/LunarRing/images/stinging-madness.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/stinging-madness.webp",
+        "phase": "Full Moon"
       }
     },
     "name": "Stinging Madness",
@@ -6801,7 +7101,8 @@
         },
         "type": "Presence",
         "cost": 0,
-        "image": "https://shunjitakano.github.io/LunarRing/images/overwhelming-dread.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/overwhelming-dread.webp",
+        "phase": "Full Moon"
       }
     },
     "name": "Overwhelming Dread",
@@ -6827,7 +7128,8 @@
         },
         "type": "Presence",
         "cost": 0,
-        "image": "https://shunjitakano.github.io/LunarRing/images/existential-permanence.webp"
+        "image": "https://shunjitakano.github.io/LunarRing/images/existential-permanence.webp",
+        "phase": "Full Moon"
       }
     },
     "name": "Existential Permanence",
