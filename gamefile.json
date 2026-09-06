@@ -272,6 +272,28 @@
           "Act of Desperation": "Discard",
           "Act of Desperation: Tome": "Discard",
           "Act of Desperation: Eternal": "Discard"
+        },
+
+        "autoPlayFromStack": {
+          "Acolyte": "Armoury",
+          "Weapon": "Armoury",
+          "1-Handed Weapon": "Armoury",
+          "2-Handed Weapon": "Armoury",
+          "Edict": "Armoury",
+          "Item": "Armoury",
+          "Tome": "Armoury",
+          "Ability": "Armoury",
+          "Token Edict": "Armoury",
+          "Token Acolyte": "Armoury",
+          "Token Weapon": "Armoury",
+          "Token Item": "Armoury",
+          "Tactic": "Discard",
+          "Riposte": "Discard",
+          "Concoction": "Discard",
+          "Act of Desperation": "Discard",
+          "Act of Desperation: Tome": "Discard",
+          "Act of Desperation: Eternal": "Discard",
+          "Token Withdrawal": "Discard"
         }
       }
     }
