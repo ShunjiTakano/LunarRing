@@ -136,8 +136,8 @@
               ]
             },
             "events": {
-              "onStart": "game.data.Vitals.health = cards?.Devotee?.[0]?.health ?? -1; game.data.Vitals.resolve = cards?.Devotee?.[0]?.condition ? 1 : -9",
-              "onNewTurn": "game.data.Vitals.health = cards?.Devotee?.[0]?.health ?? -1; game.data.Vitals.resolve = cards?.Devotee?.[0]?.condition ? 1 : -9"
+              "onStart": "game.data.Vitals.health = cards?.Devotee?.[0]?.id ? 1 : -1; game.data.Vitals.resolve = cards?.Devotee?.[0]?.type ? 1 : -9",
+              "onNewTurn": "game.data.Vitals.health = cards?.Devotee?.[0]?.id ? 1 : -1; game.data.Vitals.resolve = cards?.Devotee?.[0]?.type ? 1 : -9"
             }
           },
           "Armoury": {
