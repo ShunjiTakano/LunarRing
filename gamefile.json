@@ -115,12 +115,6 @@
               "direction": "row",
               "content": [
                 {
-                  "section": "Discard",
-                  "style": {
-                    "width": "16%"
-                  }
-                },
-                {
                   "section": "Deck",
                   "style": {
                     "width": "16%"
@@ -130,6 +124,12 @@
                   "section": "Hand",
                   "style": {
                     "width": "68%"
+                  }
+                },
+                {
+                  "section": "Discard",
+                  "style": {
+                    "width": "16%"
                   }
                 }
               ]
