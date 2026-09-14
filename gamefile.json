@@ -42,12 +42,14 @@
           {
             "category": "Devotee",
             "min": 3,
-            "max": 3
+            "max": 3,
+            "ignoreTotalCount": true
           },
           {
             "category": "Presence",
             "min": 3,
-            "max": 3
+            "max": 3,
+            "ignoreTotalCount": true
           }
         ]
       }
@@ -144,6 +146,17 @@
           "Devotee->Devotee",
           "Presence->Presence"
         ],
+        "sharedZone": {
+          "height": 12,
+          "layout": {
+            "direction": "column",
+            "content": [
+              {
+                "section": "ActivePresences"
+              }
+            ]
+          }
+        },
         "sectionsDict": {
           "Devotee": {
             "isHidden": "no",
@@ -155,11 +168,19 @@
             "isHidden": "no",
             "height": 10,
             "alignment": "START",
-            "isHorizontalAllowed": true
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Presences (unplayed)"
+          },
+          "ActivePresences": {
+            "isHidden": "no",
+            "height": 12,
+            "alignment": "CENTER",
+            "displayedTitle": "Active Presences"
           },
           "Vitals": {
             "type": "custom",
             "isHidden": "no",
+            "playerRenderOnly": false,
             "defaultValue": {
               "health": 0,
               "resolve": 0,
@@ -273,7 +294,6 @@
           "Act of Desperation: Tome": "Discard",
           "Act of Desperation: Eternal": "Discard"
         },
-
         "autoPlayFromStack": {
           "Acolyte": "Armoury",
           "Weapon": "Armoury",
@@ -302,5 +322,5 @@
     "dataUrl": "https://shunjitakano.github.io/LunarRing/cards.json",
     "cardBack": "https://shunjitakano.github.io/LunarRing/images/card-back.webp"
   },
-  "customHelp": "House rule: your deck should use cards from a single covenant only (use the covenant filter when building). This isn't enforced automatically -- it's on you and your opponent to keep decks mono-covenant. At game start, all 3 of your Devotee condition cards (Thriving/Wounded/Desperate) and all 3 Pale Stare Presences are placed directly on the board -- they are never part of your draw deck. When your health hits 0, discard your current Devotee condition card and treat the next one (Wounded, then Desperate) as active. Every 3 rounds The Pale Stare advances a phase (Dormant -> Crescent Moon -> Half Moon -> Full Moon -> Eclipse); whichever player has the most health when it advances activates their matching Presence -- track this manually for now."
+  "customHelp": "House rule: your deck should use cards from a single covenant only (use the covenant filter when building). This isn't enforced automatically -- it's on you and your opponent to keep decks mono-covenant. At game start, all 3 of your Devotee condition cards (Thriving/Wounded/Desperate) and all 3 Pale Stare Presences are placed directly on the board -- they are never part of your draw deck. When your health hits 0, discard your current Devotee condition card and treat the next one (Wounded, then Desperate) as active. Every 3 rounds The Pale Stare advances a phase (Dormant -> Crescent Moon -> Half Moon -> Full Moon -> Eclipse); whichever player has the most health when it advances activates their matching Presence -- track this manually for now, and drag the activated Presence from your 'Presences (unplayed)' area into the shared 'Active Presences' zone."
 }
