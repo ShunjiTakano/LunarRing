@@ -113,6 +113,9 @@
             },
             {
               "direction": "row",
+              "style": {
+                "marginLeft": "18vh"
+              },
               "content": [
                 {
                   "section": "Deck",
@@ -123,7 +126,7 @@
                 {
                   "section": "Hand",
                   "style": {
-                    "width": "68%"
+                    "width": "60%"
                   }
                 },
                 {
@@ -187,7 +190,7 @@
           "Hand": {
             "isHidden": "opponent-only",
             "height": 15,
-            "alignment": "START",
+            "alignment": "CENTER",
             "isHorizontalAllowed": true
           }
         },
