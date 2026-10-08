@@ -234,6 +234,9 @@
       }
     }
   },
+  "defaultRessources": {
+    "decksUrl": "https://shunjitakano.github.io/LunarRing/decks.json"
+  },
   "cards": {
     "dataUrl": "https://shunjitakano.github.io/LunarRing/cards.json",
     "cardBack": "https://shunjitakano.github.io/LunarRing/images/card-back.webp"
