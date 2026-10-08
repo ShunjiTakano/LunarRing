@@ -4222,7 +4222,7 @@
         "name": {
           "name": "Apathy"
         },
-        "type": "Withdrawal",
+        "type": "Token Edict",
         "cost": 0,
         "image": "https://shunjitakano.github.io/LunarRing/images/apathy.webp",
         "covenant": "Niorr",
@@ -4232,7 +4232,7 @@
       }
     },
     "name": "Apathy",
-    "type": "Withdrawal",
+    "type": "Token Edict",
     "cost": 0,
     "effect": "This cannot be broken or shattered. At the start of your turn, give an an armament you wield -1 Attack this turn.",
     "covenant": "Niorr",
@@ -4247,7 +4247,7 @@
         "name": {
           "name": "Loneliness"
         },
-        "type": "Withdrawal",
+        "type": "Token Edict",
         "cost": 0,
         "image": "https://shunjitakano.github.io/LunarRing/images/loneliness.webp",
         "covenant": "Niorr",
@@ -4257,7 +4257,7 @@
       }
     },
     "name": "Loneliness",
-    "type": "Withdrawal",
+    "type": "Token Edict",
     "cost": 0,
     "effect": "This cannot be broken or shattered. At your preparation, break an armament you wield.",
     "covenant": "Niorr",
@@ -4272,7 +4272,7 @@
         "name": {
           "name": "Insignificance"
         },
-        "type": "Withdrawal",
+        "type": "Token Edict",
         "cost": 0,
         "image": "https://shunjitakano.github.io/LunarRing/images/insignificance.webp",
         "covenant": "Niorr",
@@ -4282,7 +4282,7 @@
       }
     },
     "name": "Insignificance",
-    "type": "Withdrawal",
+    "type": "Token Edict",
     "cost": 0,
     "effect": "This cannot be broken or shattered. The first time you take damage during an opponents turn, you take an additional damage.",
     "covenant": "Niorr",
@@ -4297,7 +4297,7 @@
         "name": {
           "name": "Despair"
         },
-        "type": "Withdrawal",
+        "type": "Token Edict",
         "cost": 0,
         "image": "https://shunjitakano.github.io/LunarRing/images/despair.webp",
         "covenant": "Niorr",
@@ -4307,7 +4307,7 @@
       }
     },
     "name": "Despair",
-    "type": "Withdrawal",
+    "type": "Token Edict",
     "cost": 0,
     "effect": "This cannot be broken or shattered. Your maximum resolve is reduced by 1.",
     "covenant": "Niorr",
