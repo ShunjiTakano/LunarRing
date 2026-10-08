@@ -4222,23 +4222,25 @@
         "name": {
           "name": "Apathy"
         },
-        "type": "Token Edict",
+        "type": "Token Withdrawal",
         "cost": 0,
         "image": "https://shunjitakano.github.io/LunarRing/images/apathy.webp",
         "covenant": "Niorr",
         "_legal": {
           "STD": true
-        }
+        },
+        "isToken": true
       }
     },
     "name": "Apathy",
-    "type": "Token Edict",
+    "type": "Token Withdrawal",
     "cost": 0,
     "effect": "This cannot be broken or shattered. At the start of your turn, give an an armament you wield -1 Attack this turn.",
     "covenant": "Niorr",
     "_legal": {
       "STD": true
-    }
+    },
+    "isToken": true
   },
   "loneliness": {
     "id": "loneliness",
@@ -4247,23 +4249,25 @@
         "name": {
           "name": "Loneliness"
         },
-        "type": "Token Edict",
+        "type": "Token Withdrawal",
         "cost": 0,
         "image": "https://shunjitakano.github.io/LunarRing/images/loneliness.webp",
         "covenant": "Niorr",
         "_legal": {
           "STD": true
-        }
+        },
+        "isToken": true
       }
     },
     "name": "Loneliness",
-    "type": "Token Edict",
+    "type": "Token Withdrawal",
     "cost": 0,
     "effect": "This cannot be broken or shattered. At your preparation, break an armament you wield.",
     "covenant": "Niorr",
     "_legal": {
       "STD": true
-    }
+    },
+    "isToken": true
   },
   "insignificance": {
     "id": "insignificance",
@@ -4272,23 +4276,25 @@
         "name": {
           "name": "Insignificance"
         },
-        "type": "Token Edict",
+        "type": "Token Withdrawal",
         "cost": 0,
         "image": "https://shunjitakano.github.io/LunarRing/images/insignificance.webp",
         "covenant": "Niorr",
         "_legal": {
           "STD": true
-        }
+        },
+        "isToken": true
       }
     },
     "name": "Insignificance",
-    "type": "Token Edict",
+    "type": "Token Withdrawal",
     "cost": 0,
     "effect": "This cannot be broken or shattered. The first time you take damage during an opponents turn, you take an additional damage.",
     "covenant": "Niorr",
     "_legal": {
       "STD": true
-    }
+    },
+    "isToken": true
   },
   "despair": {
     "id": "despair",
@@ -4297,23 +4303,25 @@
         "name": {
           "name": "Despair"
         },
-        "type": "Token Edict",
+        "type": "Token Withdrawal",
         "cost": 0,
         "image": "https://shunjitakano.github.io/LunarRing/images/despair.webp",
         "covenant": "Niorr",
         "_legal": {
           "STD": true
-        }
+        },
+        "isToken": true
       }
     },
     "name": "Despair",
-    "type": "Token Edict",
+    "type": "Token Withdrawal",
     "cost": 0,
     "effect": "This cannot be broken or shattered. Your maximum resolve is reduced by 1.",
     "covenant": "Niorr",
     "_legal": {
       "STD": true
-    }
+    },
+    "isToken": true
   },
   "hedon": {
     "id": "hedon",
@@ -5584,5 +5592,248 @@
     },
     "attack": 1,
     "health": 2
+  },
+  "fleeting-visions": {
+    "id": "fleeting-visions",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Fleeting Visions"
+        },
+        "type": "Presence",
+        "cost": 0,
+        "image": "https://shunjitakano.github.io/LunarRing/images/fleeting-visions.webp",
+        "covenant": "Pale Stare",
+        "phase": "Crescent Moon",
+        "_legal": {
+          "STD": true
+        }
+      }
+    },
+    "name": "Fleeting Visions",
+    "type": "Presence",
+    "cost": 0,
+    "effect": "Each player draws an additional card during their draw phase. At each player's recovery, that player discards 1.",
+    "covenant": "Pale Stare",
+    "phase": "Crescent Moon",
+    "_legal": {
+      "STD": true
+    }
+  },
+  "pale-glow": {
+    "id": "pale-glow",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Pale Glow"
+        },
+        "type": "Presence",
+        "cost": 0,
+        "image": "https://shunjitakano.github.io/LunarRing/images/pale-glow.webp",
+        "covenant": "Pale Stare",
+        "phase": "Crescent Moon",
+        "_legal": {
+          "STD": true
+        }
+      }
+    },
+    "name": "Pale Glow",
+    "type": "Presence",
+    "cost": 0,
+    "effect": "Each player's maximum resolve is increased by 1.",
+    "covenant": "Pale Stare",
+    "phase": "Crescent Moon",
+    "_legal": {
+      "STD": true
+    }
+  },
+  "death-with-no-meaning": {
+    "id": "death-with-no-meaning",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Death With No Meaning"
+        },
+        "type": "Presence",
+        "cost": 0,
+        "image": "https://shunjitakano.github.io/LunarRing/images/death-with-no-meaning.webp",
+        "covenant": "Pale Stare",
+        "phase": "Crescent Moon",
+        "_legal": {
+          "STD": true
+        }
+      }
+    },
+    "name": "Death With No Meaning",
+    "type": "Presence",
+    "cost": 0,
+    "effect": "At any time a player may test 3 resolve to return a card from their scrapyard to their hand.",
+    "covenant": "Pale Stare",
+    "phase": "Crescent Moon",
+    "_legal": {
+      "STD": true
+    }
+  },
+  "temptation-of-chaos": {
+    "id": "temptation-of-chaos",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Temptation of Chaos"
+        },
+        "type": "Presence",
+        "cost": 0,
+        "image": "https://shunjitakano.github.io/LunarRing/images/temptation-of-chaos.webp",
+        "covenant": "Pale Stare",
+        "phase": "Half Moon",
+        "_legal": {
+          "STD": true
+        }
+      }
+    },
+    "name": "Temptation of Chaos",
+    "type": "Presence",
+    "cost": 0,
+    "effect": "All Weapons and Acolytes have +1 Attack.",
+    "covenant": "Pale Stare",
+    "phase": "Half Moon",
+    "_legal": {
+      "STD": true
+    }
+  },
+  "unraveling": {
+    "id": "unraveling",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Unraveling"
+        },
+        "type": "Presence",
+        "cost": 0,
+        "image": "https://shunjitakano.github.io/LunarRing/images/unraveling.webp",
+        "covenant": "Pale Stare",
+        "phase": "Half Moon",
+        "_legal": {
+          "STD": true
+        }
+      }
+    },
+    "name": "Unraveling",
+    "type": "Presence",
+    "cost": 0,
+    "effect": "At the end of each player's recovery, all armaments that player wields lose 1 health and 1 Temper.",
+    "covenant": "Pale Stare",
+    "phase": "Half Moon",
+    "_legal": {
+      "STD": true
+    }
+  },
+  "promise-of-everything": {
+    "id": "promise-of-everything",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Promise of Everything"
+        },
+        "type": "Presence",
+        "cost": 0,
+        "image": "https://shunjitakano.github.io/LunarRing/images/promise-of-everything.webp",
+        "covenant": "Pale Stare",
+        "phase": "Half Moon",
+        "_legal": {
+          "STD": true
+        }
+      }
+    },
+    "name": "Promise of Everything",
+    "type": "Presence",
+    "cost": 0,
+    "effect": "Players have no maximum handsize.",
+    "covenant": "Pale Stare",
+    "phase": "Half Moon",
+    "_legal": {
+      "STD": true
+    }
+  },
+  "stinging-madness": {
+    "id": "stinging-madness",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Stinging Madness"
+        },
+        "type": "Presence",
+        "cost": 0,
+        "image": "https://shunjitakano.github.io/LunarRing/images/stinging-madness.webp",
+        "covenant": "Pale Stare",
+        "phase": "Full Moon",
+        "_legal": {
+          "STD": true
+        }
+      }
+    },
+    "name": "Stinging Madness",
+    "type": "Presence",
+    "cost": 0,
+    "effect": "Whenever a player draws a card outside of their draw phase, they lose 1 health.",
+    "covenant": "Pale Stare",
+    "phase": "Full Moon",
+    "_legal": {
+      "STD": true
+    }
+  },
+  "overwhelming-dread": {
+    "id": "overwhelming-dread",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Overwhelming Dread"
+        },
+        "type": "Presence",
+        "cost": 0,
+        "image": "https://shunjitakano.github.io/LunarRing/images/overwhelming-dread.webp",
+        "covenant": "Pale Stare",
+        "phase": "Full Moon",
+        "_legal": {
+          "STD": true
+        }
+      }
+    },
+    "name": "Overwhelming Dread",
+    "type": "Presence",
+    "cost": 0,
+    "effect": "All Damage is Dealt as Dread instead.",
+    "covenant": "Pale Stare",
+    "phase": "Full Moon",
+    "_legal": {
+      "STD": true
+    }
+  },
+  "existential-permanence": {
+    "id": "existential-permanence",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Existential Permanence"
+        },
+        "type": "Presence",
+        "cost": 0,
+        "image": "https://shunjitakano.github.io/LunarRing/images/existential-permanence.webp",
+        "covenant": "Pale Stare",
+        "phase": "Full Moon",
+        "_legal": {
+          "STD": true
+        }
+      }
+    },
+    "name": "Existential Permanence",
+    "type": "Presence",
+    "cost": 0,
+    "effect": "Whenever an armament is broken, shatter it instead.",
+    "covenant": "Pale Stare",
+    "phase": "Full Moon",
+    "_legal": {
+      "STD": true
+    }
   }
 }
