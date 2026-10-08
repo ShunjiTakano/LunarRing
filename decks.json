@@ -234,5 +234,242 @@
       }
     ]
   }
+},
+{
+  "title": "Gruesome Symbiosis",
+  "id": "956c820a-f5ea-4a3b-870e-7f941599db0f",
+  "cardCount": 46,
+  "createdAt": "2026-10-08T08:59:34.027Z",
+  "lastModifiedAt": "2026-10-08T08:59:34.027Z",
+  "game": "Lunar Ring",
+  "format": [
+    "Standard"
+  ],
+  "deckList": {
+    "categoriesOrder": [
+      "Devotee",
+      "Presence",
+      "Weapon",
+      "Acolyte",
+      "Tactic",
+      "Riposte"
+    ],
+    "Devotee": [
+      {
+        "count": 1,
+        "id": "gro-thriving"
+      },
+      {
+        "count": 1,
+        "id": "gro-wounded"
+      },
+      {
+        "count": 1,
+        "id": "gro-desperate"
+      }
+    ],
+    "Presence": [
+      {
+        "count": 1,
+        "id": "fleeting-visions"
+      },
+      {
+        "count": 1,
+        "id": "unraveling"
+      },
+      {
+        "count": 1,
+        "id": "stinging-madness"
+      }
+    ],
+    "Weapon": [
+      {
+        "count": 3,
+        "id": "gor-s-staff-of-symbiosis"
+      },
+      {
+        "count": 3,
+        "id": "amalgamation"
+      },
+      {
+        "count": 3,
+        "id": "haven"
+      },
+      {
+        "count": 2,
+        "id": "ashen-wood-bow"
+      }
+    ],
+    "Acolyte": [
+      {
+        "count": 2,
+        "id": "dread-breeze"
+      },
+      {
+        "count": 3,
+        "id": "cornered-mountain"
+      },
+      {
+        "count": 3,
+        "id": "boiling-rain"
+      },
+      {
+        "count": 3,
+        "id": "endless-slate"
+      },
+      {
+        "count": 3,
+        "id": "jin-blazing-serpent"
+      },
+      {
+        "count": 3,
+        "id": "feng-tempest-serpent"
+      }
+    ],
+    "Tactic": [
+      {
+        "count": 3,
+        "id": "kuran-s-oath-sigil"
+      },
+      {
+        "count": 3,
+        "id": "burning-adaptation"
+      },
+      {
+        "count": 3,
+        "id": "unending-cycle"
+      },
+      {
+        "count": 2,
+        "id": "melded-soul"
+      }
+    ],
+    "Riposte": [
+      {
+        "count": 1,
+        "id": "devoured-nature"
+      }
+    ]
+  }
+},
+{
+  "title": "Temptation Beckons",
+  "id": "956c820a-f5ea-4a3b-870e-7f941599db0f",
+  "cardCount": 46,
+  "createdAt": "2026-10-08T08:59:34.027Z",
+  "lastModifiedAt": "2026-10-08T08:59:34.027Z",
+  "game": "Lunar Ring",
+  "format": [
+    "Standard"
+  ],
+  "deckList": {
+    "categoriesOrder": [
+      "Devotee",
+      "Presence",
+      "Tactic",
+      "Weapon",
+      "Riposte",
+      "Edict",
+      "Acolyte"
+    ],
+    "Devotee": [
+      {
+        "count": 1,
+        "id": "nine-lives-thriving"
+      },
+      {
+        "count": 1,
+        "id": "nine-lives-wounded"
+      },
+      {
+        "count": 1,
+        "id": "nine-lives-desperate"
+      }
+    ],
+    "Presence": [
+      {
+        "count": 1,
+        "id": "pale-glow"
+      },
+      {
+        "count": 1,
+        "id": "promise-of-everything"
+      },
+      {
+        "count": 1,
+        "id": "overwhelming-dread"
+      }
+    ],
+    "Tactic": [
+      {
+        "count": 3,
+        "id": "niorr-s-oath-sigil"
+      },
+      {
+        "count": 3,
+        "id": "nothing-to-live-for"
+      },
+      {
+        "count": 1,
+        "id": "toxic-intimacy"
+      },
+      {
+        "count": 2,
+        "id": "do-it"
+      },
+      {
+        "count": 2,
+        "id": "dissonant-dice"
+      }
+    ],
+    "Weapon": [
+      {
+        "count": 3,
+        "id": "glistening"
+      }
+    ],
+    "Riposte": [
+      {
+        "count": 3,
+        "id": "worth-its-weight"
+      },
+      {
+        "count": 3,
+        "id": "seduction"
+      },
+      {
+        "count": 3,
+        "id": "kiss-stained-handkerchief"
+      }
+    ],
+    "Edict": [
+      {
+        "count": 3,
+        "id": "demand-of-luxury"
+      }
+    ],
+    "Acolyte": [
+      {
+        "count": 3,
+        "id": "endless-hedonists"
+      },
+      {
+        "count": 3,
+        "id": "lil-finch"
+      },
+      {
+        "count": 3,
+        "id": "comforter"
+      },
+      {
+        "count": 3,
+        "id": "pain-enjoyer"
+      },
+      {
+        "count": 2,
+        "id": "existential-gambler"
+      }
+    ]
+  }
 }
 ]
