@@ -114,5 +114,125 @@
       }
     ]
   }
+},
+{
+  "title": "Blood Sacrifice",
+  "id": "90bc32df-6612-4fc2-9158-ce65362f7f6e",
+  "cardCount": 46,
+  "createdAt": "2026-10-08T08:52:07.873Z",
+  "lastModifiedAt": "2026-10-08T08:52:07.873Z",
+  "game": "Lunar Ring",
+  "format": [
+    "Standard"
+  ],
+  "deckList": {
+    "categoriesOrder": [
+      "Devotee",
+      "Presence",
+      "Acolyte",
+      "Edict",
+      "Weapon",
+      "Tactic",
+      "Riposte"
+    ],
+    "Devotee": [
+      {
+        "count": 1,
+        "id": "kakandi-bloodbrood-thriving"
+      },
+      {
+        "count": 1,
+        "id": "kakandi-bloodbrood-wounded"
+      },
+      {
+        "count": 1,
+        "id": "kakandi-bloodbrood-desperate"
+      }
+    ],
+    "Presence": [
+      {
+        "count": 1,
+        "id": "death-with-no-meaning"
+      },
+      {
+        "count": 1,
+        "id": "temptation-of-chaos"
+      },
+      {
+        "count": 1,
+        "id": "stinging-madness"
+      }
+    ],
+    "Acolyte": [
+      {
+        "count": 2,
+        "id": "pallbearer"
+      }
+    ],
+    "Edict": [
+      {
+        "count": 2,
+        "id": "sacred-ichor"
+      },
+      {
+        "count": 3,
+        "id": "regret"
+      },
+      {
+        "count": 3,
+        "id": "make-it-quick"
+      }
+    ],
+    "Weapon": [
+      {
+        "count": 3,
+        "id": "promise"
+      },
+      {
+        "count": 3,
+        "id": "peaceful-sting"
+      },
+      {
+        "count": 3,
+        "id": "rest"
+      },
+      {
+        "count": 3,
+        "id": "liberation"
+      },
+      {
+        "count": 2,
+        "id": "thirsting-steel"
+      }
+    ],
+    "Tactic": [
+      {
+        "count": 3,
+        "id": "yandari-s-oath-sigil"
+      },
+      {
+        "count": 3,
+        "id": "savour-pain"
+      },
+      {
+        "count": 2,
+        "id": "symbol-of-yandari"
+      },
+      {
+        "count": 3,
+        "id": "embrace-death"
+      },
+      {
+        "count": 3,
+        "id": "memento-mori"
+      }
+    ],
+    "Riposte": [
+      {
+        "count": 2,
+        "id": "ritual"
+      }
+    ]
+  }
 }
 ]
