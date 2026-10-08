@@ -1,0 +1,116 @@
+{
+  "title": "Faded Thoughts",
+  "id": "99fef87a-9839-4104-925a-8c58ecef49cd",
+  "cardCount": 46,
+  "createdAt": "2026-10-08T08:14:11.521Z",
+  "lastModifiedAt": "2026-10-08T08:22:09.779Z",
+  "game": "Lunar Ring",
+  "format": [
+    "Standard"
+  ],
+  "deckList": {
+    "categoriesOrder": [
+      "Devotee",
+      "Presence",
+      "Acolyte",
+      "Edict",
+      "Weapon",
+      "Tactic",
+      "Riposte"
+    ],
+    "Devotee": [
+      {
+        "count": 1,
+        "id": "pora-aliestrad-thriving"
+      },
+      {
+        "count": 1,
+        "id": "pora-aliestrad-wounded"
+      },
+      {
+        "count": 1,
+        "id": "pora-aliestrad-desperate"
+      }
+    ],
+    "Presence": [
+      {
+        "count": 1,
+        "id": "pale-glow"
+      },
+      {
+        "count": 1,
+        "id": "promise-of-everything"
+      },
+      {
+        "count": 1,
+        "id": "existential-permanence"
+      }
+    ],
+    "Acolyte": [
+      {
+        "count": 3,
+        "id": "pora-mind-s-guardian"
+      },
+      {
+        "count": 3,
+        "id": "proud-child"
+      },
+      {
+        "count": 3,
+        "id": "scribe-of-igon"
+      }
+    ],
+    "Edict": [
+      {
+        "count": 3,
+        "id": "hunt-untruth"
+      },
+      {
+        "count": 3,
+        "id": "frayed-recollection"
+      }
+    ],
+    "Weapon": [
+      {
+        "count": 3,
+        "id": "gauntlet-of-thought"
+      },
+      {
+        "count": 3,
+        "id": "infinite-epochs"
+      },
+      {
+        "count": 3,
+        "id": "murmuring-deja-vu"
+      }
+    ],
+    "Tactic": [
+      {
+        "count": 3,
+        "id": "igon-s-oath-sigil"
+      },
+      {
+        "count": 3,
+        "id": "shape-of-memory"
+      },
+      {
+        "count": 3,
+        "id": "seeds-of-doubt"
+      },
+      {
+        "count": 3,
+        "id": "reality-dissolves"
+      },
+      {
+        "count": 1,
+        "id": "correction"
+      }
+    ],
+    "Riposte": [
+      {
+        "count": 3,
+        "id": "pale-disruption"
+      }
+    ]
+  }
+}
