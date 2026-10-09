@@ -109,7 +109,7 @@
                 {
                   "section": "ResolveHelper",
                   "style": {
-                    "width": "15vh"
+                    "width": "34vh"
                   }
                 }
               ]
@@ -177,27 +177,61 @@
           "ResolveHelper": {
             "type": "custom",
             "height": 10,
-            "defaultValue": { "max": 0, "current": 0, "started": false, "enforce": true },
+            "defaultValue": {
+              "max": 0,
+              "current": 0,
+              "started": false,
+              "enforce": true,
+              "health": 0,
+              "condition": "",
+              "healthInit": false,
+              "amount": 1
+            },
             "blueprint": {
               "type": "div",
+              "props": {
+                "style": { "display": "flex", "flexDirection": "column", "gap": "0.4vh", "fontSize": "1.4vh" }
+              },
               "children": [
-                { "type": "div", "children": "Resolve max: {{ game.data.ResolveHelper.max }}" },
-                { "type": "div", "children": "Resolve:" },
                 {
-                  "type": "input-number",
-                  "props": { "value": "{{ game.data.ResolveHelper.current }}" },
-                  "onChange": "await setResolve(Number(value))"
+                  "type": "div",
+                  "children": "Health: {{ game.data.ResolveHelper.health }} ({{ game.data.ResolveHelper.condition }}) | Resolve max: {{ game.data.ResolveHelper.max }}"
                 },
-                { "type": "button", "children": "Refill resolve", "onClick": "await refillResolve()" },
                 {
-                  "type": "button",
-                  "children": "{{ game.data.ResolveHelper.enforce ? 'Resolve check: ON' : 'Resolve check: OFF' }}",
-                  "onClick": "game.data.ResolveHelper.enforce = !game.data.ResolveHelper.enforce"
+                  "type": "div",
+                  "props": { "style": { "display": "flex", "gap": "0.5vh", "alignItems": "center" } },
+                  "children": [
+                    {
+                      "type": "input-number",
+                      "props": { "value": "{{ game.data.ResolveHelper.amount }}" },
+                      "onChange": "game.data.ResolveHelper.amount = Math.max(0, Number(value) || 0)"
+                    },
+                    { "type": "button", "children": "Damage", "onClick": "await changeHealth(-1)" },
+                    { "type": "button", "children": "Restore", "onClick": "await changeHealth(1)" }
+                  ]
+                },
+                {
+                  "type": "div",
+                  "props": { "style": { "display": "flex", "gap": "0.5vh", "alignItems": "center" } },
+                  "children": [
+                    { "type": "div", "children": "Resolve:" },
+                    {
+                      "type": "input-number",
+                      "props": { "value": "{{ game.data.ResolveHelper.current }}" },
+                      "onChange": "await setResolve(Number(value))"
+                    },
+                    { "type": "button", "children": "Refill", "onClick": "await refillResolve()" },
+                    {
+                      "type": "button",
+                      "children": "{{ game.data.ResolveHelper.enforce ? 'Resolve check: ON' : 'Resolve check: OFF' }}",
+                      "onClick": "game.data.ResolveHelper.enforce = !game.data.ResolveHelper.enforce"
+                    }
+                  ]
                 }
               ]
             },
             "events": {
-              "onPlayersReady": "game.data.ResolveHelper.started = true",
+              "onPlayersReady": "game.data.ResolveHelper.started = true; await initHealth()",
               "onNewTurn": "await onMyNewTurn()"
             }
           },
