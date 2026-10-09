@@ -2,7 +2,7 @@
   "name": "Lunar Ring",
   "scriptsUrls": [
     "https://shunjitakano.github.io/LunarRing/functions.jsx",
-    "https://shunjitakano.github.io/LunarRing/resolve.js"
+    "https://shunjitakano.github.io/LunarRing/resolve.js?v=3"
   ],
   "deckBuilding": {
     "mainFilters": [
