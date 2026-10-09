@@ -100,13 +100,19 @@
                   "style": {
                     "width": "15vh"
                   }
-                },
+                },    
                 {
-                  "section": "Presence",
-                  "style": {
-                    "width": "15vh"
+                   "section": "Presence",
+                   "style": {
+                     "width": "15vh"
                   }
-                }
+                 },
+                 {
+                    "section": "ResolveHelper",
+                    "style": {
+                      "width": "15vh"
+                  }
+                 }
               ]
             },
             {
