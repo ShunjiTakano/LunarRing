@@ -1,7 +1,8 @@
 {
   "name": "Lunar Ring",
   "scriptsUrls": [
-    "https://shunjitakano.github.io/LunarRing/functions.jsx"
+    "https://shunjitakano.github.io/LunarRing/functions.jsx",
+    "https://shunjitakano.github.io/LunarRing/resolve.js"
   ],
   "deckBuilding": {
     "mainFilters": [
@@ -127,6 +128,21 @@
                   "section": "Hand",
                   "style": {
                     "width": "60%"
+                  }
+                },
+                {
+                  "ResolveHelper": {
+                    "type": "custom",
+                    "height": 10,
+                    "defaultValue": { "max": 0 },
+                    "blueprint": {
+                      "type": "div",
+                      "children": [
+                        { "type": "div", "children": "Resolve max: {{ game.data.ResolveHelper.max }}" },
+                        { "type": "button", "children": "Refill resolve", "onClick": "await refillResolve()" }
+                      ]
+                    },
+                    "events": { "onNewTurn": "await onMyNewTurn()" }
                   }
                 },
                 {
