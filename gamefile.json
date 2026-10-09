@@ -100,19 +100,19 @@
                   "style": {
                     "width": "15vh"
                   }
-                },    
+                },
                 {
-                   "section": "Presence",
-                   "style": {
-                     "width": "15vh"
+                  "section": "Presence",
+                  "style": {
+                    "width": "15vh"
                   }
-                 },
-                 {
-                    "section": "ResolveHelper",
-                    "style": {
-                      "width": "15vh"
+                },
+                {
+                  "section": "ResolveHelper",
+                  "style": {
+                    "width": "15vh"
                   }
-                 }
+                }
               ]
             },
             {
@@ -134,21 +134,6 @@
                   "section": "Hand",
                   "style": {
                     "width": "60%"
-                  }
-                },
-                {
-                  "ResolveHelper": {
-                    "type": "custom",
-                    "height": 10,
-                    "defaultValue": { "max": 0 },
-                    "blueprint": {
-                      "type": "div",
-                      "children": [
-                        { "type": "div", "children": "Resolve max: {{ game.data.ResolveHelper.max }}" },
-                        { "type": "button", "children": "Refill resolve", "onClick": "await refillResolve()" }
-                      ]
-                    },
-                    "events": { "onNewTurn": "await onMyNewTurn()" }
                   }
                 },
                 {
@@ -189,6 +174,19 @@
             "alignment": "START",
             "isHorizontalAllowed": true,
             "displayedTitle": "Presences (unplayed)"
+          },
+          "ResolveHelper": {
+            "type": "custom",
+            "height": 10,
+            "defaultValue": { "max": 0 },
+            "blueprint": {
+              "type": "div",
+              "children": [
+                { "type": "div", "children": "Resolve max: {{ game.data.ResolveHelper.max }}" },
+                { "type": "button", "children": "Refill resolve", "onClick": "await refillResolve()" }
+              ]
+            },
+            "events": { "onNewTurn": "await onMyNewTurn()" }
           },
           "ActivePresences": {
             "isHidden": "no",
