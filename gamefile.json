@@ -2,7 +2,7 @@
   "name": "Lunar Ring",
   "scriptsUrls": [
     "https://shunjitakano.github.io/LunarRing/functions.jsx",
-    "https://shunjitakano.github.io/LunarRing/resolve.js?v=2"
+    "https://shunjitakano.github.io/LunarRing/resolve.js"
   ],
   "deckBuilding": {
     "mainFilters": [
@@ -14,7 +14,6 @@
       "Devotee",
       "Presence",
       "Token Withdrawal",
-      "Token Item",
       "Token Edict",
       "Token Acolyte",
       "Token Weapon"
@@ -178,15 +177,24 @@
           "ResolveHelper": {
             "type": "custom",
             "height": 10,
-            "defaultValue": { "max": 0 },
+            "defaultValue": { "max": 0, "current": 0, "started": false },
             "blueprint": {
               "type": "div",
               "children": [
                 { "type": "div", "children": "Resolve max: {{ game.data.ResolveHelper.max }}" },
+                { "type": "div", "children": "Resolve:" },
+                {
+                  "type": "input-number",
+                  "props": { "value": "{{ game.data.ResolveHelper.current }}" },
+                  "onChange": "await setResolve(Number(value))"
+                },
                 { "type": "button", "children": "Refill resolve", "onClick": "await refillResolve()" }
               ]
             },
-            "events": { "onNewTurn": "await onMyNewTurn()" }
+            "events": {
+              "onPlayersReady": "game.data.ResolveHelper.started = true",
+              "onNewTurn": "await onMyNewTurn()"
+            }
           },
           "ActivePresences": {
             "isHidden": "no",
@@ -211,44 +219,28 @@
             "isHidden": "opponent-only",
             "height": 15,
             "alignment": "CENTER",
-            "isHorizontalAllowed": true
+            "isHorizontalAllowed": true,
+            "events": {
+              "onCardsLeave": "await onCardsLeftHand(transitionCards)"
+            }
           }
         },
         "autoPlayFromHand": {
           "Acolyte": "Armoury",
           "Weapon": "Armoury",
-          "1-Handed Weapon": "Armoury",
-          "2-Handed Weapon": "Armoury",
           "Edict": "Armoury",
-          "Item": "Armoury",
-          "Tome": "Armoury",
-          "Ability": "Armoury",
-          "Concoction": "Discard",
           "Tactic": "Discard",
-          "Riposte": "Discard",
-          "Act of Desperation": "Discard",
-          "Act of Desperation: Tome": "Discard",
-          "Act of Desperation: Eternal": "Discard"
+          "Riposte": "Discard"
         },
         "autoPlayFromStack": {
           "Acolyte": "Armoury",
           "Weapon": "Armoury",
-          "1-Handed Weapon": "Armoury",
-          "2-Handed Weapon": "Armoury",
           "Edict": "Armoury",
-          "Item": "Armoury",
-          "Tome": "Armoury",
-          "Ability": "Armoury",
           "Token Edict": "Armoury",
           "Token Acolyte": "Armoury",
           "Token Weapon": "Armoury",
-          "Token Item": "Armoury",
           "Tactic": "Discard",
           "Riposte": "Discard",
-          "Concoction": "Discard",
-          "Act of Desperation": "Discard",
-          "Act of Desperation: Tome": "Discard",
-          "Act of Desperation: Eternal": "Discard",
           "Token Withdrawal": "Discard"
         }
       }
