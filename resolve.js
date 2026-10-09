@@ -54,7 +54,9 @@ async function initHealth() {
   rh.healthInit = true;
   rh.condition = list[0].data.condition;
   rh.max = clamp(Number(list[0].data.cost) || 0, 0, 10);
-  await setHealthDisplay(Number(list[0].data.health) || 0);
+  const startHealth = Number(list[0].data.health) || 0;
+  functions.chatLog('starts at ' + startHealth + ' health as ' + list[0].data.condition + ' (found ' + list.length + ' Devotee cards)');
+  await setHealthDisplay(startHealth);
 }
 
 // Set health. Damage past 0 worsens the condition and carries over.
