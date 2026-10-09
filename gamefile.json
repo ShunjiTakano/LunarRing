@@ -177,7 +177,7 @@
           "ResolveHelper": {
             "type": "custom",
             "height": 10,
-            "defaultValue": { "max": 0, "current": 0, "started": false },
+            "defaultValue": { "max": 0, "current": 0, "started": false, "enforce": true },
             "blueprint": {
               "type": "div",
               "children": [
@@ -188,7 +188,12 @@
                   "props": { "value": "{{ game.data.ResolveHelper.current }}" },
                   "onChange": "await setResolve(Number(value))"
                 },
-                { "type": "button", "children": "Refill resolve", "onClick": "await refillResolve()" }
+                { "type": "button", "children": "Refill resolve", "onClick": "await refillResolve()" },
+                {
+                  "type": "button",
+                  "children": "{{ game.data.ResolveHelper.enforce ? 'Resolve check: ON' : 'Resolve check: OFF' }}",
+                  "onClick": "game.data.ResolveHelper.enforce = !game.data.ResolveHelper.enforce"
+                }
               ]
             },
             "events": {
