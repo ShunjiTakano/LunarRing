@@ -23,6 +23,8 @@ function getDevotees() {
     const data = functions.getCardData(card);
     const r = rank[data?.condition];
     if (r === undefined) continue;
+    // Ignore conditions we have already passed, even if the board still lists them.
+    if (r < (Number(game.data.ResolveHelper.rank) || 0)) continue;
     list.push({ rank: r, card: card, data: data });
   }
   list.sort(function (a, b) { return a.rank - b.rank; });
@@ -49,6 +51,7 @@ async function setHealthDisplay(v) {
 // Start of game: full health of the Thriving condition.
 async function initHealth() {
   const rh = game.data.ResolveHelper;
+  rh.rank = 0;
   const list = getDevotees();
   if (list.length === 0) return;
   rh.healthInit = true;
@@ -77,6 +80,7 @@ async function setHealth(value) {
     i++;
     const next = list[i].data;
     rh.condition = next.condition;
+    rh.rank = list[i].rank;
     rh.max = clamp(Number(next.cost) || 0, 0, 10);
     functions.chatLog('worsens to ' + next.condition);
     await setResolve(rh.max); // resolve is set to the new maximum immediately
