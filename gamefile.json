@@ -196,6 +196,8 @@
               "condition": "",
               "healthInit": false,
               "rank": 0,
+              "turnSeq": 0,
+              "debug": true,
               "amount": 1
             },
             "blueprint": {

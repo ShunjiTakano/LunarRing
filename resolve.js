@@ -112,9 +112,20 @@ async function refillResolve() {
   functions.chatLog('restores resolve to ' + max);
 }
 
-// Runs on every new turn for every player, so only act on your own turn.
+// Runs on every new turn for every player. game.turn.isMyTurn can still hold the
+// PREVIOUS turn's value when this event fires, so we count turn events ourselves:
+// event 1 is the first player's turn, event 2 the next player's, and so on.
 async function onMyNewTurn() {
-  if (game.turn.isMyTurn) {
+  const rh = game.data.ResolveHelper;
+  rh.turnSeq = (Number(rh.turnSeq) || 0) + 1;
+  const total = Number(game.turn.totalPlayers) || 2;
+  const pos = Number(game.turn.orderPosition) || 0;
+  const mine = ((rh.turnSeq - 1) % total) === pos;
+  if (rh.debug) {
+    functions.chatLog('[turn event ' + rh.turnSeq + '] isMyTurn=' + game.turn.isMyTurn +
+      ' count=' + game.turn.count + ' seat=' + (pos + 1) + '/' + total + ' -> ' + (mine ? 'refill' : 'skip'));
+  }
+  if (mine) {
     await refillResolve();
   }
 }
