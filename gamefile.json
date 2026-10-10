@@ -82,9 +82,19 @@
       },
       "draggableTokens": [
         {
-          "id": "Damage",
-          "name": "Damage",
-          "image": "https://shunjitakano.github.io/LunarRing/images/tokens/damage.webp"
+          "id": "Dread",
+          "name": "Dread",
+          "image": "https://shunjitakano.github.io/LunarRing/images/tokens/dread.webp"
+        },
+        {
+          "id": "Mercy",
+          "name": "Mercy",
+          "image": "https://shunjitakano.github.io/LunarRing/images/tokens/mercy.webp"
+        },
+        {
+          "id": "Indulgence",
+          "name": "Indulgence",
+          "image": "https://shunjitakano.github.io/LunarRing/images/tokens/indulgence.webp"
         }
       ],
       "sections": {
