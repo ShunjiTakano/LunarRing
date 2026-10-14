@@ -262,6 +262,12 @@
             "isHorizontalAllowed": true,
             "displayedTitle": "Armoury"
           },
+          "Deck": {
+            "isHidden": "yes",
+            "height": 15,
+            "alignment": "DECK",
+            "displayedTitle": "Deck"
+          },
           "Discard": {
             "isHidden": "no",
             "height": 15,
