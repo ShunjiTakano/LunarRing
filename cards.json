@@ -1,953 +1,23 @@
 {
-  "heliana-yade-thriving": {
-    "id": "heliana-yade-thriving",
+  "ritual-attendant": {
+    "id": "ritual-attendant",
     "face": {
       "front": {
         "name": {
-          "name": "Heliana Yade"
-        },
-        "type": "Devotee",
-        "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/heliana-yade-thriving.webp",
-        "covenant": "Igon",
-        "health": 10,
-        "condition": "Thriving",
-        "_legal": {
-          "STD": true
-        },
-        "devotee": "heliana-yade"
-      }
-    },
-    "name": "Heliana Yade",
-    "type": "Devotee",
-    "cost": 3,
-    "effect": "Whenever an armament you wield Distorts, all opponents create a \"Hazed Memory\"",
-    "health": 10,
-    "covenant": "Igon",
-    "condition": "Thriving",
-    "_legal": {
-      "STD": true
-    },
-    "devotee": "heliana-yade"
-  },
-  "heliana-yade-wounded": {
-    "id": "heliana-yade-wounded",
-    "face": {
-      "front": {
-        "name": {
-          "name": "Heliana Yade"
-        },
-        "type": "Devotee",
-        "cost": 5,
-        "image": "https://shunjitakano.github.io/LunarRing/images/heliana-yade-wounded.webp",
-        "covenant": "Igon",
-        "health": 10,
-        "condition": "Wounded",
-        "_legal": {
-          "STD": true
-        },
-        "devotee": "heliana-yade"
-      }
-    },
-    "name": "Heliana Yade",
-    "type": "Devotee",
-    "cost": 5,
-    "effect": "Whenever an armament you wield distorts, break it instead. Target player creates a Hazed Memory and you draw 1.",
-    "health": 10,
-    "covenant": "Igon",
-    "condition": "Wounded",
-    "_legal": {
-      "STD": true
-    },
-    "devotee": "heliana-yade"
-  },
-  "heliana-yade-desperate": {
-    "id": "heliana-yade-desperate",
-    "face": {
-      "front": {
-        "name": {
-          "name": "Heliana Yade"
-        },
-        "type": "Devotee",
-        "cost": 10,
-        "image": "https://shunjitakano.github.io/LunarRing/images/heliana-yade-desperate.webp",
-        "covenant": "Igon",
-        "health": 15,
-        "condition": "Desperate",
-        "_legal": {
-          "STD": true
-        },
-        "devotee": "heliana-yade"
-      }
-    },
-    "name": "Heliana Yade",
-    "type": "Devotee",
-    "cost": 10,
-    "effect": "On Strike: If the defending player wields 10 or more Hazed Memories, put that players deck into their scrapyard.",
-    "health": 15,
-    "covenant": "Igon",
-    "condition": "Desperate",
-    "_legal": {
-      "STD": true
-    },
-    "devotee": "heliana-yade"
-  },
-  "pora-aliestrad-thriving": {
-    "id": "pora-aliestrad-thriving",
-    "face": {
-      "front": {
-        "name": {
-          "name": "Pora Aliestrad"
-        },
-        "type": "Devotee",
-        "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/pora-aliestrad-thriving.webp",
-        "covenant": "Igon",
-        "health": 10,
-        "condition": "Thriving",
-        "_legal": {
-          "STD": true
-        },
-        "devotee": "pora-aliestrad"
-      }
-    },
-    "name": "Pora Aliestrad",
-    "type": "Devotee",
-    "cost": 3,
-    "effect": "Whenever an armament you wield would Distort, you may drain me instead. At your recovery, if I am drained, discard 1.",
-    "health": 10,
-    "covenant": "Igon",
-    "condition": "Thriving",
-    "_legal": {
-      "STD": true
-    },
-    "devotee": "pora-aliestrad"
-  },
-  "pora-aliestrad-wounded": {
-    "id": "pora-aliestrad-wounded",
-    "face": {
-      "front": {
-        "name": {
-          "name": "Pora Aliestrad"
-        },
-        "type": "Devotee",
-        "cost": 5,
-        "image": "https://shunjitakano.github.io/LunarRing/images/pora-aliestrad-wounded.webp",
-        "covenant": "Igon",
-        "health": 15,
-        "condition": "Wounded",
-        "_legal": {
-          "STD": true
-        },
-        "devotee": "pora-aliestrad"
-      }
-    },
-    "name": "Pora Aliestrad",
-    "type": "Devotee",
-    "cost": 5,
-    "effect": "Whenever an armament you wield would Distort, you may return it to your hand instead.",
-    "health": 15,
-    "covenant": "Igon",
-    "condition": "Wounded",
-    "_legal": {
-      "STD": true
-    },
-    "devotee": "pora-aliestrad"
-  },
-  "pora-aliestrad-desperate": {
-    "id": "pora-aliestrad-desperate",
-    "face": {
-      "front": {
-        "name": {
-          "name": "Pora Aliestrad"
-        },
-        "type": "Devotee",
-        "cost": 10,
-        "image": "https://shunjitakano.github.io/LunarRing/images/pora-aliestrad-desperate.webp",
-        "covenant": "Igon",
-        "health": 10,
-        "condition": "Desperate",
-        "_legal": {
-          "STD": true
-        },
-        "devotee": "pora-aliestrad"
-      }
-    },
-    "name": "Pora Aliestrad",
-    "type": "Devotee",
-    "cost": 10,
-    "effect": "Whenever an armament you wield would distort, put the top 3 cards of your deck into your scrapyard and your opponent loses 1 health instead.",
-    "health": 10,
-    "covenant": "Igon",
-    "condition": "Desperate",
-    "_legal": {
-      "STD": true
-    },
-    "devotee": "pora-aliestrad"
-  },
-  "gro-thriving": {
-    "id": "gro-thriving",
-    "face": {
-      "front": {
-        "name": {
-          "name": "Gro'"
-        },
-        "type": "Devotee",
-        "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/gro-thriving.webp",
-        "covenant": "Kuran",
-        "health": 10,
-        "condition": "Thriving",
-        "_legal": {
-          "STD": true
-        },
-        "devotee": "gro"
-      }
-    },
-    "name": "Gro'",
-    "type": "Devotee",
-    "cost": 3,
-    "effect": "Whenever you Graft to a weapon, give that weapon +1 Temper.",
-    "health": 10,
-    "covenant": "Kuran",
-    "condition": "Thriving",
-    "_legal": {
-      "STD": true
-    },
-    "devotee": "gro"
-  },
-  "gro-wounded": {
-    "id": "gro-wounded",
-    "face": {
-      "front": {
-        "name": {
-          "name": "Gro'"
-        },
-        "type": "Devotee",
-        "cost": 6,
-        "image": "https://shunjitakano.github.io/LunarRing/images/gro-wounded.webp",
-        "covenant": "Kuran",
-        "health": 10,
-        "condition": "Wounded",
-        "_legal": {
-          "STD": true
-        },
-        "devotee": "gro"
-      }
-    },
-    "name": "Gro'",
-    "type": "Devotee",
-    "cost": 6,
-    "effect": "Weapons you wield cannot be broken by effects as long as they have 3 or more acolytes grafted to it.",
-    "health": 10,
-    "covenant": "Kuran",
-    "condition": "Wounded",
-    "_legal": {
-      "STD": true
-    },
-    "devotee": "gro"
-  },
-  "gro-desperate": {
-    "id": "gro-desperate",
-    "face": {
-      "front": {
-        "name": {
-          "name": "Gro'"
-        },
-        "type": "Devotee",
-        "cost": 10,
-        "image": "https://shunjitakano.github.io/LunarRing/images/gro-desperate.webp",
-        "covenant": "Kuran",
-        "health": 10,
-        "condition": "Desperate",
-        "_legal": {
-          "STD": true
-        },
-        "devotee": "gro"
-      }
-    },
-    "name": "Gro'",
-    "type": "Devotee",
-    "cost": 10,
-    "effect": "You can Graft acolytes to me. Whenever you graft to me, lose 2 health.",
-    "health": 10,
-    "covenant": "Kuran",
-    "condition": "Desperate",
-    "_legal": {
-      "STD": true
-    },
-    "devotee": "gro"
-  },
-  "kreena-eldervyre-thriving": {
-    "id": "kreena-eldervyre-thriving",
-    "face": {
-      "front": {
-        "name": {
-          "name": "Kreena Eldervyre"
-        },
-        "type": "Devotee",
-        "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/kreena-eldervyre-thriving.webp",
-        "covenant": "Kuran",
-        "health": 15,
-        "condition": "Thriving",
-        "_legal": {
-          "STD": true
-        },
-        "devotee": "kreena-eldervyre"
-      }
-    },
-    "name": "Kreena Eldervyre",
-    "type": "Devotee",
-    "cost": 3,
-    "effect": "Whenever you graft, deal 1 damage to your opponent.",
-    "health": 15,
-    "covenant": "Kuran",
-    "condition": "Thriving",
-    "_legal": {
-      "STD": true
-    },
-    "devotee": "kreena-eldervyre"
-  },
-  "kreena-eldervyre-wounded": {
-    "id": "kreena-eldervyre-wounded",
-    "face": {
-      "front": {
-        "name": {
-          "name": "Kreena Eldervyre"
-        },
-        "type": "Devotee",
-        "cost": 4,
-        "image": "https://shunjitakano.github.io/LunarRing/images/kreena-eldervyre-wounded.webp",
-        "covenant": "Kuran",
-        "health": 15,
-        "condition": "Wounded",
-        "_legal": {
-          "STD": true
-        },
-        "devotee": "kreena-eldervyre"
-      }
-    },
-    "name": "Kreena Eldervyre",
-    "type": "Devotee",
-    "cost": 4,
-    "effect": "Your first graft each turn tests 0 resolve. Whenever you graft, discard 1.",
-    "health": 15,
-    "covenant": "Kuran",
-    "condition": "Wounded",
-    "_legal": {
-      "STD": true
-    },
-    "devotee": "kreena-eldervyre"
-  },
-  "kreena-eldervyre-desperate": {
-    "id": "kreena-eldervyre-desperate",
-    "face": {
-      "front": {
-        "name": {
-          "name": "Kreena Eldervyre"
-        },
-        "type": "Devotee",
-        "cost": 10,
-        "image": "https://shunjitakano.github.io/LunarRing/images/kreena-eldervyre-desperate.webp",
-        "covenant": "Kuran",
-        "health": 15,
-        "condition": "Desperate",
-        "_legal": {
-          "STD": true
-        },
-        "devotee": "kreena-eldervyre"
-      }
-    },
-    "name": "Kreena Eldervyre",
-    "type": "Devotee",
-    "cost": 10,
-    "effect": "Test X: Graft X acolytes you wield to a weapon you wield and lose X health.",
-    "health": 15,
-    "covenant": "Kuran",
-    "condition": "Desperate",
-    "_legal": {
-      "STD": true
-    },
-    "devotee": "kreena-eldervyre"
-  },
-  "shiera-silkthroat-thriving": {
-    "id": "shiera-silkthroat-thriving",
-    "face": {
-      "front": {
-        "name": {
-          "name": "Shiera Silkthroat"
-        },
-        "type": "Devotee",
-        "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/shiera-silkthroat-thriving.webp",
-        "covenant": "Niorr",
-        "health": 15,
-        "condition": "Thriving",
-        "_legal": {
-          "STD": true
-        },
-        "devotee": "shiera-silkthroat"
-      }
-    },
-    "name": "Shiera Silkthroat",
-    "type": "Devotee",
-    "cost": 3,
-    "effect": "At your recovery, Indulge.",
-    "health": 15,
-    "covenant": "Niorr",
-    "condition": "Thriving",
-    "_legal": {
-      "STD": true
-    },
-    "devotee": "shiera-silkthroat"
-  },
-  "shiera-silkthroat-wounded": {
-    "id": "shiera-silkthroat-wounded",
-    "face": {
-      "front": {
-        "name": {
-          "name": "Shiera Silkthroat"
-        },
-        "type": "Devotee",
-        "cost": 5,
-        "image": "https://shunjitakano.github.io/LunarRing/images/shiera-silkthroat-wounded.webp",
-        "covenant": "Niorr",
-        "health": 10,
-        "condition": "Wounded",
-        "_legal": {
-          "STD": true
-        },
-        "devotee": "shiera-silkthroat"
-      }
-    },
-    "name": "Shiera Silkthroat",
-    "type": "Devotee",
-    "cost": 5,
-    "effect": "Acolytes with 2 or more indulgence counters on them can attack your opponent directly.",
-    "health": 10,
-    "covenant": "Niorr",
-    "condition": "Wounded",
-    "_legal": {
-      "STD": true
-    },
-    "devotee": "shiera-silkthroat"
-  },
-  "shiera-silkthroat-desperate": {
-    "id": "shiera-silkthroat-desperate",
-    "face": {
-      "front": {
-        "name": {
-          "name": "Shiera Silkthroat"
-        },
-        "type": "Devotee",
-        "cost": 10,
-        "image": "https://shunjitakano.github.io/LunarRing/images/shiera-silkthroat-desperate.webp",
-        "covenant": "Niorr",
-        "health": 10,
-        "condition": "Desperate",
-        "_legal": {
-          "STD": true
-        },
-        "devotee": "shiera-silkthroat"
-      }
-    },
-    "name": "Shiera Silkthroat",
-    "type": "Devotee",
-    "cost": 10,
-    "effect": "Break an acolyte you wield: Give all Indulgence counters it had to another acolyte you wield.",
-    "health": 10,
-    "covenant": "Niorr",
-    "condition": "Desperate",
-    "_legal": {
-      "STD": true
-    },
-    "devotee": "shiera-silkthroat"
-  },
-  "nine-lives-thriving": {
-    "id": "nine-lives-thriving",
-    "face": {
-      "front": {
-        "name": {
-          "name": "Nine Lives"
-        },
-        "type": "Devotee",
-        "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/nine-lives-thriving.webp",
-        "covenant": "Niorr",
-        "health": 15,
-        "condition": "Thriving",
-        "_legal": {
-          "STD": true
-        },
-        "devotee": "nine-lives"
-      }
-    },
-    "name": "Nine Lives",
-    "type": "Devotee",
-    "cost": 3,
-    "effect": "Whenever you indulge, also put a counter on me.",
-    "health": 15,
-    "covenant": "Niorr",
-    "condition": "Thriving",
-    "_legal": {
-      "STD": true
-    },
-    "devotee": "nine-lives"
-  },
-  "nine-lives-wounded": {
-    "id": "nine-lives-wounded",
-    "face": {
-      "front": {
-        "name": {
-          "name": "Nine Lives"
-        },
-        "type": "Devotee",
-        "cost": 6,
-        "image": "https://shunjitakano.github.io/LunarRing/images/nine-lives-wounded.webp",
-        "covenant": "Niorr",
-        "health": 15,
-        "condition": "Wounded",
-        "_legal": {
-          "STD": true
-        },
-        "devotee": "nine-lives"
-      }
-    },
-    "name": "Nine Lives",
-    "type": "Devotee",
-    "cost": 6,
-    "effect": "At your preparation you may draw 1 and put the top 1 card(s) of your deck into your scrapyard. If you don't create a random Withdrawal.",
-    "health": 15,
-    "covenant": "Niorr",
-    "condition": "Wounded",
-    "_legal": {
-      "STD": true
-    },
-    "devotee": "nine-lives"
-  },
-  "nine-lives-desperate": {
-    "id": "nine-lives-desperate",
-    "face": {
-      "front": {
-        "name": {
-          "name": "Nine Lives"
-        },
-        "type": "Devotee",
-        "cost": 10,
-        "image": "https://shunjitakano.github.io/LunarRing/images/nine-lives-desperate.webp",
-        "covenant": "Niorr",
-        "health": 10,
-        "condition": "Desperate",
-        "_legal": {
-          "STD": true
-        },
-        "devotee": "nine-lives"
-      }
-    },
-    "name": "Nine Lives",
-    "type": "Devotee",
-    "cost": 10,
-    "effect": "The first time your health is reduced to 0, Set your health to 1 instead.",
-    "health": 10,
-    "covenant": "Niorr",
-    "condition": "Desperate",
-    "_legal": {
-      "STD": true
-    },
-    "devotee": "nine-lives"
-  },
-  "kakandi-bloodbrood-thriving": {
-    "id": "kakandi-bloodbrood-thriving",
-    "face": {
-      "front": {
-        "name": {
-          "name": "Kakandi Bloodbrood"
-        },
-        "type": "Devotee",
-        "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/kakandi-bloodbrood-thriving.webp",
-        "covenant": "Yandari",
-        "health": 15,
-        "condition": "Thriving",
-        "_legal": {
-          "STD": true
-        },
-        "devotee": "kakandi-bloodbrood"
-      }
-    },
-    "name": "Kakandi Bloodbrood",
-    "type": "Devotee",
-    "cost": 3,
-    "effect": "At your preparation, Show Mercy.",
-    "health": 15,
-    "covenant": "Yandari",
-    "condition": "Thriving",
-    "_legal": {
-      "STD": true
-    },
-    "devotee": "kakandi-bloodbrood"
-  },
-  "kakandi-bloodbrood-wounded": {
-    "id": "kakandi-bloodbrood-wounded",
-    "face": {
-      "front": {
-        "name": {
-          "name": "Kakandi Bloodbrood"
-        },
-        "type": "Devotee",
-        "cost": 5,
-        "image": "https://shunjitakano.github.io/LunarRing/images/kakandi-bloodbrood-wounded.webp",
-        "covenant": "Yandari",
-        "health": 10,
-        "condition": "Wounded",
-        "_legal": {
-          "STD": true
-        },
-        "devotee": "kakandi-bloodbrood"
-      }
-    },
-    "name": "Kakandi Bloodbrood",
-    "type": "Devotee",
-    "cost": 5,
-    "effect": "You may spend Mercy to help pay resolve cost of armaments you play.",
-    "health": 10,
-    "covenant": "Yandari",
-    "condition": "Wounded",
-    "_legal": {
-      "STD": true
-    },
-    "devotee": "kakandi-bloodbrood"
-  },
-  "kakandi-bloodbrood-desperate": {
-    "id": "kakandi-bloodbrood-desperate",
-    "face": {
-      "front": {
-        "name": {
-          "name": "Kakandi Bloodbrood"
-        },
-        "type": "Devotee",
-        "cost": 10,
-        "image": "https://shunjitakano.github.io/LunarRing/images/kakandi-bloodbrood-desperate.webp",
-        "covenant": "Yandari",
-        "health": 15,
-        "condition": "Desperate",
-        "_legal": {
-          "STD": true
-        },
-        "devotee": "kakandi-bloodbrood"
-      }
-    },
-    "name": "Kakandi Bloodbrood",
-    "type": "Devotee",
-    "cost": 10,
-    "effect": "At your prepartion, If your opponent is desperate and your Mercy is equal to your opponent's health,  they lose the game.",
-    "health": 15,
-    "covenant": "Yandari",
-    "condition": "Desperate",
-    "_legal": {
-      "STD": true
-    },
-    "devotee": "kakandi-bloodbrood"
-  },
-  "uldes-var-thriving": {
-    "id": "uldes-var-thriving",
-    "face": {
-      "front": {
-        "name": {
-          "name": "Uldes Var"
-        },
-        "type": "Devotee",
-        "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/uldes-var-thriving.webp",
-        "covenant": "Yandari",
-        "health": 10,
-        "condition": "Thriving",
-        "_legal": {
-          "STD": true
-        },
-        "devotee": "uldes-var"
-      }
-    },
-    "name": "Uldes Var",
-    "type": "Devotee",
-    "cost": 3,
-    "effect": "The first time you lose health during your turn, rouse a weapon you wield.",
-    "health": 10,
-    "covenant": "Yandari",
-    "condition": "Thriving",
-    "_legal": {
-      "STD": true
-    },
-    "devotee": "uldes-var"
-  },
-  "uldes-var-wounded": {
-    "id": "uldes-var-wounded",
-    "face": {
-      "front": {
-        "name": {
-          "name": "Uldes Var"
-        },
-        "type": "Devotee",
-        "cost": 6,
-        "image": "https://shunjitakano.github.io/LunarRing/images/uldes-var-wounded.webp",
-        "covenant": "Yandari",
-        "health": 15,
-        "condition": "Wounded",
-        "_legal": {
-          "STD": true
-        },
-        "devotee": "uldes-var"
-      }
-    },
-    "name": "Uldes Var",
-    "type": "Devotee",
-    "cost": 6,
-    "effect": "Whenever you lose health during your turn, give a weapon you wield +1 attack this turn.",
-    "health": 15,
-    "covenant": "Yandari",
-    "condition": "Wounded",
-    "_legal": {
-      "STD": true
-    },
-    "devotee": "uldes-var"
-  },
-  "uldes-var-desperate": {
-    "id": "uldes-var-desperate",
-    "face": {
-      "front": {
-        "name": {
-          "name": "Uldes Var"
-        },
-        "type": "Devotee",
-        "cost": 10,
-        "image": "https://shunjitakano.github.io/LunarRing/images/uldes-var-desperate.webp",
-        "covenant": "Yandari",
-        "health": 10,
-        "condition": "Desperate",
-        "_legal": {
-          "STD": true
-        },
-        "devotee": "uldes-var"
-      }
-    },
-    "name": "Uldes Var",
-    "type": "Devotee",
-    "cost": 10,
-    "effect": "As long as you have 3 or less health, all weapons deal double damage.",
-    "health": 10,
-    "covenant": "Yandari",
-    "condition": "Desperate",
-    "_legal": {
-      "STD": true
-    },
-    "devotee": "uldes-var"
-  },
-  "kul-thriving": {
-    "id": "kul-thriving",
-    "face": {
-      "front": {
-        "name": {
-          "name": "K̔u̒l̺"
-        },
-        "type": "Devotee",
-        "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/kul-thriving.webp",
-        "covenant": "Hollow",
-        "health": 10,
-        "condition": "Thriving",
-        "_legal": {
-          "STD": true
-        },
-        "devotee": "k-u-l"
-      }
-    },
-    "name": "K̔u̒l̺",
-    "type": "Devotee",
-    "cost": 3,
-    "effect": "At your preparation, if you do not wield a \"Visage of the Pale Stare\", create 1.",
-    "health": 10,
-    "covenant": "Hollow",
-    "condition": "Thriving",
-    "_legal": {
-      "STD": true
-    },
-    "devotee": "k-u-l"
-  },
-  "kul-wounded": {
-    "id": "kul-wounded",
-    "face": {
-      "front": {
-        "name": {
-          "name": "K̔u̒l̺"
-        },
-        "type": "Devotee",
-        "cost": 5,
-        "image": "https://shunjitakano.github.io/LunarRing/images/kul-wounded.webp",
-        "covenant": "Hollow",
-        "health": 10,
-        "condition": "Wounded",
-        "_legal": {
-          "STD": true
-        },
-        "devotee": "k-u-l"
-      }
-    },
-    "name": "K̔u̒l̺",
-    "type": "Devotee",
-    "cost": 5,
-    "effect": "Consume 3: Target opponent discards 1 card at random.",
-    "health": 10,
-    "covenant": "Hollow",
-    "condition": "Wounded",
-    "_legal": {
-      "STD": true
-    },
-    "devotee": "k-u-l"
-  },
-  "kul-desperate": {
-    "id": "kul-desperate",
-    "face": {
-      "front": {
-        "name": {
-          "name": "K̔u̒l̺"
-        },
-        "type": "Devotee",
-        "cost": 10,
-        "image": "https://shunjitakano.github.io/LunarRing/images/kul-desperate.webp",
-        "covenant": "Hollow",
-        "health": 3,
-        "condition": "Desperate",
-        "_legal": {
-          "STD": true
-        },
-        "devotee": "k-u-l"
-      }
-    },
-    "name": "K̔u̒l̺",
-    "type": "Devotee",
-    "cost": 10,
-    "effect": "Consume 10: Target opponent loses the game.",
-    "health": 3,
-    "covenant": "Hollow",
-    "condition": "Desperate",
-    "_legal": {
-      "STD": true
-    },
-    "devotee": "k-u-l"
-  },
-  "xuvux-nyn-thriving": {
-    "id": "xuvux-nyn-thriving",
-    "face": {
-      "front": {
-        "name": {
-          "name": "X͗u͚͆v͂u͑ͅx̐ Ń̼yn͋"
-        },
-        "type": "Devotee",
-        "cost": 4,
-        "image": "https://shunjitakano.github.io/LunarRing/images/xuvux-nyn-thriving.webp",
-        "covenant": "Hollow",
-        "health": 10,
-        "condition": "Thriving",
-        "_legal": {
-          "STD": true
-        },
-        "devotee": "x-u-v-u-x-n-yn"
-      }
-    },
-    "name": "X͗u͚͆v͂u͑ͅx̐ Ń̼yn͋",
-    "type": "Devotee",
-    "cost": 4,
-    "effect": "Discard 1: Witness a card with Consume. Use this ability once during your turn.",
-    "health": 10,
-    "covenant": "Hollow",
-    "condition": "Thriving",
-    "_legal": {
-      "STD": true
-    },
-    "devotee": "x-u-v-u-x-n-yn"
-  },
-  "xuvux-nyn-wounded": {
-    "id": "xuvux-nyn-wounded",
-    "face": {
-      "front": {
-        "name": {
-          "name": "X͗u͚͆v͂u͑ͅx̐ Ń̼yn͋"
-        },
-        "type": "Devotee",
-        "cost": 6,
-        "image": "https://shunjitakano.github.io/LunarRing/images/xuvux-nyn-wounded.webp",
-        "covenant": "Hollow",
-        "health": 10,
-        "condition": "Wounded",
-        "_legal": {
-          "STD": true
-        },
-        "devotee": "x-u-v-u-x-n-yn"
-      }
-    },
-    "name": "X͗u͚͆v͂u͑ͅx̐ Ń̼yn͋",
-    "type": "Devotee",
-    "cost": 6,
-    "effect": "Whenever an effect would Consume, trigger that effect an addtional time.",
-    "health": 10,
-    "covenant": "Hollow",
-    "condition": "Wounded",
-    "_legal": {
-      "STD": true
-    },
-    "devotee": "x-u-v-u-x-n-yn"
-  },
-  "xuvux-nyn-desperate": {
-    "id": "xuvux-nyn-desperate",
-    "face": {
-      "front": {
-        "name": {
-          "name": "X͗u͚͆v͂u͑ͅx̐ Ń̼yn͋"
-        },
-        "type": "Devotee",
-        "cost": 10,
-        "image": "https://shunjitakano.github.io/LunarRing/images/xuvux-nyn-desperate.webp",
-        "covenant": "Hollow",
-        "health": 10,
-        "condition": "Desperate",
-        "_legal": {
-          "STD": true
-        },
-        "devotee": "x-u-v-u-x-n-yn"
-      }
-    },
-    "name": "X͗u͚͆v͂u͑ͅx̐ Ń̼yn͋",
-    "type": "Devotee",
-    "cost": 10,
-    "effect": "Whenever you would Consume, Also restore that much health.",
-    "health": 10,
-    "covenant": "Hollow",
-    "condition": "Desperate",
-    "_legal": {
-      "STD": true
-    },
-    "devotee": "x-u-v-u-x-n-yn"
-  },
-  "ritual-attendent": {
-    "id": "ritual-attendent",
-    "face": {
-      "front": {
-        "name": {
-          "name": "Ritual Attendent"
+          "name": "Ritual Attendant"
         },
         "type": "Acolyte",
         "cost": 1,
-        "image": "https://shunjitakano.github.io/LunarRing/images/ritual-attendent.webp",
+        "image": "https://shunjitakano.github.io/LunarRing/images/ritual-attendant.webp",
         "covenant": "Yandari",
         "health": 2,
-        "attack": 1,
+        "attack": 0,
         "_legal": {
           "STD": true
         }
       }
     },
-    "name": "Ritual Attendent",
+    "name": "Ritual Attendant",
     "type": "Acolyte",
     "cost": 1,
     "effect": "Sacrifice. Brandish: Lose 1 health.",
@@ -955,8 +25,153 @@
     "_legal": {
       "STD": true
     },
-    "attack": 1,
+    "attack": 0,
     "health": 2
+  },
+  "bloodletter": {
+    "id": "bloodletter",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Bloodletter"
+        },
+        "type": "Acolyte",
+        "cost": 1,
+        "image": "https://shunjitakano.github.io/LunarRing/images/bloodletter.webp",
+        "covenant": "Yandari",
+        "health": 1,
+        "attack": 1,
+        "_legal": {
+          "STD": true
+        }
+      }
+    },
+    "name": "Bloodletter",
+    "type": "Acolyte",
+    "cost": 1,
+    "effect": "Drain: Lose 1 health and Draw 1. Crescent Moon: Lose 2 health and Draw 2 instead.",
+    "covenant": "Yandari",
+    "_legal": {
+      "STD": true
+    },
+    "attack": 1,
+    "health": 1
+  },
+  "mourner": {
+    "id": "mourner",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Mourner"
+        },
+        "type": "Acolyte",
+        "cost": 2,
+        "image": "https://shunjitakano.github.io/LunarRing/images/mourner.webp",
+        "covenant": "Yandari",
+        "health": 2,
+        "attack": 0,
+        "_legal": {
+          "STD": true
+        }
+      }
+    },
+    "name": "Mourner",
+    "type": "Acolyte",
+    "cost": 2,
+    "effect": "Whenever a player's condition worsens, draw 2.",
+    "covenant": "Yandari",
+    "_legal": {
+      "STD": true
+    },
+    "attack": 0,
+    "health": 2
+  },
+  "one-of-penance": {
+    "id": "one-of-penance",
+    "face": {
+      "front": {
+        "name": {
+          "name": "One of Penance"
+        },
+        "type": "Acolyte",
+        "cost": 3,
+        "image": "https://shunjitakano.github.io/LunarRing/images/one-of-penance.webp",
+        "covenant": "Yandari",
+        "health": 3,
+        "attack": 0,
+        "_legal": {
+          "STD": true
+        }
+      }
+    },
+    "name": "One of Penance",
+    "type": "Acolyte",
+    "cost": 3,
+    "effect": "Each Mercy gives 1 additional damage. Whenever you Show Mercy, I lose Temper as well.",
+    "covenant": "Yandari",
+    "_legal": {
+      "STD": true
+    },
+    "attack": 0,
+    "health": 3
+  },
+  "oathkeeper": {
+    "id": "oathkeeper",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Oathkeeper"
+        },
+        "type": "Acolyte",
+        "cost": 4,
+        "image": "https://shunjitakano.github.io/LunarRing/images/oathkeeper.webp",
+        "covenant": "Yandari",
+        "health": 3,
+        "attack": 1,
+        "_legal": {
+          "STD": true
+        }
+      }
+    },
+    "name": "Oathkeeper",
+    "type": "Acolyte",
+    "cost": 4,
+    "effect": "The first time you lose health each turn, create a Sacred Blood.",
+    "covenant": "Yandari",
+    "_legal": {
+      "STD": true
+    },
+    "attack": 1,
+    "health": 3
+  },
+  "augur-of-rest": {
+    "id": "augur-of-rest",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Augur of Rest"
+        },
+        "type": "Acolyte",
+        "cost": 4,
+        "image": "https://shunjitakano.github.io/LunarRing/images/augur-of-rest.webp",
+        "covenant": "Yandari",
+        "health": 1,
+        "attack": 0,
+        "_legal": {
+          "STD": true
+        }
+      }
+    },
+    "name": "Augur of Rest",
+    "type": "Acolyte",
+    "cost": 4,
+    "effect": "Sacrifice. Brandish: Your condition worsens.",
+    "covenant": "Yandari",
+    "_legal": {
+      "STD": true
+    },
+    "attack": 0,
+    "health": 1
   },
   "pallbearer": {
     "id": "pallbearer",
@@ -979,7 +194,7 @@
     "name": "Pallbearer",
     "type": "Acolyte",
     "cost": 5,
-    "effect": "Your health cannot be reduced below 1 as long as this is drained. You take double damage if this is Roused.",
+    "effect": "Your health cannot be reduced below 1 as long as I am drained. Drain: Lose 3 health.",
     "covenant": "Yandari",
     "_legal": {
       "STD": true
@@ -987,30 +202,34 @@
     "attack": 1,
     "health": 1
   },
-  "blood-is-a-reminder": {
-    "id": "blood-is-a-reminder",
+  "exarch-of-suffering": {
+    "id": "exarch-of-suffering",
     "face": {
       "front": {
         "name": {
-          "name": "Blood Is A Reminder"
+          "name": "Exarch of Suffering"
         },
-        "type": "Edict",
-        "cost": 1,
-        "image": "https://shunjitakano.github.io/LunarRing/images/blood-is-a-reminder.webp",
+        "type": "Acolyte",
+        "cost": 8,
+        "image": "https://shunjitakano.github.io/LunarRing/images/exarch-of-suffering.webp",
         "covenant": "Yandari",
+        "health": 5,
+        "attack": 0,
         "_legal": {
           "STD": true
         }
       }
     },
-    "name": "Blood Is A Reminder",
-    "type": "Edict",
-    "cost": 1,
-    "effect": "drain: Lose 1 health and Draw 1. Break this. Crescent Moon: Lose 1 health and Draw 2 instead.",
+    "name": "Exarch of Suffering",
+    "type": "Acolyte",
+    "cost": 8,
+    "effect": "Sacrfice. Whenever you lose health, I gain that much Temper.",
     "covenant": "Yandari",
     "_legal": {
       "STD": true
-    }
+    },
+    "attack": 0,
+    "health": 5
   },
   "make-it-quick": {
     "id": "make-it-quick",
@@ -1031,7 +250,7 @@
     "name": "Make It Quick",
     "type": "Edict",
     "cost": 5,
-    "effect": "Whenever you Show Mercy, gain 2 mercy stacks instead. At your recovery, if you did not Show Mercy this turn, lose 2 health.",
+    "effect": "Whenever you Show Mercy, gain 2 Mercy instead. At your recovery, if you did not Show Mercy this turn, lose 2 health.",
     "covenant": "Yandari",
     "_legal": {
       "STD": true
@@ -1045,7 +264,7 @@
           "name": "Regret"
         },
         "type": "Edict",
-        "cost": 3,
+        "cost": 6,
         "image": "https://shunjitakano.github.io/LunarRing/images/regret.webp",
         "covenant": "Yandari",
         "_legal": {
@@ -1055,58 +274,8 @@
     },
     "name": "Regret",
     "type": "Edict",
-    "cost": 3,
-    "effect": "Whenever you deal damage to an opponent, if you dealt 3 or less damage, prevent that damage and Show Mercy.",
-    "covenant": "Yandari",
-    "_legal": {
-      "STD": true
-    }
-  },
-  "personal-creed": {
-    "id": "personal-creed",
-    "face": {
-      "front": {
-        "name": {
-          "name": "Personal Creed"
-        },
-        "type": "Edict",
-        "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/personal-creed.webp",
-        "covenant": "Yandari",
-        "_legal": {
-          "STD": true
-        }
-      }
-    },
-    "name": "Personal Creed",
-    "type": "Edict",
-    "cost": 3,
-    "effect": "Your Mercy gives 1 additional damage. You cannot have more than 3 Mercy. If you have no Mercy, break this.",
-    "covenant": "Yandari",
-    "_legal": {
-      "STD": true
-    }
-  },
-  "beg-for-forgiveness": {
-    "id": "beg-for-forgiveness",
-    "face": {
-      "front": {
-        "name": {
-          "name": "Beg for Forgiveness"
-        },
-        "type": "Edict",
-        "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/beg-for-forgiveness.webp",
-        "covenant": "Yandari",
-        "_legal": {
-          "STD": true
-        }
-      }
-    },
-    "name": "Beg for Forgiveness",
-    "type": "Edict",
-    "cost": 2,
-    "effect": "Whenever a player's condition worsens, draw 2 cards and lose 2 health and break this.",
+    "cost": 6,
+    "effect": "The first time you would deal damage to an opponent each turn, Show Mercy X times where X is equal to the damage dealt instead.",
     "covenant": "Yandari",
     "_legal": {
       "STD": true
@@ -1120,7 +289,7 @@
           "name": "Remember the Dead"
         },
         "type": "Edict",
-        "cost": 5,
+        "cost": 6,
         "image": "https://shunjitakano.github.io/LunarRing/images/remember-the-dead.webp",
         "covenant": "Yandari",
         "_legal": {
@@ -1130,83 +299,33 @@
     },
     "name": "Remember the Dead",
     "type": "Edict",
-    "cost": 5,
-    "effect": "drain: Give a weapon you wield +X this turn where X is equal to the number of Acolytes in all scrapyards.",
+    "cost": 6,
+    "effect": "Drain: Give a weapon you wield +X this turn where X is equal to the number of Acolytes in all scrapyards.",
     "covenant": "Yandari",
     "_legal": {
       "STD": true
     }
   },
-  "sacred-ichor": {
-    "id": "sacred-ichor",
+  "suffer-alone": {
+    "id": "suffer-alone",
     "face": {
       "front": {
         "name": {
-          "name": "Sacred Ichor"
-        },
-        "type": "Edict",
-        "cost": 5,
-        "image": "https://shunjitakano.github.io/LunarRing/images/sacred-ichor.webp",
-        "covenant": "Yandari",
-        "_legal": {
-          "STD": true
-        }
-      }
-    },
-    "name": "Sacred Ichor",
-    "type": "Edict",
-    "cost": 5,
-    "effect": "The first time you lose health each turn, create 2 Sacred Blood's. At each recovery, if you wield no Sacred Blood's, break this.",
-    "covenant": "Yandari",
-    "_legal": {
-      "STD": true
-    }
-  },
-  "suffer-so-that-no-one-else-does": {
-    "id": "suffer-so-that-no-one-else-does",
-    "face": {
-      "front": {
-        "name": {
-          "name": "Suffer So That No One Else Does"
+          "name": "Suffer Alone"
         },
         "type": "Edict",
         "cost": 9,
-        "image": "https://shunjitakano.github.io/LunarRing/images/suffer-so-that-no-one-else-does.webp",
+        "image": "https://shunjitakano.github.io/LunarRing/images/suffer-alone.webp",
         "covenant": "Yandari",
         "_legal": {
           "STD": true
         }
       }
     },
-    "name": "Suffer So That No One Else Does",
+    "name": "Suffer Alone",
     "type": "Edict",
     "cost": 9,
-    "effect": "Cards you play cost health instead of testing resolve.",
-    "covenant": "Yandari",
-    "_legal": {
-      "STD": true
-    }
-  },
-  "ritual": {
-    "id": "ritual",
-    "face": {
-      "front": {
-        "name": {
-          "name": "Ritual"
-        },
-        "type": "Riposte",
-        "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/ritual.webp",
-        "covenant": "Yandari",
-        "_legal": {
-          "STD": true
-        }
-      }
-    },
-    "name": "Ritual",
-    "type": "Riposte",
-    "cost": 3,
-    "effect": "Show Mercy twice.",
+    "effect": "You cannot lose the game by having 0 or less life. At your recovery, if you have 10 or less life below 0, break me.",
     "covenant": "Yandari",
     "_legal": {
       "STD": true
@@ -1231,29 +350,29 @@
     "name": "Earned Your Rest",
     "type": "Riposte",
     "cost": 2,
-    "effect": "Break an acolyte. Half Moon: Break all Acolytes target opponent wields instead.",
+    "effect": "Break target acolyte. Half Moon: Break all Acolytes target opponent wields instead.",
     "covenant": "Yandari",
     "_legal": {
       "STD": true
     }
   },
-  "iron-will": {
-    "id": "iron-will",
+  "sting-of-death": {
+    "id": "sting-of-death",
     "face": {
       "front": {
         "name": {
-          "name": "Iron Will"
+          "name": "Sting of Death"
         },
         "type": "Riposte",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/iron-will.webp",
+        "image": "https://shunjitakano.github.io/LunarRing/images/sting-of-death.webp",
         "covenant": "Yandari",
         "_legal": {
           "STD": true
         }
       }
     },
-    "name": "Iron Will",
+    "name": "Sting of Death",
     "type": "Riposte",
     "cost": 2,
     "effect": "Your health cannot be reduced below 1 this turn. Eclipse: This cannot be played.",
@@ -1262,51 +381,51 @@
       "STD": true
     }
   },
-  "laced-in-pity": {
-    "id": "laced-in-pity",
+  "ritual": {
+    "id": "ritual",
     "face": {
       "front": {
         "name": {
-          "name": "Laced in Pity"
+          "name": "Ritual"
         },
         "type": "Riposte",
-        "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/laced-in-pity.webp",
+        "cost": 2,
+        "image": "https://shunjitakano.github.io/LunarRing/images/ritual.webp",
         "covenant": "Yandari",
         "_legal": {
           "STD": true
         }
       }
     },
-    "name": "Laced in Pity",
+    "name": "Ritual",
     "type": "Riposte",
-    "cost": 3,
-    "effect": "Restore X health where X is equal to your Mercy.",
+    "cost": 2,
+    "effect": "Show Mercy twice.",
     "covenant": "Yandari",
     "_legal": {
       "STD": true
     }
   },
-  "hope-in-blood": {
-    "id": "hope-in-blood",
+  "soaked-in-pity": {
+    "id": "soaked-in-pity",
     "face": {
       "front": {
         "name": {
-          "name": "Hope in Blood"
+          "name": "Soaked in Pity"
         },
         "type": "Riposte",
-        "cost": 5,
-        "image": "https://shunjitakano.github.io/LunarRing/images/hope-in-blood.webp",
+        "cost": 3,
+        "image": "https://shunjitakano.github.io/LunarRing/images/soaked-in-pity.webp",
         "covenant": "Yandari",
         "_legal": {
           "STD": true
         }
       }
     },
-    "name": "Hope in Blood",
+    "name": "Soaked in Pity",
     "type": "Riposte",
-    "cost": 5,
-    "effect": "Create 4 Sacred Blood. Full Moon: For the rest of the game your Sacred Blood restore 3 health instead.",
+    "cost": 3,
+    "effect": "Restore X health where X is equal to your Mercy.",
     "covenant": "Yandari",
     "_legal": {
       "STD": true
@@ -1331,7 +450,57 @@
     "name": "Yandari's Oath Sigil",
     "type": "Tactic",
     "cost": 0,
-    "effect": "Gain 1 resolve this turn. Show Mercy.",
+    "effect": "Gain 1 resolve. Witness a card that has Show Mercy.",
+    "covenant": "Yandari",
+    "_legal": {
+      "STD": true
+    }
+  },
+  "embrace-death": {
+    "id": "embrace-death",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Embrace Death"
+        },
+        "type": "Tactic",
+        "cost": 1,
+        "image": "https://shunjitakano.github.io/LunarRing/images/embrace-death.webp",
+        "covenant": "Yandari",
+        "_legal": {
+          "STD": true
+        }
+      }
+    },
+    "name": "Embrace Death",
+    "type": "Tactic",
+    "cost": 1,
+    "effect": "Show Mercy. Half Moon: Then double your Mercy.",
+    "covenant": "Yandari",
+    "_legal": {
+      "STD": true
+    }
+  },
+  "call-of-blood": {
+    "id": "call-of-blood",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Call of Blood"
+        },
+        "type": "Tactic",
+        "cost": 1,
+        "image": "https://shunjitakano.github.io/LunarRing/images/call-of-blood.webp",
+        "covenant": "Yandari",
+        "_legal": {
+          "STD": true
+        }
+      }
+    },
+    "name": "Call of Blood",
+    "type": "Tactic",
+    "cost": 1,
+    "effect": "If you lost 2 or more health this turn, give target weapon +1 temper. Crescent Moon: Give target weapon +1 attack as well.",
     "covenant": "Yandari",
     "_legal": {
       "STD": true
@@ -1412,31 +581,6 @@
       "STD": true
     }
   },
-  "symbol-of-yandari": {
-    "id": "symbol-of-yandari",
-    "face": {
-      "front": {
-        "name": {
-          "name": "Symbol of Yandari"
-        },
-        "type": "Tactic",
-        "cost": 4,
-        "image": "https://shunjitakano.github.io/LunarRing/images/symbol-of-yandari.webp",
-        "covenant": "Yandari",
-        "_legal": {
-          "STD": true
-        }
-      }
-    },
-    "name": "Symbol of Yandari",
-    "type": "Tactic",
-    "cost": 4,
-    "effect": "Show Mercy X times where X is equal to the attack of a weapon you wield. Crescent Moon: Repeat this effect.",
-    "covenant": "Yandari",
-    "_legal": {
-      "STD": true
-    }
-  },
   "necessary-pain": {
     "id": "necessary-pain",
     "face": {
@@ -1456,57 +600,7 @@
     "name": "Necessary Pain",
     "type": "Tactic",
     "cost": 2,
-    "effect": "Give a weapon you wield +1 attack. If you have lost 3 or more health this turn, give a weapon you wield +3 attack instead.",
-    "covenant": "Yandari",
-    "_legal": {
-      "STD": true
-    }
-  },
-  "embrace-death": {
-    "id": "embrace-death",
-    "face": {
-      "front": {
-        "name": {
-          "name": "Embrace Death"
-        },
-        "type": "Tactic",
-        "cost": 1,
-        "image": "https://shunjitakano.github.io/LunarRing/images/embrace-death.webp",
-        "covenant": "Yandari",
-        "_legal": {
-          "STD": true
-        }
-      }
-    },
-    "name": "Embrace Death",
-    "type": "Tactic",
-    "cost": 1,
-    "effect": "Show Mercy.",
-    "covenant": "Yandari",
-    "_legal": {
-      "STD": true
-    }
-  },
-  "call-of-blood": {
-    "id": "call-of-blood",
-    "face": {
-      "front": {
-        "name": {
-          "name": "Call of Blood"
-        },
-        "type": "Tactic",
-        "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/call-of-blood.webp",
-        "covenant": "Yandari",
-        "_legal": {
-          "STD": true
-        }
-      }
-    },
-    "name": "Call of Blood",
-    "type": "Tactic",
-    "cost": 2,
-    "effect": "If you lost 2 or more health this turn, give a weapon you wield +1 temper. Crescent Moon: Give a weapon you wield +1 attack as well.",
+    "effect": "Show Mercy. If you have lost 3 or more health this turn, Show Mercy 3 times instead.",
     "covenant": "Yandari",
     "_legal": {
       "STD": true
@@ -1556,7 +650,32 @@
     "name": "End Suffering",
     "type": "Tactic",
     "cost": 3,
-    "effect": "Break an acolyte. If you lost 5 or more health this turn, break all armaments target opponent wields instead.",
+    "effect": "Break target acolyte. If you lost 5 or more health this turn, break all armaments target opponent wields instead.",
+    "covenant": "Yandari",
+    "_legal": {
+      "STD": true
+    }
+  },
+  "symbol-of-yandari": {
+    "id": "symbol-of-yandari",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Symbol of Yandari"
+        },
+        "type": "Tactic",
+        "cost": 4,
+        "image": "https://shunjitakano.github.io/LunarRing/images/symbol-of-yandari.webp",
+        "covenant": "Yandari",
+        "_legal": {
+          "STD": true
+        }
+      }
+    },
+    "name": "Symbol of Yandari",
+    "type": "Tactic",
+    "cost": 4,
+    "effect": "Show Mercy X times where X is equal to the attack of a weapon you wield. Crescent Moon: Repeat this effect.",
     "covenant": "Yandari",
     "_legal": {
       "STD": true
@@ -1581,32 +700,32 @@
     "name": "Goad Death",
     "type": "Tactic",
     "cost": 4,
-    "effect": "Lose 3 health and draw 3. Half Moon: Lose 4 health, and draw 4 instead.",
+    "effect": "Set your health to 1. Until your next turn, you cannot lose health. Half Moon: Draw 3 as well.",
     "covenant": "Yandari",
     "_legal": {
       "STD": true
     }
   },
-  "bloody-tribute": {
-    "id": "bloody-tribute",
+  "hope-in-blood": {
+    "id": "hope-in-blood",
     "face": {
       "front": {
         "name": {
-          "name": "Bloody Tribute"
+          "name": "Hope in Blood"
         },
         "type": "Tactic",
-        "cost": 7,
-        "image": "https://shunjitakano.github.io/LunarRing/images/bloody-tribute.webp",
+        "cost": 5,
+        "image": "https://shunjitakano.github.io/LunarRing/images/hope-in-blood.webp",
         "covenant": "Yandari",
         "_legal": {
           "STD": true
         }
       }
     },
-    "name": "Bloody Tribute",
+    "name": "Hope in Blood",
     "type": "Tactic",
-    "cost": 7,
-    "effect": "Your weapons deal double damage this turn. After a weapon strikes this turn, shatter it and lose 2 health.",
+    "cost": 5,
+    "effect": "Create 4 Sacred Blood. Full Moon: For the rest of the game your Sacred Blood restore 3 health instead.",
     "covenant": "Yandari",
     "_legal": {
       "STD": true
@@ -1631,7 +750,32 @@
     "name": "A Better Death",
     "type": "Tactic",
     "cost": 6,
-    "effect": "Break all acolytes target opponent wields. Give a weapon +X attack where X is equal to the number of Acolytes broken this way.",
+    "effect": "Break all acolytes target opponent wields. Give target weapon +X attack where X is equal to the number of Acolytes broken this way.",
+    "covenant": "Yandari",
+    "_legal": {
+      "STD": true
+    }
+  },
+  "bloody-tribute": {
+    "id": "bloody-tribute",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Bloody Tribute"
+        },
+        "type": "Tactic",
+        "cost": 7,
+        "image": "https://shunjitakano.github.io/LunarRing/images/bloody-tribute.webp",
+        "covenant": "Yandari",
+        "_legal": {
+          "STD": true
+        }
+      }
+    },
+    "name": "Bloody Tribute",
+    "type": "Tactic",
+    "cost": 7,
+    "effect": "Double your Mercy. At your recovery, your condition worsens. If you are desperate, set your health to 1 instead.",
     "covenant": "Yandari",
     "_legal": {
       "STD": true
@@ -1657,23 +801,50 @@
     "name": "Sacred Blood",
     "type": "Token Edict",
     "cost": 0,
-    "effect": "drain: Restore 2 health and break this.",
+    "effect": "Drain: Restore 2 health and break this.",
     "covenant": "Yandari",
     "_legal": {
       "STD": true
     },
     "isToken": true
   },
-  "promise": {
-    "id": "promise",
+  "death-mark": {
+    "id": "death-mark",
     "face": {
       "front": {
         "name": {
-          "name": "Promise"
+          "name": "Death Mark"
+        },
+        "type": "Token Edict",
+        "cost": 0,
+        "image": "https://shunjitakano.github.io/LunarRing/images/death-mark.webp",
+        "covenant": "Yandari",
+        "_legal": {
+          "STD": true
+        },
+        "isToken": true
+      }
+    },
+    "name": "Death Mark",
+    "type": "Token Edict",
+    "cost": 0,
+    "effect": "Whenever you would take damage from a weapon or Devotee, your condition worsens.",
+    "covenant": "Yandari",
+    "_legal": {
+      "STD": true
+    },
+    "isToken": true
+  },
+  "liberation": {
+    "id": "liberation",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Liberation"
         },
         "type": "Weapon",
-        "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/promise.webp",
+        "cost": 1,
+        "image": "https://shunjitakano.github.io/LunarRing/images/liberation.webp",
         "covenant": "Yandari",
         "health": 2,
         "attack": 1,
@@ -1682,10 +853,10 @@
         }
       }
     },
-    "name": "Promise",
+    "name": "Liberation",
     "type": "Weapon",
-    "cost": 2,
-    "effect": "On Strike: If I dealt 3 or more damage, draw 1.",
+    "cost": 1,
+    "effect": "At your recovery, if I am Roused, Show Mercy.",
     "covenant": "Yandari",
     "_legal": {
       "STD": true
@@ -1730,10 +901,10 @@
           "name": "Life"
         },
         "type": "Weapon",
-        "cost": 2,
+        "cost": 3,
         "image": "https://shunjitakano.github.io/LunarRing/images/life.webp",
         "covenant": "Yandari",
-        "health": 2,
+        "health": 1,
         "attack": 1,
         "_legal": {
           "STD": true
@@ -1742,14 +913,14 @@
     },
     "name": "Life",
     "type": "Weapon",
-    "cost": 2,
+    "cost": 3,
     "effect": "Brandish: If you do not wield “Death”, you may play it from your hand without testing resolve. If you do, lose 3 health.",
     "covenant": "Yandari",
     "_legal": {
       "STD": true
     },
     "attack": 1,
-    "health": 2
+    "health": 1
   },
   "peaceful-sting": {
     "id": "peaceful-sting",
@@ -1780,33 +951,33 @@
     "attack": 2,
     "health": 2
   },
-  "rest": {
-    "id": "rest",
+  "uldes-atonement": {
+    "id": "uldes-atonement",
     "face": {
       "front": {
         "name": {
-          "name": "Rest"
+          "name": "Uldes' Atonement"
         },
         "type": "Weapon",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/rest.webp",
+        "image": "https://shunjitakano.github.io/LunarRing/images/uldes-atonement.webp",
         "covenant": "Yandari",
         "health": 2,
-        "attack": 2,
+        "attack": 1,
         "_legal": {
           "STD": true
         }
       }
     },
-    "name": "Rest",
+    "name": "Uldes' Atonement",
     "type": "Weapon",
     "cost": 3,
-    "effect": "On Strike: Break an acolyte that tests X resolve, where X is equal to the damage I dealt.",
+    "effect": "On Attack: If your condition is worse than defending player I gain +2 attack this turn.",
     "covenant": "Yandari",
     "_legal": {
       "STD": true
     },
-    "attack": 2,
+    "attack": 1,
     "health": 2
   },
   "death": {
@@ -1817,10 +988,10 @@
           "name": "Death"
         },
         "type": "Weapon",
-        "cost": 4,
+        "cost": 5,
         "image": "https://shunjitakano.github.io/LunarRing/images/death.webp",
         "covenant": "Yandari",
-        "health": 2,
+        "health": 1,
         "attack": 3,
         "_legal": {
           "STD": true
@@ -1829,13 +1000,42 @@
     },
     "name": "Death",
     "type": "Weapon",
-    "cost": 4,
+    "cost": 5,
     "effect": "If you are desperate, I have +2 attack.",
     "covenant": "Yandari",
     "_legal": {
       "STD": true
     },
     "attack": 3,
+    "health": 1
+  },
+  "thirsting-steel": {
+    "id": "thirsting-steel",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Thirsting Steel"
+        },
+        "type": "Weapon",
+        "cost": 5,
+        "image": "https://shunjitakano.github.io/LunarRing/images/thirsting-steel.webp",
+        "covenant": "Yandari",
+        "health": 2,
+        "attack": 1,
+        "_legal": {
+          "STD": true
+        }
+      }
+    },
+    "name": "Thirsting Steel",
+    "type": "Weapon",
+    "cost": 5,
+    "effect": "On Attack: Mercy is not lost this turn. Lose 1 health for each Mercy you have.",
+    "covenant": "Yandari",
+    "_legal": {
+      "STD": true
+    },
+    "attack": 1,
     "health": 2
   },
   "vermillion-edge": {
@@ -1867,93 +1067,6 @@
     "attack": 5,
     "health": 1
   },
-  "liberation": {
-    "id": "liberation",
-    "face": {
-      "front": {
-        "name": {
-          "name": "Liberation"
-        },
-        "type": "Weapon",
-        "cost": 1,
-        "image": "https://shunjitakano.github.io/LunarRing/images/liberation.webp",
-        "covenant": "Yandari",
-        "health": 2,
-        "attack": 1,
-        "_legal": {
-          "STD": true
-        }
-      }
-    },
-    "name": "Liberation",
-    "type": "Weapon",
-    "cost": 1,
-    "effect": "At your recovery, if this is Roused, Show Mercy.",
-    "covenant": "Yandari",
-    "_legal": {
-      "STD": true
-    },
-    "attack": 1,
-    "health": 2
-  },
-  "uldes-atonement": {
-    "id": "uldes-atonement",
-    "face": {
-      "front": {
-        "name": {
-          "name": "Uldes' Atonement"
-        },
-        "type": "Weapon",
-        "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/uldes-atonement.webp",
-        "covenant": "Yandari",
-        "health": 2,
-        "attack": 1,
-        "_legal": {
-          "STD": true
-        }
-      }
-    },
-    "name": "Uldes' Atonement",
-    "type": "Weapon",
-    "cost": 3,
-    "effect": "At your recovery, if you lost 3 or more health this turn, this gains +1 attack and +1 Temper.",
-    "covenant": "Yandari",
-    "_legal": {
-      "STD": true
-    },
-    "attack": 1,
-    "health": 2
-  },
-  "thirsting-steel": {
-    "id": "thirsting-steel",
-    "face": {
-      "front": {
-        "name": {
-          "name": "Thirsting Steel"
-        },
-        "type": "Weapon",
-        "cost": 5,
-        "image": "https://shunjitakano.github.io/LunarRing/images/thirsting-steel.webp",
-        "covenant": "Yandari",
-        "health": 2,
-        "attack": 1,
-        "_legal": {
-          "STD": true
-        }
-      }
-    },
-    "name": "Thirsting Steel",
-    "type": "Weapon",
-    "cost": 5,
-    "effect": "On Attack: Mercy is not lost this turn. Lose 1 health for each Mercy you have.",
-    "covenant": "Yandari",
-    "_legal": {
-      "STD": true
-    },
-    "attack": 1,
-    "health": 2
-  },
   "mourning-glory": {
     "id": "mourning-glory",
     "face": {
@@ -1975,7 +1088,7 @@
     "name": "Mourning Glory",
     "type": "Weapon",
     "cost": 7,
-    "effect": "On Strike: Rouse this and Show Mercy 5 times. Eclipse: I must attack each turn if able.",
+    "effect": "On Strike: Rouse me and Show Mercy 5 times. Eclipse: I must attack each turn if able.",
     "covenant": "Yandari",
     "_legal": {
       "STD": true
@@ -1983,16 +1096,16 @@
     "attack": 2,
     "health": 3
   },
-  "worship": {
-    "id": "worship",
+  "death-blessed-blade": {
+    "id": "death-blessed-blade",
     "face": {
       "front": {
         "name": {
-          "name": "Worship"
+          "name": "Death-Blessed Blade"
         },
         "type": "Weapon",
         "cost": 10,
-        "image": "https://shunjitakano.github.io/LunarRing/images/worship.webp",
+        "image": "https://shunjitakano.github.io/LunarRing/images/death-blessed-blade.webp",
         "covenant": "Yandari",
         "health": 1,
         "attack": 0,
@@ -2001,45 +1114,16 @@
         }
       }
     },
-    "name": "Worship",
+    "name": "Death-Blessed Blade",
     "type": "Weapon",
     "cost": 10,
-    "effect": "This has +X attack where X is equal to the opponent with the highest health. When this breaks, you lose the game.",
+    "effect": "On Strike: You and the defending player create a Death Mark.",
     "covenant": "Yandari",
     "_legal": {
       "STD": true
     },
     "attack": 0,
     "health": 1
-  },
-  "bleeding-boulder": {
-    "id": "bleeding-boulder",
-    "face": {
-      "front": {
-        "name": {
-          "name": "Bleeding Boulder"
-        },
-        "type": "Acolyte",
-        "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/bleeding-boulder.webp",
-        "covenant": "Kuran",
-        "health": 2,
-        "attack": 1,
-        "_legal": {
-          "STD": true
-        }
-      }
-    },
-    "name": "Bleeding Boulder",
-    "type": "Acolyte",
-    "cost": 3,
-    "effect": "Graft 5. On Attack: Create a Parasitic Pebble. Eclipse: Parasitic Pebbles grant +0 instead.",
-    "covenant": "Kuran",
-    "_legal": {
-      "STD": true
-    },
-    "attack": 1,
-    "health": 2
   },
   "jin-blazing-serpent": {
     "id": "jin-blazing-serpent",
@@ -2062,7 +1146,7 @@
     "name": "Jin, Blazing Serpent",
     "type": "Acolyte",
     "cost": 2,
-    "effect": "Graft 2. On Strike: Deal 2 damage. Crescent Moon: On Strike: Witness Feng, Tempest Serpent.",
+    "effect": "Graft 2. On Strike: Deal 2 damage. Crescent Moon: On Strike: You may witness Feng, Tempest Serpent instead.",
     "covenant": "Kuran",
     "_legal": {
       "STD": true
@@ -2091,7 +1175,7 @@
     "name": "Feng, Tempest Serpent",
     "type": "Acolyte",
     "cost": 2,
-    "effect": "Graft 2. On Strike: Draw 1. Crescent Moon: On Strike: Witness Jin, Blazing Serpent.",
+    "effect": "Graft 2. On Strike: Draw 1. Crescent Moon: On Strike: You may witness Jin, Blazing Serpent instead.",
     "covenant": "Kuran",
     "_legal": {
       "STD": true
@@ -2149,7 +1233,7 @@
     "name": "The Flame That Devours",
     "type": "Acolyte",
     "cost": 1,
-    "effect": "Graft 0.  On Strike: Break me and deal 1 damage.",
+    "effect": "Graft 0. On Strike: Break me and deal 1 damage.",
     "covenant": "Kuran",
     "_legal": {
       "STD": true
@@ -2186,35 +1270,6 @@
     "attack": 0,
     "health": 1
   },
-  "it-that-heralds-ruin": {
-    "id": "it-that-heralds-ruin",
-    "face": {
-      "front": {
-        "name": {
-          "name": "It That Heralds Ruin"
-        },
-        "type": "Acolyte",
-        "cost": 9,
-        "image": "https://shunjitakano.github.io/LunarRing/images/it-that-heralds-ruin.webp",
-        "covenant": "Kuran",
-        "health": 2,
-        "attack": 2,
-        "_legal": {
-          "STD": true
-        }
-      }
-    },
-    "name": "It That Heralds Ruin",
-    "type": "Acolyte",
-    "cost": 9,
-    "effect": "Graft 5. On Strike: Break all armaments target opponent wields.",
-    "covenant": "Kuran",
-    "_legal": {
-      "STD": true
-    },
-    "attack": 2,
-    "health": 2
-  },
   "endless-slate": {
     "id": "endless-slate",
     "face": {
@@ -2236,7 +1291,7 @@
     "name": "Endless Slate",
     "type": "Acolyte",
     "cost": 3,
-    "effect": "Graft 2. Sacrifice.  This enters drained. When this breaks, return this to your hand instead.",
+    "effect": "Graft 2. Sacrifice. When I would break, return me to your hand instead.",
     "covenant": "Kuran",
     "_legal": {
       "STD": true
@@ -2323,7 +1378,7 @@
     "name": "Breathing Tide",
     "type": "Acolyte",
     "cost": 5,
-    "effect": "Graft 4. On Strike: Rouse 2 resolve.",
+    "effect": "Graft 4. On Strike: Gain 2 resolve.",
     "covenant": "Kuran",
     "_legal": {
       "STD": true
@@ -2381,7 +1436,7 @@
     "name": "Boiling Rain",
     "type": "Acolyte",
     "cost": 3,
-    "effect": "Graft 2. On Strike: This turn, your resolve gain \"drain: Deal 1 damage\".",
+    "effect": "Graft 2. On Strike: This turn, your resolve gain \"Test: Deal 1 damage\".",
     "covenant": "Kuran",
     "_legal": {
       "STD": true
@@ -2408,7 +1463,7 @@
     "name": "Cacophony of Fauna",
     "type": "Edict",
     "cost": 5,
-    "effect": "Your cards test 1 less resolve for each grafted armament you wield. Whenever you play a card, break an acolyte you wield.",
+    "effect": "Acolytes you wield can Graft while Grafted. Grafting an acolyte this way tests 1 additonal resolve.",
     "covenant": "Kuran",
     "_legal": {
       "STD": true
@@ -2433,7 +1488,7 @@
     "name": "Cowering Roots",
     "type": "Edict",
     "cost": 4,
-    "effect": "Whenever you play a weapon, You may Graft an ungrafted acolyte you wield to it without resting resolve. At your preparation, if you do not wield a weapon, break this and put the top 5 cards of your deck into your scrapyard.",
+    "effect": "Whenever you play a weapon, You may Graft an ungrafted acolyte you wield to it without resting resolve. At your preparation, if you do not wield a weapon, break me and put the top 5 cards of your deck into your scrapyard.",
     "covenant": "Kuran",
     "_legal": {
       "STD": true
@@ -2447,7 +1502,7 @@
           "name": "Kreena's Offerings"
         },
         "type": "Edict",
-        "cost": 3,
+        "cost": 2,
         "image": "https://shunjitakano.github.io/LunarRing/images/kreena-s-offerings.webp",
         "covenant": "Kuran",
         "_legal": {
@@ -2457,7 +1512,7 @@
     },
     "name": "Kreena's Offerings",
     "type": "Edict",
-    "cost": 3,
+    "cost": 2,
     "effect": "Whenever a weapon you wield strikes, you may have all On Strike effects trigger an additional time. If you do, break me.",
     "covenant": "Kuran",
     "_legal": {
@@ -2483,7 +1538,7 @@
     "name": "Leeching Elements",
     "type": "Edict",
     "cost": 2,
-    "effect": "At your recovery, if you wield a grafted weapon, draw 1. Crescent Moon: This cannot break.",
+    "effect": "At your recovery, if you wield a grafted weapon, draw 1. Crescent Moon: I cannot break.",
     "covenant": "Kuran",
     "_legal": {
       "STD": true
@@ -2497,7 +1552,7 @@
           "name": "Anointed Host"
         },
         "type": "Riposte",
-        "cost": 2,
+        "cost": 3,
         "image": "https://shunjitakano.github.io/LunarRing/images/anointed-host.webp",
         "covenant": "Kuran",
         "_legal": {
@@ -2507,8 +1562,8 @@
     },
     "name": "Anointed Host",
     "type": "Riposte",
-    "cost": 2,
-    "effect": "Return up to 2 acolytes from your scrapyard to your hand.",
+    "cost": 3,
+    "effect": "Return an acolyte from the scrapyard to your armoury",
     "covenant": "Kuran",
     "_legal": {
       "STD": true
@@ -2583,7 +1638,7 @@
     "name": "Unwavered Verdance",
     "type": "Riposte",
     "cost": 1,
-    "effect": "Choose a grafted armament. It cannot be broken this turn. Crescent Moon: This tests 1 less resolve.",
+    "effect": "Choose an acolyte you wield. If it is being attacked or targeted by a tactic, Graft it to a weapon you wield. Crescent Moon: This tests 1 less resolve.",
     "covenant": "Kuran",
     "_legal": {
       "STD": true
@@ -2633,7 +1688,7 @@
     "name": "Kuran's Oath Sigil",
     "type": "Tactic",
     "cost": 0,
-    "effect": "Gain 1 resolve this turn only. Witness an Acolyte with Graft.",
+    "effect": "Gain 1 resolve. Witness an Acolyte with Graft.",
     "covenant": "Kuran",
     "_legal": {
       "STD": true
@@ -2658,7 +1713,7 @@
     "name": "Omen Fruit",
     "type": "Tactic",
     "cost": 4,
-    "effect": "You may play an Acolyte from your hand without testing resolve.",
+    "effect": "I test 1 less resolve for each Grafted acolyte you wield. Deal 3 damage to target player or acolyte.",
     "covenant": "Kuran",
     "_legal": {
       "STD": true
@@ -2683,7 +1738,7 @@
     "name": "Burning Adaptation",
     "type": "Tactic",
     "cost": 3,
-    "effect": "Give a weapon +1 For each graft attached to it. Half Moon: Then doublt it's attack this turn.",
+    "effect": "Give a weapon +1 For each acolyte grafted to it. Half Moon: Then doublt it's attack this turn.",
     "covenant": "Kuran",
     "_legal": {
       "STD": true
@@ -2708,7 +1763,7 @@
     "name": "Palesoaked Petal",
     "type": "Tactic",
     "cost": 3,
-    "effect": "Crescent Moon: Restore 3 Health. Half Moon: Witness an Acolyte. Full Moon: Restore 5 Health and return an Acolyte from your scrapyard to your hand.",
+    "effect": "Crescent Moon: Restore 3 Health. Half Moon: Return an acolyte from your scrapyard to your hand. Full Moon: Restore 5 Health and return an Acolyte from your scrapyard to your hand.",
     "covenant": "Kuran",
     "_legal": {
       "STD": true
@@ -2733,32 +1788,32 @@
     "name": "Encroaching Stampede",
     "type": "Tactic",
     "cost": 2,
-    "effect": "Witness an Acolyte that tests 2 or less resolve. Eclipse: Target opponent may do the same.",
+    "effect": "Create a Scampering Roots. Eclipse: Your Acolytes cannot graft this turn.",
     "covenant": "Kuran",
     "_legal": {
       "STD": true
     }
   },
-  "a-tainted-rumble": {
-    "id": "a-tainted-rumble",
+  "tainted-rumble": {
+    "id": "tainted-rumble",
     "face": {
       "front": {
         "name": {
-          "name": "A Tainted Rumble"
+          "name": "Tainted Rumble"
         },
         "type": "Tactic",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/a-tainted-rumble.webp",
+        "image": "https://shunjitakano.github.io/LunarRing/images/tainted-rumble.webp",
         "covenant": "Kuran",
         "_legal": {
           "STD": true
         }
       }
     },
-    "name": "A Tainted Rumble",
+    "name": "Tainted Rumble",
     "type": "Tactic",
     "cost": 3,
-    "effect": "The next time a grafted weapon you wield strikes this turn, deal damage equal to the number of grafts attached to it.",
+    "effect": "The next time a grafted weapon you wield strikes this turn, deal X damage where X is equal to the number of grafts attached to it to target player.",
     "covenant": "Kuran",
     "_legal": {
       "STD": true
@@ -2789,31 +1844,6 @@
       "STD": true
     }
   },
-  "unending-cycle": {
-    "id": "unending-cycle",
-    "face": {
-      "front": {
-        "name": {
-          "name": "Unending Cycle"
-        },
-        "type": "Tactic",
-        "cost": 1,
-        "image": "https://shunjitakano.github.io/LunarRing/images/unending-cycle.webp",
-        "covenant": "Kuran",
-        "_legal": {
-          "STD": true
-        }
-      }
-    },
-    "name": "Unending Cycle",
-    "type": "Tactic",
-    "cost": 1,
-    "effect": "Witness a weapon.",
-    "covenant": "Kuran",
-    "_legal": {
-      "STD": true
-    }
-  },
   "elemental-outburst": {
     "id": "elemental-outburst",
     "face": {
@@ -2833,7 +1863,7 @@
     "name": "Elemental Outburst",
     "type": "Tactic",
     "cost": 5,
-    "effect": "Witness up to 2 weapons or acolytes that test a total of 4 or less resolve and play them.",
+    "effect": "Witness up to 3 weapons or acolytes that test a total of 6 or less resolve and play them.",
     "covenant": "Kuran",
     "_legal": {
       "STD": true
@@ -2864,16 +1894,16 @@
       "STD": true
     }
   },
-  "parasitic-pebble": {
-    "id": "parasitic-pebble",
+  "scampering-roots": {
+    "id": "scampering-roots",
     "face": {
       "front": {
         "name": {
-          "name": "Parasitic Pebble"
+          "name": "Scampering Roots"
         },
         "type": "Token Acolyte",
         "cost": 0,
-        "image": "https://shunjitakano.github.io/LunarRing/images/parasitic-pebble.webp",
+        "image": "https://shunjitakano.github.io/LunarRing/images/scampering-roots.webp",
         "covenant": "Kuran",
         "health": 1,
         "attack": 0,
@@ -2883,10 +1913,10 @@
         "isToken": true
       }
     },
-    "name": "Parasitic Pebble",
+    "name": "Scampering Roots",
     "type": "Token Acolyte",
     "cost": 0,
-    "effect": "Graft 0.  All weapons you wield have +1 Attack. At your recovery, I lose 1 Temper.",
+    "effect": "Graft 0. I have +1 Attack.",
     "covenant": "Kuran",
     "_legal": {
       "STD": true
@@ -2895,16 +1925,103 @@
     "health": 1,
     "isToken": true
   },
-  "gor-s-staff-of-symbiosis": {
-    "id": "gor-s-staff-of-symbiosis",
+  "chimera": {
+    "id": "chimera",
     "face": {
       "front": {
         "name": {
-          "name": "Gor's Staff of Symbiosis"
+          "name": "Chimera"
+        },
+        "type": "Weapon",
+        "cost": 8,
+        "image": "https://shunjitakano.github.io/LunarRing/images/chimera.webp",
+        "covenant": "Kuran",
+        "health": 3,
+        "attack": 2,
+        "_legal": {
+          "STD": true
+        }
+      }
+    },
+    "name": "Chimera",
+    "type": "Weapon",
+    "cost": 8,
+    "effect": "Whenever you Graft an acolyte to me, trigger the on strike effects of all other acolytes grafted to me, and put the top card your deck into your scrapyard for each acolyte triggered this way.",
+    "covenant": "Kuran",
+    "_legal": {
+      "STD": true
+    },
+    "attack": 2,
+    "health": 3
+  },
+  "hideaway": {
+    "id": "hideaway",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Hideaway"
+        },
+        "type": "Weapon",
+        "cost": 1,
+        "image": "https://shunjitakano.github.io/LunarRing/images/hideaway.webp",
+        "covenant": "Kuran",
+        "health": 2,
+        "attack": 1,
+        "_legal": {
+          "STD": true
+        }
+      }
+    },
+    "name": "Hideaway",
+    "type": "Weapon",
+    "cost": 1,
+    "effect": "",
+    "covenant": "Kuran",
+    "_legal": {
+      "STD": true
+    },
+    "attack": 1,
+    "health": 2
+  },
+  "nest": {
+    "id": "nest",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Nest"
+        },
+        "type": "Weapon",
+        "cost": 3,
+        "image": "https://shunjitakano.github.io/LunarRing/images/nest.webp",
+        "covenant": "Kuran",
+        "health": 2,
+        "attack": 2,
+        "_legal": {
+          "STD": true
+        }
+      }
+    },
+    "name": "Nest",
+    "type": "Weapon",
+    "cost": 3,
+    "effect": "At your preparation, create a Scampering Roots.",
+    "covenant": "Kuran",
+    "_legal": {
+      "STD": true
+    },
+    "attack": 2,
+    "health": 2
+  },
+  "gro-s-staff-of-symbiosis": {
+    "id": "gro-s-staff-of-symbiosis",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Gro's Staff of Symbiosis"
         },
         "type": "Weapon",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/gor-s-staff-of-symbiosis.webp",
+        "image": "https://shunjitakano.github.io/LunarRing/images/gro-s-staff-of-symbiosis.webp",
         "covenant": "Kuran",
         "health": 3,
         "attack": 1,
@@ -2913,7 +2030,7 @@
         }
       }
     },
-    "name": "Gor's Staff of Symbiosis",
+    "name": "Gro's Staff of Symbiosis",
     "type": "Weapon",
     "cost": 2,
     "effect": "Whenever an Acolyte is grafted to me, Rouse me. Crescent Moon: Grafting to me tests 1 less resolve.",
@@ -2945,7 +2062,7 @@
     "name": "Amalgamation",
     "type": "Weapon",
     "cost": 5,
-    "effect": "I have the attack of all acolytes grafted to me.",
+    "effect": "I have +X attack, where X is equal to the total attack of all acolytes grafted to me.",
     "covenant": "Kuran",
     "_legal": {
       "STD": true
@@ -2974,7 +2091,7 @@
     "name": "Haven",
     "type": "Weapon",
     "cost": 3,
-    "effect": "At your recovery, you may Graft an  acolyte you wield to me without testing resolve. If you do, I lose 1 Temper.",
+    "effect": "At your recovery, you may Graft an acolyte you wield to me without testing resolve. If you do, I lose 1 Temper.",
     "covenant": "Kuran",
     "_legal": {
       "STD": true
@@ -3148,7 +2265,7 @@
     "name": "Thrill Seeker",
     "type": "Acolyte",
     "cost": 3,
-    "effect": "On Strike: Lose 1 health and Rouse this.",
+    "effect": "On Strike: Lose 1 health. Then if I have attacked 1 or less times this turn, rouse me. At your recovery, if I did not attack at least 1 time(s) this turn, create 0 Apathy.",
     "covenant": "Niorr",
     "_legal": {
       "STD": true
@@ -3177,7 +2294,7 @@
     "name": "Endless Hedonists",
     "type": "Acolyte",
     "cost": 2,
-    "effect": "When I break, create 1 Hedon.",
+    "effect": "Drain: Create a Hedon and lose 1 health or discard 1. At your recovery, if I am roused, create 0 random Apathy, Insignificance, or Loneliness.",
     "covenant": "Niorr",
     "_legal": {
       "STD": true
@@ -3193,10 +2310,10 @@
           "name": "Existential Gambler"
         },
         "type": "Acolyte",
-        "cost": 2,
+        "cost": 1,
         "image": "https://shunjitakano.github.io/LunarRing/images/existential-gambler.webp",
         "covenant": "Niorr",
-        "health": 4,
+        "health": 1,
         "attack": 1,
         "_legal": {
           "STD": true
@@ -3205,14 +2322,14 @@
     },
     "name": "Existential Gambler",
     "type": "Acolyte",
-    "cost": 2,
-    "effect": "Whenever you draw, draw an additional 1 card, then you may lose 1 health. If you don't break me and create an Insignificance.",
+    "cost": 1,
+    "effect": "Drain: Draw 1 and discard 1 at random. At your recovery, If you drew 2 or less cards this turn, create 0 Insignificance.",
     "covenant": "Niorr",
     "_legal": {
       "STD": true
     },
     "attack": 1,
-    "health": 4
+    "health": 1
   },
   "pain-enjoyer": {
     "id": "pain-enjoyer",
@@ -3235,7 +2352,7 @@
     "name": "Pain Enjoyer",
     "type": "Acolyte",
     "cost": 2,
-    "effect": "Sacrifice. Half Moon: I can only lose 1 health at a time.",
+    "effect": "Sacrifice. Whenever I take damage, each player draws 1 and loses 1 health. At opponent's recovery, If I did not take damage this turn, create 0 Loneliness.",
     "covenant": "Niorr",
     "_legal": {
       "STD": true
@@ -3264,7 +2381,7 @@
     "name": "Lecherous Pair",
     "type": "Acolyte",
     "cost": 4,
-    "effect": "On Attack: All players lose 1 health. I must attack each turn if able. At your recovery, if I did not attack, break me and create 1 Loneliness.",
+    "effect": "On Attack: All players lose 1 health. At your recovery, if I did not attack, create 0 Loneliness.",
     "covenant": "Niorr",
     "_legal": {
       "STD": true
@@ -3293,7 +2410,7 @@
     "name": "Lil Finch",
     "type": "Acolyte",
     "cost": 2,
-    "effect": "Brandish: Draw 1. On Strike: Deal 1 damage. Then you may discard 1, if you don't, break me and create 1 insignificance or Apathy.",
+    "effect": "Brandish: Draw 1. On Strike: Deal 1 damage to any target and discard 1. At your recovery, if you discarded 0 or less cards this turn, create 0 insignificance or Apathy.",
     "covenant": "Niorr",
     "_legal": {
       "STD": true
@@ -3301,16 +2418,16 @@
     "attack": 1,
     "health": 2
   },
-  "masochist": {
-    "id": "masochist",
+  "supplier-of-ecstasy": {
+    "id": "supplier-of-ecstasy",
     "face": {
       "front": {
         "name": {
-          "name": "Masochist"
+          "name": "Supplier of Ecstasy"
         },
         "type": "Acolyte",
         "cost": 4,
-        "image": "https://shunjitakano.github.io/LunarRing/images/masochist.webp",
+        "image": "https://shunjitakano.github.io/LunarRing/images/supplier-of-ecstasy.webp",
         "covenant": "Niorr",
         "health": 3,
         "attack": 1,
@@ -3319,10 +2436,10 @@
         }
       }
     },
-    "name": "Masochist",
+    "name": "Supplier of Ecstasy",
     "type": "Acolyte",
     "cost": 4,
-    "effect": "On Attack: Draw 1. Then you may have target opponent draw 1 as well. If you don't, break me and create a Loneliness.",
+    "effect": "Drain: Indulge 1 time. At your recovery, if I am roused, create 0 random Apathy, Insignificance, or Loneliness.",
     "covenant": "Niorr",
     "_legal": {
       "STD": true
@@ -3351,7 +2468,7 @@
     "name": "Exhiliration",
     "type": "Acolyte",
     "cost": 6,
-    "effect": "The first time an acolyte you wield attacks each turn, you may Indulge. If you do, lose 1 health and Rouse it. If you don't, break me and create 1 Apathy.",
+    "effect": "Whenever an acolyte you wield attacks, Indulge and lose 1 health. At your recovery, if you attacked with 1 or less acolytes this turn, create 0 Apathy.",
     "covenant": "Niorr",
     "_legal": {
       "STD": true
@@ -3370,7 +2487,7 @@
         "cost": 5,
         "image": "https://shunjitakano.github.io/LunarRing/images/lust.webp",
         "covenant": "Niorr",
-        "health": 4,
+        "health": 3,
         "attack": 0,
         "_legal": {
           "STD": true
@@ -3380,13 +2497,13 @@
     "name": "Lust",
     "type": "Acolyte",
     "cost": 5,
-    "effect": "Your opponents have no maximum handsize. Whenever your opponent draws a card outside of their draw step, that player loses 1 health then you may break me. When I break, create 1 Loneliness.",
+    "effect": "Opponents have no maximum handsize. Whenever an opponent draws a card that player loses 1 health. At your recovery, if an opponent has 5 or less cards in hand, create 0 Loneliness.",
     "covenant": "Niorr",
     "_legal": {
       "STD": true
     },
     "attack": 0,
-    "health": 4
+    "health": 3
   },
   "pleasure-seeker": {
     "id": "pleasure-seeker",
@@ -3409,7 +2526,7 @@
     "name": "Pleasure Seeker",
     "type": "Acolyte",
     "cost": 2,
-    "effect": "On Strike: Your opponent cannot play ripostes this turn. Crescent Moon: Target opponent also draws 1 and discard 1 at random.",
+    "effect": "Drain: All opponents draw 1 but cannot play ripostes this turn. At you recovery, If I am roused, create 0 Loneliness. Crescent Moon: each opponent also discards a card at random.",
     "covenant": "Niorr",
     "_legal": {
       "STD": true
@@ -3417,16 +2534,16 @@
     "attack": 1,
     "health": 1
   },
-  "exhillerated-brawler": {
-    "id": "exhillerated-brawler",
+  "sadistic-brawler": {
+    "id": "sadistic-brawler",
     "face": {
       "front": {
         "name": {
-          "name": "Exhillerated Brawler"
+          "name": "Sadistic Brawler"
         },
         "type": "Acolyte",
         "cost": 5,
-        "image": "https://shunjitakano.github.io/LunarRing/images/exhillerated-brawler.webp",
+        "image": "https://shunjitakano.github.io/LunarRing/images/sadistic-brawler.webp",
         "covenant": "Niorr",
         "health": 4,
         "attack": 2,
@@ -3435,10 +2552,10 @@
         }
       }
     },
-    "name": "Exhillerated Brawler",
+    "name": "Sadistic Brawler",
     "type": "Acolyte",
     "cost": 5,
-    "effect": "I must attack each turn if able. On Attack: Gain +1 Attack this turn. Then you may put the top 1 card(s) of your deck into your scrapyard. If you don't, break me and create 1 Apathy.",
+    "effect": "On Attack: I gain +1 Attack this turn and you put the top 1 card(s) of your deck into your scrapyard. At your recovery, if I did not attack, create 0 Apathy.",
     "covenant": "Niorr",
     "_legal": {
       "STD": true
@@ -3467,7 +2584,7 @@
     "name": "Greed",
     "type": "Acolyte",
     "cost": 2,
-    "effect": "The first time an acolyte you wield attacks, draw 1. If you would draw a card while your hand is full, break me and create 1 Insignificance.",
+    "effect": "The first time you draw a card each turn, acolytes you wield gain +1 attack this turn and discard 1 at random. At your recovery, if you did not draw 2 or more cards this turn, create an insignificance.",
     "covenant": "Niorr",
     "_legal": {
       "STD": true
@@ -3496,42 +2613,13 @@
     "name": "Comforter",
     "type": "Acolyte",
     "cost": 3,
-    "effect": "Sacrifice. If an acolyte you wield would break, you may break this instead and create 1 Loneliness. Full Moon: Opponent's cannot target acolytes you wield.",
+    "effect": "Sacrifice. If an acolyte you wield would break, you may break me instead and create 0 Loneliness. Full Moon: Opponent's cannot target acolytes you wield.",
     "covenant": "Niorr",
     "_legal": {
       "STD": true
     },
     "attack": 1,
     "health": 3
-  },
-  "decadence": {
-    "id": "decadence",
-    "face": {
-      "front": {
-        "name": {
-          "name": "Decadence"
-        },
-        "type": "Acolyte",
-        "cost": 9,
-        "image": "https://shunjitakano.github.io/LunarRing/images/decadence.webp",
-        "covenant": "Niorr",
-        "health": 8,
-        "attack": 0,
-        "_legal": {
-          "STD": true
-        }
-      }
-    },
-    "name": "Decadence",
-    "type": "Acolyte",
-    "cost": 9,
-    "effect": "As long as you wield me, your resolve have \"Test: Indulge\". When I  break create 1 Despair.",
-    "covenant": "Niorr",
-    "_legal": {
-      "STD": true
-    },
-    "attack": 0,
-    "health": 8
   },
   "give-in-to-temptation": {
     "id": "give-in-to-temptation",
@@ -3552,32 +2640,32 @@
     "name": "Give In to Temptation",
     "type": "Edict",
     "cost": 4,
-    "effect": "At your preparation Indulge. Then you may create 1 random Apathy, Insignifcance, or Loneliness. If you don't break me. Crescent Moon: Put an extra indulgence counter on an armament.",
+    "effect": "At your preparation, Indulge and create a random Apathy, Insignifcance, or Loneliness. Crescent Moon: Put an extra indulgence counter on an armament.",
     "covenant": "Niorr",
     "_legal": {
       "STD": true
     }
   },
-  "blind-indulgence": {
-    "id": "blind-indulgence",
+  "ignorance-is-bliss": {
+    "id": "ignorance-is-bliss",
     "face": {
       "front": {
         "name": {
-          "name": "Blind Indulgence"
+          "name": "Ignorance Is Bliss"
         },
         "type": "Edict",
         "cost": 7,
-        "image": "https://shunjitakano.github.io/LunarRing/images/blind-indulgence.webp",
+        "image": "https://shunjitakano.github.io/LunarRing/images/ignorance-is-bliss.webp",
         "covenant": "Niorr",
         "_legal": {
           "STD": true
         }
       }
     },
-    "name": "Blind Indulgence",
+    "name": "Ignorance Is Bliss",
     "type": "Edict",
     "cost": 7,
-    "effect": "At your preapration, you may Indulge 1 time. If you don't break this and create 1 Despair, Apathy, Lonliness, and Insignicance.",
+    "effect": "At your preparation, choose a withdrawal. Ignore all effects of withdrawals you have with the same name this turn, then discard your hand.",
     "covenant": "Niorr",
     "_legal": {
       "STD": true
@@ -3591,7 +2679,7 @@
           "name": "Demand of Luxury"
         },
         "type": "Edict",
-        "cost": 3,
+        "cost": 1,
         "image": "https://shunjitakano.github.io/LunarRing/images/demand-of-luxury.webp",
         "covenant": "Niorr",
         "_legal": {
@@ -3601,8 +2689,8 @@
     },
     "name": "Demand of Luxury",
     "type": "Edict",
-    "cost": 3,
-    "effect": "At your preparation draw 1 and put the top 1 card(s) of your deck into your scrapyard. Then if your hand is full, break me and create 1 Insiginifcance.",
+    "cost": 1,
+    "effect": "At your preparation draw a card and put the top card of your deck into your scrapyard.",
     "covenant": "Niorr",
     "_legal": {
       "STD": true
@@ -3627,7 +2715,7 @@
     "name": "Bloody Desires",
     "type": "Edict",
     "cost": 2,
-    "effect": "Your acolytes can attack opponents directly. Whenever your acolytes strike an opponent, you may have that acolyte take 1 damage. If you don't, break me and create an Apathy.",
+    "effect": "Your acolytes can attack opponents directly. Whenever your acolytes strike an opponent, create an Apathy or Loneliness.",
     "covenant": "Niorr",
     "_legal": {
       "STD": true
@@ -3652,7 +2740,7 @@
     "name": "Kiss Stained Handkerchief",
     "type": "Riposte",
     "cost": 1,
-    "effect": "Choose an acolyte you wield, target opponent must attack it this turn.",
+    "effect": "Choose an acolyte you wield, target opponent must attack it this turn. Indulge.",
     "covenant": "Niorr",
     "_legal": {
       "STD": true
@@ -3677,7 +2765,7 @@
     "name": "Seduction",
     "type": "Riposte",
     "cost": 2,
-    "effect": "Weapons tarhet opponent wields cannot be drained this turn. Indulge. Eclipse: This cannot be played.",
+    "effect": "Weapons target opponent wields cannot be drained this turn. Indulge. Eclipse: I cannot be played.",
     "covenant": "Niorr",
     "_legal": {
       "STD": true
@@ -3702,7 +2790,7 @@
     "name": "Numb",
     "type": "Riposte",
     "cost": 1,
-    "effect": "Acolytes you wield with 3 or more indulgence counters on them cannot be broken this turn.",
+    "effect": "Acolytes you wield with no indulgence counters on them cannot be broken this turn.",
     "covenant": "Niorr",
     "_legal": {
       "STD": true
@@ -3752,7 +2840,7 @@
     "name": "Niorr's Oath Sigil",
     "type": "Tactic",
     "cost": 0,
-    "effect": "Gain 1 resolve this turn and Witness a card with Indulge.",
+    "effect": "Gain 1 resolve. Witness a card with Indulge.",
     "covenant": "Niorr",
     "_legal": {
       "STD": true
@@ -3777,7 +2865,7 @@
     "name": "Dissonant Dice",
     "type": "Tactic",
     "cost": 2,
-    "effect": "Draw 1, discard 1, and Indulge. Crescent Moon: Draw 2 and discard 2 at random instead.",
+    "effect": "Draw 1. Discard 1. Indulge. Crescent Moon: Draw 2 and discard 2 at random instead.",
     "covenant": "Niorr",
     "_legal": {
       "STD": true
@@ -3816,7 +2904,7 @@
           "name": "Do it"
         },
         "type": "Tactic",
-        "cost": 2,
+        "cost": 1,
         "image": "https://shunjitakano.github.io/LunarRing/images/do-it.webp",
         "covenant": "Niorr",
         "_legal": {
@@ -3826,7 +2914,7 @@
     },
     "name": "Do it",
     "type": "Tactic",
-    "cost": 2,
+    "cost": 1,
     "effect": "Indulge. Full Moon: Indulge 3 times instead and put the top 5 cards of your deck into your scrapyard.",
     "covenant": "Niorr",
     "_legal": {
@@ -3852,7 +2940,7 @@
     "name": "Craving Senesation",
     "type": "Tactic",
     "cost": 4,
-    "effect": "Rouse all acolytes you wield and give them +1 attack this turn for each indulgence counter on them.",
+    "effect": "Rouse up to 2 acolytes you wield and give them +1 attack this turn for each indulgence counter on them.",
     "covenant": "Niorr",
     "_legal": {
       "STD": true
@@ -3877,29 +2965,29 @@
     "name": "Strange Affection",
     "type": "Tactic",
     "cost": 2,
-    "effect": "Reveal the top card of your deck. If it is an Acolyte that tests 3 or less resolve, you may play it without testing resolve. Otherwise, each opponent draws 1.",
+    "effect": "Reveal the top card of your deck. If it is an Acolyte that tests 3 or less resolve, you may play it without testing resolve. Otherwise, Indulge.",
     "covenant": "Niorr",
     "_legal": {
       "STD": true
     }
   },
-  "unbound-craving": {
-    "id": "unbound-craving",
+  "i-want-it": {
+    "id": "i-want-it",
     "face": {
       "front": {
         "name": {
-          "name": "Unbound Craving"
+          "name": "I Want It!"
         },
         "type": "Tactic",
         "cost": 1,
-        "image": "https://shunjitakano.github.io/LunarRing/images/unbound-craving.webp",
+        "image": "https://shunjitakano.github.io/LunarRing/images/i-want-it.webp",
         "covenant": "Niorr",
         "_legal": {
           "STD": true
         }
       }
     },
-    "name": "Unbound Craving",
+    "name": "I Want It!",
     "type": "Tactic",
     "cost": 1,
     "effect": "Break target armament that tests less than 2 resolve. Half Moon: Break any armament instead.",
@@ -3927,7 +3015,7 @@
     "name": "Nothing To Live For",
     "type": "Tactic",
     "cost": 7,
-    "effect": "Deal 1 damage to target opponent. Repeat this for each withdrawal you wield. Put the top 2 cards of your deck into your scrapyard for each damage dealt this way.",
+    "effect": "Deal 1 damage to target opponent and put the top 2 cards of your deck into your scrapyard. Repeat this for each withdrawal you have.",
     "covenant": "Niorr",
     "_legal": {
       "STD": true
@@ -3952,7 +3040,7 @@
     "name": "Toxic Intimacy",
     "type": "Tactic",
     "cost": 2,
-    "effect": "Target player draws 2 cards and loses 2 health.",
+    "effect": "Target player draws 2 cards and loses 2 health. Indulge.",
     "covenant": "Niorr",
     "_legal": {
       "STD": true
@@ -3966,7 +3054,7 @@
           "name": "Sheira's Obessission"
         },
         "type": "Tactic",
-        "cost": 3,
+        "cost": 2,
         "image": "https://shunjitakano.github.io/LunarRing/images/sheira-s-obessission.webp",
         "covenant": "Niorr",
         "_legal": {
@@ -3976,12 +3064,72 @@
     },
     "name": "Sheira's Obessission",
     "type": "Tactic",
-    "cost": 3,
-    "effect": "Rouse an acolyte you wield.",
+    "cost": 2,
+    "effect": "Rouse an acolyte you wield. Indulge. Crescent Moon: Rouse up to 2 acolytes you wield instead.",
     "covenant": "Niorr",
     "_legal": {
       "STD": true
     }
+  },
+  "hedon": {
+    "id": "hedon",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Hedon"
+        },
+        "type": "Token Acolyte",
+        "cost": 0,
+        "image": "https://shunjitakano.github.io/LunarRing/images/hedon.webp",
+        "covenant": "Niorr",
+        "health": 2,
+        "attack": 0,
+        "_legal": {
+          "STD": true
+        },
+        "isToken": true
+      }
+    },
+    "name": "Hedon",
+    "type": "Token Acolyte",
+    "cost": 0,
+    "effect": "When I break, create a random Apathy, Insignificance, or Loneliness.",
+    "covenant": "Niorr",
+    "_legal": {
+      "STD": true
+    },
+    "attack": 0,
+    "health": 2,
+    "isToken": true
+  },
+  "3-vices": {
+    "id": "3-vices",
+    "face": {
+      "front": {
+        "name": {
+          "name": "3 Vices"
+        },
+        "type": "Weapon",
+        "cost": 8,
+        "image": "https://shunjitakano.github.io/LunarRing/images/3-vices.webp",
+        "covenant": "Niorr",
+        "health": 1,
+        "attack": 5,
+        "_legal": {
+          "STD": true
+        }
+      }
+    },
+    "name": "3 Vices",
+    "type": "Weapon",
+    "cost": 8,
+    "effect": "If you have all 4 withdrawals, I cannot break or lose temper.",
+    "covenant": "Niorr",
+    "_legal": {
+      "STD": true
+    },
+    "attack": 5,
+    "health": 1
   },
   "gleeful-wrath": {
     "id": "gleeful-wrath",
@@ -3994,8 +3142,8 @@
         "cost": 3,
         "image": "https://shunjitakano.github.io/LunarRing/images/gleeful-wrath.webp",
         "covenant": "Niorr",
-        "health": 2,
-        "attack": 1,
+        "health": 1,
+        "attack": 2,
         "_legal": {
           "STD": true
         }
@@ -4004,24 +3152,24 @@
     "name": "Gleeful Wrath",
     "type": "Weapon",
     "cost": 3,
-    "effect": "On Attack: I copy the attack of an acolyte you wield.",
+    "effect": "On Attack: Give my attack to up to 1 acolyte or weapon you wield this turn and give a weapon you wield -1 Temper. At your recovery, if I did not attack this turn, create 1 Apathy.",
     "covenant": "Niorr",
     "_legal": {
       "STD": true
     },
-    "attack": 1,
-    "health": 2
+    "attack": 2,
+    "health": 1
   },
-  "glistening": {
-    "id": "glistening",
+  "glistening-knife": {
+    "id": "glistening-knife",
     "face": {
       "front": {
         "name": {
-          "name": "Glistening"
+          "name": "Glistening Knife"
         },
         "type": "Weapon",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/glistening.webp",
+        "image": "https://shunjitakano.github.io/LunarRing/images/glistening-knife.webp",
         "covenant": "Niorr",
         "health": 2,
         "attack": 2,
@@ -4030,10 +3178,10 @@
         }
       }
     },
-    "name": "Glistening",
+    "name": "Glistening Knife",
     "type": "Weapon",
     "cost": 3,
-    "effect": "On Attack: Draw 1. Then you may put the top 1 card of your deck into your scrapyard. If you don't, break me and create 1 Insignificance.",
+    "effect": "I must attack each turn if able. On Attack: Reveal the top card of your deck. If that card tests 1 or more resolve, draw that card and I gain +1 attack this turn. Otherwise, create 1 Insignificance.",
     "covenant": "Niorr",
     "_legal": {
       "STD": true
@@ -4041,34 +3189,34 @@
     "attack": 2,
     "health": 2
   },
-  "whispering-gold": {
-    "id": "whispering-gold",
+  "whispering-edge": {
+    "id": "whispering-edge",
     "face": {
       "front": {
         "name": {
-          "name": "Whispering Gold"
+          "name": "Whispering Edge"
         },
         "type": "Weapon",
-        "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/whispering-gold.webp",
+        "cost": 1,
+        "image": "https://shunjitakano.github.io/LunarRing/images/whispering-edge.webp",
         "covenant": "Niorr",
-        "health": 2,
+        "health": 4,
         "attack": 0,
         "_legal": {
           "STD": true
         }
       }
     },
-    "name": "Whispering Gold",
+    "name": "Whispering Edge",
     "type": "Weapon",
-    "cost": 2,
-    "effect": "On Attack: I gain +1 Attack this turn. When I break all players draw 1 and create 1 Insignificance.",
+    "cost": 1,
+    "effect": "On Attack: I gain +1 Attack this turn for each Withdrawal you have with a different name then create a Withdrawal with a different name than you already have.",
     "covenant": "Niorr",
     "_legal": {
       "STD": true
     },
     "attack": 0,
-    "health": 2
+    "health": 4
   },
   "addiction": {
     "id": "addiction",
@@ -4078,7 +3226,7 @@
           "name": "Addiction"
         },
         "type": "Weapon",
-        "cost": 3,
+        "cost": 2,
         "image": "https://shunjitakano.github.io/LunarRing/images/addiction.webp",
         "covenant": "Niorr",
         "health": 2,
@@ -4090,8 +3238,8 @@
     },
     "name": "Addiction",
     "type": "Weapon",
-    "cost": 3,
-    "effect": "I have +1 Attack for each armament you wield with an indulgence counter on it. I do not gain effects from Indulgence counters.",
+    "cost": 2,
+    "effect": "I must attack each turn if able. On Attack: Indulge.",
     "covenant": "Niorr",
     "_legal": {
       "STD": true
@@ -4120,7 +3268,7 @@
     "name": "Bloodied Knuckles",
     "type": "Weapon",
     "cost": 4,
-    "effect": "On Attack: I gain +1 Attack. Then you may Rouse me and lose 1 health. If you don't break me and create 1 Apathy.",
+    "effect": "On Attack: Offer an acolyte you wield and I gain +1 Attack. Rouse me. At your recovery, if you dealt 3 or less damage to your opponent, create 0 Apathy.",
     "covenant": "Niorr",
     "_legal": {
       "STD": true
@@ -4149,7 +3297,7 @@
     "name": "Velvet Chain",
     "type": "Weapon",
     "cost": 2,
-    "effect": "On Attack: Indulge. Then target opponent may draw 1.",
+    "effect": "On Attack: All players draw 1, then if an opponent has less cards in hand than you, create 0 Loneliness.",
     "covenant": "Niorr",
     "_legal": {
       "STD": true
@@ -4178,7 +3326,7 @@
     "name": "Pleasure Lash",
     "type": "Weapon",
     "cost": 4,
-    "effect": "Whenever your opponent plays a card, I gain +1 attack. Then you may have target opponent draw 1 and discard 1. If you don't, break me and create 1 random Apathy, Insignifcance, or Loneliness.",
+    "effect": "Whenever an opponent plays a card, I gain +1 attack and that player restores 1 health. At each recovery, if an opponent played 0 or less cards, create 0 Loneliness.",
     "covenant": "Niorr",
     "_legal": {
       "STD": true
@@ -4186,34 +3334,34 @@
     "attack": 1,
     "health": 3
   },
-  "staff-of-craving": {
-    "id": "staff-of-craving",
+  "cane-of-more": {
+    "id": "cane-of-more",
     "face": {
       "front": {
         "name": {
-          "name": "Staff of Craving"
+          "name": "Cane of More"
         },
         "type": "Weapon",
         "cost": 6,
-        "image": "https://shunjitakano.github.io/LunarRing/images/staff-of-craving.webp",
+        "image": "https://shunjitakano.github.io/LunarRing/images/cane-of-more.webp",
         "covenant": "Niorr",
-        "health": 1,
+        "health": 3,
         "attack": 3,
         "_legal": {
           "STD": true
         }
       }
     },
-    "name": "Staff of Craving",
+    "name": "Cane of More",
     "type": "Weapon",
     "cost": 6,
-    "effect": "On Strike: If you have 8 or more cards in hand, I have +3 Attack and cannot lose Temper this turn. If you have an empty hand, break me and create 1 Insignificance.",
+    "effect": "On Attack: Draw 1. If that card would be put into your scrapyard instead, I gain +1 attack this turn. At your recovery, if you have 15 or more cards in your scrapyard, create 0Insignificance.",
     "covenant": "Niorr",
     "_legal": {
       "STD": true
     },
     "attack": 3,
-    "health": 1
+    "health": 3
   },
   "apathy": {
     "id": "apathy",
@@ -4235,7 +3383,7 @@
     "name": "Apathy",
     "type": "Token Withdrawal",
     "cost": 0,
-    "effect": "This cannot be broken or shattered. At the start of your turn, give an an armament you wield -1 Attack this turn.",
+    "effect": "This cannot be broken or shattered. At your preparation, give a weapon you wield -1 Attack this turn.",
     "covenant": "Niorr",
     "_legal": {
       "STD": true
@@ -4262,7 +3410,7 @@
     "name": "Loneliness",
     "type": "Token Withdrawal",
     "cost": 0,
-    "effect": "This cannot be broken or shattered. At your preparation, break an armament you wield.",
+    "effect": "This cannot be broken or shattered. At your preparation, break an acolyte you wield.",
     "covenant": "Niorr",
     "_legal": {
       "STD": true
@@ -4323,76 +3471,6 @@
     },
     "isToken": true
   },
-  "hedon": {
-    "id": "hedon",
-    "face": {
-      "front": {
-        "name": {
-          "name": "Hedon"
-        },
-        "type": "Token Acolyte",
-        "cost": 0,
-        "image": "https://shunjitakano.github.io/LunarRing/images/hedon.webp",
-        "covenant": "Niorr",
-        "_legal": {
-          "STD": true
-        },
-        "isToken": true
-      }
-    },
-    "name": "Hedon",
-    "type": "Token Acolyte",
-    "cost": 0,
-    "effect": "When I break, create a random Apathy, Insignificance, or Loneliness.",
-    "covenant": "Niorr",
-    "_legal": {
-      "STD": true
-    },
-    "isToken": true
-  },
-  "familiar-face": {
-    "id": "familiar-face",
-    "face": {
-      "front": {
-        "name": {
-          "name": "Familiar Face"
-        },
-        "type": "Acolyte",
-        "cost": 1,
-        "image": "https://shunjitakano.github.io/LunarRing/images/familiar-face.webp",
-        "covenant": "Igon",
-        "health": 1,
-        "attack": 1,
-        "_legal": {
-          "STD": true
-        }
-      },
-      "back": {
-        "name": {
-          "name": "Complete Stranger"
-        },
-        "type": "Acolyte",
-        "cost": 1,
-        "image": "https://shunjitakano.github.io/LunarRing/images/complete-stranger.webp",
-        "covenant": "Igon",
-        "health": 3,
-        "attack": 3,
-        "_legal": {
-          "STD": true
-        }
-      }
-    },
-    "name": "Familiar Face",
-    "type": "Acolyte",
-    "cost": 1,
-    "effect": "Whenever a Familiar Face enters your armoury, I Distort.",
-    "covenant": "Igon",
-    "_legal": {
-      "STD": true
-    },
-    "attack": 1,
-    "health": 1
-  },
   "heliana-dictator-of-recollection": {
     "id": "heliana-dictator-of-recollection",
     "face": {
@@ -4414,7 +3492,7 @@
     "name": "Heliana, Dictator of Recollection",
     "type": "Acolyte",
     "cost": 10,
-    "effect": "Brandish: For each Hazed Memory target opponent wields, Shatter an armament. For the rest of the game, players cannot play cards with the same name as armaments shattered this way.",
+    "effect": "Brandish: Shatter up to 4 armaments. For the rest of the game, players cannot play cards with the same name as armaments shattered this way.",
     "covenant": "Igon",
     "_legal": {
       "STD": true
@@ -4443,56 +3521,13 @@
     "name": "Madness Clairvoyant",
     "type": "Acolyte",
     "cost": 2,
-    "effect": "Drain: Target opponent creates a Hazed Memory. Crescent Moon: target opponent creates 2 instead.",
+    "effect": "Drain: Distort an armament your opponent wields. Crescent Moon: Draw 1.",
     "covenant": "Igon",
     "_legal": {
       "STD": true
     },
     "attack": 2,
     "health": 2
-  },
-  "memory-of-relief": {
-    "id": "memory-of-relief",
-    "face": {
-      "front": {
-        "name": {
-          "name": "Memory of Relief"
-        },
-        "type": "Acolyte",
-        "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/memory-of-relief.webp",
-        "covenant": "Igon",
-        "health": 3,
-        "attack": 1,
-        "_legal": {
-          "STD": true
-        }
-      },
-      "back": {
-        "name": {
-          "name": "Memory of Anguish"
-        },
-        "type": "Acolyte",
-        "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/memory-of-anguish.webp",
-        "covenant": "Igon",
-        "health": 3,
-        "attack": 1,
-        "_legal": {
-          "STD": true
-        }
-      }
-    },
-    "name": "Memory of Relief",
-    "type": "Acolyte",
-    "cost": 2,
-    "effect": "At your recovery, restore 2 health. If your condition worsens, I Distort.",
-    "covenant": "Igon",
-    "_legal": {
-      "STD": true
-    },
-    "attack": 1,
-    "health": 3
   },
   "pora-mind-s-guardian": {
     "id": "pora-mind-s-guardian",
@@ -4505,8 +3540,8 @@
         "cost": 3,
         "image": "https://shunjitakano.github.io/LunarRing/images/pora-mind-s-guardian.webp",
         "covenant": "Igon",
-        "health": 4,
-        "attack": 2,
+        "health": 3,
+        "attack": 1,
         "_legal": {
           "STD": true
         }
@@ -4515,56 +3550,42 @@
     "name": "Pora, Mind's Guardian",
     "type": "Acolyte",
     "cost": 3,
-    "effect": "Whenever an armament you wield would Distort, you may drain me instead. Whenever I drain, all opponents lose 1 health.",
-    "covenant": "Igon",
-    "_legal": {
-      "STD": true
-    },
-    "attack": 2,
-    "health": 4
-  },
-  "proud-child": {
-    "id": "proud-child",
-    "face": {
-      "front": {
-        "name": {
-          "name": "Proud Child"
-        },
-        "type": "Acolyte",
-        "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/proud-child.webp",
-        "covenant": "Igon",
-        "health": 2,
-        "attack": 1,
-        "_legal": {
-          "STD": true
-        }
-      },
-      "back": {
-        "name": {
-          "name": "Haunting Reminder"
-        },
-        "type": "Acolyte",
-        "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/haunting-reminder.webp",
-        "covenant": "Igon",
-        "health": 2,
-        "attack": 2,
-        "_legal": {
-          "STD": true
-        }
-      }
-    },
-    "name": "Proud Child",
-    "type": "Acolyte",
-    "cost": 2,
-    "effect": "Whenever you play a card, I deal 1 damage to target oppponent then if you have 3 or less cards in hand, I Distort",
+    "effect": "Drain: Distort target armament you wield and I deal 1 damage to all opponents.",
     "covenant": "Igon",
     "_legal": {
       "STD": true
     },
     "attack": 1,
-    "health": 2
+    "health": 3
+  },
+  "keeper-of-retrace": {
+    "id": "keeper-of-retrace",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Keeper of Retrace"
+        },
+        "type": "Acolyte",
+        "cost": 3,
+        "image": "https://shunjitakano.github.io/LunarRing/images/keeper-of-retrace.webp",
+        "covenant": "Igon",
+        "health": 3,
+        "attack": 1,
+        "_legal": {
+          "STD": true
+        }
+      }
+    },
+    "name": "Keeper of Retrace",
+    "type": "Acolyte",
+    "cost": 3,
+    "effect": "The first time you play an edict or an edict you wield Distorts during your turn, Witness an edict.",
+    "covenant": "Igon",
+    "_legal": {
+      "STD": true
+    },
+    "attack": 1,
+    "health": 3
   },
   "scribe-of-igon": {
     "id": "scribe-of-igon",
@@ -4577,13 +3598,28 @@
         "cost": 2,
         "image": "https://shunjitakano.github.io/LunarRing/images/scribe-of-igon.webp",
         "covenant": "Igon",
-        "health": 1,
-        "attack": 1,
+        "health": 2,
+        "attack": 0,
         "_legal": {
           "STD": true
         }
-      },
-      "back": {
+      }
+    },
+    "name": "Scribe of Igon",
+    "type": "Acolyte",
+    "cost": 2,
+    "effect": "Whenever an armament Distorts, return a Hazed Memory to its wielders hand.",
+    "covenant": "Igon",
+    "_legal": {
+      "STD": true
+    },
+    "attack": 0,
+    "health": 2
+  },
+  "warrior-of-igon": {
+    "id": "warrior-of-igon",
+    "face": {
+      "front": {
         "name": {
           "name": "Warrior of Igon"
         },
@@ -4598,59 +3634,16 @@
         }
       }
     },
-    "name": "Scribe of Igon",
+    "name": "Warrior of Igon",
     "type": "Acolyte",
     "cost": 2,
-    "effect": "Whenever I Distort, target opponent creates a Hazed Memory. If an opponent plays 2 cards in 1 turn, I Distort.",
+    "effect": "Whenever an armament Distorts, I deal 1 damage to target player.",
     "covenant": "Igon",
     "_legal": {
       "STD": true
     },
-    "attack": 1,
-    "health": 1
-  },
-  "unsettling-prescence": {
-    "id": "unsettling-prescence",
-    "face": {
-      "front": {
-        "name": {
-          "name": "Unsettling Prescence"
-        },
-        "type": "Acolyte",
-        "cost": 5,
-        "image": "https://shunjitakano.github.io/LunarRing/images/unsettling-prescence.webp",
-        "covenant": "Igon",
-        "health": 6,
-        "attack": 1,
-        "_legal": {
-          "STD": true
-        }
-      },
-      "back": {
-        "name": {
-          "name": "Surging Distortion"
-        },
-        "type": "Acolyte",
-        "cost": 5,
-        "image": "https://shunjitakano.github.io/LunarRing/images/surging-distortion.webp",
-        "covenant": "Igon",
-        "health": 7,
-        "attack": 7,
-        "_legal": {
-          "STD": true
-        }
-      }
-    },
-    "name": "Unsettling Prescence",
-    "type": "Acolyte",
-    "cost": 5,
-    "effect": "Sacrifice. When I break, I Distort instead.",
-    "covenant": "Igon",
-    "_legal": {
-      "STD": true
-    },
-    "attack": 1,
-    "health": 6
+    "attack": 2,
+    "health": 2
   },
   "wisp-of-remembrance": {
     "id": "wisp-of-remembrance",
@@ -4660,10 +3653,10 @@
           "name": "Wisp of Remembrance"
         },
         "type": "Acolyte",
-        "cost": 2,
+        "cost": 3,
         "image": "https://shunjitakano.github.io/LunarRing/images/wisp-of-remembrance.webp",
         "covenant": "Igon",
-        "health": 3,
+        "health": 4,
         "attack": 1,
         "_legal": {
           "STD": true
@@ -4672,14 +3665,88 @@
     },
     "name": "Wisp of Remembrance",
     "type": "Acolyte",
-    "cost": 2,
-    "effect": "Sacrifice. Half Moon: As long as an opponent wields a Hazed Memory, I cannot break or lose health.",
+    "cost": 3,
+    "effect": "Sacrifice. Half Moon: As long as an opponent wields a Hazed Memory, I cannot break or lose Temper.",
     "covenant": "Igon",
     "_legal": {
       "STD": true
     },
     "attack": 1,
-    "health": 3
+    "health": 4
+  },
+  "devotion": {
+    "id": "devotion",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Devotion"
+        },
+        "type": "Edict",
+        "cost": 2,
+        "image": "https://shunjitakano.github.io/LunarRing/images/devotion.webp",
+        "covenant": "Igon",
+        "_legal": {
+          "STD": true
+        }
+      },
+      "back": {
+        "name": {
+          "name": "Blasphemy"
+        },
+        "type": "Edict",
+        "cost": 2,
+        "image": "https://shunjitakano.github.io/LunarRing/images/blasphemy.webp",
+        "covenant": "Igon",
+        "_legal": {
+          "STD": true
+        }
+      }
+    },
+    "name": "Devotion",
+    "type": "Edict",
+    "cost": 2,
+    "effect": "Whenever you play another edict, draw 1 and discard 1 and I Distort. | Whenever you play another edict, deal 1 damage to all opponents then I Distort.",
+    "covenant": "Igon",
+    "_legal": {
+      "STD": true
+    }
+  },
+  "memories-of-relief": {
+    "id": "memories-of-relief",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Memories of Relief"
+        },
+        "type": "Edict",
+        "cost": 1,
+        "image": "https://shunjitakano.github.io/LunarRing/images/memories-of-relief.webp",
+        "covenant": "Igon",
+        "_legal": {
+          "STD": true
+        }
+      },
+      "back": {
+        "name": {
+          "name": "Memories of Anguish"
+        },
+        "type": "Edict",
+        "cost": 1,
+        "image": "https://shunjitakano.github.io/LunarRing/images/memories-of-anguish.webp",
+        "covenant": "Igon",
+        "_legal": {
+          "STD": true
+        }
+      }
+    },
+    "name": "Memories of Relief",
+    "type": "Edict",
+    "cost": 1,
+    "effect": "At your recovery, restore 1 health then I Distort. | At your recovery, deal 1 damage to all acolytes and and all players then I Distort.",
+    "covenant": "Igon",
+    "_legal": {
+      "STD": true
+    }
   },
   "hunt-untruth": {
     "id": "hunt-untruth",
@@ -4689,8 +3756,20 @@
           "name": "Hunt Untruth"
         },
         "type": "Edict",
-        "cost": 2,
+        "cost": 3,
         "image": "https://shunjitakano.github.io/LunarRing/images/hunt-untruth.webp",
+        "covenant": "Igon",
+        "_legal": {
+          "STD": true
+        }
+      },
+      "back": {
+        "name": {
+          "name": "Hide From False Light"
+        },
+        "type": "Edict",
+        "cost": 3,
+        "image": "https://shunjitakano.github.io/LunarRing/images/hide-from-false-light.webp",
         "covenant": "Igon",
         "_legal": {
           "STD": true
@@ -4699,8 +3778,8 @@
     },
     "name": "Hunt Untruth",
     "type": "Edict",
-    "cost": 2,
-    "effect": "Whenever an armament you wield distorts, Draw 1. Then you may discard 1. If you don't, Offer this and put the top 2 cards of your deck into your scrapyard. This effect triggers only twice each turn.",
+    "cost": 3,
+    "effect": "Whenever an opponent attacks you, break a Hazed Memory that player wields, then I Distort. | Whenever an opponent attacks you, if that player wields a Hazed Memory, Your acolytes gain Sacrifice this turn and I Distort.",
     "covenant": "Igon",
     "_legal": {
       "STD": true
@@ -4720,37 +3799,61 @@
         "_legal": {
           "STD": true
         }
-      }
-    },
-    "name": "Frayed Recollection",
-    "type": "Edict",
-    "cost": 3,
-    "effect": "You may look at the top card of your deck at any time. You may play cards from the top of your deck. If you play a card with Distort this way, it Distorts when it enters your armoury.",
-    "covenant": "Igon",
-    "_legal": {
-      "STD": true
-    }
-  },
-  "spreading-distortion": {
-    "id": "spreading-distortion",
-    "face": {
-      "front": {
+      },
+      "back": {
         "name": {
-          "name": "Spreading Distortion"
+          "name": "Poignant Moments"
         },
         "type": "Edict",
-        "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/spreading-distortion.webp",
+        "cost": 3,
+        "image": "https://shunjitakano.github.io/LunarRing/images/poignant-moments.webp",
         "covenant": "Igon",
         "_legal": {
           "STD": true
         }
       }
     },
-    "name": "Spreading Distortion",
+    "name": "Frayed Recollection",
+    "type": "Edict",
+    "cost": 3,
+    "effect": "You may look at the top card of your deck at any time. You may play cards from the top of your deck. Whenever you play a card from the top of your deck, I Distort. | Brandish: Return an edict from your scrapyard to the top of your deck. I Distort.",
+    "covenant": "Igon",
+    "_legal": {
+      "STD": true
+    }
+  },
+  "spreading-delusion": {
+    "id": "spreading-delusion",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Spreading Delusion"
+        },
+        "type": "Edict",
+        "cost": 2,
+        "image": "https://shunjitakano.github.io/LunarRing/images/spreading-delusion.webp",
+        "covenant": "Igon",
+        "_legal": {
+          "STD": true
+        }
+      },
+      "back": {
+        "name": {
+          "name": "Refined Thoughts"
+        },
+        "type": "Edict",
+        "cost": 2,
+        "image": "https://shunjitakano.github.io/LunarRing/images/refined-thoughts.webp",
+        "covenant": "Igon",
+        "_legal": {
+          "STD": true
+        }
+      }
+    },
+    "name": "Spreading Delusion",
     "type": "Edict",
     "cost": 2,
-    "effect": "Whenever an armament you wield Distorts, target opponent may put the top card of their deck into their scrapyard. If they don't, that player loses 1 life.",
+    "effect": "At each players recovery, If that player wields a Hazed Memory, that player Distorts an armament they wield not named Hazed Memory. If that player does not wield a Hazed Memory, I Distort. | Brandish: Distort all Hazed Memories. Draw 1 for each armament distorted this way. Then I Distort.",
     "covenant": "Igon",
     "_legal": {
       "STD": true
@@ -4770,12 +3873,24 @@
         "_legal": {
           "STD": true
         }
+      },
+      "back": {
+        "name": {
+          "name": "Pure Chaos"
+        },
+        "type": "Edict",
+        "cost": 4,
+        "image": "https://shunjitakano.github.io/LunarRing/images/pure-chaos.webp",
+        "covenant": "Igon",
+        "_legal": {
+          "STD": true
+        }
       }
     },
     "name": "Grasp At Truth",
     "type": "Edict",
     "cost": 4,
-    "effect": "Whenever an armament you wield Distorts, Witness a card with the same name. If you don't, lose 2 health. Eclipse: You can only play cards with Distort.",
+    "effect": "Whenever an armament you wield Distorts, Witness a card with the same name. If you don't, lose 2 health. Eclipse: You can only play cards with Distort. | At your preparation, reveal the top card of your deck and play it. If that card tests 3 or more resolve, I Distort.",
     "covenant": "Igon",
     "_legal": {
       "STD": true
@@ -4795,37 +3910,135 @@
         "_legal": {
           "STD": true
         }
-      }
-    },
-    "name": "Erroneous Slaughter",
-    "type": "Edict",
-    "cost": 5,
-    "effect": "At your recovery, target opponent creates 2 Hazed Memories. Full Moon: Hazed Memories your opponents wield cannot be broken.",
-    "covenant": "Igon",
-    "_legal": {
-      "STD": true
-    }
-  },
-  "thoughts-collapse": {
-    "id": "thoughts-collapse",
-    "face": {
-      "front": {
+      },
+      "back": {
         "name": {
-          "name": "Thoughts Collapse"
+          "name": "Erroneous Alteration"
         },
         "type": "Edict",
-        "cost": 7,
-        "image": "https://shunjitakano.github.io/LunarRing/images/thoughts-collapse.webp",
+        "cost": 5,
+        "image": "https://shunjitakano.github.io/LunarRing/images/erroneous-alteration.webp",
         "covenant": "Igon",
         "_legal": {
           "STD": true
         }
       }
     },
-    "name": "Thoughts Collapse",
+    "name": "Erroneous Slaughter",
+    "type": "Edict",
+    "cost": 5,
+    "effect": "At each players preparation, that player loses 1 health for each Hazed Memory they wield. Full Moon: Hazed Memories cannot be Distorted. | Test 2: Distort target armament. If that card would become a Hazed Memory, break it instead and I Distort.",
+    "covenant": "Igon",
+    "_legal": {
+      "STD": true
+    }
+  },
+  "mental-subjugation": {
+    "id": "mental-subjugation",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Mental Subjugation"
+        },
+        "type": "Edict",
+        "cost": 7,
+        "image": "https://shunjitakano.github.io/LunarRing/images/mental-subjugation.webp",
+        "covenant": "Igon",
+        "_legal": {
+          "STD": true
+        }
+      },
+      "back": {
+        "name": {
+          "name": "Mental Collapse"
+        },
+        "type": "Edict",
+        "cost": 7,
+        "image": "https://shunjitakano.github.io/LunarRing/images/mental-collapse.webp",
+        "covenant": "Igon",
+        "_legal": {
+          "STD": true
+        }
+      }
+    },
+    "name": "Mental Subjugation",
     "type": "Edict",
     "cost": 7,
-    "effect": "At you recovery, Distort any number of armaments you wield. For each one not distorted this way put the top 2 cards of your deck into your scrapyard.",
+    "effect": "At each opponent's preparation, that player gains 1 less resolve for each Hazed Memory they wield. If a player lost 3 or more health this way, I Distort. | At each player's preparation, that player puts the top card of their deck into their scrapyard for each Hazed Memory all players wield. If a player put 3 or more cards into the scrapyard this way, I Distort.",
+    "covenant": "Igon",
+    "_legal": {
+      "STD": true
+    }
+  },
+  "aberration": {
+    "id": "aberration",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Aberration"
+        },
+        "type": "Edict",
+        "cost": 2,
+        "image": "https://shunjitakano.github.io/LunarRing/images/aberration.webp",
+        "covenant": "Igon",
+        "_legal": {
+          "STD": true
+        }
+      },
+      "back": {
+        "name": {
+          "name": "Collapse"
+        },
+        "type": "Edict",
+        "cost": 2,
+        "image": "https://shunjitakano.github.io/LunarRing/images/collapse.webp",
+        "covenant": "Igon",
+        "_legal": {
+          "STD": true
+        }
+      }
+    },
+    "name": "Aberration",
+    "type": "Edict",
+    "cost": 2,
+    "effect": "I can be played from your scrapyard. At your recovery, Distort target armament and it's wielder loses 1 health. Then I Distort. | At your preparation, break target Hazed Memory. Then I Distort.",
+    "covenant": "Igon",
+    "_legal": {
+      "STD": true
+    }
+  },
+  "retain-humanity": {
+    "id": "retain-humanity",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Retain Humanity"
+        },
+        "type": "Edict",
+        "cost": 1,
+        "image": "https://shunjitakano.github.io/LunarRing/images/retain-humanity.webp",
+        "covenant": "Igon",
+        "_legal": {
+          "STD": true
+        }
+      },
+      "back": {
+        "name": {
+          "name": "Lose Humanity"
+        },
+        "type": "Edict",
+        "cost": 1,
+        "image": "https://shunjitakano.github.io/LunarRing/images/lose-humanity.webp",
+        "covenant": "Igon",
+        "_legal": {
+          "STD": true
+        }
+      }
+    },
+    "name": "Retain Humanity",
+    "type": "Edict",
+    "cost": 1,
+    "effect": "At your preparation, if you wield a Hazed Memory, Distort it and me. | At your recovery, if you wield a Hazed Memory, discard 1 and I Distort.",
     "covenant": "Igon",
     "_legal": {
       "STD": true
@@ -4925,32 +4138,32 @@
     "name": "Igon's Oath Sigil",
     "type": "Tactic",
     "cost": 0,
-    "effect": "Gain 1 resolve this turn. Witness a card with Distort.",
+    "effect": "Gain 1 resolve. Witness a card with Distort.",
     "covenant": "Igon",
     "_legal": {
       "STD": true
     }
   },
-  "helianas-fragments": {
-    "id": "helianas-fragments",
+  "heliana-s-promise": {
+    "id": "heliana-s-promise",
     "face": {
       "front": {
         "name": {
-          "name": "Heliana’s Fragments"
+          "name": "Heliana's Promise"
         },
         "type": "Tactic",
-        "cost": 1,
-        "image": "https://shunjitakano.github.io/LunarRing/images/helianas-fragments.webp",
+        "cost": 2,
+        "image": "https://shunjitakano.github.io/LunarRing/images/heliana-s-promise.webp",
         "covenant": "Igon",
         "_legal": {
           "STD": true
         }
       }
     },
-    "name": "Heliana’s Fragments",
+    "name": "Heliana's Promise",
     "type": "Tactic",
-    "cost": 1,
-    "effect": "Target opponent creates a Hazed Memory. Then if that player wields 3 or more, you may Distort an armament you wield.",
+    "cost": 2,
+    "effect": "Distort target armament your opponent wields. Then if that player wields 3 or more Hazed Memories, break target Hazed Memory.",
     "covenant": "Igon",
     "_legal": {
       "STD": true
@@ -4964,7 +4177,7 @@
           "name": "Igon's Consciousness"
         },
         "type": "Tactic",
-        "cost": 2,
+        "cost": 1,
         "image": "https://shunjitakano.github.io/LunarRing/images/igon-s-consciousness.webp",
         "covenant": "Igon",
         "_legal": {
@@ -4974,8 +4187,8 @@
     },
     "name": "Igon's Consciousness",
     "type": "Tactic",
-    "cost": 2,
-    "effect": "Draw 1 and discard 1. You may play this from your scrapyard if an armament you wield distorted this turn.",
+    "cost": 1,
+    "effect": "Draw 1 and discard 1. You may play me from your scrapyard if an armament distorted this turn.",
     "covenant": "Igon",
     "_legal": {
       "STD": true
@@ -5000,7 +4213,7 @@
     "name": "Fragments of Being",
     "type": "Tactic",
     "cost": 6,
-    "effect": "Play up to 4 armaments with Distort from your scrapyard without testing resolve. Then Shatter your hand.",
+    "effect": "Play up to 4 edicts from your scrapyard without testing resolve. Then Shatter your hand.",
     "covenant": "Igon",
     "_legal": {
       "STD": true
@@ -5025,7 +4238,7 @@
     "name": "Reality Dissolves",
     "type": "Tactic",
     "cost": 2,
-    "effect": "Distort an armamnent you wield. Crescent Moon: If that armament was a weapon give it +1 attack as well.",
+    "effect": "Distort an armamnent you wield. Crescent Moon: Then give all weapons you wield +1 attack.",
     "covenant": "Igon",
     "_legal": {
       "STD": true
@@ -5050,7 +4263,7 @@
     "name": "Seeds of Doubt",
     "type": "Tactic",
     "cost": 2,
-    "effect": "Targer opponent creates a Hazed Memory. If you are Thriving, draw 1 as well.",
+    "effect": "Distort target armament you wield and target armament an opponent wields.",
     "covenant": "Igon",
     "_legal": {
       "STD": true
@@ -5075,7 +4288,7 @@
     "name": "Clairvoyance In Chaos",
     "type": "Tactic",
     "cost": 6,
-    "effect": "Target opponent creates 5 Hazed Memories. Put the top 10 cards of your deck into your scrapyard. Full Moon: Put the top 2 cards of your deck into your scrapyard instead.",
+    "effect": "Draw 2 for each Hazed Memory you wield. Put the top 10 cards of your deck into your scrapyard. Full Moon: Then you may play 2 cards without testing resolve.",
     "covenant": "Igon",
     "_legal": {
       "STD": true
@@ -5100,32 +4313,7 @@
     "name": "Shape of Memory",
     "type": "Tactic",
     "cost": 2,
-    "effect": "Draw 1. You may Distort an armament you wield. If you do, draw 2 and discard 1 instead. Crescent Moon: Look at the top 3 cards of your deck and put them on the top or bottom of your deck in any order first.",
-    "covenant": "Igon",
-    "_legal": {
-      "STD": true
-    }
-  },
-  "temporary-judgement": {
-    "id": "temporary-judgement",
-    "face": {
-      "front": {
-        "name": {
-          "name": "Temporary Judgement"
-        },
-        "type": "Tactic",
-        "cost": 1,
-        "image": "https://shunjitakano.github.io/LunarRing/images/temporary-judgement.webp",
-        "covenant": "Igon",
-        "_legal": {
-          "STD": true
-        }
-      }
-    },
-    "name": "Temporary Judgement",
-    "type": "Tactic",
-    "cost": 1,
-    "effect": "Shatter target armament. Return it to their armoury at their next recovery.",
+    "effect": "Draw 2 and discard 1 instead. Crescent Moon: If you wield a Hazed Memory, Distort it.",
     "covenant": "Igon",
     "_legal": {
       "STD": true
@@ -5139,7 +4327,7 @@
           "name": "Leaking Possibility"
         },
         "type": "Tactic",
-        "cost": 2,
+        "cost": 1,
         "image": "https://shunjitakano.github.io/LunarRing/images/leaking-possibility.webp",
         "covenant": "Igon",
         "_legal": {
@@ -5149,33 +4337,33 @@
     },
     "name": "Leaking Possibility",
     "type": "Tactic",
-    "cost": 2,
+    "cost": 1,
     "effect": "Distort an armament you wield. Crescent Moon: Also draw 1.",
     "covenant": "Igon",
     "_legal": {
       "STD": true
     }
   },
-  "distortion-empowerment": {
-    "id": "distortion-empowerment",
+  "purge-the-false": {
+    "id": "purge-the-false",
     "face": {
       "front": {
         "name": {
-          "name": "Distortion Empowerment"
+          "name": "Purge the False"
         },
         "type": "Tactic",
         "cost": 4,
-        "image": "https://shunjitakano.github.io/LunarRing/images/distortion-empowerment.webp",
+        "image": "https://shunjitakano.github.io/LunarRing/images/purge-the-false.webp",
         "covenant": "Igon",
         "_legal": {
           "STD": true
         }
       }
     },
-    "name": "Distortion Empowerment",
+    "name": "Purge the False",
     "type": "Tactic",
     "cost": 4,
-    "effect": "Give an armament that Distorted this turn +3 Attack.",
+    "effect": "Deal 1 damage to target opponent for each Hazed Memory they wield.",
     "covenant": "Igon",
     "_legal": {
       "STD": true
@@ -5226,7 +4414,7 @@
     "name": "Hazed Memory",
     "type": "Token Edict",
     "cost": 0,
-    "effect": "Test 2 or Discard 1: Offer me. At your recovery, offer an armament not named Hazed Memory for every 5 Hazed Memories you wield.",
+    "effect": "Test 1 or Discard 1: I Distort.",
     "covenant": "Igon",
     "_legal": {
       "STD": true
@@ -5254,7 +4442,7 @@
     "name": "Edge of Consciousness",
     "type": "Weapon",
     "cost": 8,
-    "effect": "On Attack: Distort all armaments you wield. For each one Distorted this way, I gain +2 attack this turn. Full Moon: Gain +5 Attack instead.",
+    "effect": "On Attack: Distort all other armaments you wield. For each one Distorted this way, I gain +2 attack this turn. At your recovery, I Distort. Full Moon:I gain +2 attack permanently instead.",
     "covenant": "Igon",
     "_legal": {
       "STD": true
@@ -5262,59 +4450,45 @@
     "attack": 0,
     "health": 2
   },
-  "glory": {
-    "id": "glory",
+  "duty": {
+    "id": "duty",
     "face": {
       "front": {
         "name": {
-          "name": "Glory"
+          "name": "Duty"
         },
         "type": "Weapon",
-        "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/glory.webp",
+        "cost": 2,
+        "image": "https://shunjitakano.github.io/LunarRing/images/duty.webp",
         "covenant": "Igon",
-        "health": 1,
-        "attack": 5,
-        "_legal": {
-          "STD": true
-        }
-      },
-      "back": {
-        "name": {
-          "name": "Shame"
-        },
-        "type": "Weapon",
-        "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/shame.webp",
-        "covenant": "Igon",
-        "health": 3,
+        "health": 2,
         "attack": 1,
         "_legal": {
           "STD": true
         }
       }
     },
-    "name": "Glory",
+    "name": "Duty",
     "type": "Weapon",
-    "cost": 3,
-    "effect": "On Strike: If defending player has 5 or more health, I Distort. | I must attack each turn if able. On Attack: Discard 1 at random.",
+    "cost": 2,
+    "effect": "I have +1 Attack for each Hazed Memory all opponents wield.",
     "covenant": "Igon",
     "_legal": {
       "STD": true
     },
-    "attack": 5,
-    "health": 1
+    "attack": 1,
+    "health": 2
   },
-  "murmuring-deja-vu": {
-    "id": "murmuring-deja-vu",
+  "delirium": {
+    "id": "delirium",
     "face": {
       "front": {
         "name": {
-          "name": "Murmuring Deja Vu"
+          "name": "Delirium"
         },
         "type": "Weapon",
         "cost": 4,
-        "image": "https://shunjitakano.github.io/LunarRing/images/murmuring-deja-vu.webp",
+        "image": "https://shunjitakano.github.io/LunarRing/images/delirium.webp",
         "covenant": "Igon",
         "health": 2,
         "attack": 2,
@@ -5323,10 +4497,10 @@
         }
       }
     },
-    "name": "Murmuring Deja Vu",
+    "name": "Delirium",
     "type": "Weapon",
     "cost": 4,
-    "effect": "Brandish: Witness a Murmuring Deja Vu. If you do, distort an armament you wield and I gain +2 Attack. Crescent Moon: On Strike: Draw 2.",
+    "effect": "Brandish: Witness a Delirium. If you do, Distort an armament and I gain +2 Attack. Crescent Moon: On Strike: Draw 2.",
     "covenant": "Igon",
     "_legal": {
       "STD": true
@@ -5334,48 +4508,34 @@
     "attack": 2,
     "health": 2
   },
-  "bow-of-igon": {
-    "id": "bow-of-igon",
+  "igon-s-quill": {
+    "id": "igon-s-quill",
     "face": {
       "front": {
         "name": {
-          "name": "Bow of Igon"
+          "name": "Igon's Quill"
         },
         "type": "Weapon",
-        "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/bow-of-igon.webp",
+        "cost": 1,
+        "image": "https://shunjitakano.github.io/LunarRing/images/igon-s-quill.webp",
         "covenant": "Igon",
-        "health": 3,
-        "attack": 0,
-        "_legal": {
-          "STD": true
-        }
-      },
-      "back": {
-        "name": {
-          "name": "Blade of Igon?"
-        },
-        "type": "Weapon",
-        "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/blade-of-igon.webp",
-        "covenant": "Igon",
-        "health": 3,
-        "attack": 3,
+        "health": 1,
+        "attack": 1,
         "_legal": {
           "STD": true
         }
       }
     },
-    "name": "Bow of Igon",
+    "name": "Igon's Quill",
     "type": "Weapon",
-    "cost": 3,
-    "effect": "Lose 1 Temper: Deal 1 Damage to target opponent and all acolytes they wield then I Distort.",
+    "cost": 1,
+    "effect": "If I would Distort, create a copy of me instead.",
     "covenant": "Igon",
     "_legal": {
       "STD": true
     },
-    "attack": 0,
-    "health": 3
+    "attack": 1,
+    "health": 1
   },
   "infinite-epochs": {
     "id": "infinite-epochs",
@@ -5388,22 +4548,8 @@
         "cost": 6,
         "image": "https://shunjitakano.github.io/LunarRing/images/infinite-epochs.webp",
         "covenant": "Igon",
-        "health": 3,
-        "attack": 3,
-        "_legal": {
-          "STD": true
-        }
-      },
-      "back": {
-        "name": {
-          "name": "Infinite Epochs"
-        },
-        "type": "Weapon",
-        "cost": 6,
-        "image": "https://shunjitakano.github.io/LunarRing/images/infinite-epochs.webp",
-        "covenant": "Igon",
-        "health": 3,
-        "attack": 3,
+        "health": 2,
+        "attack": 4,
         "_legal": {
           "STD": true
         }
@@ -5412,13 +4558,13 @@
     "name": "Infinite Epochs",
     "type": "Weapon",
     "cost": 6,
-    "effect": "If I would break, shatter me instead. At your preparation, if I am in your scrapyard, you may test 3 resolve. If you do put me into your armoury, then I Distort. | \nAt your recovery, deal X damage to target and draw X where X is equal to the number of Hazed Memories that player wields. Then put this on the bottom of your deck.",
+    "effect": "I cannot be Distorted. On Strike: Break target Hazed Memory.",
     "covenant": "Igon",
     "_legal": {
       "STD": true
     },
-    "attack": 3,
-    "health": 3
+    "attack": 4,
+    "health": 2
   },
   "unstable-glaive": {
     "id": "unstable-glaive",
@@ -5441,7 +4587,7 @@
     "name": "Unstable Glaive",
     "type": "Weapon",
     "cost": 4,
-    "effect": "Brandish: Draw 2 and target opponent creates a Hazed Memory. Half Moon: Target opponent creates 3 Hazed Memories instead.",
+    "effect": "Brandish: Draw 2 and Distort target armament an opponent wields. Half Moon: Distort up to 2 armaments instead.",
     "covenant": "Igon",
     "_legal": {
       "STD": true
@@ -5449,42 +4595,28 @@
     "attack": 3,
     "health": 2
   },
-  "gauntlet-of-thought": {
-    "id": "gauntlet-of-thought",
+  "gauntlet-of-inscription": {
+    "id": "gauntlet-of-inscription",
     "face": {
       "front": {
         "name": {
-          "name": "Gauntlet of Thought"
+          "name": "Gauntlet of Inscription"
         },
         "type": "Weapon",
-        "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/gauntlet-of-thought.webp",
+        "cost": 1,
+        "image": "https://shunjitakano.github.io/LunarRing/images/gauntlet-of-inscription.webp",
         "covenant": "Igon",
         "health": 4,
         "attack": 1,
         "_legal": {
           "STD": true
         }
-      },
-      "back": {
-        "name": {
-          "name": "Gauntlet of Horizon"
-        },
-        "type": "Weapon",
-        "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/gauntlet-of-horizon.webp",
-        "covenant": "Igon",
-        "health": 2,
-        "attack": 2,
-        "_legal": {
-          "STD": true
-        }
       }
     },
-    "name": "Gauntlet of Thought",
+    "name": "Gauntlet of Inscription",
     "type": "Weapon",
-    "cost": 2,
-    "effect": "On Strike: Draw 1 and then I Distort | \nOn Strike: Put the top card of your deck into your scrapyard and then place me on top of your deck.",
+    "cost": 1,
+    "effect": "On Strike: Draw 1 and then I Distort.",
     "covenant": "Igon",
     "_legal": {
       "STD": true
@@ -5513,7 +4645,7 @@
     "name": "Lethe",
     "type": "Weapon",
     "cost": 3,
-    "effect": "Whenever an opponent offers an armament they wield, I gain +1 Attack and +1 Temper.",
+    "effect": "At your preparation, if target opponent wields 2 or more Hazed Memories, I gain +1 Attack and +1 Temper.",
     "covenant": "Igon",
     "_legal": {
       "STD": true
@@ -5521,59 +4653,16 @@
     "attack": 1,
     "health": 1
   },
-  "blade-of-abberation": {
-    "id": "blade-of-abberation",
+  "entropy": {
+    "id": "entropy",
     "face": {
       "front": {
         "name": {
-          "name": "Blade of Abberation"
+          "name": "Entropy"
         },
         "type": "Weapon",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/blade-of-abberation.webp",
-        "covenant": "Igon",
-        "health": 3,
-        "attack": 1,
-        "_legal": {
-          "STD": true
-        }
-      },
-      "back": {
-        "name": {
-          "name": "Blade of Collapse"
-        },
-        "type": "Weapon",
-        "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/blade-of-collapse.webp",
-        "covenant": "Igon",
-        "health": 3,
-        "attack": 2,
-        "_legal": {
-          "STD": true
-        }
-      }
-    },
-    "name": "Blade of Abberation",
-    "type": "Weapon",
-    "cost": 3,
-    "effect": "On Strike:  Defending player creates a Hazed Memory. Then if that player wields 2 or less Hazed Memories I Distort. | Whenever you draw a card lose 1 health.",
-    "covenant": "Igon",
-    "_legal": {
-      "STD": true
-    },
-    "attack": 1,
-    "health": 3
-  },
-  "bow-of-every-possibility": {
-    "id": "bow-of-every-possibility",
-    "face": {
-      "front": {
-        "name": {
-          "name": "Bow of Every Possibility"
-        },
-        "type": "Weapon",
-        "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/bow-of-every-possibility.webp",
+        "image": "https://shunjitakano.github.io/LunarRing/images/entropy.webp",
         "covenant": "Igon",
         "health": 2,
         "attack": 1,
@@ -5582,16 +4671,760 @@
         }
       }
     },
-    "name": "Bow of Every Possibility",
+    "name": "Entropy",
     "type": "Weapon",
     "cost": 3,
-    "effect": "Brandish: Distort all armaments you wield. At your recovery, Distort all armaments that you Distorted this way.",
+    "effect": "Brandish: Distort all armaments. At your recovery, Distort all armaments that you Distorted this way.",
     "covenant": "Igon",
     "_legal": {
       "STD": true
     },
     "attack": 1,
     "health": 2
+  },
+  "heliana-yade-thriving": {
+    "id": "heliana-yade-thriving",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Heliana Yade"
+        },
+        "type": "Devotee",
+        "cost": 3,
+        "image": "https://shunjitakano.github.io/LunarRing/images/heliana-yade-thriving.webp",
+        "covenant": "Igon",
+        "health": 10,
+        "condition": "Thriving",
+        "_legal": {
+          "STD": true
+        },
+        "devotee": "heliana-yade"
+      }
+    },
+    "name": "Heliana Yade",
+    "type": "Devotee",
+    "cost": 3,
+    "effect": "The first time you play an edict during your turn, Distort target armament an opponent wields.",
+    "health": 10,
+    "covenant": "Igon",
+    "condition": "Thriving",
+    "_legal": {
+      "STD": true
+    },
+    "devotee": "heliana-yade"
+  },
+  "heliana-yade-wounded": {
+    "id": "heliana-yade-wounded",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Heliana Yade"
+        },
+        "type": "Devotee",
+        "cost": 5,
+        "image": "https://shunjitakano.github.io/LunarRing/images/heliana-yade-wounded.webp",
+        "covenant": "Igon",
+        "health": 10,
+        "condition": "Wounded",
+        "_legal": {
+          "STD": true
+        },
+        "devotee": "heliana-yade"
+      }
+    },
+    "name": "Heliana Yade",
+    "type": "Devotee",
+    "cost": 5,
+    "effect": "Test 3: Break target Hazed Memory",
+    "health": 10,
+    "covenant": "Igon",
+    "condition": "Wounded",
+    "_legal": {
+      "STD": true
+    },
+    "devotee": "heliana-yade"
+  },
+  "heliana-yade-desperate": {
+    "id": "heliana-yade-desperate",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Heliana Yade"
+        },
+        "type": "Devotee",
+        "cost": 10,
+        "image": "https://shunjitakano.github.io/LunarRing/images/heliana-yade-desperate.webp",
+        "covenant": "Igon",
+        "health": 10,
+        "condition": "Desperate",
+        "_legal": {
+          "STD": true
+        },
+        "devotee": "heliana-yade"
+      }
+    },
+    "name": "Heliana Yade",
+    "type": "Devotee",
+    "cost": 10,
+    "effect": "On Strike: If the defending player wields 5 or more Hazed Memories, that player puts their deck into their scrapyard.",
+    "health": 10,
+    "covenant": "Igon",
+    "condition": "Desperate",
+    "_legal": {
+      "STD": true
+    },
+    "devotee": "heliana-yade"
+  },
+  "pora-aliestrad-thriving": {
+    "id": "pora-aliestrad-thriving",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Pora Aliestrad"
+        },
+        "type": "Devotee",
+        "cost": 3,
+        "image": "https://shunjitakano.github.io/LunarRing/images/pora-aliestrad-thriving.webp",
+        "covenant": "Igon",
+        "health": 10,
+        "condition": "Thriving",
+        "_legal": {
+          "STD": true
+        },
+        "devotee": "pora-aliestrad"
+      }
+    },
+    "name": "Pora Aliestrad",
+    "type": "Devotee",
+    "cost": 3,
+    "effect": "Drain: Distort an armament you wield.",
+    "health": 10,
+    "covenant": "Igon",
+    "condition": "Thriving",
+    "_legal": {
+      "STD": true
+    },
+    "devotee": "pora-aliestrad"
+  },
+  "pora-aliestrad-wounded": {
+    "id": "pora-aliestrad-wounded",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Pora Aliestrad"
+        },
+        "type": "Devotee",
+        "cost": 5,
+        "image": "https://shunjitakano.github.io/LunarRing/images/pora-aliestrad-wounded.webp",
+        "covenant": "Igon",
+        "health": 15,
+        "condition": "Wounded",
+        "_legal": {
+          "STD": true
+        },
+        "devotee": "pora-aliestrad"
+      }
+    },
+    "name": "Pora Aliestrad",
+    "type": "Devotee",
+    "cost": 5,
+    "effect": "Whenever an armament you wield would Distort, you may return it to your hand instead.",
+    "health": 15,
+    "covenant": "Igon",
+    "condition": "Wounded",
+    "_legal": {
+      "STD": true
+    },
+    "devotee": "pora-aliestrad"
+  },
+  "pora-aliestrad-desperate": {
+    "id": "pora-aliestrad-desperate",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Pora Aliestrad"
+        },
+        "type": "Devotee",
+        "cost": 7,
+        "image": "https://shunjitakano.github.io/LunarRing/images/pora-aliestrad-desperate.webp",
+        "covenant": "Igon",
+        "health": 10,
+        "condition": "Desperate",
+        "_legal": {
+          "STD": true
+        },
+        "devotee": "pora-aliestrad"
+      }
+    },
+    "name": "Pora Aliestrad",
+    "type": "Devotee",
+    "cost": 7,
+    "effect": "Whenever an armament you wield distorts, put the top 3 cards of your deck into your scrapyard and each opponent loses 1 health.",
+    "health": 10,
+    "covenant": "Igon",
+    "condition": "Desperate",
+    "_legal": {
+      "STD": true
+    },
+    "devotee": "pora-aliestrad"
+  },
+  "gro-thriving": {
+    "id": "gro-thriving",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Gro'"
+        },
+        "type": "Devotee",
+        "cost": 3,
+        "image": "https://shunjitakano.github.io/LunarRing/images/gro-thriving.webp",
+        "covenant": "Kuran",
+        "health": 10,
+        "condition": "Thriving",
+        "_legal": {
+          "STD": true
+        },
+        "devotee": "gro"
+      }
+    },
+    "name": "Gro'",
+    "type": "Devotee",
+    "cost": 3,
+    "effect": "Whenever you Graft to a weapon, give that weapon +1 Temper.",
+    "health": 10,
+    "covenant": "Kuran",
+    "condition": "Thriving",
+    "_legal": {
+      "STD": true
+    },
+    "devotee": "gro"
+  },
+  "gro-wounded": {
+    "id": "gro-wounded",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Gro'"
+        },
+        "type": "Devotee",
+        "cost": 6,
+        "image": "https://shunjitakano.github.io/LunarRing/images/gro-wounded.webp",
+        "covenant": "Kuran",
+        "health": 10,
+        "condition": "Wounded",
+        "_legal": {
+          "STD": true
+        },
+        "devotee": "gro"
+      }
+    },
+    "name": "Gro'",
+    "type": "Devotee",
+    "cost": 6,
+    "effect": "Weapons you wield cannot be broken by effects as long as they have 3 or more acolytes grafted to it.",
+    "health": 10,
+    "covenant": "Kuran",
+    "condition": "Wounded",
+    "_legal": {
+      "STD": true
+    },
+    "devotee": "gro"
+  },
+  "gro-desperate": {
+    "id": "gro-desperate",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Gro'"
+        },
+        "type": "Devotee",
+        "cost": 10,
+        "image": "https://shunjitakano.github.io/LunarRing/images/gro-desperate.webp",
+        "covenant": "Kuran",
+        "health": 10,
+        "condition": "Desperate",
+        "_legal": {
+          "STD": true
+        },
+        "devotee": "gro"
+      }
+    },
+    "name": "Gro'",
+    "type": "Devotee",
+    "cost": 10,
+    "effect": "You can Graft acolytes to me. Whenever you graft to me, lose 2 health.",
+    "health": 10,
+    "covenant": "Kuran",
+    "condition": "Desperate",
+    "_legal": {
+      "STD": true
+    },
+    "devotee": "gro"
+  },
+  "kreena-eldervyre-thriving": {
+    "id": "kreena-eldervyre-thriving",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Kreena Eldervyre"
+        },
+        "type": "Devotee",
+        "cost": 3,
+        "image": "https://shunjitakano.github.io/LunarRing/images/kreena-eldervyre-thriving.webp",
+        "covenant": "Kuran",
+        "health": 15,
+        "condition": "Thriving",
+        "_legal": {
+          "STD": true
+        },
+        "devotee": "kreena-eldervyre"
+      }
+    },
+    "name": "Kreena Eldervyre",
+    "type": "Devotee",
+    "cost": 3,
+    "effect": "Whenever you graft, deal 1 damage to your opponent.",
+    "health": 15,
+    "covenant": "Kuran",
+    "condition": "Thriving",
+    "_legal": {
+      "STD": true
+    },
+    "devotee": "kreena-eldervyre"
+  },
+  "kreena-eldervyre-wounded": {
+    "id": "kreena-eldervyre-wounded",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Kreena Eldervyre"
+        },
+        "type": "Devotee",
+        "cost": 4,
+        "image": "https://shunjitakano.github.io/LunarRing/images/kreena-eldervyre-wounded.webp",
+        "covenant": "Kuran",
+        "health": 15,
+        "condition": "Wounded",
+        "_legal": {
+          "STD": true
+        },
+        "devotee": "kreena-eldervyre"
+      }
+    },
+    "name": "Kreena Eldervyre",
+    "type": "Devotee",
+    "cost": 4,
+    "effect": "Drain: Your next Graft tests 0 resolve. Discard 1.",
+    "health": 15,
+    "covenant": "Kuran",
+    "condition": "Wounded",
+    "_legal": {
+      "STD": true
+    },
+    "devotee": "kreena-eldervyre"
+  },
+  "kreena-eldervyre-desperate": {
+    "id": "kreena-eldervyre-desperate",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Kreena Eldervyre"
+        },
+        "type": "Devotee",
+        "cost": 8,
+        "image": "https://shunjitakano.github.io/LunarRing/images/kreena-eldervyre-desperate.webp",
+        "covenant": "Kuran",
+        "health": 15,
+        "condition": "Desperate",
+        "_legal": {
+          "STD": true
+        },
+        "devotee": "kreena-eldervyre"
+      }
+    },
+    "name": "Kreena Eldervyre",
+    "type": "Devotee",
+    "cost": 8,
+    "effect": "Test X: Graft X acolytes you wield to a weapon you wield and lose X health.",
+    "health": 15,
+    "covenant": "Kuran",
+    "condition": "Desperate",
+    "_legal": {
+      "STD": true
+    },
+    "devotee": "kreena-eldervyre"
+  },
+  "shiera-silkthroat-thriving": {
+    "id": "shiera-silkthroat-thriving",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Shiera Silkthroat"
+        },
+        "type": "Devotee",
+        "cost": 3,
+        "image": "https://shunjitakano.github.io/LunarRing/images/shiera-silkthroat-thriving.webp",
+        "covenant": "Niorr",
+        "health": 15,
+        "condition": "Thriving",
+        "_legal": {
+          "STD": true
+        },
+        "devotee": "shiera-silkthroat"
+      }
+    },
+    "name": "Shiera Silkthroat",
+    "type": "Devotee",
+    "cost": 3,
+    "effect": "Drain: Indulge",
+    "health": 15,
+    "covenant": "Niorr",
+    "condition": "Thriving",
+    "_legal": {
+      "STD": true
+    },
+    "devotee": "shiera-silkthroat"
+  },
+  "shiera-silkthroat-wounded": {
+    "id": "shiera-silkthroat-wounded",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Shiera Silkthroat"
+        },
+        "type": "Devotee",
+        "cost": 6,
+        "image": "https://shunjitakano.github.io/LunarRing/images/shiera-silkthroat-wounded.webp",
+        "covenant": "Niorr",
+        "health": 10,
+        "condition": "Wounded",
+        "_legal": {
+          "STD": true
+        },
+        "devotee": "shiera-silkthroat"
+      }
+    },
+    "name": "Shiera Silkthroat",
+    "type": "Devotee",
+    "cost": 6,
+    "effect": "Acolytes with 2 or more indulgence counters on them can attack your opponent directly.",
+    "health": 10,
+    "covenant": "Niorr",
+    "condition": "Wounded",
+    "_legal": {
+      "STD": true
+    },
+    "devotee": "shiera-silkthroat"
+  },
+  "shiera-silkthroat-desperate": {
+    "id": "shiera-silkthroat-desperate",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Shiera Silkthroat"
+        },
+        "type": "Devotee",
+        "cost": 6,
+        "image": "https://shunjitakano.github.io/LunarRing/images/shiera-silkthroat-desperate.webp",
+        "covenant": "Niorr",
+        "health": 10,
+        "condition": "Desperate",
+        "_legal": {
+          "STD": true
+        },
+        "devotee": "shiera-silkthroat"
+      }
+    },
+    "name": "Shiera Silkthroat",
+    "type": "Devotee",
+    "cost": 6,
+    "effect": "Break an acolyte you wield: Give all Indulgence counters it had to another acolyte you wield. Do this once each turn.",
+    "health": 10,
+    "covenant": "Niorr",
+    "condition": "Desperate",
+    "_legal": {
+      "STD": true
+    },
+    "devotee": "shiera-silkthroat"
+  },
+  "nine-lives-thriving": {
+    "id": "nine-lives-thriving",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Nine Lives"
+        },
+        "type": "Devotee",
+        "cost": 3,
+        "image": "https://shunjitakano.github.io/LunarRing/images/nine-lives-thriving.webp",
+        "covenant": "Niorr",
+        "health": 15,
+        "condition": "Thriving",
+        "_legal": {
+          "STD": true
+        },
+        "devotee": "nine-lives"
+      }
+    },
+    "name": "Nine Lives",
+    "type": "Devotee",
+    "cost": 3,
+    "effect": "Whenever you indulge, also put a counter on me.",
+    "health": 15,
+    "covenant": "Niorr",
+    "condition": "Thriving",
+    "_legal": {
+      "STD": true
+    },
+    "devotee": "nine-lives"
+  },
+  "nine-lives-wounded": {
+    "id": "nine-lives-wounded",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Nine Lives"
+        },
+        "type": "Devotee",
+        "cost": 6,
+        "image": "https://shunjitakano.github.io/LunarRing/images/nine-lives-wounded.webp",
+        "covenant": "Niorr",
+        "health": 15,
+        "condition": "Wounded",
+        "_legal": {
+          "STD": true
+        },
+        "devotee": "nine-lives"
+      }
+    },
+    "name": "Nine Lives",
+    "type": "Devotee",
+    "cost": 6,
+    "effect": "At your preparation you may draw 1 and put the top 1 card(s) of your deck into your scrapyard. If you don't create a random Withdrawal.",
+    "health": 15,
+    "covenant": "Niorr",
+    "condition": "Wounded",
+    "_legal": {
+      "STD": true
+    },
+    "devotee": "nine-lives"
+  },
+  "nine-lives-desperate": {
+    "id": "nine-lives-desperate",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Nine Lives"
+        },
+        "type": "Devotee",
+        "cost": 10,
+        "image": "https://shunjitakano.github.io/LunarRing/images/nine-lives-desperate.webp",
+        "covenant": "Niorr",
+        "health": 10,
+        "condition": "Desperate",
+        "_legal": {
+          "STD": true
+        },
+        "devotee": "nine-lives"
+      }
+    },
+    "name": "Nine Lives",
+    "type": "Devotee",
+    "cost": 10,
+    "effect": "The first time your health is reduced to 0, Set your health to 1 instead.",
+    "health": 10,
+    "covenant": "Niorr",
+    "condition": "Desperate",
+    "_legal": {
+      "STD": true
+    },
+    "devotee": "nine-lives"
+  },
+  "kakandi-bloodbrood-thriving": {
+    "id": "kakandi-bloodbrood-thriving",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Kakandi Bloodbrood"
+        },
+        "type": "Devotee",
+        "cost": 3,
+        "image": "https://shunjitakano.github.io/LunarRing/images/kakandi-bloodbrood-thriving.webp",
+        "covenant": "Yandari",
+        "health": 15,
+        "condition": "Thriving",
+        "_legal": {
+          "STD": true
+        },
+        "devotee": "kakandi-bloodbrood"
+      }
+    },
+    "name": "Kakandi Bloodbrood",
+    "type": "Devotee",
+    "cost": 3,
+    "effect": "Drain: Show Mercy",
+    "health": 15,
+    "covenant": "Yandari",
+    "condition": "Thriving",
+    "_legal": {
+      "STD": true
+    },
+    "devotee": "kakandi-bloodbrood"
+  },
+  "kakandi-bloodbrood-wounded": {
+    "id": "kakandi-bloodbrood-wounded",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Kakandi Bloodbrood"
+        },
+        "type": "Devotee",
+        "cost": 5,
+        "image": "https://shunjitakano.github.io/LunarRing/images/kakandi-bloodbrood-wounded.webp",
+        "covenant": "Yandari",
+        "health": 10,
+        "condition": "Wounded",
+        "_legal": {
+          "STD": true
+        },
+        "devotee": "kakandi-bloodbrood"
+      }
+    },
+    "name": "Kakandi Bloodbrood",
+    "type": "Devotee",
+    "cost": 5,
+    "effect": "The first time you show mercy each turn, show mercy an additional time.",
+    "health": 10,
+    "covenant": "Yandari",
+    "condition": "Wounded",
+    "_legal": {
+      "STD": true
+    },
+    "devotee": "kakandi-bloodbrood"
+  },
+  "kakandi-bloodbrood-desperate": {
+    "id": "kakandi-bloodbrood-desperate",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Kakandi Bloodbrood"
+        },
+        "type": "Devotee",
+        "cost": 10,
+        "image": "https://shunjitakano.github.io/LunarRing/images/kakandi-bloodbrood-desperate.webp",
+        "covenant": "Yandari",
+        "health": 15,
+        "condition": "Desperate",
+        "_legal": {
+          "STD": true
+        },
+        "devotee": "kakandi-bloodbrood"
+      }
+    },
+    "name": "Kakandi Bloodbrood",
+    "type": "Devotee",
+    "cost": 10,
+    "effect": "On Attack: If the defending players health is equal to or less than your mercy, that player loses the game.",
+    "health": 15,
+    "covenant": "Yandari",
+    "condition": "Desperate",
+    "_legal": {
+      "STD": true
+    },
+    "devotee": "kakandi-bloodbrood"
+  },
+  "uldes-var-thriving": {
+    "id": "uldes-var-thriving",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Uldes Var"
+        },
+        "type": "Devotee",
+        "cost": 3,
+        "image": "https://shunjitakano.github.io/LunarRing/images/uldes-var-thriving.webp",
+        "covenant": "Yandari",
+        "health": 10,
+        "condition": "Thriving",
+        "_legal": {
+          "STD": true
+        },
+        "devotee": "uldes-var"
+      }
+    },
+    "name": "Uldes Var",
+    "type": "Devotee",
+    "cost": 3,
+    "effect": "The first time you lose health during your turn, gain 1 resolve.",
+    "health": 10,
+    "covenant": "Yandari",
+    "condition": "Thriving",
+    "_legal": {
+      "STD": true
+    },
+    "devotee": "uldes-var"
+  },
+  "uldes-var-wounded": {
+    "id": "uldes-var-wounded",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Uldes Var"
+        },
+        "type": "Devotee",
+        "cost": 6,
+        "image": "https://shunjitakano.github.io/LunarRing/images/uldes-var-wounded.webp",
+        "covenant": "Yandari",
+        "health": 15,
+        "condition": "Wounded",
+        "_legal": {
+          "STD": true
+        },
+        "devotee": "uldes-var"
+      }
+    },
+    "name": "Uldes Var",
+    "type": "Devotee",
+    "cost": 6,
+    "effect": "If your condition would worsen during your turn, target opponents condition worsens as well.",
+    "health": 15,
+    "covenant": "Yandari",
+    "condition": "Wounded",
+    "_legal": {
+      "STD": true
+    },
+    "devotee": "uldes-var"
+  },
+  "uldes-var-desperate": {
+    "id": "uldes-var-desperate",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Uldes Var"
+        },
+        "type": "Devotee",
+        "cost": 10,
+        "image": "https://shunjitakano.github.io/LunarRing/images/uldes-var-desperate.webp",
+        "covenant": "Yandari",
+        "health": 10,
+        "condition": "Desperate",
+        "_legal": {
+          "STD": true
+        },
+        "devotee": "uldes-var"
+      }
+    },
+    "name": "Uldes Var",
+    "type": "Devotee",
+    "cost": 10,
+    "effect": "As long as you have 1 or less health, all weapons you wield have \"On Strike: Defending player's condition worsens\".",
+    "health": 10,
+    "covenant": "Yandari",
+    "condition": "Desperate",
+    "_legal": {
+      "STD": true
+    },
+    "devotee": "uldes-var"
   },
   "fleeting-visions": {
     "id": "fleeting-visions",
@@ -5721,7 +5554,7 @@
     "name": "Unraveling",
     "type": "Presence",
     "cost": 0,
-    "effect": "At the end of each player's recovery, all armaments that player wields lose 1 health and 1 Temper.",
+    "effect": "At the end of each players recovery, all armaments that player wields lose 1 Temper.",
     "covenant": "Pale Stare",
     "phase": "Half Moon",
     "_legal": {
