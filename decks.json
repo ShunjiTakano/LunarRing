@@ -116,11 +116,19 @@
   }
 },
 {
-  "title": "Blood Sacrifice",
-  "id": "90bc32df-6612-4fc2-9158-ce65362f7f6e",
+  "title": "Blood Soaked",
+  "id": "05fb75dd-192c-4087-af97-bacc69bb6039",
   "cardCount": 46,
-  "createdAt": "2026-10-08T08:52:07.873Z",
-  "lastModifiedAt": "2026-10-08T08:52:07.873Z",
+  "createdAt": {
+    "type": "firestore/timestamp/1.0",
+    "seconds": 1793576757,
+    "nanoseconds": 883000000
+  },
+  "lastModifiedAt": {
+    "type": "firestore/timestamp/1.0",
+    "seconds": 1793576757,
+    "nanoseconds": 883000000
+  },
   "game": "Lunar Ring",
   "format": [
     "Standard"
@@ -131,22 +139,22 @@
       "Presence",
       "Acolyte",
       "Edict",
-      "Weapon",
+      "Riposte",
       "Tactic",
-      "Riposte"
+      "Weapon"
     ],
     "Devotee": [
       {
         "count": 1,
-        "id": "kakandi-bloodbrood-thriving"
+        "id": "uldes-var-thriving"
       },
       {
         "count": 1,
-        "id": "kakandi-bloodbrood-wounded"
+        "id": "uldes-var-wounded"
       },
       {
         "count": 1,
-        "id": "kakandi-bloodbrood-desperate"
+        "id": "uldes-var-desperate"
       }
     ],
     "Presence": [
@@ -165,44 +173,40 @@
     ],
     "Acolyte": [
       {
-        "count": 2,
+        "count": 3,
+        "id": "bloodletter"
+      },
+      {
+        "count": 3,
+        "id": "augur-of-rest"
+      },
+      {
+        "count": 3,
         "id": "pallbearer"
+      },
+      {
+        "count": 2,
+        "id": "exarch-of-suffering"
+      },
+      {
+        "count": 1,
+        "id": "mourner"
       }
     ],
     "Edict": [
       {
-        "count": 2,
-        "id": "sacred-ichor"
-      },
-      {
-        "count": 3,
-        "id": "regret"
-      },
-      {
-        "count": 3,
-        "id": "make-it-quick"
+        "count": 1,
+        "id": "suffer-alone"
       }
     ],
-    "Weapon": [
+    "Riposte": [
       {
         "count": 3,
-        "id": "promise"
+        "id": "earned-your-rest"
       },
       {
         "count": 3,
-        "id": "peaceful-sting"
-      },
-      {
-        "count": 3,
-        "id": "rest"
-      },
-      {
-        "count": 3,
-        "id": "liberation"
-      },
-      {
-        "count": 2,
-        "id": "thirsting-steel"
+        "id": "sting-of-death"
       }
     ],
     "Tactic": [
@@ -212,25 +216,37 @@
       },
       {
         "count": 3,
-        "id": "savour-pain"
+        "id": "relinquish"
       },
       {
         "count": 2,
-        "id": "symbol-of-yandari"
+        "id": "hope-in-blood"
       },
       {
-        "count": 3,
-        "id": "embrace-death"
-      },
-      {
-        "count": 3,
-        "id": "memento-mori"
+        "count": 2,
+        "id": "goad-death"
       }
     ],
-    "Riposte": [
+    "Weapon": [
       {
-        "count": 2,
-        "id": "ritual"
+        "count": 3,
+        "id": "liberation"
+      },
+      {
+        "count": 3,
+        "id": "uldes-atonement"
+      },
+      {
+        "count": 3,
+        "id": "undying-oath"
+      },
+      {
+        "count": 1,
+        "id": "death-blessed-blade"
+      },
+      {
+        "count": 1,
+        "id": "vermillion-edge"
       }
     ]
   }
