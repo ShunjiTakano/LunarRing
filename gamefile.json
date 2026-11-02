@@ -300,7 +300,7 @@
     }
   },
   "defaultRessources": {
-    "decksUrl": "https://shunjitakano.github.io/LunarRing/decks.json"
+    "decksUrl": "https://shunjitakano.github.io/LunarRing/decks.json?v=99"
   },
   "cards": {
     "dataUrl": "https://shunjitakano.github.io/LunarRing/cards.json",
