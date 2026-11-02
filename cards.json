@@ -3021,23 +3021,23 @@
       "STD": true
     }
   },
-  "toxic-intimacy": {
-    "id": "toxic-intimacy",
+  "sacreligious-act": {
+    "id": "sacreligious-act",
     "face": {
       "front": {
         "name": {
-          "name": "Toxic Intimacy"
+          "name": "Sacreligious Act"
         },
         "type": "Tactic",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/toxic-intimacy.webp",
+        "image": "https://shunjitakano.github.io/LunarRing/images/sacreligious-act.webp",
         "covenant": "Niorr",
         "_legal": {
           "STD": true
         }
       }
     },
-    "name": "Toxic Intimacy",
+    "name": "Sacreligious Act",
     "type": "Tactic",
     "cost": 2,
     "effect": "Target player draws 2 cards and loses 2 health. Indulge.",
