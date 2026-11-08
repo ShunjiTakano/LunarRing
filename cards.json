@@ -3021,23 +3021,23 @@
       "STD": true
     }
   },
-  "sacreligious-act": {
-    "id": "sacreligious-act",
+  "toxic-intimacy": {
+    "id": "toxic-intimacy",
     "face": {
       "front": {
         "name": {
-          "name": "Sacreligious Act"
+          "name": "Toxic Intimacy"
         },
         "type": "Tactic",
         "cost": 2,
-        "image": "https://shunjitakano.github.io/LunarRing/images/sacreligious-act.webp",
+        "image": "https://shunjitakano.github.io/LunarRing/images/toxic-intimacy.webp",
         "covenant": "Niorr",
         "_legal": {
           "STD": true
         }
       }
     },
-    "name": "Sacreligious Act",
+    "name": "Toxic Intimacy",
     "type": "Tactic",
     "cost": 2,
     "effect": "Target player draws 2 cards and loses 2 health. Indulge.",
@@ -5668,5 +5668,1290 @@
     "_legal": {
       "STD": true
     }
+  },
+  "tanat-manam-emmissary-of-eternity": {
+    "id": "tanat-manam-emmissary-of-eternity",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Ţ̩̗̭̖̍͒áǹ͇̯͇͑̂́̚a̘̦̝͓͆́̀̐̕t̷̢̫̀ M̛̤͍̀̐́͊ă̢̧͒͌n͉̒̎̒̒̀͊͢á̤̪̘͂̔͑͗͊̕m̸̷̠̘̝̔ͅ, Emmissary of Eternity"
+        },
+        "type": "Acolyte",
+        "cost": 3,
+        "image": "https://shunjitakano.github.io/LunarRing/images/tanat-manam-emmissary-of-eternity.webp",
+        "covenant": "Hollow",
+        "health": 2,
+        "attack": 2,
+        "_legal": {
+          "STD": true
+        }
+      }
+    },
+    "name": "Ţ̩̗̭̖̍͒áǹ͇̯͇͑̂́̚a̘̦̝͓͆́̀̐̕t̷̢̫̀ M̛̤͍̀̐́͊ă̢̧͒͌n͉̒̎̒̒̀͊͢á̤̪̘͂̔͑͗͊̕m̸̷̠̘̝̔ͅ, Emmissary of Eternity",
+    "type": "Acolyte",
+    "cost": 3,
+    "effect": "Sacrifice. When I would break, inflict target opponent with 2 Dread and place me at the 3rd from the top of your deck instead.",
+    "covenant": "Hollow",
+    "_legal": {
+      "STD": true
+    },
+    "attack": 2,
+    "health": 2
+  },
+  "whispering-follower": {
+    "id": "whispering-follower",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Whispering Follower"
+        },
+        "type": "Acolyte",
+        "cost": 2,
+        "image": "https://shunjitakano.github.io/LunarRing/images/whispering-follower.webp",
+        "covenant": "Hollow",
+        "health": 1,
+        "attack": 1,
+        "_legal": {
+          "STD": true
+        }
+      }
+    },
+    "name": "Whispering Follower",
+    "type": "Acolyte",
+    "cost": 2,
+    "effect": "Drain: inflict target opponent with 1 Dread.",
+    "covenant": "Hollow",
+    "_legal": {
+      "STD": true
+    },
+    "attack": 1,
+    "health": 1
+  },
+  "splintered-soul": {
+    "id": "splintered-soul",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Splintered Soul"
+        },
+        "type": "Acolyte",
+        "cost": 1,
+        "image": "https://shunjitakano.github.io/LunarRing/images/splintered-soul.webp",
+        "covenant": "Hollow",
+        "health": 1,
+        "attack": 1,
+        "_legal": {
+          "STD": true
+        }
+      }
+    },
+    "name": "Splintered Soul",
+    "type": "Acolyte",
+    "cost": 1,
+    "effect": "Sacrifice. When I break, all opponents create a copy of me. At your recovery, Inflict yourself with 1 Dread.",
+    "covenant": "Hollow",
+    "_legal": {
+      "STD": true
+    },
+    "attack": 1,
+    "health": 1
+  },
+  "yry-nightmare-dreamer": {
+    "id": "yry-nightmare-dreamer",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Y͎̅͂̄̿r̛̛͓̫͒̿̐͊y̙̩̳̾̌̅̐̾, Nightmare Dreamer"
+        },
+        "type": "Acolyte",
+        "cost": 4,
+        "image": "https://shunjitakano.github.io/LunarRing/images/yry-nightmare-dreamer.webp",
+        "covenant": "Hollow",
+        "health": 2,
+        "attack": 3,
+        "_legal": {
+          "STD": true
+        }
+      }
+    },
+    "name": "Y͎̅͂̄̿r̛̛͓̫͒̿̐͊y̙̩̳̾̌̅̐̾, Nightmare Dreamer",
+    "type": "Acolyte",
+    "cost": 4,
+    "effect": "Consume 1: Target opponent may draw 1 and discard 1 at random. If they don't, they lose 2 health. Crescent Moon: If they don't that player loses 3 health instead.",
+    "covenant": "Hollow",
+    "_legal": {
+      "STD": true
+    },
+    "attack": 3,
+    "health": 2
+  },
+  "teacher-of-nascency": {
+    "id": "teacher-of-nascency",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Teacher of Nascency"
+        },
+        "type": "Acolyte",
+        "cost": 3,
+        "image": "https://shunjitakano.github.io/LunarRing/images/teacher-of-nascency.webp",
+        "covenant": "Hollow",
+        "health": 3,
+        "attack": 1,
+        "_legal": {
+          "STD": true
+        }
+      }
+    },
+    "name": "Teacher of Nascency",
+    "type": "Acolyte",
+    "cost": 3,
+    "effect": "At your preparation, inflict target opponent with 1 Dread. Consume 2: Each player draws 1. Full Moon: Inflict each player with 3 Dread instead.",
+    "covenant": "Hollow",
+    "_legal": {
+      "STD": true
+    },
+    "attack": 1,
+    "health": 3
+  },
+  "viv-never-born": {
+    "id": "viv-never-born",
+    "face": {
+      "front": {
+        "name": {
+          "name": "V̛̭̙̆i̶̵̙̪̝̣̟̿̔̂v̨̧͉͔͍̗̂, Never Born"
+        },
+        "type": "Acolyte",
+        "cost": 0,
+        "image": "https://shunjitakano.github.io/LunarRing/images/viv-never-born.webp",
+        "covenant": "Hollow",
+        "health": 0,
+        "attack": 0,
+        "_legal": {
+          "STD": true
+        }
+      }
+    },
+    "name": "V̛̭̙̆i̶̵̙̪̝̣̟̿̔̂v̨̧͉͔͍̗̂, Never Born",
+    "type": "Acolyte",
+    "cost": 0,
+    "effect": "When I break, place me at the bottom of your deck and inflict target opponent with 1 Dread. Then if that opponent has 5 or more Dread, draw 1.",
+    "covenant": "Hollow",
+    "_legal": {
+      "STD": true
+    },
+    "attack": 0,
+    "health": 0
+  },
+  "basker-of-lunar-radiance": {
+    "id": "basker-of-lunar-radiance",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Basker of Lunar Radiance"
+        },
+        "type": "Acolyte",
+        "cost": 5,
+        "image": "https://shunjitakano.github.io/LunarRing/images/basker-of-lunar-radiance.webp",
+        "covenant": "Hollow",
+        "health": 6,
+        "attack": 0,
+        "_legal": {
+          "STD": true
+        }
+      }
+    },
+    "name": "Basker of Lunar Radiance",
+    "type": "Acolyte",
+    "cost": 5,
+    "effect": "As long as an opponent has 6 or more Dread, I have Sacrifice. Whenever I am dealt damage, Inflict each opponent with 2 Dread.",
+    "covenant": "Hollow",
+    "_legal": {
+      "STD": true
+    },
+    "attack": 0,
+    "health": 6
+  },
+  "hand-of-the-pale-stare": {
+    "id": "hand-of-the-pale-stare",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Hand of The Pale Stare"
+        },
+        "type": "Acolyte",
+        "cost": 10,
+        "image": "https://shunjitakano.github.io/LunarRing/images/hand-of-the-pale-stare.webp",
+        "covenant": "Hollow",
+        "health": 10,
+        "attack": 10,
+        "_legal": {
+          "STD": true
+        }
+      }
+    },
+    "name": "Hand of The Pale Stare",
+    "type": "Acolyte",
+    "cost": 10,
+    "effect": "Brandish: If target opponent has no Dread, inflict 10 Dread. Eclipse: At each players recovery, if they have 10 or more Dread, shatter all armaments they wield.",
+    "covenant": "Hollow",
+    "_legal": {
+      "STD": true
+    },
+    "attack": 10,
+    "health": 10
+  },
+  "dread-gorger": {
+    "id": "dread-gorger",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Dread Gorger"
+        },
+        "type": "Acolyte",
+        "cost": 6,
+        "image": "https://shunjitakano.github.io/LunarRing/images/dread-gorger.webp",
+        "covenant": "Hollow",
+        "health": 3,
+        "attack": 3,
+        "_legal": {
+          "STD": true
+        }
+      }
+    },
+    "name": "Dread Gorger",
+    "type": "Acolyte",
+    "cost": 6,
+    "effect": "Consume 2: Deal 2 damage. I can consume any number of times in one turn. Half Moon: Deal 3 Damage instead.",
+    "covenant": "Hollow",
+    "_legal": {
+      "STD": true
+    },
+    "attack": 3,
+    "health": 3
+  },
+  "pale-scion": {
+    "id": "pale-scion",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Pale Scion"
+        },
+        "type": "Acolyte",
+        "cost": 1,
+        "image": "https://shunjitakano.github.io/LunarRing/images/pale-scion.webp",
+        "covenant": "Hollow",
+        "health": 1,
+        "attack": 1,
+        "_legal": {
+          "STD": true
+        }
+      }
+    },
+    "name": "Pale Scion",
+    "type": "Acolyte",
+    "cost": 1,
+    "effect": "Brandish: If you do not wield one, create a Visage of the Pale Stare.",
+    "covenant": "Hollow",
+    "_legal": {
+      "STD": true
+    },
+    "attack": 1,
+    "health": 1
+  },
+  "endlessness": {
+    "id": "endlessness",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Endlessness"
+        },
+        "type": "Acolyte",
+        "cost": 4,
+        "image": "https://shunjitakano.github.io/LunarRing/images/endlessness.webp",
+        "covenant": "Hollow",
+        "health": 1,
+        "attack": 0,
+        "_legal": {
+          "STD": true
+        }
+      }
+    },
+    "name": "Endlessness",
+    "type": "Acolyte",
+    "cost": 4,
+    "effect": "Sacrifice. Consume X: I gain +X Temper.",
+    "covenant": "Hollow",
+    "_legal": {
+      "STD": true
+    },
+    "attack": 0,
+    "health": 1
+  },
+  "eternal-existence": {
+    "id": "eternal-existence",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Eternal Existence"
+        },
+        "type": "Acolyte",
+        "cost": 2,
+        "image": "https://shunjitakano.github.io/LunarRing/images/eternal-existence.webp",
+        "covenant": "Hollow",
+        "health": 2,
+        "attack": 2,
+        "_legal": {
+          "STD": true
+        }
+      }
+    },
+    "name": "Eternal Existence",
+    "type": "Acolyte",
+    "cost": 2,
+    "effect": "Whenever I break, you can inflict yourself with 2 dread. If you do, return me to your armoury drained.",
+    "covenant": "Hollow",
+    "_legal": {
+      "STD": true
+    },
+    "attack": 2,
+    "health": 2
+  },
+  "lessons-in-syrovsh": {
+    "id": "lessons-in-syrovsh",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Lessons In S̷͡y̢̼͗̔́͑r͓̎́̀͜o̡̢͖͓̩͗v̢͓̰͆́́͂̔sḩ̛̼̼̼̎͗̀̀͌"
+        },
+        "type": "Edict",
+        "cost": 1,
+        "image": "https://shunjitakano.github.io/LunarRing/images/lessons-in-syrovsh.webp",
+        "covenant": "Hollow",
+        "_legal": {
+          "STD": true
+        }
+      }
+    },
+    "name": "Lessons In S̷͡y̢̼͗̔́͑r͓̎́̀͜o̡̢͖͓̩͗v̢͓̰͆́́͂̔sḩ̛̼̼̼̎͗̀̀͌",
+    "type": "Edict",
+    "cost": 1,
+    "effect": "Brandish: Inflict your opponent with 1 Dread. At your preparation, if an opponent has 3 or more Dread break me and all players draw 1.",
+    "covenant": "Hollow",
+    "_legal": {
+      "STD": true
+    }
+  },
+  "gaze-into-abyss": {
+    "id": "gaze-into-abyss",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Gaze into Abyss"
+        },
+        "type": "Edict",
+        "cost": 3,
+        "image": "https://shunjitakano.github.io/LunarRing/images/gaze-into-abyss.webp",
+        "covenant": "Hollow",
+        "_legal": {
+          "STD": true
+        }
+      }
+    },
+    "name": "Gaze into Abyss",
+    "type": "Edict",
+    "cost": 3,
+    "effect": "At each opponent's preparation, that player discard 1. If they have 5 or more Dread, that player discard 2 instead.",
+    "covenant": "Hollow",
+    "_legal": {
+      "STD": true
+    }
+  },
+  "tortured-existence": {
+    "id": "tortured-existence",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Tortured Existence"
+        },
+        "type": "Edict",
+        "cost": 5,
+        "image": "https://shunjitakano.github.io/LunarRing/images/tortured-existence.webp",
+        "covenant": "Hollow",
+        "_legal": {
+          "STD": true
+        }
+      }
+    },
+    "name": "Tortured Existence",
+    "type": "Edict",
+    "cost": 5,
+    "effect": "Whenever a player gains 1 or more Dread, that player puts the top card of their deck into their scrapyard.",
+    "covenant": "Hollow",
+    "_legal": {
+      "STD": true
+    }
+  },
+  "to-hear-the-voice": {
+    "id": "to-hear-the-voice",
+    "face": {
+      "front": {
+        "name": {
+          "name": "To Hear the Voice"
+        },
+        "type": "Edict",
+        "cost": 7,
+        "image": "https://shunjitakano.github.io/LunarRing/images/to-hear-the-voice.webp",
+        "covenant": "Hollow",
+        "_legal": {
+          "STD": true
+        }
+      }
+    },
+    "name": "To Hear the Voice",
+    "type": "Edict",
+    "cost": 7,
+    "effect": "Put the top 5 cards of your deck into your scrapyard: Inflict target opponent with 5 Dread. Activate this effect only once each turn.",
+    "covenant": "Hollow",
+    "_legal": {
+      "STD": true
+    }
+  },
+  "swallow-fear": {
+    "id": "swallow-fear",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Swallow Fear"
+        },
+        "type": "Edict",
+        "cost": 3,
+        "image": "https://shunjitakano.github.io/LunarRing/images/swallow-fear.webp",
+        "covenant": "Hollow",
+        "_legal": {
+          "STD": true
+        }
+      }
+    },
+    "name": "Swallow Fear",
+    "type": "Edict",
+    "cost": 3,
+    "effect": "Whenever you consume, you may trigger that effect an additional time. If you do, break me.",
+    "covenant": "Hollow",
+    "_legal": {
+      "STD": true
+    }
+  },
+  "overwhelming-prescence": {
+    "id": "overwhelming-prescence",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Overwhelming Prescence"
+        },
+        "type": "Edict",
+        "cost": 4,
+        "image": "https://shunjitakano.github.io/LunarRing/images/overwhelming-prescence.webp",
+        "covenant": "Hollow",
+        "_legal": {
+          "STD": true
+        }
+      }
+    },
+    "name": "Overwhelming Prescence",
+    "type": "Edict",
+    "cost": 4,
+    "effect": "Tokens cannot be created.",
+    "covenant": "Hollow",
+    "_legal": {
+      "STD": true
+    }
+  },
+  "unravel": {
+    "id": "unravel",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Unravel"
+        },
+        "type": "Riposte",
+        "cost": 0,
+        "image": "https://shunjitakano.github.io/LunarRing/images/unravel.webp",
+        "covenant": "Hollow",
+        "_legal": {
+          "STD": true
+        }
+      }
+    },
+    "name": "Unravel",
+    "type": "Riposte",
+    "cost": 0,
+    "effect": "As an additional cost to play this Consume 3. Break target armament. Crescent Moon: Break 2 armaments instead.",
+    "covenant": "Hollow",
+    "_legal": {
+      "STD": true
+    }
+  },
+  "forced-to-listen": {
+    "id": "forced-to-listen",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Forced to Listen"
+        },
+        "type": "Riposte",
+        "cost": 1,
+        "image": "https://shunjitakano.github.io/LunarRing/images/forced-to-listen.webp",
+        "covenant": "Hollow",
+        "_legal": {
+          "STD": true
+        }
+      }
+    },
+    "name": "Forced to Listen",
+    "type": "Riposte",
+    "cost": 1,
+    "effect": "If an opponent would play a tactic this turn, that player must discard 1.",
+    "covenant": "Hollow",
+    "_legal": {
+      "STD": true
+    }
+  },
+  "untether-the-mind": {
+    "id": "untether-the-mind",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Untether the Mind"
+        },
+        "type": "Riposte",
+        "cost": 3,
+        "image": "https://shunjitakano.github.io/LunarRing/images/untether-the-mind.webp",
+        "covenant": "Hollow",
+        "_legal": {
+          "STD": true
+        }
+      }
+    },
+    "name": "Untether the Mind",
+    "type": "Riposte",
+    "cost": 3,
+    "effect": "As an additional cost to play this you may Consume 2. Target opponent discards 1. If you consumed, target opponent discards 2 at random instead.",
+    "covenant": "Hollow",
+    "_legal": {
+      "STD": true
+    }
+  },
+  "grant-an-audience": {
+    "id": "grant-an-audience",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Grant an Audience"
+        },
+        "type": "Riposte",
+        "cost": 6,
+        "image": "https://shunjitakano.github.io/LunarRing/images/grant-an-audience.webp",
+        "covenant": "Hollow",
+        "_legal": {
+          "STD": true
+        }
+      }
+    },
+    "name": "Grant an Audience",
+    "type": "Riposte",
+    "cost": 6,
+    "effect": "If you wield Visage of the Pale Stare, target opponent discards their hand and draws 1. Half Moon: that player does not draw.",
+    "covenant": "Hollow",
+    "_legal": {
+      "STD": true
+    }
+  },
+  "teachings": {
+    "id": "teachings",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Teachings"
+        },
+        "type": "Tactic",
+        "cost": 1,
+        "image": "https://shunjitakano.github.io/LunarRing/images/teachings.webp",
+        "covenant": "Hollow",
+        "_legal": {
+          "STD": true
+        }
+      }
+    },
+    "name": "Teachings",
+    "type": "Tactic",
+    "cost": 1,
+    "effect": "Draw 1. Inflict target opponent and yourself with 1 Dread. Crescent Moon: Inflict only target opponent with 1 Dread.",
+    "covenant": "Hollow",
+    "_legal": {
+      "STD": true
+    }
+  },
+  "dredge-one-s-mind": {
+    "id": "dredge-one-s-mind",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Dredge One's Mind"
+        },
+        "type": "Tactic",
+        "cost": 2,
+        "image": "https://shunjitakano.github.io/LunarRing/images/dredge-one-s-mind.webp",
+        "covenant": "Hollow",
+        "_legal": {
+          "STD": true
+        }
+      }
+    },
+    "name": "Dredge One's Mind",
+    "type": "Tactic",
+    "cost": 2,
+    "effect": "As an additional cost to play this, you may Consume 2. Look at target opponent's hand, discard 1. If you Consumed, discard all cards in that players hand with the same name.",
+    "covenant": "Hollow",
+    "_legal": {
+      "STD": true
+    }
+  },
+  "horrifying-epiphany": {
+    "id": "horrifying-epiphany",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Horrifying Epiphany"
+        },
+        "type": "Tactic",
+        "cost": 9,
+        "image": "https://shunjitakano.github.io/LunarRing/images/horrifying-epiphany.webp",
+        "covenant": "Hollow",
+        "_legal": {
+          "STD": true
+        }
+      }
+    },
+    "name": "Horrifying Epiphany",
+    "type": "Tactic",
+    "cost": 9,
+    "effect": "Inflict all opponents with 5 Dread. Then each opponent who has 10 or more Dread, discards 3 and puts the top 5 cards of their deck into their scrapyard.",
+    "covenant": "Hollow",
+    "_legal": {
+      "STD": true
+    }
+  },
+  "offer-cosmic-knowledge": {
+    "id": "offer-cosmic-knowledge",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Offer Cosmic Knowledge"
+        },
+        "type": "Tactic",
+        "cost": 4,
+        "image": "https://shunjitakano.github.io/LunarRing/images/offer-cosmic-knowledge.webp",
+        "covenant": "Hollow",
+        "_legal": {
+          "STD": true
+        }
+      }
+    },
+    "name": "Offer Cosmic Knowledge",
+    "type": "Tactic",
+    "cost": 4,
+    "effect": "Starting with you, each player may draw 1. For each opponent who drew a card, inflict that player with 2 Dread. For each opponent that did not draw, you draw 1.",
+    "covenant": "Hollow",
+    "_legal": {
+      "STD": true
+    }
+  },
+  "again": {
+    "id": "again",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Again"
+        },
+        "type": "Tactic",
+        "cost": 3,
+        "image": "https://shunjitakano.github.io/LunarRing/images/again.webp",
+        "covenant": "Hollow",
+        "_legal": {
+          "STD": true
+        }
+      }
+    },
+    "name": "Again",
+    "type": "Tactic",
+    "cost": 3,
+    "effect": "Inflict target opponent with 1 Dread. Repeat this 3 times.",
+    "covenant": "Hollow",
+    "_legal": {
+      "STD": true
+    }
+  },
+  "language-of-a-god": {
+    "id": "language-of-a-god",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Language of a God"
+        },
+        "type": "Tactic",
+        "cost": 5,
+        "image": "https://shunjitakano.github.io/LunarRing/images/language-of-a-god.webp",
+        "covenant": "Hollow",
+        "_legal": {
+          "STD": true
+        }
+      }
+    },
+    "name": "Language of a God",
+    "type": "Tactic",
+    "cost": 5,
+    "effect": "Consume X. Draw X Cards and each opponent lose X health. Full Moon: Repeat this.",
+    "covenant": "Hollow",
+    "_legal": {
+      "STD": true
+    }
+  },
+  "effigy-of-the-unfathomable": {
+    "id": "effigy-of-the-unfathomable",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Effigy of the Unfathomable"
+        },
+        "type": "Tactic",
+        "cost": 2,
+        "image": "https://shunjitakano.github.io/LunarRing/images/effigy-of-the-unfathomable.webp",
+        "covenant": "Hollow",
+        "_legal": {
+          "STD": true
+        }
+      }
+    },
+    "name": "Effigy of the Unfathomable",
+    "type": "Tactic",
+    "cost": 2,
+    "effect": "Break target armament an opponent wields. It's wielder reveals the top card of their deck. If it is an armament that player may play it without testing resolve. Otherwise, they put that card at the bottom of their deck",
+    "covenant": "Hollow",
+    "_legal": {
+      "STD": true
+    }
+  },
+  "yesterday-and-tomorrow": {
+    "id": "yesterday-and-tomorrow",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Yesterday and Tomorrow"
+        },
+        "type": "Tactic",
+        "cost": 3,
+        "image": "https://shunjitakano.github.io/LunarRing/images/yesterday-and-tomorrow.webp",
+        "covenant": "Hollow",
+        "_legal": {
+          "STD": true
+        }
+      }
+    },
+    "name": "Yesterday and Tomorrow",
+    "type": "Tactic",
+    "cost": 3,
+    "effect": "Return a card from your scrapyard to your hand. Draw 1. Inflict all players with 1 Dread.",
+    "covenant": "Hollow",
+    "_legal": {
+      "STD": true
+    }
+  },
+  "punish-ignorance": {
+    "id": "punish-ignorance",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Punish Ignorance"
+        },
+        "type": "Tactic",
+        "cost": 1,
+        "image": "https://shunjitakano.github.io/LunarRing/images/punish-ignorance.webp",
+        "covenant": "Hollow",
+        "_legal": {
+          "STD": true
+        }
+      }
+    },
+    "name": "Punish Ignorance",
+    "type": "Tactic",
+    "cost": 1,
+    "effect": "As an additional cost to play this you may Consume 1. Deal 1 damage to any target. If you consumed, put me on top of your deck.",
+    "covenant": "Hollow",
+    "_legal": {
+      "STD": true
+    }
+  },
+  "reality-is-meaningless": {
+    "id": "reality-is-meaningless",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Reality is Meaningless"
+        },
+        "type": "Tactic",
+        "cost": 1,
+        "image": "https://shunjitakano.github.io/LunarRing/images/reality-is-meaningless.webp",
+        "covenant": "Hollow",
+        "_legal": {
+          "STD": true
+        }
+      }
+    },
+    "name": "Reality is Meaningless",
+    "type": "Tactic",
+    "cost": 1,
+    "effect": "As an additional cost to play this Consume 3. Target player puts the top card of their deck into their scrapyard. If you Consumed, that player puts the top 3 cards into their scrapyard instead.",
+    "covenant": "Hollow",
+    "_legal": {
+      "STD": true
+    }
+  },
+  "hollow-s-oath-sigil": {
+    "id": "hollow-s-oath-sigil",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Hollow's Oath Sigil"
+        },
+        "type": "Tactic",
+        "cost": 0,
+        "image": "https://shunjitakano.github.io/LunarRing/images/hollow-s-oath-sigil.webp",
+        "covenant": "Hollow",
+        "_legal": {
+          "STD": true
+        }
+      }
+    },
+    "name": "Hollow's Oath Sigil",
+    "type": "Tactic",
+    "cost": 0,
+    "effect": "Gain 1 Resolve. Witness a card with Consume.",
+    "covenant": "Hollow",
+    "_legal": {
+      "STD": true
+    }
+  },
+  "intrusive-whispers": {
+    "id": "intrusive-whispers",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Intrusive Whispers"
+        },
+        "type": "Tactic",
+        "cost": 1,
+        "image": "https://shunjitakano.github.io/LunarRing/images/intrusive-whispers.webp",
+        "covenant": "Hollow",
+        "_legal": {
+          "STD": true
+        }
+      }
+    },
+    "name": "Intrusive Whispers",
+    "type": "Tactic",
+    "cost": 1,
+    "effect": "Target opponent reveals their hand. Inflict that player with 1 Dread.",
+    "covenant": "Hollow",
+    "_legal": {
+      "STD": true
+    }
+  },
+  "visage-of-the-pale-stare": {
+    "id": "visage-of-the-pale-stare",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Visage of the Pale Stare"
+        },
+        "type": "Token Edict",
+        "cost": 0,
+        "image": "https://shunjitakano.github.io/LunarRing/images/visage-of-the-pale-stare.webp",
+        "covenant": "Hollow",
+        "_legal": {
+          "STD": true
+        },
+        "isToken": true
+      }
+    },
+    "name": "Visage of the Pale Stare",
+    "type": "Token Edict",
+    "cost": 0,
+    "effect": "At each player's preparation, inflict that player with 1 Dread. At your recovery, if you have 6 or more cards in hand break me.",
+    "covenant": "Hollow",
+    "_legal": {
+      "STD": true
+    },
+    "isToken": true
+  },
+  "staff-of-enlightenment": {
+    "id": "staff-of-enlightenment",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Staff of Enlightenment"
+        },
+        "type": "Weapon",
+        "cost": 3,
+        "image": "https://shunjitakano.github.io/LunarRing/images/staff-of-enlightenment.webp",
+        "covenant": "Hollow",
+        "health": 2,
+        "attack": 2,
+        "_legal": {
+          "STD": true
+        }
+      }
+    },
+    "name": "Staff of Enlightenment",
+    "type": "Weapon",
+    "cost": 3,
+    "effect": "On Attack: If your opponent has 5 or less Dread, inflict 3 Dread. Crescent Moon: Inflict 3 Dread regardless.",
+    "covenant": "Hollow",
+    "_legal": {
+      "STD": true
+    },
+    "attack": 2,
+    "health": 2
+  },
+  "absolution": {
+    "id": "absolution",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Absolution"
+        },
+        "type": "Weapon",
+        "cost": 5,
+        "image": "https://shunjitakano.github.io/LunarRing/images/absolution.webp",
+        "covenant": "Hollow",
+        "health": 2,
+        "attack": 2,
+        "_legal": {
+          "STD": true
+        }
+      }
+    },
+    "name": "Absolution",
+    "type": "Weapon",
+    "cost": 5,
+    "effect": "On Attack: Consume 2. If you consumed, Offer an armament you wield and I gain +2 Attack and +2 Temper. Half Moon: Consume 1 instead.",
+    "covenant": "Hollow",
+    "_legal": {
+      "STD": true
+    },
+    "attack": 2,
+    "health": 2
+  },
+  "abyss": {
+    "id": "abyss",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Abyss"
+        },
+        "type": "Weapon",
+        "cost": 8,
+        "image": "https://shunjitakano.github.io/LunarRing/images/abyss.webp",
+        "covenant": "Hollow",
+        "health": 2,
+        "attack": 0,
+        "_legal": {
+          "STD": true
+        }
+      }
+    },
+    "name": "Abyss",
+    "type": "Weapon",
+    "cost": 8,
+    "effect": "On Strike: Consume X where X is equal to the number of Dread defending player has. Deal X Damage.",
+    "covenant": "Hollow",
+    "_legal": {
+      "STD": true
+    },
+    "attack": 0,
+    "health": 2
+  },
+  "fang-of-unknown": {
+    "id": "fang-of-unknown",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Fang of Unknown"
+        },
+        "type": "Weapon",
+        "cost": 2,
+        "image": "https://shunjitakano.github.io/LunarRing/images/fang-of-unknown.webp",
+        "covenant": "Hollow",
+        "health": 2,
+        "attack": 1,
+        "_legal": {
+          "STD": true
+        }
+      }
+    },
+    "name": "Fang of Unknown",
+    "type": "Weapon",
+    "cost": 2,
+    "effect": "Whenever an opponent is inflicted with 1 or more Dread, I gain +1 attack this turn.",
+    "covenant": "Hollow",
+    "_legal": {
+      "STD": true
+    },
+    "attack": 1,
+    "health": 2
+  },
+  "enigma": {
+    "id": "enigma",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Enigma"
+        },
+        "type": "Weapon",
+        "cost": 1,
+        "image": "https://shunjitakano.github.io/LunarRing/images/enigma.webp",
+        "covenant": "Hollow",
+        "health": 1,
+        "attack": 1,
+        "_legal": {
+          "STD": true
+        }
+      }
+    },
+    "name": "Enigma",
+    "type": "Weapon",
+    "cost": 1,
+    "effect": "On Strike: Put the top card of your deck into your scrapyard. If that card had consume, put it into your hand instead.",
+    "covenant": "Hollow",
+    "_legal": {
+      "STD": true
+    },
+    "attack": 1,
+    "health": 1
+  },
+  "nothingness": {
+    "id": "nothingness",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Nothingness"
+        },
+        "type": "Weapon",
+        "cost": 4,
+        "image": "https://shunjitakano.github.io/LunarRing/images/nothingness.webp",
+        "covenant": "Hollow",
+        "health": 2,
+        "attack": 2,
+        "_legal": {
+          "STD": true
+        }
+      }
+    },
+    "name": "Nothingness",
+    "type": "Weapon",
+    "cost": 4,
+    "effect": "On Strike: Your consume effects cost 1 less this turn. (i.e., Consume 2 becomes Consume 1).",
+    "covenant": "Hollow",
+    "_legal": {
+      "STD": true
+    },
+    "attack": 2,
+    "health": 2
+  },
+  "kul-thriving": {
+    "id": "kul-thriving",
+    "face": {
+      "front": {
+        "name": {
+          "name": "K̔u̒l̺"
+        },
+        "type": "Devotee",
+        "cost": 3,
+        "image": "https://shunjitakano.github.io/LunarRing/images/kul-thriving.webp",
+        "covenant": "Hollow",
+        "health": 10,
+        "condition": "Thriving",
+        "_legal": {
+          "STD": true
+        },
+        "devotee": "kul"
+      }
+    },
+    "name": "K̔u̒l̺",
+    "type": "Devotee",
+    "cost": 3,
+    "effect": "At your preparation, if you do not wield a \"Visage of the Pale Stare\", create 1.",
+    "health": 10,
+    "covenant": "Hollow",
+    "condition": "Thriving",
+    "_legal": {
+      "STD": true
+    },
+    "devotee": "kul"
+  },
+  "kul-wounded": {
+    "id": "kul-wounded",
+    "face": {
+      "front": {
+        "name": {
+          "name": "K̔u̒l̺"
+        },
+        "type": "Devotee",
+        "cost": 5,
+        "image": "https://shunjitakano.github.io/LunarRing/images/kul-wounded.webp",
+        "covenant": "Hollow",
+        "health": 10,
+        "condition": "Wounded",
+        "_legal": {
+          "STD": true
+        },
+        "devotee": "kul"
+      }
+    },
+    "name": "K̔u̒l̺",
+    "type": "Devotee",
+    "cost": 5,
+    "effect": "Consume 2: Target opponent discards 1 card at random.",
+    "health": 10,
+    "covenant": "Hollow",
+    "condition": "Wounded",
+    "_legal": {
+      "STD": true
+    },
+    "devotee": "kul"
+  },
+  "kul-desperate": {
+    "id": "kul-desperate",
+    "face": {
+      "front": {
+        "name": {
+          "name": "K̔u̒l̺"
+        },
+        "type": "Devotee",
+        "cost": 10,
+        "image": "https://shunjitakano.github.io/LunarRing/images/kul-desperate.webp",
+        "covenant": "Hollow",
+        "health": 3,
+        "condition": "Desperate",
+        "_legal": {
+          "STD": true
+        },
+        "devotee": "kul"
+      }
+    },
+    "name": "K̔u̒l̺",
+    "type": "Devotee",
+    "cost": 10,
+    "effect": "Consume 10: Target opponent loses the game.",
+    "health": 3,
+    "covenant": "Hollow",
+    "condition": "Desperate",
+    "_legal": {
+      "STD": true
+    },
+    "devotee": "kul"
+  },
+  "xuvux-nyn-thriving": {
+    "id": "xuvux-nyn-thriving",
+    "face": {
+      "front": {
+        "name": {
+          "name": "X͗u͚͆v͂u͑ͅx̐ Ń̼yn͋"
+        },
+        "type": "Devotee",
+        "cost": 4,
+        "image": "https://shunjitakano.github.io/LunarRing/images/xuvux-nyn-thriving.webp",
+        "covenant": "Hollow",
+        "health": 10,
+        "condition": "Thriving",
+        "_legal": {
+          "STD": true
+        },
+        "devotee": "xuvux-nyn"
+      }
+    },
+    "name": "X͗u͚͆v͂u͑ͅx̐ Ń̼yn͋",
+    "type": "Devotee",
+    "cost": 4,
+    "effect": "Discard 1: Witness Consume. Activate this ability only once during your turn.",
+    "health": 10,
+    "covenant": "Hollow",
+    "condition": "Thriving",
+    "_legal": {
+      "STD": true
+    },
+    "devotee": "xuvux-nyn"
+  },
+  "xuvux-nyn-wounded": {
+    "id": "xuvux-nyn-wounded",
+    "face": {
+      "front": {
+        "name": {
+          "name": "X͗u͚͆v͂u͑ͅx̐ Ń̼yn͋"
+        },
+        "type": "Devotee",
+        "cost": 4,
+        "image": "https://shunjitakano.github.io/LunarRing/images/xuvux-nyn-wounded.webp",
+        "covenant": "Hollow",
+        "health": 10,
+        "condition": "Wounded",
+        "_legal": {
+          "STD": true
+        },
+        "devotee": "xuvux-nyn"
+      }
+    },
+    "name": "X͗u͚͆v͂u͑ͅx̐ Ń̼yn͋",
+    "type": "Devotee",
+    "cost": 4,
+    "effect": "The first time you consume each turn, trigger that effect an addtional time.",
+    "health": 10,
+    "covenant": "Hollow",
+    "condition": "Wounded",
+    "_legal": {
+      "STD": true
+    },
+    "devotee": "xuvux-nyn"
+  },
+  "xuvux-nyn-desperate": {
+    "id": "xuvux-nyn-desperate",
+    "face": {
+      "front": {
+        "name": {
+          "name": "X͗u͚͆v͂u͑ͅx̐ Ń̼yn͋"
+        },
+        "type": "Devotee",
+        "cost": 8,
+        "image": "https://shunjitakano.github.io/LunarRing/images/xuvux-nyn-desperate.webp",
+        "covenant": "Hollow",
+        "health": 10,
+        "condition": "Desperate",
+        "_legal": {
+          "STD": true
+        },
+        "devotee": "xuvux-nyn"
+      }
+    },
+    "name": "X͗u͚͆v͂u͑ͅx̐ Ń̼yn͋",
+    "type": "Devotee",
+    "cost": 8,
+    "effect": "Whenever you Consume, also restore that much health.",
+    "health": 10,
+    "covenant": "Hollow",
+    "condition": "Desperate",
+    "_legal": {
+      "STD": true
+    },
+    "devotee": "xuvux-nyn"
   }
 }
