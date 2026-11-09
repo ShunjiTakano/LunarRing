@@ -6117,23 +6117,23 @@
       "STD": true
     }
   },
-  "swallow-fear": {
-    "id": "swallow-fear",
+  "devour-fear": {
+    "id": "devour-fear",
     "face": {
       "front": {
         "name": {
-          "name": "Swallow Fear"
+          "name": "Devour Fear"
         },
         "type": "Edict",
         "cost": 3,
-        "image": "https://shunjitakano.github.io/LunarRing/images/swallow-fear.webp",
+        "image": "https://shunjitakano.github.io/LunarRing/images/devour-fear.webp",
         "covenant": "Hollow",
         "_legal": {
           "STD": true
         }
       }
     },
-    "name": "Swallow Fear",
+    "name": "Devour Fear",
     "type": "Edict",
     "cost": 3,
     "effect": "Whenever you consume, you may trigger that effect an additional time. If you do, break me.",
