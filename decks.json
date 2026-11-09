@@ -134,5 +134,119 @@
       }
     ]
   }
+},
+{
+  "title": "Bask in Radiance",
+  "id": "e1ca6f34-ed4c-4f6c-b781-91facdb5506f",
+  "cardCount": 46,
+  "createdAt": {
+    "type": "firestore/timestamp/1.0",
+    "seconds": 1794149583,
+    "nanoseconds": 965000000
+  },
+  "lastModifiedAt": "2026-11-09T07:19:01.226Z",
+  "game": "Lunar Ring",
+  "format": [
+    "Standard"
+  ],
+  "deckList": {
+    "categoriesOrder": [
+      "Devotee",
+      "Presence",
+      "Tactic",
+      "Weapon",
+      "Acolyte"
+    ],
+    "Devotee": [
+      {
+        "count": 1,
+        "id": "xuvux-nyn-thriving"
+      },
+      {
+        "count": 1,
+        "id": "xuvux-nyn-wounded"
+      },
+      {
+        "count": 1,
+        "id": "xuvux-nyn-desperate"
+      }
+    ],
+    "Presence": [
+      {
+        "count": 1,
+        "id": "death-with-no-meaning"
+      },
+      {
+        "count": 1,
+        "id": "promise-of-everything"
+      },
+      {
+        "count": 1,
+        "id": "stinging-madness"
+      }
+    ],
+    "Tactic": [
+      {
+        "count": 3,
+        "id": "hollow-s-oath-sigil"
+      },
+      {
+        "count": 2,
+        "id": "offer-cosmic-knowledge"
+      },
+      {
+        "count": 3,
+        "id": "language-of-a-god"
+      },
+      {
+        "count": 3,
+        "id": "again"
+      },
+      {
+        "count": 3,
+        "id": "intrusive-whispers"
+      }
+    ],
+    "Weapon": [
+      {
+        "count": 3,
+        "id": "fang-of-unknown"
+      },
+      {
+        "count": 3,
+        "id": "absolution"
+      }
+    ],
+    "Acolyte": [
+      {
+        "count": 3,
+        "id": "dread-gorger"
+      },
+      {
+        "count": 3,
+        "id": "viv-never-born"
+      },
+      {
+        "count": 3,
+        "id": "teacher-of-nascency"
+      },
+      {
+        "count": 3,
+        "id": "tanat-manam-emmissary-of-eternity"
+      },
+      {
+        "count": 3,
+        "id": "whispering-follower"
+      },
+      {
+        "count": 3,
+        "id": "yry-nightmare-dreamer"
+      },
+      {
+        "count": 2,
+        "id": "pale-scion"
+      }
+    ]
+  }
 }
 ]
